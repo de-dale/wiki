@@ -2,7 +2,7 @@
 title: Acceuil
 description: 
 published: true
-date: 2020-03-29T14:23:12.640Z
+date: 2020-03-29T14:51:37.918Z
 tags: 
 ---
 
@@ -26,7 +26,7 @@ A voir si ça vaut le coup, à l'usage.
 
 Sinon, il y a un bouton en haut à droite pour créer une page.
 Il y a le choix entre 3 éditeurs différents:
- - Code : pour écrire diurectement diu HTML
- - [Markdown](https://fr.wikipedia.org/wiki/Markdown) : pour écrire du texte avec la syntaxe Markdown
+ - **Code :** pour écrire diurectement diu HTML
+ - **[Markdown](https://fr.wikipedia.org/wiki/Markdown) :** pour écrire du texte avec la syntaxe Markdown
    - [Petit guide pour le markdown](/home/markdown)
- - Editeur visuel: le plus simple à prendre ne main.
+ - **Editeur visuel:** le plus simple à prendre en main.
