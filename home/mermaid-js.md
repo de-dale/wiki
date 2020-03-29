@@ -2,7 +2,7 @@
 title: Mermaid
 description: Bac à sable pour mermaid JS
 published: true
-date: 2020-03-29T14:29:11.002Z
+date: 2020-03-29T14:29:49.276Z
 tags: 
 ---
 
@@ -28,3 +28,4 @@ graph LR
     B-->C[fa:fa-ban forbidden]
     B-->D(fa:fa-spinner);
 </div>
+<script>mermaid.initialize({startOnLoad:true});</script>
