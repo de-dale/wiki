@@ -2,7 +2,7 @@
 title: Acceuil
 description: 
 published: true
-date: 2020-03-29T14:10:03.985Z
+date: 2020-03-29T14:23:12.640Z
 tags: 
 ---
 
@@ -23,9 +23,10 @@ A voir si ça vaut le coup, à l'usage.
 
 ## Créer une page 
 > Guide officiel de [WikiJS](https://docs.requarks.io/guide/intro)
+
 Sinon, il y a un bouton en haut à droite pour créer une page.
-Il y a le choix entre 3 éditeurs différents.
+Il y a le choix entre 3 éditeurs différents:
  - Code : pour écrire diurectement diu HTML
- - [Markdown](https://fr.wikipedia.org/wiki/Markdown) : pour écrire du texte avec la syntaxer Markdown
-   [Petit guide pour le markdown](/home/markdown)
+ - [Markdown](https://fr.wikipedia.org/wiki/Markdown) : pour écrire du texte avec la syntaxe Markdown
+   - [Petit guide pour le markdown](/home/markdown)
  - Editeur visuel: le plus simple à prendre ne main.
