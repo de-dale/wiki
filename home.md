@@ -2,7 +2,7 @@
 title: Acceuil
 description: 
 published: true
-date: 2020-03-29T14:01:38.103Z
+date: 2020-03-29T14:10:03.985Z
 tags: 
 ---
 
@@ -27,16 +27,5 @@ Sinon, il y a un bouton en haut à droite pour créer une page.
 Il y a le choix entre 3 éditeurs différents.
  - Code : pour écrire diurectement diu HTML
  - [Markdown](https://fr.wikipedia.org/wiki/Markdown) : pour écrire du texte avec la syntaxer Markdown
-   > Petit guide pour le markdown
- - 
-
-Le [Markdown](https://fr.wikipedia.org/wiki/Markdown), c'est la vie.
-
-Est-ce que faire une table fonctionne ?
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-=> Oui
+   [Petit guide pour le markdown](/home/markdown)
+ - Editeur visuel: le plus simple à prendre ne main.
