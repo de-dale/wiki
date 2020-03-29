@@ -2,7 +2,7 @@
 title: Règles de base
 description: 
 published: true
-date: 2020-03-29T19:20:58.676Z
+date: 2020-03-29T19:21:36.905Z
 tags: 
 ---
 
