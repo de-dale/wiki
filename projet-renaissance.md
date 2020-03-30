@@ -2,7 +2,7 @@
 title: Test
 description: Test Faby
 published: true
-date: 2020-03-30T09:18:31.546Z
+date: 2020-03-30T09:21:09.049Z
 tags: 
 ---
 
@@ -33,6 +33,7 @@ Les créatures sont des êtres ayant leur propre panel d'action et leurs propres
 2. **Pièges**
 Les pièges sont des tiers, le plus souvent des objets, dont l'existence est cachée jusqu'à ce qu'une condition soit réalisée. Lorsqu'il apparaissent, ils cherchent à entraver et/ou blesser les personnages. Il est possible de les passer en les contournant ou en les affrontant, plus rarement en discutant avec eux.
 3. **Obstacles**
+Les obstacles sont des effets inanimés dont la simple existence est un frein à l'avancée des personnages, cela peut être une porte fermée, un mur, un gouffre ou une tempête. L'interaction la plus courante avec les obstacles est le contournement, parfois l'affrontement, et très rarement la discussion.
 #### Affrontement
 L'affrontement est la forme d'interaction la plus violente. Elle regroupe aussi bien l'affrontement avec des créatures que la destruction d'un obstacle ou l'activation d'un piège.
   - Attaque
