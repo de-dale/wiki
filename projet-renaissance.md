@@ -2,7 +2,7 @@
 title: Test
 description: Test Faby
 published: true
-date: 2020-03-30T08:42:31.140Z
+date: 2020-03-30T08:58:38.374Z
 tags: 
 ---
 
@@ -26,11 +26,16 @@ Chaque personnage dispose de compétences qui lui sont propres, comme une expert
 #### Création et évolution
 Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
 ### Rencontres
-#### Combat
-- Attaque
-- Défense
-- Déplacement
-#### Infiltration
+Au cours d'une exploration, les personnages vont rencontrer des situations qui leur opposeront des tiers. Ceux-ci peuvent être des créatures, des objets, des obstacles ou encore des alliés. En fonction, les personnages peuvent interagir physiquement avec ces tiers, les contourner et/ou discuter avec eux. Il est tout à fait possible que la solution choisie par les personnages évolue en fonction de leurs actions et qu'une tentative d'infiltration (contournement) se transforme en négocation avec les gardes les ayant repérés (discussion) avant de finir en combat dans la garnison (interaction).
+#### Interaction
+Les 
+1. Combat
+  - Attaque
+  - Défense
+  - Déplacement
+2. Piège
+3. Obstacle
+#### Contournement
 #### Discussion
 ### Exploration
 ### Voyage
