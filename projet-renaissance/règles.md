@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-30T19:14:27.576Z
+date: 2020-03-30T19:26:33.449Z
 tags: 
 ---
 
@@ -12,7 +12,7 @@ tags:
 L'une des facettes du jeu est d'incarner un personnage et de lui faire prendre des décisions qui entraîneront une action de sa part, qu'il s'agisse de d'attaquer un ennemi, de discuter avec un marchand ou d'escalader une falaise. L'iniative de l'action est laissée au joueur.
 Une non-décision n'appelle donc pas à une action : respirer, par exemple, n'est pas une décision que le joueur doit prendre toutes les secondes pour son personnage, c'est un automatisme de survie de ce dernier (elle peut néanmoins le devenir si le personnage est dans un environnement toxique et que respirer peut lui occasionner des désagréments). De même, toutes les actions non-probantes au contexte et à l'histoire n'ont pas besoin d'être explicitées.
 Le rôle du Maître du jeu est important car c'est lui qui place le contexte permettant aux joueurs de décider. Il peut proposer des options possibles afin de guider les joueurs, mais ce sont ces derniers qui restent seuls décisionnaires des actions de leur personnage.
-Lorsqu'un joueur fait entreprendre une action à son personnage,le Maître du jeu détermine de quel type d'action il s'agit parmi les 4 possibles :
+Une fois que le joueur a décidé de l'action de son personnage,le Maître du jeu détermine de quel type d'action il s'agit parmi les 4 possibles :
 - **Impossible** : L'action est trop difficile pour le personnage et est un échec automatique.
 - **Banale** : L'action ne présente aucune difficulté à être réalisée et est une réussite automatique.
 - **Risquée** : La réussite de l'action n'est pas certaine et présente un enjeu notable en cas d'échec. Le personnage lance un d20 et ajoute le ou les bonus indiqués par le Maître du jeu. En fonction du résultat, le Maître du jeu déterminera s'il s'agit d'un échec ou d'une réussite et des conséquences.
