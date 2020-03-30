@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-30T18:54:03.329Z
+date: 2020-03-30T18:54:13.996Z
 tags: 
 ---
 
@@ -13,6 +13,7 @@ Lorsqu'un joueur fait entreprendre une action à son personnage,le Maître du je
 - **Banale** : L'action ne présente aucune difficulté à être réalisée et est une réussite automatique.
 - **Risquée** : La réussite de l'action n'est pas certaine et présente un enjeu notable en cas d'échec. Le personnage lance un d20 et ajoute le ou les bonus indiqués par le Maître du jeu. En fonction du résultat, le Maître du jeu déterminera s'il s'agit d'un échec ou d'une réussite et des conséquences.
 - **Sans conséquence** : La réussite n'est pas certaine, mais il n'y a pas d'enjeu notable en cas d'échec. La réussite est automatique, mais le Maître du jeu détermine le temps qu'il faut pour y parvenir.
+
 Les personnages savent généralement quel sera le résultat de l'action avant de l'entreprendre, mais des suprises sont toujours possibles.
 ### Personnage
 #### Caratéristiques
