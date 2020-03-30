@@ -2,7 +2,7 @@
 title: Test
 description: Test Faby
 published: true
-date: 2020-03-30T12:27:23.384Z
+date: 2020-03-30T17:37:47.072Z
 tags: 
 ---
 
@@ -36,11 +36,10 @@ Les pièges sont des tiers, le plus souvent des objets, dont l'existence est cac
 Les obstacles sont des effets inanimés dont la simple existence est un frein à l'avancée des personnages, cela peut être une porte fermée, un mur, un gouffre ou une tempête. L'interaction la plus courante avec les obstacles est le contournement, parfois l'affrontement, et très rarement la discussion.
 #### Affrontement
 L'affrontement est la forme d'interaction la plus violente. Elle regroupe aussi bien l'affrontement avec des créatures que la destruction d'un obstacle ou l'activation d'un piège.
-  - Attaque
-  - Défense
-  - Déplacement
 #### Contournement
+Contourner un tiers consiste à passer outre ce tiers sans avoir d'interaction avec lui par exemple en cherchant une autre entrée ou en se rendant invisible. Le contournement ne résoud pas définitivement le problème que peut poser le tiers. Ainsi, éviter une patrouille en se cachant pour attendre qu'elle passe ne signifie pas que celle-ci a disparu. Elle sera sûrement présente au retour si les personnages passent par le même chemin.
 #### Discussion
+La dernière option qui s'offre aux personnages est de communiquer avec le tiers afin de le convaincre de les laisser passer. Il est nécessaire que le tiers soit doué de compréhension et qu'il partage un moyen de communication avec les personnages pour que cette solution puisse fonctionner. Dans ce cas, les personnages peuvent tenter de l'amadouer, l'intimider ou encore négocier leur passage.
 ### Exploration
 ### Voyage
 
