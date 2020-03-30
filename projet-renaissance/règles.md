@@ -2,17 +2,18 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-30T18:52:48.396Z
+date: 2020-03-30T18:54:03.329Z
 tags: 
 ---
 
 # Système de jeu
 ### Résolution des actions
-Lorsqu'un joueur fait entreprendre une action à son personnage, celle-ci aura 4 résultats possibles, déterminé par le Maître du jeu. Les personnages savent généralement quel sera le résultat de l'action avant de l'entreprendre, mais des suprises sont toujours possibles.
+Lorsqu'un joueur fait entreprendre une action à son personnage,le Maître du jeu détermine quel est son résultat parmi les 4 possibles :
 - **Impossible** : L'action est trop difficile pour le personnage et est un échec automatique.
 - **Banale** : L'action ne présente aucune difficulté à être réalisée et est une réussite automatique.
 - **Risquée** : La réussite de l'action n'est pas certaine et présente un enjeu notable en cas d'échec. Le personnage lance un d20 et ajoute le ou les bonus indiqués par le Maître du jeu. En fonction du résultat, le Maître du jeu déterminera s'il s'agit d'un échec ou d'une réussite et des conséquences.
 - **Sans conséquence** : La réussite n'est pas certaine, mais il n'y a pas d'enjeu notable en cas d'échec. La réussite est automatique, mais le Maître du jeu détermine le temps qu'il faut pour y parvenir.
+Les personnages savent généralement quel sera le résultat de l'action avant de l'entreprendre, mais des suprises sont toujours possibles.
 ### Personnage
 #### Caratéristiques
 Chaque personnage est défini par la valeur de ses Caractéristiques, au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**. Elles présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
