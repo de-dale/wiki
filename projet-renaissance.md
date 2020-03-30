@@ -2,7 +2,7 @@
 title: Test
 description: Test Faby
 published: true
-date: 2020-03-30T08:58:38.374Z
+date: 2020-03-30T09:11:04.180Z
 tags: 
 ---
 
@@ -26,15 +26,18 @@ Chaque personnage dispose de compétences qui lui sont propres, comme une expert
 #### Création et évolution
 Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
 ### Rencontres
-Au cours d'une exploration, les personnages vont rencontrer des situations qui leur opposeront des tiers. Ceux-ci peuvent être des créatures, des objets, des obstacles ou encore des alliés. En fonction, les personnages peuvent interagir physiquement avec ces tiers, les contourner et/ou discuter avec eux. Il est tout à fait possible que la solution choisie par les personnages évolue en fonction de leurs actions et qu'une tentative d'infiltration (contournement) se transforme en négocation avec les gardes les ayant repérés (discussion) avant de finir en combat dans la garnison (interaction).
-#### Interaction
-Les 
-1. Combat
+Au cours d'une exploration, les personnages vont rencontrer des situations qui leur opposeront des tiers. Ceux-ci peuvent être des créatures, des objets, des pièges, des obstacles ou encore des alliés. En fonction, les personnages peuvent combattre ces tiers, les contourner et/ou discuter avec eux. Il est tout à fait possible que la solution choisie par les personnages évolue en fonction de leurs actions et qu'une tentative d'infiltration (contournement) se transforme en négocation avec les gardes les ayant repérés (discussion) avant de finir en combat dans la garnison (combat).
+#### Tiers
+1. **Créatures**
+Les créatures 
+2. **Pièges**
+Les pièges sont des tiers, le plus souvent des objets, dont l'existence est cachée jusqu'à ce qu'une condition soit réalisée. Lorsqu'il apparaissent, ils cherchent à entraver et/ou blesser les personnages.
+3. **Obstacles**
+#### Combat
+Le combat est la forme d'interaction la plus violente. Elle regroupe aussi bien l'affrontement avec des créatures que la destruction d'un obstacle ou l'activation d'un piège.
   - Attaque
   - Défense
   - Déplacement
-2. Piège
-3. Obstacle
 #### Contournement
 #### Discussion
 ### Exploration
