@@ -2,14 +2,14 @@
 title: Projet Renaissance
 description: 
 published: true
-date: 2020-03-30T18:12:13.543Z
+date: 2020-03-30T18:13:18.231Z
 tags: 
 ---
 
 # Projet Renaissance
 Le projet Renaissance est la création d'un système de jeu de rôle communautaire correspondant aux contraintes et disponibilités des joueurs et maîtres du jeu. Il a vocation à présenter des règles les plus simples possibles afin de faciliter la prise en main et la rapidité de prise de choix des joueurs, tout en conservant un aspect de jeu de rôle low fantasy et un champ des possible important.
 
-## [Système de règles](projet-renaissance/règles) 
+## [Système de règles](règles)
 ### Système d'action
 Lorsqu'un joueur fait entreprendre une action à son personnage, celle-ci aura 4 résultats possibles, déterminé par le Maître du jeu. Les personnages savent généralement quel sera le résultat de l'action avant de l'entreprendre, mais des suprises sont toujours possibles.
 - **Impossible** : L'action est trop difficile pour le personnage et est un échec automatique.
