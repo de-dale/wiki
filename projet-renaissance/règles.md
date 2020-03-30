@@ -2,12 +2,12 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-30T18:23:45.656Z
+date: 2020-03-30T18:52:48.396Z
 tags: 
 ---
 
-# Système de règles
-### Système d'action
+# Système de jeu
+### Résolution des actions
 Lorsqu'un joueur fait entreprendre une action à son personnage, celle-ci aura 4 résultats possibles, déterminé par le Maître du jeu. Les personnages savent généralement quel sera le résultat de l'action avant de l'entreprendre, mais des suprises sont toujours possibles.
 - **Impossible** : L'action est trop difficile pour le personnage et est un échec automatique.
 - **Banale** : L'action ne présente aucune difficulté à être réalisée et est une réussite automatique.
