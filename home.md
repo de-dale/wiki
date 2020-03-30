@@ -2,13 +2,13 @@
 title: Acceuil
 description: 
 published: true
-date: 2020-03-30T22:36:49.176Z
+date: 2020-03-30T22:37:29.723Z
 tags: 
 ---
 
 # Le Wiki
 
-Honteusement pompé à Sharah, ce wiki se veut être un outil de travail;et de partage collaboratif de nos différents projets.
+Honteusement pompé à Sharah, ce wiki se veut être un outil de travail collaboratif et de partage de nos différents projets.
 
 # Comment contribuer ?
 
