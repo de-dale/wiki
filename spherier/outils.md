@@ -2,7 +2,7 @@
 title: Outils
 description: 
 published: true
-date: 2020-03-31T22:03:00.400Z
+date: 2020-03-31T22:04:31.895Z
 tags: 
 ---
 
@@ -207,3 +207,41 @@ Aides :
 > 5, 3, 1 => 9
 - Multiples niveaux de Capacité / Sphère
 - Capacité Primaire / Secondaire
+
+# Pêcheur
+
+## Attaque de base
+> Format : 732
+Thème : toucher
+
+## Attaque de base
+> Format : 533
+Thème : dégâts
+
+## Attaque de base
+> Format : 443
+Thème :
+
+## Cpt Skirmisher
+> Format : 443
+Thème : Déplacement
+
+## Cpt Skirmisher
+> Format : 443
+Thème :
+
+## Cpt Skirmisher
+> Format : 443
+Thème :
+
+## Cpt Bruiser
+> Format : 443
+Thème : Combo entre deux formes d'attaque
+
+## Cpt Bruiser
+> Format : 443
+Thème :
+
+## Cpt Bruiser
+> Format : 443
+Thème :
