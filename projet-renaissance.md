@@ -2,7 +2,7 @@
 title: Projet Renaissance
 description: 
 published: true
-date: 2020-03-31T18:16:05.799Z
+date: 2020-03-31T18:16:43.147Z
 tags: 
 ---
 
@@ -12,7 +12,7 @@ Le projet Renaissance est la création d'un système de jeu de rôle communautai
 ## [Système de jeu](système-de-jeu)
 * Résolution des actions
 * Personnages : 
-  * Caractéristiques
+  * [Caractéristiques](système-de-jeu/caractéristiques)
   * Classe
   * Compétences
   * Dons
