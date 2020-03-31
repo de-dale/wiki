@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-03-31T17:17:50.497Z
+date: 2020-03-31T18:09:28.449Z
 tags: 
 ---
 
@@ -48,19 +48,9 @@ Elle sert principalement lorsque le personnage cherche à imposer des choses, te
 * Résister à un effet mental
 * Intimider quelqu'un
 * Ne pas succomber à la peur
-* //Survivre dans le monde Astral//
+* *Survivre dans le monde Astral*
 Elle est liée à la [Résistance] et à l'[Esprit vide].
 
 # Progression des caractéristiques
-Le personnage peut affecter des [Points de Progression] (PP) à une ou plusieurs de ses caractéristiques pour les améliorer. Investir des PP dans une caractéristique augmente le bonus conféré lorsqu'un test de la caractéristique est réalisé, ainsi que le degré de maîtrise dans cette caractéristique. Un degré de maîtrise élevé dans une caractéristique peut débloquer des effet supplémentaires dans ses capacités et dons.
-
-**Caractéristiques : Bonus / Coût / Maîtrise**
-||~ Bonus de _
-caractéristique ||~ Coût en PP ||~ Coût en PP _
-cumulé ||~ Degré de _
-maîtrise ||
-||= +1 ||= 1 ||= 1 ||= * ||
-||= +2 ||= 2 ||= 3 ||= * ||
-||= +3 ||= 3 ||= 6 ||= ** ||
-||= +4 ||= 4 ||= 10 ||= ** ||
-||= +5 ||= 5 ||= 15 ||= *** ||
+Les valeurs des caractéristiques s'achètent avec des [Points de Progression] (PP).
+Investir des PP dans une caractéristique augmente le bonus conféré lorsqu'un test de la caractéristique est réalisé d'un montant égal à la valeur de la Caractéristique, jusqu'à un maximum de +5. De plus, certaines aptitudes demandent un valeur minimale de caractéristique pour être utilisables.
