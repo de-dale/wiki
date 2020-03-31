@@ -2,7 +2,7 @@
 title: Capacités
 description: 
 published: true
-date: 2020-03-31T21:37:10.584Z
+date: 2020-03-31T21:39:24.226Z
 tags: 
 ---
 
@@ -26,3 +26,14 @@ Lors de sa phase d'action
 Par une action
 En réponse à un adversaire
 En réaction à une action d'attaque
+
+# Capacités Actives
+
+Une **Capacité Active** demande au moins une **Action** ou une **Réaction**, pour que ses effets s'appliquent.
+Souvent, les effets d'une **Capacité Active** sont limités dans le temps.
+
+# Capacités Passive
+
+Une **Capacité Passive** applique continuellement ses effets, tant que ses conditions d'activation s'appliquent. 
+
+Souvent une **Capacité Passive** ne s'applique qu'au personnage la possédant.
