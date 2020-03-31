@@ -2,7 +2,7 @@
 title: Outils
 description: 
 published: true
-date: 2020-03-31T21:58:22.948Z
+date: 2020-03-31T21:59:30.075Z
 tags: 
 ---
 
@@ -43,3 +43,27 @@ Le jet de [Compétences] permet de déterminer la puissance sur la table précé
 - Compétence 2
 Améliorer la Compétence
 Améliorer la limite
+
+# But d'une carte
+
+> **Punchline:** Spécialiser la carte avec son but
+
+Pour qu'une carte soit utile, il faut que:
+
+- Elle soit autosuffisante en terme de capacité utile
+
+- Elle vienne compléter des capacités déjà existantes
+
+Pour qu'une carte soit autosuffisante, il faut savoir quel rôle elle aide à remplir dans le combat. 
+
+- Rôle: Anvil/Hammer/Arm
+
+- Stratégie: 
+
+    - Bruiser/Healer,
+
+    - Skirmisher/Zoner
+
+    - Sniper/Blocker
+
+    - Buffer/Sapper
