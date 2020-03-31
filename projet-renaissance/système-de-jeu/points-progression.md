@@ -2,11 +2,18 @@
 title: Progression des personnages
 description: 
 published: true
-date: 2020-03-31T18:21:14.701Z
+date: 2020-03-31T18:22:52.776Z
 tags: 
 ---
 
-# Header
+# Création d'un personnage
+
+
+
+# Progression d'un personnage
+
+
+# Points de progression
 Les Points de Progression (PP) servent à améliorer plusieurs aspects du personnage.
 + Gain
 Ces PP peuvent provenir de plusieurs sources :
