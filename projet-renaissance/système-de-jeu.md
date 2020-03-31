@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-31T13:11:30.704Z
+date: 2020-03-31T18:17:41.275Z
 tags: 
 ---
 
@@ -18,7 +18,7 @@ Chaque personnage est défini par la valeur de ses Caractéristiques, au nombre 
 Un personnage appartient à une classe qui lui apporte des pouvoirs spécifique ainsi qu'une mécanique de ressource afin d'utiliser des actions spéciales ou d'améliorer ses capacités existantes.
 #### Compétences
 Chaque personnage dispose de compétences qui lui sont propres, comme une expertise dans un domaine magique, une discrétion naturelle ou la maîtrise d'un art. Ces compétences peuvent s'avérer précieuses dans les bonnes conditions et aider le personnage à réussir un test.
-#### Création et évolution
+#### [Création et évolution](points-progression)
 Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
 
 ## Actions des personnages
