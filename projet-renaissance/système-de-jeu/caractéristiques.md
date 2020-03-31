@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-03-31T18:09:47.620Z
+date: 2020-03-31T18:19:05.714Z
 tags: 
 ---
 
@@ -52,5 +52,5 @@ Elle sert principalement lorsque le personnage cherche à imposer des choses, te
 Elle est liée à la [Résistance] et à l'[Esprit vide].
 
 # Progression des caractéristiques
-Les valeurs des caractéristiques s'achètent avec des [Points de Progression] (PP).
+Les valeurs des caractéristiques s'achètent avec des [Points de Progression](système-de-jeu/points-progression) (PP).
 Investir des PP dans une caractéristique augmente le bonus conféré lorsqu'un test de la caractéristique est réalisé d'un montant égal à la valeur de la Caractéristique, jusqu'à un maximum de +5. De plus, certaines aptitudes demandent un valeur minimale de caractéristique pour être utilisables.
