@@ -2,7 +2,7 @@
 title: Le Sphérier
 description: 
 published: true
-date: 2020-03-31T21:53:53.085Z
+date: 2020-03-31T21:55:33.948Z
 tags: 
 ---
 
@@ -23,10 +23,10 @@ Les cartes peuvent porter des mots-clés ou des symboles qui font référence à
 A priori, à l'exception de la recherche de mots-clés, il n'est pas nécessaire de chercher un point de règle qui n'apparaît pas sur le Sphérier.
 
 > TODO:
-- get-started: Bien démarrer / Par où commencer ? 
-- how-to: Comment je... ? 
-- référentiel: guide complet
-- discussion: et si...?
+> - get-started: Bien démarrer / Par où commencer ? 
+> - how-to: Comment je... ? 
+> - référentiel: guide complet
+> - discussion: et si...?
 
 
 # Liste de liens
