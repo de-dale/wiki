@@ -2,7 +2,7 @@
 title: Personnage
 description: 
 published: true
-date: 2020-03-31T13:41:58.353Z
+date: 2020-03-31T21:23:50.058Z
 tags: 
 ---
 
@@ -45,3 +45,56 @@ Un personnage meurt lorsque ses points de vie atteignent le négatif équivalent
 
 Un personnage gagne du **Karma** en progressant dans le jeu. 
 Le **Karma** est une **Ressource d'Intermède**, prouvant être dépensée pour améliorer le personnage, généralement par l'achat de **[Facettes](https://trello.com/c/nNBTIelT)**.
+
+# Sphérier
+
+> Le **Sphérier** est l'arbre des **Capacités** que possède un **Personnage**.
+
+Chaque **Sphérier** est constitué de **[Sphères](https://trello.com/c/ZJVIytbL)**, elles-mêmes constituées de **[Facettes](https://trello.com/c/nNBTIelT)**. Ces dernières apportent au personnage, une ou plusieurs **[Capacités](https://trello.com/c/EUJsvYrZ)**, leur permettant d'agir.
+
+Un personnage commence le jeu avec les [Sphères Naturelles](https://trello.com/c/i2r3phHH) qui lui correspondent.
+
+**Exemple:**
+*Ceri*, Shamane enragée, commencera le jeu avec la Sphère Naturelles "Humain".
+
+# Sphère
+
+Une **Sphère** est le regroupement ordonné de plusieurs **Facettes** (généralement entre 6 et 10) selon une thématique donnée.
+
+Une **Sphère** possède :
+
+- un **Nom**
+
+- un ou plusieurs **Pré-requis**
+
+- une ou plusieures **Facettes**
+
+> Généralement, les pré-requis sont des **palliers d'Affinité** (obsolète) ou des **palliers de Compétence**.
+
+## Revente d'une Sphère
+
+Un personnage peut se débarrasser d'une **Sphère** et de toutes les **Facettes** associées. 
+
+Il perd alors toutes les **Capacités**, et récupére tous les points de **Karma** qui y ont été investis.
+
+> **Attention :** Une fois une **Sphère** revendue, il n'est plus possible de la racheter par la suite.
+
+# Facette
+
+Une **Facette** est un des éléments d'une **Sphère**. 
+
+Elle porte un nombre indéterminé de `Capacité(s)` et/ou `Affinité(s)`.
+
+> Elle materialise le choix de l'évolution d'un personnage.
+
+Une Facette peut être débloquée par du **Karma**.
+
+>  Actuellement, toutes les Facettes ont le même coût : 1 point de Karma.
+
+Cela peut être amené à changer. 
+
+Une fois la Facette débloquée le personnage bénéficie de tous les `Capacité(s)` et/ou `Affinité(s)` qui y sont mentionnées. 
+
+> **NB:**
+
+Terme proche: Talent.
