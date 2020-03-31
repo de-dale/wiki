@@ -2,14 +2,14 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-03-31T17:08:54.051Z
+date: 2020-03-31T17:11:22.643Z
 tags: 
 ---
 
-Les caractéristiques sont des éléments qui définissent chaque personnage. Elles sont au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**.
+Les caractéristiques sont des éléments qui définissent chaque personnage. Elles sont au nombre de 4 : la **[Carrure](##Carrure)**, la **[Dextérité](##Dextérité)**, la **[Réflexion](##Réflexion)** et la **[Volonté](##Volonté)**.
 
-+ Liste des caractéristiques
-++ Carrure [[# anchorCAR]]
+# Liste des caractéristiques
+## Carrure
 La Carrure reflète la puissance physique du personnage.
 Elle sert principalement lorsque le personnage cherche à faire des actions basées sur la force brute telles que :
 * Frapper violemment au corps à corps
