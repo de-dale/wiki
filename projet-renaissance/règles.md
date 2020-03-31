@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-31T10:48:03.836Z
+date: 2020-03-31T10:51:53.500Z
 tags: 
 ---
 
@@ -20,6 +20,7 @@ Un personnage appartient à une classe qui lui apporte des pouvoirs spécifique 
 Chaque personnage dispose de compétences qui lui sont propres, comme une expertise dans un domaine magique, une discrétion naturelle ou la maîtrise d'un art. Ces compétences peuvent s'avérer précieuses dans les bonnes conditions et aider le personnage à réussir un test.
 #### Création et évolution
 Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
+
 ## Actions des personnages
 ### Prises de décision et actions
 > **En résumé :**
@@ -30,6 +31,7 @@ Le MJ détermine le résultat des actions puis les décrit aux joueurs.
 {.is-warning}
 
 L'une des facettes du jeu est d'incarner un personnage et de lui faire prendre des décisions qui entraîneront une action de sa part, qu'il s'agisse de d'attaquer un ennemi, de discuter avec un marchand ou d'escalader une falaise. **L'iniative de l'action est laissée au joueur.**
+Il n'existe pas de liste des actions possibles, il en existe autant que les joueurs peuvent en imaginer. Néanmoins, certaines actions sont spécifiquement apportées par les capacités, compétences ou objets des personnages. Ainsi, voler au dessus du sol est impossible pour le commun des mortel, mais certains personnages auront accès à cette possibilité grâce à leur équipement par exemple.
 Une *non-décision n'appelle donc pas à une action* : respirer, par exemple, n'est pas une décision que le joueur doit prendre toutes les secondes pour son personnage, c'est un automatisme de survie de ce dernier (elle peut néanmoins le devenir si le personnage est dans un environnement toxique et que respirer peut lui occasionner des désagréments). De même, toutes les actions non-probantes au contexte et à l'histoire n'ont pas besoin d'être explicitées.
 Le rôle du MJ est important car c'est lui qui place le contexte permettant aux joueurs de décider. Il peut proposer des options possibles afin de guider les joueurs, mais ce sont ces derniers qui restent seuls décisionnaires des actions de leur personnage.
 Une fois que le joueur a décidé de l'action de son personnage,le MJ détermine s'il s'agit d'un succès ou d'un échec en fonction du type d'action, puis il détérmine et décrit le résultat de l'action entreprise.
