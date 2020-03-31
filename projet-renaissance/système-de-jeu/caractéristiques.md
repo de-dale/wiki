@@ -2,11 +2,20 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-03-31T18:19:30.677Z
+date: 2020-03-31T20:43:00.604Z
 tags: 
 ---
 
-Les caractéristiques sont des éléments qui définissent chaque personnage. Elles sont au nombre de 4 : la **[Carrure](##Carrure)**, la **[Dextérité](##Dextérité)**, la **[Réflexion](##Réflexion)** et la **[Volonté](##Volonté)**.
+# Présentation et usage des caractéristiques
+Les caractéristiques sont des éléments qui définissent chaque personnage, sur l'aspect physique et mental. Elles sont au nombre de 4 : la **[Carrure](##Carrure)**, la **[Dextérité](##Dextérité)**, la **[Réflexion](##Réflexion)** et la **[Volonté](##Volonté)**.
+Lorsque le MJ demande au joueur de faire un test de caractéristique, c'est à dire lancer un d20 et y ajouter la valeur de la caractéristique choisie afin de déterminer si une action risquée est une réussite où un échec. La caractéristique choisie dépend de l'action entreprise et de façon de faire.
+> Exemple :
+Bob se trouve face à une porte fermée qu'il doit ouvrir pour fuir un danger qui approche, mais elle semble coincée. Plusieurs options s'offrent à lui : il peut essayer d'ouvrir la porte de force en poussant dessus, ou bien tenter de la manoeuvrer en douceur, ou encore chercher à comprendre ce qui la bloque pour la dégager. Il décide d'y aller en force et le MJ lui demande un test de Carrure. Bob lance donc un d20 et y ajoute son modificateur de Carrure. En cas de réussite, la porte s'ouvrira, mais en cas d'échec, elle restera bloquée et le danger qui poursuit Bob gagnera du terrain.
+Dans cette situation, si Bob avait opté pour la manoeuvre délicate, c'est un test de 
+{.is-info}
+
+Les valeurs des caractéristiques s'achètent avec des [Points de Progression](http://de-dale.hd.free.fr/projet-renaissance/syst%C3%A8me-de-jeu/points-progression) (PP).
+Investir des PP dans une caractéristique augmente le bonus conféré lorsqu'un test de la caractéristique est réalisé d'un montant égal à la valeur de la Caractéristique, jusqu'à un maximum de +5. De plus, certaines aptitudes demandent un valeur minimale de caractéristique pour être utilisables.
 
 # Liste des caractéristiques
 ## Carrure
@@ -52,5 +61,3 @@ Elle sert principalement lorsque le personnage cherche à imposer des choses, te
 Elle est liée à la [Résistance] et à l'[Esprit vide].
 
 # Progression des caractéristiques
-Les valeurs des caractéristiques s'achètent avec des [Points de Progression](http://de-dale.hd.free.fr/projet-renaissance/syst%C3%A8me-de-jeu/points-progression) (PP).
-Investir des PP dans une caractéristique augmente le bonus conféré lorsqu'un test de la caractéristique est réalisé d'un montant égal à la valeur de la Caractéristique, jusqu'à un maximum de +5. De plus, certaines aptitudes demandent un valeur minimale de caractéristique pour être utilisables.
