@@ -2,7 +2,7 @@
 title: Progression des personnages
 description: 
 published: true
-date: 2020-03-31T18:39:46.168Z
+date: 2020-03-31T21:01:19.911Z
 tags: 
 ---
 
@@ -19,8 +19,8 @@ Lorsqu'un joueur crée son personnge, il peut choisir tous les attributs physiqu
 * Particularités physiques
 * Tout élément physique que le joueur souhaite préciser
 
-Ces éléments peuvent être 
-Par défaut, les personnages sont des humains, mais un joueur peut choisir de jouer une autre race avec les mêmes 
+Cette liste n'est pas exhaustive ni obligatoire, mais elle permet de brosser un portrait simple et clair d'un personnage pour permettre aux autres joueurs de se le représenter.
+Par défaut, les personnages sont des humains, aussi les ordres de grandeur des attributs doivent correspondre à ceux d'un humain vraisemblable de notre époque. Il est possible de créer un personnage non-humain, mais la race choisie doit posséder des attributs physiques similaires à ceux des humains. Il est envisageable pour un joueur de créer un personnage en dehors de ce cadre s'il le souhaite et si cela correspond à une idée précise, mais l'ensemble doit rester cohérent et sous la validation du MJ. 
 
 ## Aspect 
 
