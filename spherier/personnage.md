@@ -2,7 +2,7 @@
 title: Personnage
 description: 
 published: true
-date: 2020-03-31T13:37:25.285Z
+date: 2020-03-31T13:39:23.099Z
 tags: 
 ---
 
@@ -18,3 +18,13 @@ Au fur et à mesure de son aventure, un personnage gagne du **[Karma](https://tr
 J'ai mis de côté tout ce qui était **[Affinité](https://trello.com/c/mwxOIKuK/133-affinit%C3%A9)** et **[Attributs](https://trello.com/c/fNGbnjlR/129-attributs)**. Ce sont des concepts que je creuserai plus tard.
 > **Remarque:**
 Appellons "Point de vie" des points de vie, et "Points d'expérience" des points d'expérience... Ce sera plus clair.
+
+# Caractéristiques
+
+Les **Caractéristiques** d'un **[Personnage](https://trello.com/c/j5txrEnh)**, sont définies par la résolution de son **[Sphérier](https://trello.com/c/bNZnhEeY)**.
+
+## État civil
+## Caractéristiques
+- **Santé:** 
+
+> - **Lucidité :** Les **Points de vie mentaux** face aux dommages de Stress (dommages mentaux)
