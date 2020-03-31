@@ -2,13 +2,14 @@
 title: Progression des personnages
 description: 
 published: true
-date: 2020-03-31T21:03:04.583Z
+date: 2020-03-31T21:06:11.114Z
 tags: 
 ---
 
 # Création d'un personnage
 Un personnage est un être entier avec une vie, une histoire propre, des caractéristiques physiques et mentales, un comportement, des croyances, ... Lors de sa création, le joueur peut laisser libre cours à son imagination pour tout ce qui touche à l'aspect et au comportement de son personnage. Les parties"techniques" du personnage, tels que sa classe, ses capacités, ses compétences, ses dons et ses caractéristiques, sont plus normés afin de garantir un équilibrage entre plusieurs personnages.
 ## Aspect et comportement d'un personnage
+Ces parties d'un personnage sont laissées au choix du joueur. Les informations ci-dessous sont plus des lignes de conduite que des directives précises.
 ### Description physique
 Lorsqu'un joueur crée son personnge, il peut choisir tous les attributs physiques de son personnage :
 * Âge
@@ -22,8 +23,8 @@ Lorsqu'un joueur crée son personnge, il peut choisir tous les attributs physiqu
 Cette liste n'est pas exhaustive ni obligatoire, mais elle permet de brosser un portrait simple et clair d'un personnage pour permettre aux autres joueurs de se le représenter.
 Par défaut, les personnages sont des humains, aussi les ordres de grandeur des attributs doivent correspondre à ceux d'un humain vraisemblable de notre époque. Il est possible de créer un personnage non-humain, mais la race choisie doit posséder des attributs physiques similaires à ceux des humains. Il est envisageable pour un joueur de créer un personnage en dehors de ce cadre s'il le souhaite et si cela correspond à une idée précise, mais l'ensemble doit rester cohérent et sous la validation du MJ. 
 
-## Comportement et 
-Le joueur peut aussi
+## Comportement et vécu
+Le joueur peut aussi créer une histoire personnelle à son personnage et lui donner 
 
 # Progression d'un personnage
 
