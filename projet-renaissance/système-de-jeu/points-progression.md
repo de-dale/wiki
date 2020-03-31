@@ -2,7 +2,7 @@
 title: Progression des personnages
 description: 
 published: true
-date: 2020-03-31T18:35:04.444Z
+date: 2020-03-31T18:39:46.168Z
 tags: 
 ---
 
@@ -18,6 +18,7 @@ Lorsqu'un joueur crée son personnge, il peut choisir tous les attributs physiqu
 * Couleur de la peau, des cheveux, des yeux
 * Particularités physiques
 * Tout élément physique que le joueur souhaite préciser
+
 Ces éléments peuvent être 
 Par défaut, les personnages sont des humains, mais un joueur peut choisir de jouer une autre race avec les mêmes 
 
