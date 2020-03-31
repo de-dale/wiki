@@ -2,7 +2,7 @@
 title: Progression des personnages
 description: 
 published: true
-date: 2020-03-31T21:34:29.702Z
+date: 2020-03-31T21:35:15.832Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 Un personnage est un être entier avec une vie, une histoire propre, des caractéristiques physiques et mentales, un comportement, des croyances, ... Lors de sa création, le joueur peut laisser libre cours à son imagination pour tout ce qui touche à l'aspect et au comportement de son personnage. Les parties"techniques" du personnage, tels que sa classe, ses capacités, ses compétences, ses dons et ses caractéristiques, sont plus normés afin de garantir un équilibrage entre plusieurs personnages.
 ## Identité
 La première chose dont a besoin un personnage pour exister est une identité propre. Pour cela, il doit avoir au minimum :
-* Nom et/ou prénom
+* Appelation : Nom, prénom et/ou pseudonyme
 * Âge ou une fourchette
 * Sexe
 * Race, par défaut humain
