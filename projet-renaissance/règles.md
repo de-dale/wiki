@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-31T11:49:01.857Z
+date: 2020-03-31T11:52:11.059Z
 tags: 
 ---
 
@@ -51,9 +51,8 @@ Elle décide de prendre le chemin de contrebande et accède rapidement au sommet
 
 ### Actions lors d'un affrontement
 L'affrontement entre les personnages et d'autres créatures est un condensé de prise de décision de la part de chaque camp à tour de rôle dans un laps de temps très court. Cela n'affecte pas la structure de la prise de décision ci-dessus, mais elle est plus codifiée.
-La métrique temporelle d'un combat est le "tour" qui dure 10 secondes. 6 tours correspondent donc à 1 minute de temps dans le jeu. Pendant ces tours, les différents antagonistes vont jouer chacun leur tour. Le MJ va déterminer quelle équipe commence. Cette dernière va choisir parmi ses membres qui joue. Si aucun ne peut jouer, elle passe. Une fois que le membre choisi a joué, il ne peut plus être choisi de nouveau jusqu'à la fin du tour en cours et passe la main à l'autre équipe. Les différentes équipes vont donc jouer alternativement.
+La métrique temporelle d'un combat est le "tour" qui dure 10 secondes. 6 tours correspondent donc à 1 minute de temps dans le jeu. Chaque tour, les différents antagonistes vont se composer en équipe et jouer chacun leur tour. Au premier tour, le MJ détermine quelle équipe commence. Cette dernière va choisir parmi ses membres qui joue. Si aucun ne peut jouer, elle passe. Une fois que le membre choisi a joué, il ne peut plus être choisi de nouveau jusqu'à la fin du tour en cours et passe la main à l'autre équipe. Les différentes équipes vont donc jouer alternativement. Lorsque toutes les équipes ont passé, le tour se termine et le 
 Pendant son tour, un personnage dispose d'un certain nombre de Points d'Actions (PA), généralement 6, qu'il peut utiliser pour faire une ou plusieurs actions. Il paye le coût en PA associé à l'action puis l'exécute. Tous les PA inutilisés à la fin du tour sont perdus. Chaque personnage dispose aussi de Points de Réaction, généralement 1, qui peuvent lui servir pour réagir à un élément extérieur, par exemple bloquer une attaque portée contre lui. Il n'est pas possible de réagir à ses propres actions.
-
 > **Coût en PA des actions par catégorie :**
 La liste ci-dessous donne les grandes catégories d'action et leur coût associé. En cas de doute, le joueur peut demander au MJ quel est le coût en PA d'une action.
 **Action de mouvement : 2 PA.** Les actions de mouvement consistent à faire un mouvement simple, tel que se relever, se déplacer de sa vitesse de déplacement, dégainer une arme, boire un verre, ...
