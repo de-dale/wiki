@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-03-31T18:19:05.714Z
+date: 2020-03-31T18:19:30.677Z
 tags: 
 ---
 
@@ -52,5 +52,5 @@ Elle sert principalement lorsque le personnage cherche à imposer des choses, te
 Elle est liée à la [Résistance] et à l'[Esprit vide].
 
 # Progression des caractéristiques
-Les valeurs des caractéristiques s'achètent avec des [Points de Progression](système-de-jeu/points-progression) (PP).
+Les valeurs des caractéristiques s'achètent avec des [Points de Progression](http://de-dale.hd.free.fr/projet-renaissance/syst%C3%A8me-de-jeu/points-progression) (PP).
 Investir des PP dans une caractéristique augmente le bonus conféré lorsqu'un test de la caractéristique est réalisé d'un montant égal à la valeur de la Caractéristique, jusqu'à un maximum de +5. De plus, certaines aptitudes demandent un valeur minimale de caractéristique pour être utilisables.
