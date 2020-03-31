@@ -2,7 +2,7 @@
 title: Personnage
 description: 
 published: true
-date: 2020-03-31T13:40:17.923Z
+date: 2020-03-31T13:41:09.529Z
 tags: 
 ---
 
@@ -40,3 +40,8 @@ Un personnage meurt lorsque ses points de vie atteignent le négatif équivalent
 
 > **Note: vies**
 > Idée de Quentin: les personnages auraient des vies comme à Mario. À zéro, ils consomment une vie mais restent hors combat. Quand Ils n'ont plus de vie, ils meurent.
+
+# Karma
+
+Un personnage gagne du **Karma** en progressant dans le jeu. 
+Le **Karma** est une **Ressource d'Intermède**, prouvant être dépensée pour améliorer le personnage, généralement par l'achat de **[Facettes](https://trello.com/c/nNBTIelT)**.
