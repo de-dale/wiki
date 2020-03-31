@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-31T10:11:41.292Z
+date: 2020-03-31T10:44:18.545Z
 tags: 
 ---
 
@@ -33,10 +33,18 @@ Une fois que le joueur a décidé de l'action de son personnage,le MJ détermine
 
 Les personnages savent généralement quel est le type de l'action avant de l'entreprendre (même si des suprises sont toujours possibles), ce qu'ils ignorent c'est le résultat qu'elle aura.
 
-> Exemple :
-Alice est en bas d'une falaise dont elle veut atteindre le sommet. Elle hésite à tenter de l'escalader. Le MJ lui indique que cette tâche est impossible ou presque à entreprendre et qu'une chute serait mortelle.
+> **Exemple :**
+Alice est en bas d'une falaise dont elle veut atteindre le sommet. Elle hésite à tenter de l'escalader. Le MJ lui indique que cette tâche est impossible ou presque à entreprendre et qu'une chute serait mortelle. 
+Elle décide donc de chercher un autre chemin plus accssible le long de la falaise. Le MJ sait qu'il en existe 2 : un ancien chemin de contrebande, simple à grimper mais caché, et un passage naturel, visible mais beaucoup plus ardu. Il demande à Alice de lancer 1d20 et d'y ajouter sa Réflexion pour voir si elle trouve le chemin de contrebande. Elle fait 12 sur le dé + 3 en Réflexion, soit un total de 15, ce qui est suffisant pour trouver le chemin caché.
+Le MJ lui indique donc qu'elle trouve 2 accès au sommet : un chemin de contrebande, simple à escalader et à l'abri des regards et un passage naturel, plus ardu et plus visible.
+Elle décide de prendre le chemin de contrebande et accède rapidement au sommet. Si elle avait choisi le passage naturel, le remonter aurait été plus difficile : elle aurait dû choisir si le temps était un enjeu. Si oui, monter rapidement présente un risque de chute et de blessure (avec un test pour déterminer la réussite ou l'échec). Sinon, cela lui aurait pris plusieurs minutes supplémentaires (déterminées par le MJ) pour atteindre le sommet sans encombre.
+{.is-info}
 
-> En résumé : **Seules les actions risquées nécessitent le lancer d'un d20** afin de déterminer s'il s'agit d'un échec ou d'une réussite, et potentiellement son ampleur. Les autres sont directement résolues par le MJ.
+> **En résumé :**
+Le MJ pose le contexte auquel les personnages font face. 
+Les joueurs décident des actions prises par leur personnage.
+Le MJ détermine le résultat des actions puis les décrit aux joueurs. 
+**Seules les actions risquées nécessitent le lancer d'un d20** afin de déterminer s'il s'agit d'un échec ou d'une réussite, et potentiellement son ampleur. Les autres sont directement résolues par le MJ.
 {.is-warning}
 
 ### Rencontres
