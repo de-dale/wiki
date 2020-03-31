@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-31T10:44:50.764Z
+date: 2020-03-31T10:48:03.836Z
 tags: 
 ---
 
@@ -11,7 +11,7 @@ Le Projet Renaissance est un système de jeu de rôle. Cela signifie que les les
 Les personnages sont définis par des statistiques quantitatives et qualitatives qui déterminent ce qu'ils sont capables de faire, leurs domaines de compétence et leur degré de maîtrise dans ces domaines.
 Les possibilités d'action des personnages sont très vastes, l'imagination étant la principale limite. Mais cela ne signifie pas qu'elles seront toutes couronnées de succès. Les plus basiques le seront sans problème, mais les tâches plus complexes seront plus risquées à entreprendre, voir tout simplement impossibles.
 Le contexte de l'histoire dans laquelle les personnages évoluent est donné par le MJ. Son rôle est de poser le décor et les situations rencontrées par les personnages puis de décrire la réaction du monde aux actions de ces derniers.
-### Personnage
+## Personnage
 #### Caratéristiques
 Chaque personnage est défini par la valeur de ses Caractéristiques, au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**. Elles présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
 #### Classes
@@ -29,7 +29,7 @@ Le MJ détermine le résultat des actions puis les décrit aux joueurs.
 **Seules les actions risquées nécessitent le lancer d'un d20** afin de déterminer s'il s'agit d'un échec ou d'une réussite, et potentiellement son ampleur. Les autres sont directement résolues par le MJ.
 {.is-warning}
 
-L'une des facettes du jeu est d'incarner un personnage et de lui faire prendre des décisions qui entraîneront une action de sa part, qu'il s'agisse de d'attaquer un ennemi, de discuter avec un marchand ou d'escalader une falaise. L'iniative de l'action est laissée au joueur.
+L'une des facettes du jeu est d'incarner un personnage et de lui faire prendre des décisions qui entraîneront une action de sa part, qu'il s'agisse de d'attaquer un ennemi, de discuter avec un marchand ou d'escalader une falaise. **L'iniative de l'action est laissée au joueur.**
 Une *non-décision n'appelle donc pas à une action* : respirer, par exemple, n'est pas une décision que le joueur doit prendre toutes les secondes pour son personnage, c'est un automatisme de survie de ce dernier (elle peut néanmoins le devenir si le personnage est dans un environnement toxique et que respirer peut lui occasionner des désagréments). De même, toutes les actions non-probantes au contexte et à l'histoire n'ont pas besoin d'être explicitées.
 Le rôle du MJ est important car c'est lui qui place le contexte permettant aux joueurs de décider. Il peut proposer des options possibles afin de guider les joueurs, mais ce sont ces derniers qui restent seuls décisionnaires des actions de leur personnage.
 Une fois que le joueur a décidé de l'action de son personnage,le MJ détermine s'il s'agit d'un succès ou d'un échec en fonction du type d'action, puis il détérmine et décrit le résultat de l'action entreprise.
@@ -47,6 +47,7 @@ Le MJ lui indique donc qu'elle trouve 2 accès au sommet : un chemin de contreba
 Elle décide de prendre le chemin de contrebande et accède rapidement au sommet. Si elle avait choisi le passage naturel, le remonter aurait été plus difficile : elle aurait dû choisir si le temps était un enjeu. Si oui, monter rapidement présente un risque de chute et de blessure (avec un test pour déterminer la réussite ou l'échec). Sinon, cela lui aurait pris plusieurs minutes supplémentaires (déterminées par le MJ) pour atteindre le sommet sans encombre.
 {.is-info}
 
+## Histoire et aventures
 ### Rencontres
 Au cours d'une exploration, les personnages vont rencontrer des situations qui leur opposeront des tiers. Ceux-ci peuvent être des créatures, des objets, des pièges, des obstacles ou encore des alliés. En fonction, les personnages peuvent combattre ces tiers, les contourner et/ou discuter avec eux. Il est tout à fait possible que la solution choisie par les personnages évolue en fonction de leurs actions et qu'une tentative d'infiltration (contournement) se transforme en négocation avec les gardes les ayant repérés (discussion) avant de finir en combat dans la garnison (combat).
 #### Tiers
