@@ -2,7 +2,7 @@
 title: Outils
 description: 
 published: true
-date: 2020-03-31T21:59:30.075Z
+date: 2020-03-31T22:03:00.400Z
 tags: 
 ---
 
@@ -67,3 +67,143 @@ Pour qu'une carte soit autosuffisante, il faut savoir quel rôle elle aide à re
     - Sniper/Blocker
 
     - Buffer/Sapper
+    
+# Méthode
+
+# Encounters / ABTesty
+
+Soit une nouvelle capacité à tester.
+
+Deux points de vues sur la capacité :
+- Un ou plusieurs PJ(s) possèdent la/les capacités à tester face à une rencontre de référence
+- Les PJ(s) rencontrent un ou plusieurs Mobs avec la/les capacités à tester
+
+Pour collecter un meilleur feed-back, éviter de faire les deux en même temps.
+
+## Rencontre de référence
+
+Prévoir des rencontres de référence, avec différentes conditions :
+
+- Des rencontres types
+- Des rencontres où la capacité est avantagée
+- Des rencontres où la capacité est désavantagée
+- équipe avec/sans la capacité est avantagée/désavantagée
+
+> Axes des conditions :
+> - Capacité avantagée/désavantagée
+    Par le nombre d'opposants
+    Par des forces/faiblesses spécifiques
+    Par le terrain
+> - Équipe avantagée/désavantagée
+    Par le nombre
+    Par la différence de puissance
+    Par des blessures
+
+# Rapport et conséquences
+
+Il faut pouvoir tracer ce qui a été testé, ce qui a marché/moins bien marché, ce qui s'est bien passé et ce qu'il faut améliorer. 
+Également : ce qu'il restera dans les règles.
+
+Tracer :
+- Qu'est ce qui a été testé? Dans quelles conditions? 
+- Qu'est ce qui a bien/moins bien fonctionné ? Pourquoi? 
+- Qu'est ce que les joueurs ont aimé? Qu'est-ce qui les à frustré? Pourquoi? 
+- Qu'est ce qu'il faut garder?  Qu'est-ce qu'il faut améliorer? 
+- Qu'est ce que l'on garde dans les règles? 
+
+# Aller plus loin 
+> Récupérer les méthodes de Machine Learning et les adapter pour le cas d'utilisation.
+
+# Modèle
+
+# Sphère
+
+```
+*******/ \*********/ \*********/ \*************
+*****/     \*****/     \*****/     \***********
+***/         \*/         \*/         \*********
+**|           |           |           |********
+**|           |           |           |********
+**|           |           |           |********
+***\         / \         / \         / \*******
+*****\     /     \     /     \     /     \*****
+*******\ /         \ /         \ /         \***
+********|           |           |           |**
+********|           |           |           |**
+********|           |           |           |**
+*******/ \         / \         / \         /***
+*****/     \     /     \     /     \     /*****
+***/         \ /         \ /         \ /*******
+**|           |           |           |********
+**|           |           |           |********
+**|           |           |           |********
+***\         / \         / \         / \*******
+*****\     /     \     /     \     /     \*****
+*******\ /         \ /         \ /         \***
+********|           |           |           |**
+********|           |           |           |**
+********|           |           |           |**
+*********\         /*\         /*\         /***
+***********\     /*****\     /*****\     /*****
+*************\ /*********\ /*********\ /*******
+
+```
+
+
+# [Titre du modèle]
+
+> **Rôle:** Anvil/Hammer/Arm
+
+> **Stratégie:**
+
+>    - Bruiser/Healer,
+
+>    - Skirmisher/Zoner
+
+>    - Sniper/Blocker
+
+>    - Buffer/Sapper
+
+>
+
+> **Objectif :** Capacité(s) cibles de la carte
+
+Description/Fluff de la carte
+
+Facettes:
+
+1. **[Facette A](https://trello.com/c/e9Clug3G)**
+
+    > Capacité de base
+
+    > ++ en Compétence
+
+    > <%> Limite
+
+1. Capacité 1
+
+1. Capacité 1
+
+1. Capacité 1+
+
+1. Capacité complémentaires
+
+1. Maniement 2
+
+
+# Exemples
+
+Faites des exemples de personnages lvl Max. 
+Ça permettrait de les découper pour dégager un chemin de leveling.
+
+Aides :
+- Sphères Max
+> 9
+- Karma Max
+> 100 => 11.1 / Sphère
+- Sphères de niveau Max
+- Combien de Compétences / Sphères
+> 4, 3, 2, 1 => 10
+> 5, 3, 1 => 9
+- Multiples niveaux de Capacité / Sphère
+- Capacité Primaire / Secondaire
