@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-31T10:58:58.141Z
+date: 2020-03-31T11:19:23.926Z
 tags: 
 ---
 
@@ -51,8 +51,15 @@ Elle décide de prendre le chemin de contrebande et accède rapidement au sommet
 
 ### Actions lors d'un affrontement
 L'affrontement entre les personnages et d'autres créatures est un condensé de prise de décision de la part de chaque camp à tour de rôle dans un laps de temps très court. Cela n'affecte pas la structure de la prise de décision ci-dessus, mais elle est plus codifiée.
-La métrique temporelle d'un combat est le "tour" qui dure 10 secondes. 6 tours correspondent donc à 1 minute de temps dans le jeu. Pendant ces tours, les différents antagonistes vont jouer chacun leur tour. Le t
-Les personnages disposent d'un certain nombre de Points d'Actions (PA) qu'ils peuvent utiliser chaque tour. Tous les points inu
+La métrique temporelle d'un combat est le "tour" qui dure 10 secondes. 6 tours correspondent donc à 1 minute de temps dans le jeu. Pendant ces tours, les différents antagonistes vont jouer chacun leur tour. Le MJ va déterminer quelle équipe commence. Cette dernière va choisir parmi ses membres qui joue. Si aucun ne peut jouer, elle passe. Une fois que le membre choisi a joué, il ne peut plus être choisi de nouveau jusqu'à la fin du tour en cours et passe la main à l'autre équipe. Les différentes équipes vont donc jouer alternativement.
+Lorsque leur tour vient, les personnages disposent d'un certain nombre de Points d'Actions (PA) qu'ils peuvent utiliser pour faire une ou plusieurs actions. Chaque action a un coût en PA et tous PA inutilisés à la fin du tour sont perdus.
+
+> Coût en PA des actions :
+**Action de mouvement : 2 PA.** Les actions de mouvement consistent à faire un mouvement simple, tel que se relever, se déplacer de sa vitesse de déplacement, dégainer une arme, boire un verre...
+**Attaque basique : 3 PA.** Une attaque basique est une frappe simple portée de manière maladroite à un ennemi à 1 case de portée et qui inflige 1d3 dégâts.
+**Actions spéciales : Coût variable.** Les actions spéciales sont les actions auxquelles les personnages ont accès grâce à leurs capacités. Le coût en PA est précisé dans la description de la capacité.
+{.is-success}
+
 
 ## Histoire et aventures
 ### Rencontres
