@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-31T11:27:55.730Z
+date: 2020-03-31T11:30:03.938Z
 tags: 
 ---
 
@@ -58,7 +58,7 @@ Lorsque leur tour vient, les personnages disposent d'un certain nombre de Points
 **Action de mouvement : 2 PA.** Les actions de mouvement consistent à faire un mouvement simple, tel que se relever, se déplacer de sa vitesse de déplacement, dégainer une arme, boire un verre, ...
 **Attaque basique : 3 PA.** Une attaque basique est une frappe simple portée de manière maladroite à un ennemi à 1 case de portée et qui inflige 1d3 dégâts.
 **Actions spéciales : Coût variable.** Les actions spéciales sont les actions auxquelles les personnages ont accès grâce à leurs capacités. Le coût en PA est précisé dans la description de la capacité.
-**Actions libres : 0 PA** Les actions libres sont des actions très brèves et qui ne gènent pas la réalisation d'autres actions. La brièveté est la clef. Ainsi si donner une information oralement ou jeter un oeil autour de soi sont des actions libres, expliquer une tactique complexe ou 
+**Actions libres : 0 PA** Les actions libres sont des actions très brèves et qui ne gènent pas la réalisation d'autres actions. La brièveté est la clef. Ainsi si donner une information oralement ou jeter un oeil autour de soi sont des actions libres, expliquer un plan d'attaque ou regarder attentivement quelque chose doivent être traités comme des actions de mouvement.
 Elles peuvent être prises en dehors du tour de jeu du personnage.
 {.is-success}
 
