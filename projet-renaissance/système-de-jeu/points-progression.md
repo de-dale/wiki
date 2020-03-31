@@ -2,12 +2,26 @@
 title: Progression des personnages
 description: 
 published: true
-date: 2020-03-31T18:22:52.776Z
+date: 2020-03-31T18:35:04.444Z
 tags: 
 ---
 
 # Création d'un personnage
+Un personnage est un être entier avec une vie, une histoire propre, des caractéristiques physiques et mentales, un comportement, des croyances, ... Lors de sa création, le joueur peut laisser libre cours à son imagination pour tout ce qui touche à l'aspect et au comportement de son personnage. Les parties"techniques" du personnage, tels que sa classe, ses capacités, ses compétences, ses dons et ses caractéristiques, sont plus normés afin de garantir un équilibrage entre plusieurs personnages.
+## Aspect et comportement d'un personnage
+### Description physique
+Lorsqu'un joueur crée son personnge, il peut choisir tous les attributs physiques de son personnage :
+* Âge
+* Sexe
+* Taille
+* Poids
+* Couleur de la peau, des cheveux, des yeux
+* Particularités physiques
+* Tout élément physique que le joueur souhaite préciser
+Ces éléments peuvent être 
+Par défaut, les personnages sont des humains, mais un joueur peut choisir de jouer une autre race avec les mêmes 
 
+## Aspect 
 
 
 # Progression d'un personnage
