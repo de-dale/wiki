@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-31T11:30:03.938Z
+date: 2020-03-31T11:36:15.161Z
 tags: 
 ---
 
@@ -54,12 +54,12 @@ L'affrontement entre les personnages et d'autres créatures est un condensé de 
 La métrique temporelle d'un combat est le "tour" qui dure 10 secondes. 6 tours correspondent donc à 1 minute de temps dans le jeu. Pendant ces tours, les différents antagonistes vont jouer chacun leur tour. Le MJ va déterminer quelle équipe commence. Cette dernière va choisir parmi ses membres qui joue. Si aucun ne peut jouer, elle passe. Une fois que le membre choisi a joué, il ne peut plus être choisi de nouveau jusqu'à la fin du tour en cours et passe la main à l'autre équipe. Les différentes équipes vont donc jouer alternativement.
 Lorsque leur tour vient, les personnages disposent d'un certain nombre de Points d'Actions (PA) qu'ils peuvent utiliser pour faire une ou plusieurs actions. Chaque action a un coût en PA et tous PA inutilisés à la fin du tour sont perdus.
 
-> Coût en PA des actions :
+> **Coût en PA des actions par catégorie :**
+La liste ci-dessous donne les grandes catégories d'action et leur coût associé. En cas de doute, le joueur peut demander au MJ quel est le coût en PA d'une action.
 **Action de mouvement : 2 PA.** Les actions de mouvement consistent à faire un mouvement simple, tel que se relever, se déplacer de sa vitesse de déplacement, dégainer une arme, boire un verre, ...
 **Attaque basique : 3 PA.** Une attaque basique est une frappe simple portée de manière maladroite à un ennemi à 1 case de portée et qui inflige 1d3 dégâts.
 **Actions spéciales : Coût variable.** Les actions spéciales sont les actions auxquelles les personnages ont accès grâce à leurs capacités. Le coût en PA est précisé dans la description de la capacité.
-**Actions libres : 0 PA** Les actions libres sont des actions très brèves et qui ne gènent pas la réalisation d'autres actions. La brièveté est la clef. Ainsi si donner une information oralement ou jeter un oeil autour de soi sont des actions libres, expliquer un plan d'attaque ou regarder attentivement quelque chose doivent être traités comme des actions de mouvement.
-Elles peuvent être prises en dehors du tour de jeu du personnage.
+**Actions libres : 0 PA** Les actions libres sont des actions très brèves et qui ne gènent pas la réalisation d'autres actions. Elles peuvent souvent être prises en dehors du tour de jeu du personnage. La brièveté est la clef. Ainsi si donner une information oralement ou jeter un oeil autour de soi sont des actions libres, expliquer un plan d'attaque ou regarder attentivement quelque chose doivent être traités comme des actions de mouvement.
 {.is-success}
 
 
