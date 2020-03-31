@@ -2,7 +2,7 @@
 title: Compétences
 description: 
 published: true
-date: 2020-03-31T13:46:41.574Z
+date: 2020-03-31T14:27:50.519Z
 tags: 
 ---
 
@@ -16,7 +16,6 @@ Si un **Personnage** possède une **Compétence**, il peut l'exploiter dans au m
 Reword de Compétence :
 **Compétences = Savoir + Limite + ∆Capacités**
 **Compétences = Maîtrise + Expertise + ∆Capacités**
-Traît des compétences
 
 Les **Compétences** permettent au **[Personnage](https://trello.com/c/j5txrEnh)**, d'utiliser efficacement ses **[Capacités](https://trello.com/c/EUJsvYrZ)**.
 
@@ -29,11 +28,3 @@ Une Compétence est notée ainsi :
     > voir aussi **_[Expertise(Grade, Compétence)](https://trello.com/c/0EKOzT2h)_**
 
 **Exemple :** Bluff<+10, 6>
-
-# Questions/Réponse
-
-**A quoi servent les compétences?** A mesurer le degré de réussite/échec lors de la réalisation d'une action **déterminante**, dont la résolution est incertaine.
-
-**Y a-t-il des compétences pour tout?** Non. Beaucoup de capacités ne nécessitent pas de compétence.  Certaines capacités partagent des compétences avec d'autres capacités. Enfin, la liste des compétences n'est pas exhaustive. 
-
-**Les compétences font elles partie du combat ou du hors-combat ?** Des deux: les compétences servent les capacités. Les capacités sont "de combat" ou "de hors-combat".
