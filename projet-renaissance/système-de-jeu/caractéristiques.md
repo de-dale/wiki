@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-03-31T17:08:44.464Z
+date: 2020-03-31T17:08:54.051Z
 tags: 
 ---
 
