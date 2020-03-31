@@ -2,7 +2,7 @@
 title: Compétences
 description: 
 published: true
-date: 2020-03-31T14:27:50.519Z
+date: 2020-03-31T14:28:45.273Z
 tags: 
 ---
 
@@ -16,6 +16,7 @@ Si un **Personnage** possède une **Compétence**, il peut l'exploiter dans au m
 Reword de Compétence :
 **Compétences = Savoir + Limite + ∆Capacités**
 **Compétences = Maîtrise + Expertise + ∆Capacités**
+Trait de compétence
 
 Les **Compétences** permettent au **[Personnage](https://trello.com/c/j5txrEnh)**, d'utiliser efficacement ses **[Capacités](https://trello.com/c/EUJsvYrZ)**.
 
