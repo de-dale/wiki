@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-31T10:44:18.545Z
+date: 2020-03-31T10:44:50.764Z
 tags: 
 ---
 
@@ -22,6 +22,13 @@ Chaque personnage dispose de compétences qui lui sont propres, comme une expert
 Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
 ## Actions des personnages
 ### Prises de décision et actions
+> **En résumé :**
+Le MJ pose le contexte auquel les personnages font face. 
+Les joueurs décident des actions prises par leur personnage.
+Le MJ détermine le résultat des actions puis les décrit aux joueurs. 
+**Seules les actions risquées nécessitent le lancer d'un d20** afin de déterminer s'il s'agit d'un échec ou d'une réussite, et potentiellement son ampleur. Les autres sont directement résolues par le MJ.
+{.is-warning}
+
 L'une des facettes du jeu est d'incarner un personnage et de lui faire prendre des décisions qui entraîneront une action de sa part, qu'il s'agisse de d'attaquer un ennemi, de discuter avec un marchand ou d'escalader une falaise. L'iniative de l'action est laissée au joueur.
 Une *non-décision n'appelle donc pas à une action* : respirer, par exemple, n'est pas une décision que le joueur doit prendre toutes les secondes pour son personnage, c'est un automatisme de survie de ce dernier (elle peut néanmoins le devenir si le personnage est dans un environnement toxique et que respirer peut lui occasionner des désagréments). De même, toutes les actions non-probantes au contexte et à l'histoire n'ont pas besoin d'être explicitées.
 Le rôle du MJ est important car c'est lui qui place le contexte permettant aux joueurs de décider. Il peut proposer des options possibles afin de guider les joueurs, mais ce sont ces derniers qui restent seuls décisionnaires des actions de leur personnage.
@@ -39,13 +46,6 @@ Elle décide donc de chercher un autre chemin plus accssible le long de la falai
 Le MJ lui indique donc qu'elle trouve 2 accès au sommet : un chemin de contrebande, simple à escalader et à l'abri des regards et un passage naturel, plus ardu et plus visible.
 Elle décide de prendre le chemin de contrebande et accède rapidement au sommet. Si elle avait choisi le passage naturel, le remonter aurait été plus difficile : elle aurait dû choisir si le temps était un enjeu. Si oui, monter rapidement présente un risque de chute et de blessure (avec un test pour déterminer la réussite ou l'échec). Sinon, cela lui aurait pris plusieurs minutes supplémentaires (déterminées par le MJ) pour atteindre le sommet sans encombre.
 {.is-info}
-
-> **En résumé :**
-Le MJ pose le contexte auquel les personnages font face. 
-Les joueurs décident des actions prises par leur personnage.
-Le MJ détermine le résultat des actions puis les décrit aux joueurs. 
-**Seules les actions risquées nécessitent le lancer d'un d20** afin de déterminer s'il s'agit d'un échec ou d'une réussite, et potentiellement son ampleur. Les autres sont directement résolues par le MJ.
-{.is-warning}
 
 ### Rencontres
 Au cours d'une exploration, les personnages vont rencontrer des situations qui leur opposeront des tiers. Ceux-ci peuvent être des créatures, des objets, des pièges, des obstacles ou encore des alliés. En fonction, les personnages peuvent combattre ces tiers, les contourner et/ou discuter avec eux. Il est tout à fait possible que la solution choisie par les personnages évolue en fonction de leurs actions et qu'une tentative d'infiltration (contournement) se transforme en négocation avec les gardes les ayant repérés (discussion) avant de finir en combat dans la garnison (combat).
