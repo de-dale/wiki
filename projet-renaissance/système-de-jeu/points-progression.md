@@ -2,7 +2,7 @@
 title: Progression des personnages
 description: 
 published: true
-date: 2020-03-31T21:37:28.159Z
+date: 2020-03-31T21:38:28.518Z
 tags: 
 ---
 
@@ -36,11 +36,9 @@ Le joueur peut aussi créer une histoire personnelle à son personnage et lui do
 Ces éléments peuvent être rendus publics aux autres joueurs ou bien conservés privés par le joueur s'il préfère. Il est souvent préférable de les transmettre au minimum au MJ pour qu'il les incorpore dans la construction de son histoire s'il le peut et le souhaite.
 
 ## Attributs techniques
+### Liste des attributs
 
-# Progression d'un personnage
-
-
-# Points de progression
+### Points de progression
 Les Points de Progression (PP) servent à améliorer plusieurs aspects du personnage.
 + Gain
 Ces PP peuvent provenir de plusieurs sources :
@@ -76,3 +74,7 @@ caractéristique// ||= //+1// ||= //+2// ||= //+3// ||= //+4// ||= //+5// ||
 ||~ [[[wiki:dons | Don]]] ||= * ||@@ ** @@||
 ||~ [[[wiki:compétences | Compétence]]] ||= * ||@@ ** @@||
 ||~ [[[wiki:emp|Empower]]] ||= * ||@@ ** @@||
+
+# Progression d'un personnage
+
+
