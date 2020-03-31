@@ -2,18 +2,24 @@
 title: Progression des personnages
 description: 
 published: true
-date: 2020-03-31T21:11:35.322Z
+date: 2020-03-31T21:15:52.342Z
 tags: 
 ---
 
 # Création d'un personnage
 Un personnage est un être entier avec une vie, une histoire propre, des caractéristiques physiques et mentales, un comportement, des croyances, ... Lors de sa création, le joueur peut laisser libre cours à son imagination pour tout ce qui touche à l'aspect et au comportement de son personnage. Les parties"techniques" du personnage, tels que sa classe, ses capacités, ses compétences, ses dons et ses caractéristiques, sont plus normés afin de garantir un équilibrage entre plusieurs personnages.
+## Identité
+La première chose dont a besoin un personnage pour exister est une identité propre. Pour cela, il doit avoir au minimum :
+* Un nom et/ou prénom
+* Un âge ou une fourchette
+* Un sexe
+* Une race, par défaut humain
+
+Il n'y a pas de règle définie pour ces attributs. Par défaut, les personnages sont des humains, aussi les ordres de grandeur des attributs doivent correspondre à ceux d'un humain vraisemblable de notre époque. Il est possible de créer un personnage non-humain, mais la race choisie doit posséder des attributs physiques similaires à ceux des humains. Il est envisageable pour un joueur de créer un personnage en dehors de ce cadre s'il le souhaite et si cela correspond à une idée précise, mais l'ensemble doit rester cohérent et sous la validation du MJ. 
 ## Aspect et comportement d'un personnage
 Ces parties d'un personnage sont laissées au choix du joueur. Les informations ci-dessous sont plus des lignes de conduite que des directives précises. Il n'est pas nécessaire de les avoir toutes entièrement définies pour commencer à jouer. S'il est plus pratique d'avoir une description physique de son personnage pour faciliter sa réprésentation, son vécu et son comportement peuvent venir par la suite, en cours de partie.
 ### Description physique
 Lorsqu'un joueur crée son personnge, il peut choisir tous les attributs physiques de son personnage :
-* Âge
-* Sexe
 * Taille
 * Poids
 * Couleur de la peau, des cheveux, des yeux
@@ -21,7 +27,6 @@ Lorsqu'un joueur crée son personnge, il peut choisir tous les attributs physiqu
 * Tout élément physique que le joueur souhaite préciser
 
 Cette liste n'est pas exhaustive ni obligatoire, mais elle permet de brosser un portrait simple et clair d'un personnage pour permettre aux autres joueurs de se le représenter.
-Par défaut, les personnages sont des humains, aussi les ordres de grandeur des attributs doivent correspondre à ceux d'un humain vraisemblable de notre époque. Il est possible de créer un personnage non-humain, mais la race choisie doit posséder des attributs physiques similaires à ceux des humains. Il est envisageable pour un joueur de créer un personnage en dehors de ce cadre s'il le souhaite et si cela correspond à une idée précise, mais l'ensemble doit rester cohérent et sous la validation du MJ. 
 
 ## Comportement et vécu
 Le joueur peut aussi créer une histoire personnelle à son personnage et lui donner 
