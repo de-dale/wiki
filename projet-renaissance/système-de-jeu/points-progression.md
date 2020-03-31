@@ -2,7 +2,7 @@
 title: Progression des personnages
 description: 
 published: true
-date: 2020-03-31T21:17:36.466Z
+date: 2020-03-31T21:25:10.115Z
 tags: 
 ---
 
@@ -29,8 +29,11 @@ Lorsqu'un joueur crée son personnge, il peut choisir tous les attributs physiqu
 Cette liste n'est pas exhaustive ni obligatoire, mais elle permet de brosser un portrait simple et clair d'un personnage pour permettre aux autres joueurs de se le représenter.
 
 ## Comportement et vécu
-Le joueur peut aussi créer une histoire personnelle à son personnage et lui donner un caractère ou une conduite particlière.
+Le joueur peut aussi créer une histoire personnelle à son personnage et lui donner un caractère ou une conduite particlière. Cela peut aider le joueur à définir ce qu'il souhaite faire de son personnage, des pouvoirs et capacités que ce dernier va chercher à obtenir. Il n'y a pas d'obligation à créer ces éléments en détail à la création du personnage. De simples mots-clefs peuvent suffire et laissent la possibilité au joueur d'approfondir cet aspect du personnage par la suite au cours de l'histoire.
+> Par exemple, Bob n'a pas d'idée précise du vécu qu'aurait pu avoir son personnage ni de son
+{.is-info}
 
+Ces éléments peuvent être rendus publics aux autres joueurs ou bien conservés privés par le joueur s'il préfère. Il est souvent préférable de les transmettre au minimum au MJ pour qu'il les incorpore dans la construction de son histoire s'il le peut et le souhaite.
 # Progression d'un personnage
 
 
