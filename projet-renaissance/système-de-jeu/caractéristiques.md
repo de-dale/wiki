@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-03-31T18:09:28.449Z
+date: 2020-03-31T18:09:47.620Z
 tags: 
 ---
 
@@ -30,7 +30,7 @@ Elle sert principalement lorsque le personnage cherche à faire des actions habi
 * Se faufiler
 Elle est liée à l'[Esquive] et à la [Parade].
 
-++ Réflexion
+## Réflexion
 La Réflexion reflète la capacité du personnage à réfléchir et mobiliser son savoir.
 Elle sert principalement lorsque le personnage cherche à créer ou résoudre des effets complexes, tels que :
 * Adapter une capacité à un ennemi
@@ -41,7 +41,7 @@ Elle sert principalement lorsque le personnage cherche à créer ou résoudre de
 * Trouver une faille dans une illusion ou un enchantement
 Elle est liée au [Discernement] et au [Piège Mental].
 
-++ Volonté
+## Volonté
 La Volonté reflète la force mentale et la détermination du personnage.
 Elle sert principalement lorsque le personnage cherche à imposer des choses, telles que :
 * Frapper mentalement une créature
