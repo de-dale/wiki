@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-31T10:51:53.500Z
+date: 2020-03-31T10:58:58.141Z
 tags: 
 ---
 
@@ -48,6 +48,11 @@ Elle décide donc de chercher un autre chemin plus accssible le long de la falai
 Le MJ lui indique donc qu'elle trouve 2 accès au sommet : un chemin de contrebande, simple à escalader et à l'abri des regards et un passage naturel, plus ardu et plus visible.
 Elle décide de prendre le chemin de contrebande et accède rapidement au sommet. Si elle avait choisi le passage naturel, le remonter aurait été plus difficile : elle aurait dû choisir si le temps était un enjeu. Si oui, monter rapidement présente un risque de chute et de blessure (avec un test pour déterminer la réussite ou l'échec). Sinon, cela lui aurait pris plusieurs minutes supplémentaires (déterminées par le MJ) pour atteindre le sommet sans encombre.
 {.is-info}
+
+### Actions lors d'un affrontement
+L'affrontement entre les personnages et d'autres créatures est un condensé de prise de décision de la part de chaque camp à tour de rôle dans un laps de temps très court. Cela n'affecte pas la structure de la prise de décision ci-dessus, mais elle est plus codifiée.
+La métrique temporelle d'un combat est le "tour" qui dure 10 secondes. 6 tours correspondent donc à 1 minute de temps dans le jeu. Pendant ces tours, les différents antagonistes vont jouer chacun leur tour. Le t
+Les personnages disposent d'un certain nombre de Points d'Actions (PA) qu'ils peuvent utiliser chaque tour. Tous les points inu
 
 ## Histoire et aventures
 ### Rencontres
