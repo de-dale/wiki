@@ -2,7 +2,7 @@
 title: Le Sphérier
 description: 
 published: true
-date: 2020-03-29T19:05:41.460Z
+date: 2020-03-31T12:57:47.652Z
 tags: 
 ---
 
@@ -21,3 +21,8 @@ Physiquement, le Sphérier se compose de **Cartes**,  supposées autosuffisantes
 Les cartes peuvent porter des mots-clés ou des symboles qui font référence à d'autres cartes. 
 
 A priori, à l'exception de la recherche de mots-clés, il n'est pas nécessaire de chercher un point de règle qui n'apparaît pas sur le Sphérier.
+
+# Liste de liens
+
+- [Règles](/spherier/core)
+- [Glossaire](/spherier/glossary)
