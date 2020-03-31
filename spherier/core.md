@@ -2,7 +2,7 @@
 title: Règles de base
 description: 
 published: true
-date: 2020-03-29T19:21:36.905Z
+date: 2020-03-31T12:48:00.243Z
 tags: 
 ---
 
@@ -38,41 +38,30 @@ Un symbole est l'unique représentation graphique d'un mot-clé.
 ## Légende
 
 **[Mot-clé]()**
-
 Les mot-clés sont affichés en gras, avec un lien vers leur définition.
 
 **`[Compétence]`**
-
 Un jet de la compétence précisée.
 
-* **`R°`**
-
+**`R°`**
 Une réaction
 
-* **`A°`**
-
+**`A°`**
 Une action
 
-* 
+**`[Compétence](DD)`**
+Jet de compétence nécessitant au moins `DD` succès. (DD pour degré de difficulté).
 
-* **`[Compétence](DD)`**
+**`[Compétence][Compétence du defenseur]`**
+Jets de compétence opposés.
 
-    Jet de compétence nécessitant au moins `DD` succès. (DD pour degré de difficulté).
-
-* **`[Compétence][Compétence du defenseur]`**
-
-    Jets de compétence opposés.
-
-*  **`<Compétence>`**
-
-    Valeur brute de la Compétence
+**`<Compétence>`**
+Valeur brute de la Compétence
 
 Idées :
 
 > **+3** en **Volonté**
-
 > **Volonté<+3>**
-
 > **Limite<12>** en **Volonté**.
 
 # Concept
