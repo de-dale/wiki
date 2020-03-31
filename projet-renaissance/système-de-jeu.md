@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-03-31T11:54:34.981Z
+date: 2020-03-31T12:10:48.970Z
 tags: 
 ---
 
@@ -50,6 +50,14 @@ Elle décide de prendre le chemin de contrebande et accède rapidement au sommet
 {.is-info}
 
 ### Actions lors d'un affrontement
+> **En résumé :**
+Les joueurs et créatures se composent en **équipes** qui jouent l'une après l'autre lors de **tours** de 10 secondes chacun.
+Lorsque c'est au tour d'une équipe, elle choisit un de ses membre pour qu'il joue. **Un membre ne peut jouer qu'une fois par tour**. 
+Toutes les créatures disposent de **PA pour faire des actions pendant leur tour et de PR pour réagir**.
+Si tous ses membres ont déjà joué, l'équipe passe. Si toutes les équipes ont passé, le tour se termine.
+**A la fin de chaque tour, tous les PA et PR inutilisés sont perdus.**
+{.is-warning}
+
 L'affrontement entre les personnages et d'autres créatures est un condensé de prise de décision de la part de chaque camp à tour de rôle dans un laps de temps très court. Cela n'affecte pas la structure de la prise de décision ci-dessus, mais elle est plus codifiée.
 La métrique temporelle d'un combat est le "tour" qui dure 10 secondes. 6 tours correspondent donc à 1 minute de temps dans le jeu. Chaque tour, les différents antagonistes vont se composer en équipe et jouer chacun leur tour. Au premier tour, le MJ détermine quelle équipe commence. Cette dernière va choisir parmi ses membres qui joue. Si aucun ne peut jouer, elle passe. Une fois que le membre choisi a joué, il ne peut plus être choisi de nouveau jusqu'à la fin du tour en cours et passe la main à l'autre équipe. Les différentes équipes vont donc jouer alternativement. Lorsque toutes les équipes ont passé, le tour se termine et un nouveau tour commence.
 Pendant son tour, un personnage dispose d'un certain nombre de Points d'Actions (PA), généralement 6, qu'il peut utiliser pour faire une ou plusieurs actions. Il paye le coût en PA associé à l'action puis l'exécute. Tous les PA inutilisés à la fin du tour sont perdus. Chaque personnage dispose aussi de Points de Réaction, généralement 1, qui peuvent lui servir pour réagir à un élément extérieur, par exemple bloquer une attaque portée contre lui. Il n'est pas possible de réagir à ses propres actions.
