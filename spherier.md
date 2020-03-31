@@ -2,7 +2,7 @@
 title: Le Sphérier
 description: 
 published: true
-date: 2020-03-31T12:57:47.652Z
+date: 2020-03-31T21:49:38.856Z
 tags: 
 ---
 
@@ -26,3 +26,9 @@ A priori, à l'exception de la recherche de mots-clés, il n'est pas nécessaire
 
 - [Règles](/spherier/core)
 - [Glossaire](/spherier/glossary)
+
+- Espace de travail Notions (obsolète): https://www.notion.so/spherier/
+- Repertoire de sauvegarde GitHub: https://github.com/de-dale/spherier
+- Présentation GitHub : https://de-dale.github.io/spherier
+- Présentation GitBook:
+https://de-dale.gitbook.io/spherier
