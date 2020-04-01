@@ -2,18 +2,31 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-01T21:28:05.717Z
+date: 2020-04-01T22:04:06.424Z
 tags: 
 ---
 
 Bien penser à classer les documents selon l'un des 4 types
 
-http://divio.com/blog/documentation/
 http://technicalcommunicationuk.com/wp/wp-content/uploads/2018/10/Daniele-Procida-–-Four-functions-in-the-structure-of-technical-documentation-and-why-they-matter.pdf
+http://divio.com/blog/documentation/
 
 # Tutoriaux
+Des instructions prennent le lecteur par la main, à travers une série d'étapes permettant de compléter un projet. 
+
 > TUTORIALS
-lessons that take the reader by the hand through a series of steps to complete a project
+lessons that take the reader by the hand through a
+series of steps to complete a project
+
+CE QUI IMPORTE
+- Apprendre en faisant
+- Démarrer
+- Inspirer la confiance
+- la répétabilité
+- une impression immédiate d'accomplissement
+- du concretbet non de l'abstrait
+- le minimum d'explications nécessaire s
+- pas de distraction
 
 WHAT MATTERS
 ▸ learning by doing
@@ -25,10 +38,21 @@ WHAT MATTERS
 ▸ minimum necessary explanation
 ▸ no distractions
 
-# Guids pratiques
+# Guides pratiques
+Des guides permettant au lecteur de naviguer à travers les étapes nécessaire à la résolution d'un problème commun. 
+
 > HOW-TO GUIDES
 guides that take the reader through the steps required
 to solve a common problem
+
+CE QUI IMPORTE
+- une série d'étapes
+- un focus sur l'objectif
+- adresser une question spécifique
+- pas d'explication superflue
+- un minimum de flexibilité
+- une application pratique
+- un nommage correct
 
 WHAT MATTERS
 ▸ a series of steps
@@ -90,6 +114,7 @@ Most useful when we’re studying: Edxplaination & Tuto
 > **Reference guides** contain technical reference for APIs and other aspects of Django’s machinery. They describe how it works and how to use it but assume that you have a basic understanding of key concepts.
 > **How-to guides** are recipes. They guide you through the steps involved in addressing key problems and use-cases. They are more advanced than tutorials and assume some knowledge of how Django works.
 
+witter)
 divio.com/blog/documentation
 
 
