@@ -2,11 +2,90 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-03-29T19:29:44.990Z
+date: 2020-04-01T12:56:31.125Z
 tags: 
 ---
 
 Bien penser à classer les documents selon l'un des 4 types
+
+http://technicalcommunicationuk.com/wp/wp-content/uploads/2018/10/Daniele-Procida-–-Four-functions-in-the-structure-of-technical-documentation-and-why-they-matter.pdf
+http://divio.com/blog/documentation/
+
+# Tutoriaux
+> TUTORIALS
+lessons that take the reader by the hand through a
+series of steps to complete a project
+
+WHAT MATTERS
+▸ learning by doing
+▸ getting started
+▸ inspiring confidence
+▸ repeatability
+▸ immediate sense of achievement
+▸ concreteness, not abstraction
+▸ minimum necessary explanation
+▸ no distractions
+
+# Guids pratiques
+> HOW-TO GUIDES
+guides that take the reader through the steps required
+to solve a common problem
+
+WHAT MATTERS
+▸ a series of steps
+▸ a focus on the goal
+▸ addressing a specific question
+▸ no unnecessary explanation
+▸ a little flexibility
+▸ practical usability
+▸ good naming 
+
+# Reference
+> REFERENCE
+technical descriptions of the machinery and its
+operation
+
+WHAT MATTERS
+▸ structure
+▸ consistency
+▸ description
+▸ accuracy
+
+# Explications
+> EXPLANATION
+discussions that clarify and illuminate a particular topic
+
+WHAT MATTERS
+▸ giving context
+▸ explaining why
+▸ multiple examples, alternative approaches
+▸ making connections
+▸ no instruction or technical descriptionWHAT MATTERS
+▸ giving context
+▸ explaining why
+▸ multiple examples, alternative approaches
+▸ making connections
+▸ no instruction or technical description
+
+
+Tuto: LEARNING-ORIENTED
+HowTo: PROBLEM-ORIENTED
+Explaination: UNDERSTANDING-ORIENTED
+Reference: INFORMATION-ORIENTED
+
+Practical step : Tuto & HowTo
+Most useful when we’re working : HowTo & Reference
+Theoretical knowledge: Reference & Explaination
+Most useful when we’re studying: Edxplaination & Tuto
+
+||MOST USEFUL WHEN WE’RE STUDYING| MOST USEFUL WHEN WE’RE WORKING|
+|-|:-:|:-:|
+|Practical steps	|Tutorials |	How-to guides|
+|Theoretical knowledge|	Explanation	|Reference|
+
+witter)
+divio.com/blog/documentation
+
 
 - Get started
 - How to
