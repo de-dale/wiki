@@ -2,7 +2,7 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-01T12:56:31.125Z
+date: 2020-04-01T13:10:16.087Z
 tags: 
 ---
 
