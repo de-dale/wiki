@@ -2,14 +2,14 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-02T07:58:11.265Z
+date: 2020-04-02T08:01:34.896Z
 tags: 
 ---
 
 Bien penser à classer les documents selon l'un des 4 types
 
-http://technicalcommunicationuk.com/wp/wp-content/uploads/2018/10/Daniele-Procida-–-Four-functions-in-the-structure-of-technical-documentation-and-why-they-matter.pdf
-http://divio.com/blog/documentation/
+- 4 Fonctions dans la structure des documentation techniques [PDF](http://technicalcommunicationuk.com/wp/wp-content/uploads/2018/10/Daniele-Procida-–-Four-functions-in-the-structure-of-technical-documentation-and-why-they-matter.pdf) 
+- Blog de [Divio](http://divio.com/blog/documentation/) 
 
 # Tutoriaux
 Des instructions prennent le lecteur par la main, à travers une série d'étapes permettant de compléter un projet. 
