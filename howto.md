@@ -2,7 +2,7 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-02T08:10:36.291Z
+date: 2020-04-02T08:13:18.524Z
 tags: 
 ---
 
@@ -17,6 +17,8 @@ Un tel découpage permet de clarifier ses idées et de produire une documentatio
 - Blog de [Divio](http://divio.com/blog/documentation/) 
 
 # Tutoriaux
+> Pour apprendre
+
 Des instructions prennent le lecteur par la main, à travers une série d'étapes permettant de compléter un projet. 
 
 **CE QUI IMPORTE**
@@ -30,9 +32,11 @@ Des instructions prennent le lecteur par la main, à travers une série d'étape
 - pas de distraction
 
 # Guides pratiques
+> Pour résoudre un problème
+
 Des guides permettant au lecteur de naviguer à travers les étapes nécessaire à la résolution d'un problème commun. 
 
-CE QUI IMPORTE
+**CE QUI IMPORTE**
 - une série d'étapes
 - un focus sur l'objectif
 - adresser une question spécifique
@@ -42,18 +46,22 @@ CE QUI IMPORTE
 - un nommage correct
 
 # Reference
+> Pour informer
+
 Description technique de la machinerie et de ses opérations.
 
-CE QUI IMPORTE
+**CE QUI IMPORTE**
 - Structure
 - Cohérence
 - Description
 - Précision
 
 # Explications
+> Pour aider à comprendre
+
 Discussions permettant de clarifier et illuminer un sujet particulier.
 
-CE QUI IMPORTE
+**CE QUI IMPORTE**
 - Contextualiser
 - Expliquer pourquoi
 - Des exemples multiplies, des approches alternatives
