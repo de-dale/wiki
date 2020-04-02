@@ -2,7 +2,7 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-02T07:53:38.550Z
+date: 2020-04-02T07:58:11.265Z
 tags: 
 ---
 
@@ -14,11 +14,7 @@ http://divio.com/blog/documentation/
 # Tutoriaux
 Des instructions prennent le lecteur par la main, à travers une série d'étapes permettant de compléter un projet. 
 
-> TUTORIALS
-lessons that take the reader by the hand through a
-series of steps to complete a project
-
-CE QUI IMPORTE
+**CE QUI IMPORTE**
 - Apprendre en faisant
 - Démarrer
 - Inspirer la confiance
@@ -28,22 +24,8 @@ CE QUI IMPORTE
 - le minimum d'explications nécessaire s
 - pas de distraction
 
-WHAT MATTERS
-▸ learning by doing
-▸ getting started
-▸ inspiring confidence
-▸ repeatability
-▸ immediate sense of achievement
-▸ concreteness, not abstraction
-▸ minimum necessary explanation
-▸ no distractions
-
 # Guides pratiques
 Des guides permettant au lecteur de naviguer à travers les étapes nécessaire à la résolution d'un problème commun. 
-
-> HOW-TO GUIDES
-guides that take the reader through the steps required
-to solve a common problem
 
 CE QUI IMPORTE
 - une série d'étapes
@@ -54,21 +36,8 @@ CE QUI IMPORTE
 - une application pratique
 - un nommage correct
 
-WHAT MATTERS
-▸ a series of steps
-▸ a focus on the goal
-▸ addressing a specific question
-▸ no unnecessary explanation
-▸ a little flexibility
-▸ practical usability
-▸ good naming 
-
 # Reference
 Description technique de la machinerie et de ses opérations.
-
-> REFERENCE
-technical descriptions of the machinery and its
-operation
 
 CE QUI IMPORTE
 - Structure
@@ -76,17 +45,8 @@ CE QUI IMPORTE
 - Description
 - Précision
 
-WHAT MATTERS
-▸ structure
-▸ consistency
-▸ description
-▸ accuracy
-
 # Explications
 Discussions permettant de clarifier et illuminer un sujet particulier.
-
-> EXPLANATION
-discussions that clarify and illuminate a particular topic
 
 CE QUI IMPORTE
 - Contextualiser
@@ -95,14 +55,7 @@ CE QUI IMPORTE
 - Faire des connexions
 - Pas de consigne, ou de description technique
 
-WHAT MATTERS
-▸ giving context
-▸ explaining why
-▸ multiple examples, alternative approaches
-▸ making connections
-▸ no instruction or technical description
-
-Tuto: LEARNING-ORIENTED
+Tut: LEARNING-ORIENTED
 HowTo: PROBLEM-ORIENTED
 Explaination: UNDERSTANDING-ORIENTED
 Reference: INFORMATION-ORIENTED
