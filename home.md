@@ -2,13 +2,22 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-01T21:22:42.786Z
+date: 2020-04-02T13:26:53.218Z
 tags: 
 ---
 
-# Le Wiki
+> **Bienvenue sur le Wiki!**
+Voici un outil collaboratif pour partager nos différents projets.
+Merci à Sharah, pour cette idée, que j'ai honteusement re-pompée.
+> <span style="text-align:right;display:block">_Faby_</span>
+{.is-info}
 
-Honteusement pompé à Sharah, ce wiki se veut être un outil de travail collaboratif et de partage de nos différents projets.
+
+# Que contient ce Wiki ?
+
+|Projet Renaissance|Sphérier|
+|-|-|
+|Un système de JdR orienté d20||
 
 # Comment contribuer ?
 
