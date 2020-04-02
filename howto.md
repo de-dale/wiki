@@ -2,7 +2,7 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-01T22:04:06.424Z
+date: 2020-04-02T06:18:18.464Z
 tags: 
 ---
 
@@ -64,9 +64,17 @@ WHAT MATTERS
 ▸ good naming 
 
 # Reference
+Description technique de la machinerie et de ses opérations.
+
 > REFERENCE
 technical descriptions of the machinery and its
 operation
+
+CE QUI IMPORTE
+- Structure
+- Cohérence
+- Description
+- Précision
 
 WHAT MATTERS
 ▸ structure
@@ -75,21 +83,24 @@ WHAT MATTERS
 ▸ accuracy
 
 # Explications
+Discussions permettant de clarifier et illuminer un sujet particulier.
+
 > EXPLANATION
 discussions that clarify and illuminate a particular topic
+
+CE QUI IMPORTE
+- Contextualiser
+- Expliquer pourquoi
+- Des exemples multiplies, des approches alternatives
+- Faire des connexions
+- Pas de consigne, ou de description technique
 
 WHAT MATTERS
 ▸ giving context
 ▸ explaining why
 ▸ multiple examples, alternative approaches
 ▸ making connections
-▸ no instruction or technical descriptionWHAT MATTERS
-▸ giving context
-▸ explaining why
-▸ multiple examples, alternative approaches
-▸ making connections
 ▸ no instruction or technical description
-
 
 Tuto: LEARNING-ORIENTED
 HowTo: PROBLEM-ORIENTED
