@@ -2,7 +2,7 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-02T08:13:18.524Z
+date: 2020-04-02T12:07:16.738Z
 tags: 
 ---
 
@@ -11,6 +11,7 @@ Lors de la conception d'une documentation, une bonne pratique est de s'assurer q
 - Guides pratique
 - Référence
 - Explications
+
 Un tel découpage permet de clarifier ses idées et de produire une documentation plus pertinente. 
 
 - 4 Fonctions dans la structure des documentation techniques [PDF](http://technicalcommunicationuk.com/wp/wp-content/uploads/2018/10/Daniele-Procida-–-Four-functions-in-the-structure-of-technical-documentation-and-why-they-matter.pdf) 
