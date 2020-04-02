@@ -2,13 +2,16 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-02T08:06:23.304Z
+date: 2020-04-02T08:10:36.291Z
 tags: 
 ---
 
-Bien penser à classer les documents selon l'un des 4 types
 Lors de la conception d'une documentation, une bonne pratique est de s'assurer que chaque document produit correspond à un, et un seul des quatre types suivants:
-- 
+- Tutoriaux
+- Guides pratique
+- Référence
+- Explications
+Un tel découpage permet de clarifier ses idées et de produire une documentation plus pertinente. 
 
 - 4 Fonctions dans la structure des documentation techniques [PDF](http://technicalcommunicationuk.com/wp/wp-content/uploads/2018/10/Daniele-Procida-–-Four-functions-in-the-structure-of-technical-documentation-and-why-they-matter.pdf) 
 - Blog de [Divio](http://divio.com/blog/documentation/) 
