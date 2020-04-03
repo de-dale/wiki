@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-03T06:36:13.757Z
+date: 2020-04-03T06:36:56.612Z
 tags: 
 ---
 
@@ -27,7 +27,7 @@ Merci à Sharah, pour cette idée, que j'ai honteusement re-pompée.
 # Comment contribuer ?
 Actuellement, Sharah et Faby sont les deux administrateur de ce wiki. Adressez leur vos questions.
 
-<a id="get-started"/>
+<a id="get-started"></a>
 
 ## Tutoriaux
 
@@ -46,13 +46,13 @@ Cliquer sur "OK" en ahaut à droite
 
 Choisir un éditeur parmi les 3 proposés. Priviliégier Le **Markdown** si vous le connaissez, sinon l'**Editeur visuel:** qui est le plus simple à prendre en main.
  
- <a id="howto"/>
+ <a id="howto"></a>
  
  ## Guides pratiques
  
  Comment j'écris mon article en Markdown ? [Petit guide pour le markdown](/home/markdown)
  
- <a id="references"/>
+ <a id="references"></a>
  
  ## Rérérences
  
