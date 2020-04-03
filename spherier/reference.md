@@ -2,7 +2,7 @@
 title: Documentation de référence
 description: 
 published: true
-date: 2020-04-03T13:35:41.199Z
+date: 2020-04-03T13:36:40.655Z
 tags: 
 ---
 
@@ -20,7 +20,7 @@ tags:
 - [Compétences](/spherier/reference/competences)
 {.links-list}
 
-# Liens exteres
+# Liens externes
 
 - [Trello _Espace de travail priviliégié par **Faby**_](https://trello.com/b/df5mWvjz/sphérier)
 - [GithHub _Repertoire de sauvegarde GitHub_](https://github.com/de-dale/spherier)
