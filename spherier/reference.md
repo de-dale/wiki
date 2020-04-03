@@ -2,19 +2,20 @@
 title: Documentation de référence
 description: 
 published: true
-date: 2020-04-03T13:36:40.655Z
+date: 2020-04-03T13:49:03.183Z
 tags: 
 ---
 
 # Règles
 
+- [Glossaire](/spherier/reference/rules)
 - [Glossaire](/spherier/reference/glossary)
 {.links-list}
 
 
 # Listes
 
-- [Sphères](/spherier/reference/spheres)
+- [Sphères](/spherier/reference/listes/spheres)
 - [Facettes](/spherier/reference/facettes)
 - [Capacités](/spherier/reference/capacites)
 - [Compétences](/spherier/reference/competences)
