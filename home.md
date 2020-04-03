@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-03T06:23:43.111Z
+date: 2020-04-03T06:24:50.101Z
 tags: 
 ---
 
@@ -20,14 +20,14 @@ Merci à Sharah, pour cette idée, que j'ai honteusement re-pompée.
 
 # Participer
 
-| [Tutoriaux](#get-started) |[Guids pratiques](#howto) |[Références](#references) |
+| [Tutoriaux](#get-started) |[Guides pratiques](#howto) |[Références](#references) |
 |-|-|-|
 |Guides rapides pour bien démarrer|Guides pour quelques questions courantes|Références vers d'autres outils|
 
 # Comment contribuer ?
 Actuellement, Sharah et Faby sont les deux administrateur de ce wiki. Adressez leur vos questions.
 
-<span id="get-started"/>
+<a id="get-started"/>
 
 ## Tutoriaux
 
@@ -46,14 +46,14 @@ Cliquer sur "OK" en ahaut à droite
 
 Choisir un éditeur parmi les 3 proposés. Priviliégier Le **Markdown** si vous le connaissez, sinon l'**Editeur visuel:** qui est le plus simple à prendre en main.
  
- <span id="howto"/>
+ <a id="howto"/>
  
  ## Guides pratiques
  
  Comment j'écris mon artile en Markdown ?
  [Petit guide pour le markdown](/home/markdown)
  
- <span id="references"/>
+ <a id="references"/>
  
  ## Rérérences
  
