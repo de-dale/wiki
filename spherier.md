@@ -2,7 +2,7 @@
 title: Le Sphérier
 description: 
 published: true
-date: 2020-04-03T07:20:38.019Z
+date: 2020-04-03T07:22:57.929Z
 tags: 
 ---
 
@@ -23,7 +23,7 @@ Les cartes peuvent porter des mots-clés ou des symboles qui font référence à
 A priori, à l'exception de la recherche de mots-clés, il n'est pas nécessaire de chercher un point de règle qui n'apparaît pas sur le Sphérier.
 
 # Comment est-organisé ce sujet ?
-> Comment **sera** en fait...
+> Comment ce **"sera"** en fait...
 {.is-warning}
 <div class="container">
 <div class="row">
@@ -31,13 +31,13 @@ A priori, à l'exception de la recherche de mots-clés, il n'est pas nécessaire
   
 <span style="font-size:1.5em">**[Tutoriaux](/spherier/tutoriaux)**</span>
 
-Pour les joueurs voulant s'initier au Sphérier. Propose des guides simplifier pour créer ou jouer sont premier personnage.
+Pour les joueurs voulant s'initier au Sphérier. Propose des guides simplifiés pour créer ou jouer son premier personnage.
 </div>
 <div class="col-6" id="how-to">
 
 <span style="font-size:1.5em">**[Guides pratiques](/spherier/guides)**</span>
 
-Outils et guides pratiques à destination de joueurs un peu plus expérimentés, ou des MJ en herbe.
+Outils et guides pratiques, à destination de joueurs un peu plus expérimentés, ou des MJ en herbe.
 </div>
 </div>
   
@@ -46,13 +46,13 @@ Outils et guides pratiques à destination de joueurs un peu plus expérimentés,
   
 <span style="font-size:1.5em">**[Concepts clés](/spherier/concepts)**</span>
 
-Explication et analyses de quelques concepts clés du Sphérier. Diiscussions ouvertes surles évolution visibles du Sphérier.
+Explications et analyses de quelques concepts clés du Sphérier. Discussions ouvertes sur les évolution possibles du Sphérier.
 </div>
 <div class="col-6" id="reference">
   
 <span style="font-size:1.5em">**[Documentation de référence](/spherier/reference)**</span>
 
-Ensemble des règles permettant d'utiliser le Sphérier. Liste également les éléments de jeu ; Sphères, Compétences, Capacité, Glossaire.
+Ensemble des règles permettant d'utiliser le Sphérier. Liste également les éléments de jeu : Sphères, Compétences, Capacité, Glossaire.
 </div>
 </div>
 </div>
