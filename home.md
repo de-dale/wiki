@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-03T06:24:50.101Z
+date: 2020-04-03T06:26:23.620Z
 tags: 
 ---
 
@@ -34,8 +34,8 @@ Actuellement, Sharah et Faby sont les deux administrateur de ce wiki. Adressez l
 ### S'inscrire et se connecter
 Les inscriptions sont libres et permettent d'accéder à tout le wiki, de tout modifier.
 
-- [S'inscrire](/register)
-- [Se connecter](/login)
+- [S'inscrire](http://de-dale.hd.free.fr/register)
+- [Se connecter](http://de-dale.hd.free.fr/login)
 
 ### Créer une page 
 
