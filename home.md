@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-03T06:37:23.213Z
+date: 2020-04-03T06:40:56.715Z
 tags: 
 ---
 
@@ -49,6 +49,8 @@ Choisir un éditeur parmi les 3 proposés. Priviliégier Le **Markdown** si vous
  ## Guides pratiques
  
  Comment j'écris mon article en Markdown ? [Petit guide pour le markdown](/home/markdown)
+ 
+ Quelques conseils pour la rédaction de ma documenation : [Guide pratique de documentation](/home/howto/documentation-guidelines)
  
  <a id="references"></a>
  ## Rérérences
