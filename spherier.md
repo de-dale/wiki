@@ -2,7 +2,7 @@
 title: Le Sphérier
 description: 
 published: true
-date: 2020-04-03T07:22:57.929Z
+date: 2020-04-03T07:23:40.469Z
 tags: 
 ---
 
@@ -59,7 +59,7 @@ Ensemble des règles permettant d'utiliser le Sphérier. Liste également les é
 
 
 > TODO:
-> - get-started: Bien démarrer / Par où commencer ? 
+> - get-started: Bien démarrer / Par où commencer / Premiers pas ? 
 > - how-to: Comment je... ? 
 > - référentiel: guide complet
 > - discussion: et si...?
