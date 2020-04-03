@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-02T13:26:53.218Z
+date: 2020-04-03T06:23:43.111Z
 tags: 
 ---
 
@@ -14,28 +14,49 @@ Merci à Sharah, pour cette idée, que j'ai honteusement re-pompée.
 
 
 # Que contient ce Wiki ?
+- [<span style="font-size:1.25em">Projet Renaissance</span> <br> *Un système de JdR orienté d20*](/projet-renaissance)
+- [<span style="font-size:1.25em">Sphérier</span>  <br> *Un système de JdR orienté déconstruction*](/spherier)
+{.links-list}
 
-|Projet Renaissance|Sphérier|
-|-|-|
-|Un système de JdR orienté d20||
+# Participer
+
+| [Tutoriaux](#get-started) |[Guids pratiques](#howto) |[Références](#references) |
+|-|-|-|
+|Guides rapides pour bien démarrer|Guides pour quelques questions courantes|Références vers d'autres outils|
 
 # Comment contribuer ?
+Actuellement, Sharah et Faby sont les deux administrateur de ce wiki. Adressez leur vos questions.
 
-## S'inscrire
+<span id="get-started"/>
+
+## Tutoriaux
+
+### S'inscrire et se connecter
 Les inscriptions sont libres et permettent d'accéder à tout le wiki, de tout modifier.
-Actuellement, Sharah et Faby sont les deux administrateur de ce wiki.
 
-Option: il serait possible d'activer les modules de connexion:
-* via Slack
-* via Google
-A voir si ça vaut le coup, à l'usage.
+- [S'inscrire](/register)
+- [Se connecter](/login)
 
-## Créer une page 
-> Guide officiel de [WikiJS](https://docs.requarks.io/guide/intro)
+### Créer une page 
 
-Sinon, il y a un bouton en haut à droite pour créer une page.
-Il y a le choix entre 3 éditeurs différents:
- - **Code :** pour écrire directement du HTML
- - **[Markdown](https://fr.wikipedia.org/wiki/Markdown) :** pour écrire du texte avec la syntaxe Markdown
-   - [Petit guide pour le markdown](/home/markdown)
- - **Editeur visuel:** le plus simple à prendre en main.
+Il y a un bouton en haut à droite pour créer une page.Cliquer dessus.
+Rensigner le nom de votre nouvelle page.
+Renseiger son emplacement (non définitif).
+Cliquer sur "OK" en ahaut à droite
+
+Choisir un éditeur parmi les 3 proposés. Priviliégier Le **Markdown** si vous le connaissez, sinon l'**Editeur visuel:** qui est le plus simple à prendre en main.
+ 
+ <span id="howto"/>
+ 
+ ## Guides pratiques
+ 
+ Comment j'écris mon artile en Markdown ?
+ [Petit guide pour le markdown](/home/markdown)
+ 
+ <span id="references"/>
+ 
+ ## Rérérences
+ 
+ Guide officiel de [WikiJS](https://docs.requarks.io/guide/intro)
+ 
+ Le Markdown par [Wikipedia](https://fr.wikipedia.org/wiki/Markdown) 
