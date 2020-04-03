@@ -2,13 +2,14 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-03T06:45:10.791Z
+date: 2020-04-03T14:23:40.218Z
 tags: 
 ---
 
 > **Bienvenue sur le Wiki!**
-Voici un outil collaboratif pour partager nos différents projets.
-Merci à Sharah, pour cette idée, que j'ai honteusement re-pompée.
+>
+> Voici un outil collaboratif pour partager nos différents projets.
+> Merci à Sharah, pour cette idée, que j'ai honteusement re-pompée.
 > <span style="text-align:right;display:block">_Faby_</span>
 {.is-info}
 
