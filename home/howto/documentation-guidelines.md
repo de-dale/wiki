@@ -2,11 +2,11 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-03T06:46:42.795Z
+date: 2020-04-03T06:46:51.430Z
 tags: howto, documentation
 ---
 
-> ⚠️ Article en cours de rédaction ⚠️
+> ⚠️ Article en cours de rédaction/traduction ⚠️
 {.is-warning}
 
 Pour rédiger une documentation, il existe un secret qui mérite d'être connu : il n'y a pas une unique chose qui s'appelle documentation : il y en a quatre.
