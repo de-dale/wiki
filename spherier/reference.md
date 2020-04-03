@@ -2,13 +2,13 @@
 title: Documentation de référence
 description: 
 published: true
-date: 2020-04-03T13:49:24.872Z
+date: 2020-04-03T13:49:37.367Z
 tags: 
 ---
 
 # Règles
 
-- [Règles de base](/spherier/reference/règles)
+- [Règles de base](/spherier/reference/regles)
 - [Glossaire](/spherier/reference/glossary)
 {.links-list}
 
