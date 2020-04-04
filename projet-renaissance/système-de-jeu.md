@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T17:42:37.861Z
+date: 2020-04-04T17:43:35.235Z
 tags: 
 ---
 
@@ -20,8 +20,9 @@ Un personnage appartient à une classe qui lui apporte des pouvoirs spécifique 
 #### Compétences
 Chaque personnage dispose de compétences qui lui sont propres, comme une expertise dans un domaine magique, une discrétion naturelle ou la maîtrise d'un art. Ces compétences peuvent s'avérer précieuses dans les bonnes conditions et aider le personnage à réussir un test, mais elle sont définitives.
 #### Voies
-Les voies représentent les chemins possibles que peut emprunter le personnage au cours de ses aventures. Elles sont puissantes, mais à double tranchants : chacune dispose d'un effet positif et négatif. Un personnage dispose d'un maximum de deux voies qu'il peut choisir quand il le souhaite, mais ce choix est définitif un fois fait. Chaque jour, le personnage pourra sélectionner les pouvoirs des voies qu'il souhaite.
+Les voies représentent les chemins possibles que peut emprunter le personnage au cours de ses aventures. Elles sont puissantes, mais à double tranchants : chacune dispose d'un effet positif et négatif. Un personnage dispose d'un maximum de deux voies qu'il peut choisir quand il le souhaite et chaque jour sélectionner les pouvoirs correspondant qui lui convienne.
 #### Objets
+
 #### [Création et évolution](points-progression)
 Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
 
