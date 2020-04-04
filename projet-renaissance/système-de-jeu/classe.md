@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-04-04T18:47:19.677Z
+date: 2020-04-04T18:51:27.877Z
 tags: 
 ---
 
@@ -14,5 +14,6 @@ Your content here
 Les Erudits sont 
 
 ## Fanatique
+Les Fanatiques sont les porteurs de la foi d'une créature avec une ascendance divine. Ils en sont ses plus fidèles défenseurs. En échange, la créature leur confère une étincelle de sa stature divine, mais uniquement lorsqu'ils agissent en accord avec son dogme et ses préceptes. Elle les autorise aussi à juger leurs ennemis et à bénir leurs alliés en son nom.
 
 ## Ingénieur
