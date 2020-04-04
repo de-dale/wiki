@@ -2,12 +2,12 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-04-04T19:18:58.506Z
+date: 2020-04-04T19:19:28.487Z
 tags: 
 ---
 
 # Apport des classes
-Your content here
+
 
 # Liste des classes
 ## Erudit
