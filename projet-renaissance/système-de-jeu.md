@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T18:00:03.794Z
+date: 2020-04-04T18:00:37.442Z
 tags: 
 ---
 
@@ -13,17 +13,17 @@ Les possibilités d'action des personnages sont très vastes, l'imagination éta
 Le contexte de l'histoire dans laquelle les personnages évoluent est donné par le MJ. Son rôle est de poser le décor et les situations rencontrées par les personnages puis de décrire la réaction du monde aux actions de ces derniers.
 ## Personnage
 Un personne est défini par 5 aspects :
-#### [Caratéristiques](caractéristiques)
+### [Caratéristiques](caractéristiques)
 Chaque personnage est défini par la valeur de ses Caractéristiques, au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**. Elles présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
-#### Classe
+### Classe
 Un personnage appartient à une classe qui lui apporte des pouvoirs spécifique ainsi qu'une mécanique de ressource afin d'utiliser des actions spéciales ou d'améliorer ses capacités existantes.
-#### Compétences
+### Compétences
 Chaque personnage dispose de compétences qui lui sont propres, comme une expertise dans un domaine magique, une discrétion naturelle ou la maîtrise d'un art. Ces compétences peuvent s'avérer précieuses dans les bonnes conditions et aider le personnage à réussir un test.
 ### Voies
 Les deux voies que choisit d'emprunter le personnage sont à double tranchant : elles apportent un effet intéressant et des pouvoirs puissants si le personnage choisi d'investir dedans, mais aussi des défauts. Le choix d'une voie peut être fait n'importe quand, mais il est définitif. Il est possible de changer les pouvoirs des voies chaque jour.
 ### Equipement
 Le dernier aspect d'un personnage est son équipement, c'est à dire les objets avec lesquels il part à l'aventure. Un personnage ne peut porter qu'un objet par emplacement et les objets magiques lui demanderont de se lier à eux pour utiliser leur pleine puissance.
-#### [Création et évolution](points-progression)
+### [Création et évolution](points-progression)
 Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
 
 ## [Actions des personnages](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/actions)
