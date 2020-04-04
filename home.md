@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-04T12:09:10.704Z
+date: 2020-04-04T15:47:30.856Z
 tags: 
 ---
 
@@ -15,8 +15,8 @@ tags:
 
 
 # Que contient ce Wiki ?
-- [<span style="font-size:1.25em">Projet Renaissance</span> <br> *Un système de JdR orienté d20*](/projet-renaissance)
-- [<span style="font-size:1.25em">Sphérier</span>  <br> *Un système de JdR orienté déconstruction*](/spherier)
+- [<span style="font-size:1.25em"><i class="mdi mdi-infinity"></i> Projet Renaissance</span> <br> *Un système de JdR orienté d20*](/projet-renaissance)
+- [<span style="font-size:1.25em"><i class="mdi mdi-hexagon-multiple-outline"></i> Sphérier</span>  <br> *Un système de JdR orienté déconstruction*](/spherier)
 {.links-list}
 
 # Participer
