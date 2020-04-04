@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T17:52:50.241Z
+date: 2020-04-04T17:57:38.907Z
 tags: 
 ---
 
@@ -14,10 +14,14 @@ Le contexte de l'histoire dans laquelle les personnages évoluent est donné par
 ## Personnage
 #### [Caratéristiques](caractéristiques)
 Chaque personnage est défini par la valeur de ses Caractéristiques, au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**. Elles présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
-#### Classes
+#### Classe
 Un personnage appartient à une classe qui lui apporte des pouvoirs spécifique ainsi qu'une mécanique de ressource afin d'utiliser des actions spéciales ou d'améliorer ses capacités existantes.
 #### Compétences
 Chaque personnage dispose de compétences qui lui sont propres, comme une expertise dans un domaine magique, une discrétion naturelle ou la maîtrise d'un art. Ces compétences peuvent s'avérer précieuses dans les bonnes conditions et aider le personnage à réussir un test.
+### Voies
+Les voies que choisit d'emprunter le personnage sont 
+### Equipement
+Le dernier aspect d'un personnage est son équipement, c'est à dire les objets avec lesquels il part à l'aventure. Un personnage ne peut porter qu'un objet par emplacement et les objets magiques lui demanderont de se lier à eux pour utiliser leur pleine puissance.
 #### [Création et évolution](points-progression)
 Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
 
