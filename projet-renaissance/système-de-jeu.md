@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T18:00:48.865Z
+date: 2020-04-04T18:03:11.864Z
 tags: 
 ---
 
@@ -12,7 +12,7 @@ Les personnages sont définis par des statistiques quantitatives et qualitatives
 Les possibilités d'action des personnages sont très vastes, l'imagination étant la principale limite. Mais cela ne signifie pas qu'elles seront toutes couronnées de succès. Les plus basiques le seront sans problème, mais les tâches plus complexes seront plus risquées à entreprendre, voir tout simplement impossibles.
 Le contexte de l'histoire dans laquelle les personnages évoluent est donné par le MJ. Son rôle est de poser le décor et les situations rencontrées par les personnages puis de décrire la réaction du monde aux actions de ces derniers.
 ## Personnage
-Un personne est défini par 5 aspects :
+Un personnage est défini par 5 aspects :
 ### [Caratéristiques](caractéristiques)
 Chaque personnage est défini par la valeur de ses Caractéristiques, au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**. Elles présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
 ### Classe
