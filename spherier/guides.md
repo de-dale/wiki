@@ -2,7 +2,7 @@
 title: ⚙ Outils ⚒
 description: 
 published: true
-date: 2020-04-04T05:19:16.900Z
+date: 2020-04-04T05:30:35.435Z
 tags: 
 ---
 
@@ -14,7 +14,7 @@ tags:
 
 # Comment ?
 
-- [Comment contribuer ? *Apporter *m]()
+- [Comment contribuer ? *Apporter ma pierre à l'edifice*]()
 {.links-list}
 
 # Conception
@@ -27,8 +27,9 @@ tags:
 
 # Table d'échelle de puissance
 Correspondance de scaling entre les puissances :
-```
-|  n | 2n-1 | n(n+1)/2 |  n2 |
+
+|  n | 2n-1 | n(n+1)/2 |  n² |
+|---:|-----:|---------:|----:|
 |  1 |    1 |        1 |   1 |
 |  2 |    3 |        3 |   4 |
 |  3 |    5 |        6 |   9 |
@@ -41,7 +42,7 @@ Correspondance de scaling entre les puissances :
 | 10 |   19 |       55 | 100 |
 | 11 |   21 |       66 | 121 |
 | 12 |   23 |       78 | 144 |
-```
+
 # Évolution des capacités
 
 - Capacité mineur
