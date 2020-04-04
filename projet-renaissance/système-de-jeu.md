@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T18:22:16.188Z
+date: 2020-04-04T18:22:57.281Z
 tags: 
 ---
 
@@ -19,7 +19,7 @@ Un personnage est un être entier avec un passé et une envie de futur, une hist
 #### Statistiques initiales
 Un personnage est aussi un ensemble de statistiques qui garantissent que tous les personnages auront une base chiffrée identique, qui sera modifiée par les choix de création et de développement de chaque personnage.
 #### [Caratéristiques](caractéristiques)
-Chaque personnage possède les 4 mêmes Caractéristiques : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**, mais avec des valeurs différentes. Ces dernières présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
+Les Caractéristiques sont au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**, Chaque personnage peut y affecter des valeurs différentes. Ces dernières présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
 #### Classe
 Un personnage appartient à une classe qui lui apporte des pouvoirs spécifiques ainsi qu'une mécanique de ressource afin d'utiliser des actions spéciales ou d'améliorer ses capacités existantes.
 #### Compétences
