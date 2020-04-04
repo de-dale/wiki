@@ -2,7 +2,7 @@
 title: Glossaire
 description: 
 published: true
-date: 2020-04-04T15:29:20.230Z
+date: 2020-04-04T15:34:50.102Z
 tags: 
 ---
 
@@ -15,7 +15,7 @@ Projection d'un joueur dans le jeu.
 Arbre de compétence d'un personnage. 
 
 # [Sphère](https://trello.com/c/ZJVIytbL) 
-Une [Sphère](/spherier/reference/regles/spheres)[&nbsp;](https://trello.com/c/ZJVIytbL) est un sous-arbre de compétence d'un personnage. 
+Une [Sphère](/spherier/reference/regles/personnage#spheres)[&nbsp;](https://trello.com/c/ZJVIytbL) est un sous-arbre de compétence d'un personnage. 
 
 # [Facette](https://trello.com/c/nNBTIelT)
 Feuille de l'arbre de compétence d'un personnage. 
