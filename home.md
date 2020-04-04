@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-04T15:49:31.002Z
+date: 2020-04-04T15:49:48.769Z
 tags: 
 ---
 
@@ -18,6 +18,8 @@ tags:
 - [<span style="font-size:1.25em"><i class="mdi mdi-infinity"></i> Projet Renaissance</span> <br> *Un système de JdR orienté d20*](/projet-renaissance)
 - <i class="mdi mdi-hexagon-multiple-outline"></i> [<span style="font-size:1.25em"><i class="mdi mdi-hexagon-multiple-outline"></i> Sphérier</span>  <br> *Un système de JdR orienté déconstruction*](/spherier)
 {.links-list}
+
+<i class="mdi mdi-hexagon-multiple-outline"></i>
 
 # Participer
 
