@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T17:47:12.151Z
+date: 2020-04-04T17:47:29.151Z
 tags: 
 ---
 
@@ -24,7 +24,7 @@ Les voies représentent les chemins possibles que peut emprunter le personnage a
 #### Equipement
 Le dernier aspect d'un personnage est son équipement,à savoir les objets qu'il emmène avec lui lors de ses aventures. Chaque jour, le personnage peut changer tout son équipement s'il le souhaite afin de bénéficier des pouvoirs d'objets différents.
 #### [Création et évolution](points-progression)
-Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
+*Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6.*
 
 ## Actions et prise de décision
 ### Actions de personnages
