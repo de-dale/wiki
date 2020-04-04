@@ -2,16 +2,18 @@
 title: Classes
 description: 
 published: true
-date: 2020-04-04T20:00:09.783Z
+date: 2020-04-04T20:07:02.136Z
 tags: 
 ---
 
 # Pouvoirs des classes
-La classe d'un personnage lui apporte des pouvoirs uniques et surtout un système de ressource qui lui permettra d'augmenter la puissance des capacités qu'il utilise d'où qu'elles viennent (classe, voie ou équipement).
+La classe d'un personnage lui apporte des pouvoirs uniques et surtout un système de ressources qui lui permettra d'augmenter la puissance des capacités qu'il utilise, et ce d'où qu'elles viennent (classe, voie ou équipement).
 ## Points de classe
-Le personnage peut améliorer ses pouvoirs de classes en achetant des Points de classe grâce à ses Points de Progression et en les affectant aux améliorations de son choix. Les Points de classe achetés le sont définitivement.
+Le personnage peut améliorer ses pouvoirs de classe en achetant des **Points de classe** grâce à ses **Points de Progression** et en les affectant aux **améliorations** de son choix. Les Points de classe achetés le sont définitivement.
 ## Améliorations
 Chaque pouvoir de classe présente une liste d'améliorations possibles. Sélectionner une amélioration coûte 1 Point de classe et il faut avoir déjà dépensé dans le pouvoir un nombre de Point de classe au moins égal au rang de l'amélioration. Le personnage peut réaffecter tous ses Points de classe après chaque Repos long.
+
+**AJOUT TABLEAU RANGS + PREREQUIS**
 
 > **Exemple**
 Alice est une Fanatique qui dispose des pouvoirs de Don divin, Jugement, Bénédiction et Incarnation. Elle décide d'acheter 3 Points de Classe avec ses Points de progression (comme ce sont ses 3 premiers, ils lui coûteront 6 PP). Elle commence par améliorer son Jugement : une des amélioration de rang 1 l'intéresse beaucoup, mais elle doit d'aborder sélectionner une amélioration de rang 0 car elle doit avoir mis au moins 1 Point de classe dans le Jugement avant d'avoir accès aux améliorations de rang 1. Elle sélectionne donc une amélioration de Jugement de rang 0 puis celle de rang 1 qui la tentait. Enfin, elle met son dernier Point de classe dans une amélioration de rang 0 du Don divin.
