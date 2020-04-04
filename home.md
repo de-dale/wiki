@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-03T14:23:40.218Z
+date: 2020-04-04T12:09:10.704Z
 tags: 
 ---
 
@@ -56,6 +56,8 @@ Choisir un éditeur parmi les 3 proposés. Priviliégier Le **Markdown** si vous
  <a id="references"></a>
  ## Rérérences
  
- Guide officiel de [WikiJS](https://docs.requarks.io/guide/intro)
- 
- Le Markdown par [Wikipedia](https://fr.wikipedia.org/wiki/Markdown) 
+ - [WikiJS *Guide officiel*](https://docs.requarks.io/guide/intro)
+ - [Wikipedia *Nous explique le Markdown*](https://fr.wikipedia.org/wiki/Markdown) 
+ - [Unilist *Une liste pratique pour mettre des unicodes*](https://unilist.raphaelbastide.com)
+- [Material Design Icons Cheat Sheet*Une liste pratique des Icones pour "Material Design Icons"*](https://cdn.materialdesignicons.com/5.0.45/)
+{.links-list}
