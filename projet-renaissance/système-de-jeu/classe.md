@@ -2,12 +2,12 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-04-04T19:19:28.487Z
+date: 2020-04-04T19:22:20.461Z
 tags: 
 ---
 
 # Apport des classes
-
+La classe d'un personnage lui apporte des pouvoirs uniques et surtout un système de ressource qui lui permettra d'améliorer les capacités qu'il utilise, d'où qu'elles viennent (classe, voie ou équipement).
 
 # Liste des classes
 ## Erudit
