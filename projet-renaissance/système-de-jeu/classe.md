@@ -2,12 +2,16 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-04-04T19:22:20.461Z
+date: 2020-04-04T19:33:09.008Z
 tags: 
 ---
 
-# Apport des classes
-La classe d'un personnage lui apporte des pouvoirs uniques et surtout un système de ressource qui lui permettra d'améliorer les capacités qu'il utilise, d'où qu'elles viennent (classe, voie ou équipement).
+# Pouvoirs des classes
+La classe d'un personnage lui apporte des pouvoirs uniques et surtout un système de ressource qui lui permettra d'augmenter la puissance des capacités qu'il utilise d'où qu'elles viennent (classe, voie ou équipement).
+## Points de classe
+Le personnage peut améliorer ses pouvoirs de classes en achetant des Points de classe grâce à ses Points de Progression et en les affectant aux améliorations de son choix. Les Points de classe achetés le sont définitivement, 
+## Améliorations
+Chaque pouvoir de classe présente une liste d'améliorations possibles. Choisir une amélioration coûte 1 Point de classe et il faut avoir déjà dépensé dans le pouvoir un nombre de Point de classe au moins égal au rang de l'amélioration. Le personnage peut réaffecter tous ses Points de classe après chaque Repos long.
 
 # Liste des classes
 ## Erudit
