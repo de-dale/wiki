@@ -2,7 +2,7 @@
 title: Personnage
 description: 
 published: true
-date: 2020-04-04T18:50:55.968Z
+date: 2020-04-04T18:52:10.059Z
 tags: 
 ---
 
@@ -113,6 +113,9 @@ Une fois la Facette débloquée le personnage bénéficie de tous les `Capacité
 Terme proche: Talent.
 
 [Sphérier-trello][]
+[Sphérier-trello][test]
+[test][Sphérier-trello]
+
 [Sphérier][trello][]
 
 <!-- Référentiel -->
