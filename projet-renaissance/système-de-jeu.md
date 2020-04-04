@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T17:34:14.325Z
+date: 2020-04-04T17:42:37.861Z
 tags: 
 ---
 
@@ -12,12 +12,16 @@ Les personnages sont définis par des statistiques quantitatives et qualitatives
 Les possibilités d'action des personnages sont très vastes, l'imagination étant la principale limite. Mais cela ne signifie pas qu'elles seront toutes couronnées de succès. Les plus basiques le seront sans problème, mais les tâches plus complexes seront plus risquées à entreprendre, voir tout simplement impossibles.
 Le contexte de l'histoire dans laquelle les personnages évoluent est donné par le MJ. Son rôle est de poser le décor et les situations rencontrées par les personnages puis de décrire la réaction du monde aux actions de ces derniers.
 ## Personnage
+Un personnage est composé de 5 aspects différents :
 #### [Caratéristiques](caractéristiques)
 Chaque personnage est défini par la valeur de ses Caractéristiques, au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**. Elles présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
 #### Classes
 Un personnage appartient à une classe qui lui apporte des pouvoirs spécifique ainsi qu'une mécanique de ressource afin d'utiliser des actions spéciales ou d'améliorer ses capacités existantes.
 #### Compétences
-Chaque personnage dispose de compétences qui lui sont propres, comme une expertise dans un domaine magique, une discrétion naturelle ou la maîtrise d'un art. Ces compétences peuvent s'avérer précieuses dans les bonnes conditions et aider le personnage à réussir un test.
+Chaque personnage dispose de compétences qui lui sont propres, comme une expertise dans un domaine magique, une discrétion naturelle ou la maîtrise d'un art. Ces compétences peuvent s'avérer précieuses dans les bonnes conditions et aider le personnage à réussir un test, mais elle sont définitives.
+#### Voies
+Les voies représentent les chemins possibles que peut emprunter le personnage au cours de ses aventures. Elles sont puissantes, mais à double tranchants : chacune dispose d'un effet positif et négatif. Un personnage dispose d'un maximum de deux voies qu'il peut choisir quand il le souhaite, mais ce choix est définitif un fois fait. Chaque jour, le personnage pourra sélectionner les pouvoirs des voies qu'il souhaite.
+#### Objets
 #### [Création et évolution](points-progression)
 Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
 
