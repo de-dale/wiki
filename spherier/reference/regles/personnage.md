@@ -2,7 +2,7 @@
 title: Personnage
 description: 
 published: true
-date: 2020-04-04T18:57:08.214Z
+date: 2020-04-04T21:17:09.019Z
 tags: 
 ---
 
@@ -66,9 +66,7 @@ Une **Sphère** est le regroupement ordonné de plusieurs **Facettes** (généra
 Une **Sphère** possède :
 
 - un **Nom**
-
 - un ou plusieurs **Pré-requis**
-
 - une ou plusieures **Facettes**
 
 > Généralement, les pré-requis sont des **palliers d'Affinité** (obsolète) ou des **palliers de Compétence**.
@@ -103,13 +101,11 @@ Elle porte un nombre indéterminé de `Capacité(s)` et/ou `Affinité(s)`.
 Une Facette peut être débloquée par du **Karma**.
 
 >  Actuellement, toutes les Facettes ont le même coût : 1 point de Karma.
-
 Cela peut être amené à changer. 
 
 Une fois la Facette débloquée le personnage bénéficie de tous les `Capacité(s)` et/ou `Affinité(s)` qui y sont mentionnées. 
 
 > **NB:**
-
 Terme proche: Talent.
 
 <!-- Référentiel -->
