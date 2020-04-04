@@ -2,7 +2,7 @@
 title: Personnage
 description: 
 published: true
-date: 2020-04-04T15:34:23.396Z
+date: 2020-04-04T17:52:08.431Z
 tags: 
 ---
 
@@ -72,6 +72,17 @@ Une **Sphère** possède :
 - une ou plusieures **Facettes**
 
 > Généralement, les pré-requis sont des **palliers d'Affinité** (obsolète) ou des **palliers de Compétence**.
+
+## Se dédouaner de D&D
+
+L'idée est de définir directement les gameplay, dans se mettre dans une caract ou une autre.
+
+Il faut se recentrer sur ce qui est important : les facettes.
+- une Sphère n'est qu'une projections.
+- une Sphère est un gameplay.
+- les gameplay peuvent se marcher dessus
+- les gameplay peuvent se synergiser
+
 
 ## Revente d'une Sphère
 
