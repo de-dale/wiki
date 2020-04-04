@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T18:11:01.226Z
+date: 2020-04-04T18:11:37.159Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ Les possibilités d'action des personnages sont très vastes, l'imagination éta
 Le contexte de l'histoire dans laquelle les personnages évoluent est donné par le MJ. Son rôle est de poser le décor et les situations rencontrées par les personnages puis de décrire la réaction du monde aux actions de ces derniers.
 ## Personnage
 ### Création
-Lors de sa création, le joueur peut laisser libre cours à son imagination pour tout ce qui touche à l'aspect et au comportement de son personnage. Les parties"techniques" du personnage, tels que sa classe, ses capacités, ses compétences, ses voies et ses caractéristiques, sont plus normés afin de garantir un équilibrage entre plusieurs personnages.
+Lors de sa création, le joueur peut laisser libre cours à son imagination pour tout ce qui touche à l'aspect et au comportement de son personnage. Les parties"techniques" du personnage, tels que sa classe, ses capacités, ses compétences, ses voies et ses caractéristiques, sont plus normés afin de garantir un équilibrage entre plusieurs personnages, grâce aux **Points de Progression**.
 #### [Identité, aspect et comportement](points-progression)
 #### [Caratéristiques](caractéristiques)
 Chaque personnage est défini par la valeur de ses Caractéristiques, au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**. Elles présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
