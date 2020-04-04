@@ -2,11 +2,11 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-03-31T20:53:41.267Z
+date: 2020-04-04T17:21:38.307Z
 tags: 
 ---
 
-# Présentation et usage des caractéristiques
+# Usage des caractéristiques
 Les caractéristiques sont des éléments qui définissent chaque personnage, sur l'aspect physique et mental. Elles sont au nombre de 4 : la **[Carrure](##Carrure)**, la **[Dextérité](##Dextérité)**, la **[Réflexion](##Réflexion)** et la **[Volonté](##Volonté)**.
 Lorsque le MJ demande au joueur de faire un test de caractéristique, c'est à dire lancer un d20 et y ajouter la valeur de la caractéristique choisie (maximum +5) afin de déterminer si une action risquée est une réussite où un échec. La caractéristique choisie dépend de l'action entreprise et de la façon de faire.
 > Exemple :
