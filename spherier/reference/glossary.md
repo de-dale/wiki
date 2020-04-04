@@ -2,7 +2,7 @@
 title: Glossaire
 description: 
 published: true
-date: 2020-04-04T15:56:26.226Z
+date: 2020-04-04T15:57:15.441Z
 tags: 
 ---
 
@@ -18,13 +18,13 @@ Arbre de compétence d'un personnage.
 Une [Sphère](/spherier/reference/regles/personnage#spheres)[](https://trello.com/c/ZJVIytbL) est un sous-arbre de compétence d'un personnage.
 Voir aussi la [liste des sphères](/spherier/reference/listes/spheres)
 
-# [Facette](https://trello.com/c/nNBTIelT)
+# [Facette](/spherier/reference/regles/personnage#facette)[](https://trello.com/c/nNBTIelT)
 Feuille de l'arbre de compétence d'un personnage. 
 
-# [Capacités](https://trello.com/c/EUJsvYrZ)
+# [Capacités](/spherier/reference/regles/capacites)[](https://trello.com/c/EUJsvYrZ)
 Permet à un personnage de déclencher un effet. 
 
-# [Compétences](https://trello.com/c/udzuobSo)
+# [Compétences](/spherier/reference/regles/competences)[](https://trello.com/c/udzuobSo)
 Expression de l'efficacité d'une Capacité.
 
 # [Karma](https://trello.com/c/Fv26adNT)
