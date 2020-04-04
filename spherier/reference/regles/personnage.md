@@ -2,7 +2,7 @@
 title: Personnage
 description: 
 published: true
-date: 2020-04-04T18:43:40.171Z
+date: 2020-04-04T18:44:50.070Z
 tags: 
 ---
 
@@ -118,4 +118,5 @@ Terme proche: Talent.
 
 <!-- Référentiel -->
 [Sphérier]: [[trello]:https://trello.com/c/bNZnhEeY [in]:/spherier]
+[Sphérier][trello]:https://trello.com/c/bNZnhEeY
 
