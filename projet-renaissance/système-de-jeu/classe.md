@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-04-04T19:43:13.585Z
+date: 2020-04-04T19:45:54.631Z
 tags: 
 ---
 
@@ -15,7 +15,7 @@ Chaque pouvoir de classe présente une liste d'améliorations possibles. Sélect
 
 > **Exemple**
 Alice est une Fanatique qui dispose des pouvoirs de Don divin, Jugement, Bénédiction et Incarnation. Elle décide d'acheter 3 Points de Classe avec ses Points de progression (comme ce sont ses 3 premiers, ils lui coûteront 6 PP). Elle commence par améliorer son Jugement : une des amélioration de rang 1 l'intéresse beaucoup, mais elle doit d'aborder sélectionner une amélioration de rang 0 car elle doit avoir mis au moins 1 Point de classe dans le Jugement avant d'avoir accès aux améliorations de rang 1. Elle sélectionne donc une amélioration de Jugement de rang 0 puis celle de rang 1 qui la tentait. Enfin, elle met son dernier Point de classe dans une amélioration de rang 0 du Don divin.
-Après une journée d'aventure, elle décide de changer un peu son rôle et de plutôt se diriger vers le support des ses alliés via la Bénédiction. Le lendemain matin, après le Repos long, elle 
+Après une journée d'aventure, elle décide de changer un peu son rôle et de plutôt se diriger vers le support des ses alliés via la Bénédiction. Le lendemain matin, après le Repos long, elle bascule donc ses 3 Points de classe vers 3 améliorations de la Bénédiction : 1 de rang 0 et 2 de rang 1 (elle aurait pu prendre 1 amélioration de rang 2 à la place d'1 de rang 1, mais aucune ne l'intéressait).
 {.is-info}
 
 # Liste des classes
