@@ -2,7 +2,7 @@
 title: Personnage
 description: 
 published: true
-date: 2020-04-04T18:55:01.315Z
+date: 2020-04-04T18:57:08.214Z
 tags: 
 ---
 
@@ -21,7 +21,7 @@ Appellons "Point de vie" des points de vie, et "Points d'expérience" des points
 
 # Caractéristiques
 
-Les **Caractéristiques** d'un **[Personnage](https://trello.com/c/j5txrEnh)**, sont définies par la résolution de son **[Sphérier](https://trello.com/c/bNZnhEeY)**.
+Les **Caractéristiques** d'un **[Personnage](https://trello.com/c/j5txrEnh)**, sont définies par la résolution de son **[Sphérier][]**.
 
 ## État civil
 ## Caractéristiques
@@ -113,6 +113,6 @@ Une fois la Facette débloquée le personnage bénéficie de tous les `Capacité
 Terme proche: Talent.
 
 <!-- Référentiel -->
-[Sphérier]: /spherier/reference/regles/spherier
+[Sphérier]: /spherier/reference/regles/personnage#spherier
 [Sphérier-trello]: https://trello.com/c/bNZnhEeY
 
