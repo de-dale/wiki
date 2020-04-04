@@ -2,20 +2,20 @@
 title: Glossaire
 description: 
 published: true
-date: 2020-04-04T15:34:50.102Z
+date: 2020-04-04T15:40:22.379Z
 tags: 
 ---
 
 > À pour vocation de référencer les mots-clés, et de les associer à une courte définition ainsi qu'à un lien vers leur carte. 
 
-# [Personnage](https://trello.com/c/j5txrEnh) 
+## [Personnage](https://trello.com/c/j5txrEnh) 
 Projection d'un joueur dans le jeu.
 
-# [Sphérier](https://trello.com/c/bNZnhEeY) 
+## [Sphérier](https://trello.com/c/bNZnhEeY) 
 Arbre de compétence d'un personnage. 
 
-# [Sphère](https://trello.com/c/ZJVIytbL) 
-Une [Sphère](/spherier/reference/regles/personnage#spheres)[&nbsp;](https://trello.com/c/ZJVIytbL) est un sous-arbre de compétence d'un personnage. 
+## Sphère
+Une [Sphère](/spherier/reference/regles/personnage#spheres)[](https://trello.com/c/ZJVIytbL) est un sous-arbre de compétence d'un personnage. 
 
 # [Facette](https://trello.com/c/nNBTIelT)
 Feuille de l'arbre de compétence d'un personnage. 
