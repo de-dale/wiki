@@ -2,7 +2,7 @@
 title: Règles de base
 description: 
 published: true
-date: 2020-04-04T11:58:04.487Z
+date: 2020-04-04T15:54:47.770Z
 tags: 
 ---
 
@@ -29,7 +29,7 @@ Lorsqu'un terme utilisé dans un point de règle n'est pas clair, il faut l'expl
 
 **Glossaire**
 
-Les mots-clés sont référencés dans le [Glossaire](https://trello.com/c/2sDoyFea) 
+Les mots-clés sont référencés dans le [Glossaire](/spherier/referecne/glossary)[](https://trello.com/c/2sDoyFea) 
 
 ## Symbole
 
