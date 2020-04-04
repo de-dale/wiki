@@ -2,7 +2,7 @@
 title: Personnage
 description: 
 published: true
-date: 2020-04-03T13:44:59.078Z
+date: 2020-04-04T15:34:23.396Z
 tags: 
 ---
 
@@ -46,6 +46,7 @@ Un personnage meurt lorsque ses points de vie atteignent le négatif équivalent
 Un personnage gagne du **Karma** en progressant dans le jeu. 
 Le **Karma** est une **Ressource d'Intermède**, prouvant être dépensée pour améliorer le personnage, généralement par l'achat de **[Facettes](https://trello.com/c/nNBTIelT)**.
 
+<a id="spherier"></a>
 # Sphérier
 
 > Le **Sphérier** est l'arbre des **Capacités** que possède un **Personnage**.
@@ -57,6 +58,7 @@ Un personnage commence le jeu avec les [Sphères Naturelles](https://trello.com/
 **Exemple:**
 *Ceri*, Shamane enragée, commencera le jeu avec la Sphère Naturelles "Humain".
 
+<a id="spheres"></a>
 # Sphère
 
 Une **Sphère** est le regroupement ordonné de plusieurs **Facettes** (généralement entre 6 et 10) selon une thématique donnée.
