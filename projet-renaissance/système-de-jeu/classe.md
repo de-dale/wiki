@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-04-04T19:33:09.008Z
+date: 2020-04-04T19:36:54.401Z
 tags: 
 ---
 
@@ -12,6 +12,10 @@ La classe d'un personnage lui apporte des pouvoirs uniques et surtout un systèm
 Le personnage peut améliorer ses pouvoirs de classes en achetant des Points de classe grâce à ses Points de Progression et en les affectant aux améliorations de son choix. Les Points de classe achetés le sont définitivement, 
 ## Améliorations
 Chaque pouvoir de classe présente une liste d'améliorations possibles. Choisir une amélioration coûte 1 Point de classe et il faut avoir déjà dépensé dans le pouvoir un nombre de Point de classe au moins égal au rang de l'amélioration. Le personnage peut réaffecter tous ses Points de classe après chaque Repos long.
+
+> **Exemple**
+Alice est une Fanatique qui dispose des pouvoirs de Don divin, Jugement, Bénédiction et Incarnation. Elle décide d'acheter 3 Points de Classe avec ses Points de progression (comme ce sont ses 3 premiers, ils lui coûteront 6 PP). Elle commence par améliorer son Jugement : elle sélectionne une amélioration de
+{.is-info}
 
 # Liste des classes
 ## Erudit
