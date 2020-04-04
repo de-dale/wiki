@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T18:00:37.442Z
+date: 2020-04-04T18:00:48.865Z
 tags: 
 ---
 
@@ -16,7 +16,7 @@ Un personne est défini par 5 aspects :
 ### [Caratéristiques](caractéristiques)
 Chaque personnage est défini par la valeur de ses Caractéristiques, au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**. Elles présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
 ### Classe
-Un personnage appartient à une classe qui lui apporte des pouvoirs spécifique ainsi qu'une mécanique de ressource afin d'utiliser des actions spéciales ou d'améliorer ses capacités existantes.
+Un personnage appartient à une classe qui lui apporte des pouvoirs spécifiques ainsi qu'une mécanique de ressource afin d'utiliser des actions spéciales ou d'améliorer ses capacités existantes.
 ### Compétences
 Chaque personnage dispose de compétences qui lui sont propres, comme une expertise dans un domaine magique, une discrétion naturelle ou la maîtrise d'un art. Ces compétences peuvent s'avérer précieuses dans les bonnes conditions et aider le personnage à réussir un test.
 ### Voies
