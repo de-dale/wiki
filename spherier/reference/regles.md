@@ -2,9 +2,14 @@
 title: Règles de base
 description: 
 published: true
-date: 2020-04-04T15:55:07.199Z
+date: 2020-04-04T21:22:00.559Z
 tags: 
 ---
+
+
+[personnage](spherier/reference/regles/personnage) 
+[compétences](spherier/reference/regles/competences) 
+[capacité](spherier/reference/regles/capacites) 
 
 # Carte
 
