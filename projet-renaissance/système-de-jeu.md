@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T17:45:01.553Z
+date: 2020-04-04T17:47:12.151Z
 tags: 
 ---
 
@@ -22,7 +22,7 @@ Chaque personnage dispose de compétences qui lui sont propres, comme une expert
 #### Voies
 Les voies représentent les chemins possibles que peut emprunter le personnage au cours de ses aventures. Elles sont puissantes, mais à double tranchants : chacune dispose d'un effet positif et négatif. Un personnage dispose d'un maximum de deux voies qu'il peut choisir quand il le souhaite et chaque jour sélectionner les pouvoirs correspondant qui lui convienne.
 #### Equipement
-Le dernier aspect d'un personnage est son équipement,à savoir les objets qu'il emmène avec lui lors de ses aventures. 
+Le dernier aspect d'un personnage est son équipement,à savoir les objets qu'il emmène avec lui lors de ses aventures. Chaque jour, le personnage peut changer tout son équipement s'il le souhaite afin de bénéficier des pouvoirs d'objets différents.
 #### [Création et évolution](points-progression)
 Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
 
