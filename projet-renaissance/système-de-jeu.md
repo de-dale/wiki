@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T18:15:43.739Z
+date: 2020-04-04T18:20:02.883Z
 tags: 
 ---
 
@@ -16,6 +16,8 @@ Le contexte de l'histoire dans laquelle les personnages évoluent est donné par
 Lors de sa création, le joueur peut laisser libre cours à son imagination pour tout ce qui touche à l'aspect et au comportement de son personnage. Les parties"techniques" du personnage, tels que sa classe, ses capacités, ses compétences, ses voies et ses caractéristiques, sont plus normés afin de garantir un équilibrage entre plusieurs personnages, grâce aux **Points de Progression**.
 #### [Identité, aspect et comportement](points-progression)
 Un personnage est un être entier avec un passé et une envie de futur, une histoire propre, des caractéristiques physiques et mentales, un comportement, des croyances, des amis, des déceptions,...
+#### Statistiques initiales
+Afin de 
 #### [Caratéristiques](caractéristiques)
 Chaque personnage possède les 4 mêmes Caractéristiques : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**, mais avec des valeurs différentes. Ces dernières présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
 #### Classe
@@ -28,6 +30,8 @@ Les deux voies que choisit d'emprunter le personnage sont à double tranchant : 
 Le dernier aspect d'un personnage est son équipement, c'est à dire les objets avec lesquels il part à l'aventure. Un personnage ne peut porter qu'un objet par emplacement et les objets magiques lui demanderont de se lier à eux pour utiliser leur pleine puissance.
 ### Vie et progression
 Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6.
+#### Gain d'expérience
+#### Points de Progression
 ### Retraite et mort
 
 ## [Actions des personnages](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/actions)
