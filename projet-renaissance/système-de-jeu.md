@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T18:11:37.159Z
+date: 2020-04-04T18:14:04.639Z
 tags: 
 ---
 
@@ -15,6 +15,7 @@ Le contexte de l'histoire dans laquelle les personnages évoluent est donné par
 ### Création
 Lors de sa création, le joueur peut laisser libre cours à son imagination pour tout ce qui touche à l'aspect et au comportement de son personnage. Les parties"techniques" du personnage, tels que sa classe, ses capacités, ses compétences, ses voies et ses caractéristiques, sont plus normés afin de garantir un équilibrage entre plusieurs personnages, grâce aux **Points de Progression**.
 #### [Identité, aspect et comportement](points-progression)
+Un personnage est un être entier avec un passé et une envie de futur, une histoire propre, des caractéristiques physiques et mentales, un comportement, des croyances, des amis, des déceptions,...
 #### [Caratéristiques](caractéristiques)
 Chaque personnage est défini par la valeur de ses Caractéristiques, au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**. Elles présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
 #### Classe
