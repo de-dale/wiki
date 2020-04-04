@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T17:48:44.595Z
+date: 2020-04-04T17:50:00.716Z
 tags: 
 ---
 
@@ -26,7 +26,7 @@ Le dernier aspect d'un personnage est son équipement,à savoir les objets qu'il
 #### [Création et évolution](points-progression)
 *Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6.*
 
-## Actions et prise de décision
+## [Actions et prise de décision](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/actions)
 ### Actions de personnages
 > **En résumé :**
 Le MJ pose le contexte auquel les personnages font face. 
