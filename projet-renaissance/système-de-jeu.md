@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T17:43:35.235Z
+date: 2020-04-04T17:45:01.553Z
 tags: 
 ---
 
@@ -21,8 +21,8 @@ Un personnage appartient à une classe qui lui apporte des pouvoirs spécifique 
 Chaque personnage dispose de compétences qui lui sont propres, comme une expertise dans un domaine magique, une discrétion naturelle ou la maîtrise d'un art. Ces compétences peuvent s'avérer précieuses dans les bonnes conditions et aider le personnage à réussir un test, mais elle sont définitives.
 #### Voies
 Les voies représentent les chemins possibles que peut emprunter le personnage au cours de ses aventures. Elles sont puissantes, mais à double tranchants : chacune dispose d'un effet positif et négatif. Un personnage dispose d'un maximum de deux voies qu'il peut choisir quand il le souhaite et chaque jour sélectionner les pouvoirs correspondant qui lui convienne.
-#### Objets
-
+#### Equipement
+Le dernier aspect d'un personnage est son équipement,à savoir les objets qu'il emmène avec lui lors de ses aventures. 
 #### [Création et évolution](points-progression)
 Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
 
