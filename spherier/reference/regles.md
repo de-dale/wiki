@@ -2,7 +2,7 @@
 title: Règles de base
 description: 
 published: true
-date: 2020-04-03T13:48:21.771Z
+date: 2020-04-04T11:58:04.487Z
 tags: 
 ---
 
@@ -180,6 +180,8 @@ Le DD pour une action:
 > **Moyenne:**         10
 > **Difficile:**            15
 > **Très difficile:**   20
+
+## Types de test
 
 ### Tests et limites
 
