@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T18:14:04.639Z
+date: 2020-04-04T18:15:43.739Z
 tags: 
 ---
 
@@ -17,7 +17,7 @@ Lors de sa création, le joueur peut laisser libre cours à son imagination pour
 #### [Identité, aspect et comportement](points-progression)
 Un personnage est un être entier avec un passé et une envie de futur, une histoire propre, des caractéristiques physiques et mentales, un comportement, des croyances, des amis, des déceptions,...
 #### [Caratéristiques](caractéristiques)
-Chaque personnage est défini par la valeur de ses Caractéristiques, au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**. Elles présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
+Chaque personnage possède les 4 mêmes Caractéristiques : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**, mais avec des valeurs différentes. Ces dernières présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
 #### Classe
 Un personnage appartient à une classe qui lui apporte des pouvoirs spécifiques ainsi qu'une mécanique de ressource afin d'utiliser des actions spéciales ou d'améliorer ses capacités existantes.
 #### Compétences
