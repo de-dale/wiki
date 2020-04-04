@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T18:09:14.364Z
+date: 2020-04-04T18:11:01.226Z
 tags: 
 ---
 
@@ -25,8 +25,9 @@ Chaque personnage dispose de compétences qui lui sont propres, comme une expert
 Les deux voies que choisit d'emprunter le personnage sont à double tranchant : elles apportent un effet intéressant et des pouvoirs puissants si le personnage choisi d'investir dedans, mais aussi des défauts. Le choix d'une voie peut être fait n'importe quand, mais il est définitif. Il est possible de changer les pouvoirs des voies chaque jour.
 #### Equipement
 Le dernier aspect d'un personnage est son équipement, c'est à dire les objets avec lesquels il part à l'aventure. Un personnage ne peut porter qu'un objet par emplacement et les objets magiques lui demanderont de se lier à eux pour utiliser leur pleine puissance.
-### [Evolution](points-progression)
-Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6. 
+### Vie et progression
+Un personnage est créé au niveau 1. Au cours de ses aventures, il gagnera de l'expérience lui permettant de progresser jusqu'à un niveau maximal de 6.
+### Retraite et mort
 
 ## [Actions des personnages](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/actions)
 ### Prises de décision et actions
