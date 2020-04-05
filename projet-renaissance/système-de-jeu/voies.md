@@ -2,7 +2,7 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T15:53:34.837Z
+date: 2020-04-05T15:54:29.772Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ Les Voies sont à double tranchant : elles vont renforcer certains aspects du pe
 Chaque Voie possède un effet initial qui se met en place dès que le personnage l'a choisie. Il pourra ensuite sélectionner des effets supplémentaires au fur et à mesure de sa progression.
 ## Choix des Voies
 Un personnage peut sélectionner au maximum 2 Voies différentes. Ce choix peut se faire à la création ou lors d'un Repos long, et une par une ou les 2 d'un coup. Ce choix est définitif une fois fait. Il est donc tout à fait possible qu'un personnage de niveau 6 n'ait qu'une Voie, voire aucune.
-## Arpentage des Voies
+## Arpenter une Voies
 Les Voies fonctionnent comme une succession de chemins. Lorsque le personnage sélectionne un effet dans une de ses Voies, il se ferme l'accès aux autres, mais ouvre l'accès aux effets suivants. **Sélectionner un effet coûte 250 XP et doit se faire pendant un Repos long.**
 ## Rebrousser chemin
 Un personnage qui s'est aventuré trop loin à son goût dans le chemin qu'il a pris peut rebrousser chemin. Pour cela, il doit dépenser **250 XP pendant un Repos long afin d'oublier le dernier effet sélectionné**. Il peut répéter l'opération plusieurs fois, jusqu'à ce qu'il retourne à l'endroit choisi. Il est alors libre de prendre un autre chemin s'il le souhaite.
