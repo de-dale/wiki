@@ -2,12 +2,23 @@
 title: Points de création
 description: 
 published: true
-date: 2020-04-05T14:08:35.796Z
+date: 2020-04-05T14:15:41.993Z
 tags: 
 ---
 
 # Obtention
-Les Points de création sont une "monnaie" servant à améliorer les personnages. **1 Point de création peut s'échanger contre 100 XP.** Chaque personnage commence avec 25 Points de création et peut en cumuler jusqu'à un maximum de 40.
+Les Points de construction sont une "monnaie" servant à améliorer les personnages. **1 Point de construction peut s'échanger contre 100 XP.** Chaque personnage commence avec 25 Points de construction et peut en cumuler jusqu'à un maximum de 40.
 
 # Utilité
-Les Points de création peuvent être dépensés dans les aptitudes suivantes du personnage :
+Les Points de construction peuvent être dépensés pour :
+ * Obtenir de nouvelles aptitudes
+ * Améliorer des aptitudes existantes
+ * Augmenter ses caractéristiques
+## Obtention de nouvelles aptitudes
+Le personnage peut se servir de ses Points de construction
+| Effet | Coût en PP |
+| ------------- |:-------------: |
+| +1 dans une Caractéristique        | **3** |
+| Point d'altération        | **1**     |
+| Rang 2        | **2**     |
+| Rang 3        | **3**     |
