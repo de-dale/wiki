@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2020-04-05T20:41:54.833Z
+date: 2020-04-05T20:43:31.546Z
 tags: 
 ---
 
@@ -12,9 +12,9 @@ Lors de la création d'un personnage celui-ci doit choisir à quelle classe il a
 
 # Système de ressources
 La classe d'un personnage lui apporte un système de ressources spéciales. Il peut s'agir de Foi pour le Fanatique, d'Intuition et d'Idée géniale pour l'Ingénieur, ou de Mémorisation pour l'Erudit. Chaque classe génère sa ressource spéciale de façon différente et à un rythme différent. Si le Fanatique génère de la Foi de façon très régulière, les Idées géniales d'un Ingénieur arrivent de façon aléatoire et la Mémorisation d'un Erudit est disponible immédiatement, mais se régénère très lentement. La description de chaque ressource spéciale est fait dans la classe associée.
-Cette ressource spéciale pourra servir soit à utiliser ses capacités de classe, soit à obtenir des **Empower (Emp)**. 
+Cette ressource spéciale pourra servir soit à utiliser ses capacités de classe, soit à améliorer ses capacités via les **Empower (Emp)**. 
 ## Empower
-Les Emp sont une ressource commune à tous les personnages qui leur permet d'activer les effets les plus puissants de leurs capacités, qu'ils proviennent de leurs objets liés, de leur Voie, etc... Elle est obtenue via la ressource spéciale de la classe avec un taux de conversion propre à la classe.
+L'Emp est une métrique commune à tous les personnages qui leur permet de connaître le coût d'activation des effets les plus puissants de leurs capacités, qu'ils proviennent de leurs objets liés, de leur Voie, etc... 
 La plupart des capacités ont des effets supplémentaires plus puissants, mais qui nécessitent de payer un certain nombre d'Emp pour pouvoir être utilisés. Pour utiliser un effet nécessitant un ou plusieurs Emp, le personnage doit dépenser une quantité de ressources spéciales de sa classe égale au coût en Emp de l'effet x le taux de conversion au  moment où il lance la capacité
 
 **TABLEAU RECAP COUT EMP / CLASSE ?**
