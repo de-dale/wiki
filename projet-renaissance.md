@@ -2,7 +2,7 @@
 title: Projet Renaissance
 description: 
 published: true
-date: 2020-04-05T12:32:58.629Z
+date: 2020-04-05T12:33:52.065Z
 tags: 
 ---
 
@@ -28,9 +28,8 @@ Le projet Renaissance est la création d'un système de jeu de rôle communautai
 #### Vie et progression
   * Gain d'expérience
   * Points de Progression
+{.links-list}
 #### Retraite et mort
-
-[Création et évolution](http://de-dale.hd.free.fr/fr/projet-renaissance/système-de-jeu/points-progression)
 
 ### Rencontres
   * Tiers
