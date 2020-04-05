@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-04-05T16:05:01.776Z
+date: 2020-04-05T16:11:02.590Z
 tags: 
 ---
 
@@ -24,7 +24,7 @@ A sa création, un personnage dispose de 8 points à répartir comme il le souha
 **Ce choix est ferme et définitif. Il n'y a pas de possibilité de revenir en arrière par la suite pour modifier cette répartition.**
 
 ## Achat avec des Points de construction
-Il est aussi possible d'augmenter ses valeurs de Caractéristique avec des [Points de construction](http://de-dale.hd.free.fr/projet-renaissance/syst%C3%A8me-de-jeu/points-création). **Augementer une de ses valeurs de caractéristique de 1 coûte 3 PC.**
+Il est aussi possible d'augmenter ses valeurs de Caractéristique avec des [Points de construction](http://de-dale.hd.free.fr/projet-renaissance/syst%C3%A8me-de-jeu/points-construction). **Augementer une de ses valeurs de caractéristique de 1 coûte 3 PC.**
 A noter que là aussi, cet achat est définitif. Il n'est pas possible de revenir en arrière une fois fait.
 
 # Liste des caractéristiques
