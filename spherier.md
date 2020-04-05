@@ -2,7 +2,7 @@
 title: Le Sphérier
 description: 
 published: true
-date: 2020-04-03T14:06:30.724Z
+date: 2020-04-05T07:59:23.874Z
 tags: 
 ---
 
@@ -50,7 +50,7 @@ Explications et analyses de quelques concepts clés du Sphérier. Discussions ou
 </div>
 <div class="col-6" id="reference">
   
-<span style="font-size:1.5em">**[Documentation de référence](/spherier/reference)**</span>
+<span style="font-size:1.5em">**📖 [Documentation de référence](/spherier/reference)**</span>
 
 Ensemble des règles permettant d'utiliser le Sphérier. Liste également les éléments de jeu : Sphères, Compétences, Capacité, Glossaire.
 </div>
