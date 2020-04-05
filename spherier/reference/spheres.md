@@ -2,7 +2,7 @@
 title: Sphères
 description: 
 published: true
-date: 2020-04-03T13:44:10.348Z
+date: 2020-04-05T12:51:21.672Z
 tags: 
 ---
 
@@ -11,20 +11,16 @@ tags:
 Ci-dessous, la liste des Sphères. 
 Elles sont réparties par thématiques, ce qui ne limite en rien le choix des personnages. 
 
-# Mermaid
+- [Veilleur](veilleur)
+- [Scout](scout)
+- [Lancier](lancier)
+- [Gardien](gardien)
+- [Contrôleurde mana](controleur-de-mana)
+- [Brute](brute)
 
-Mermaid est un outil JavaScript permettant de générer des images de diagrammes à partir d'une structure texte assez compréhensible.
-Il permet de générer une image représentant le graphe des Facettes dans la représentation des Sphères. 
-
-Documentation : https://mermaidjs.github.io/#/flowchart
-
-Exemple :
-```
-```mermaid
-graph TD
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-\```
-```
+> **Symboles:**
+<i class="mdi mdi-hexagon-multiple-outline"></i>  Material Design Icons `mdi-hexagon-multiple-outline`
+⬡ white hexagon (U+2B21)
+⬢ black hexagon (U+2B22)
+⬣ horizontal black hexagon (U+2B23)
+⎔ software-function symbol (U+2394)
