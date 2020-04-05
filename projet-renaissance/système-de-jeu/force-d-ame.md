@@ -2,7 +2,7 @@
 title: Force d'âme
 description: 
 published: true
-date: 2020-04-05T18:25:35.181Z
+date: 2020-04-05T18:28:41.771Z
 tags: 
 ---
 
@@ -13,6 +13,8 @@ Un personnage peut créer un lien avec des objets, des entités et des sorts afi
 ## Objets magiques
 Certains objets possèdent une étincelle de magie en eux, mais c'est à leur porteur d'aller la chercher et de la maîtriser. Ces objets sont dits magiques (même si certains ingénieurs désapprouvent le terme de "magie", préferant le terme "énergie inexpliquée à ce jour").
 Il n'est possible de se lier à un objet que pendant un Repos long et l'effet du lien ne se produit que si l'objet est équipé ou porté. 
+
+Certains objets magiques font partis d'un ensemble d'objets, appelé **set** qui donne à leur porteur des pouvoirs supplémentaires s'il se lie à plusieurs d'entre eux. L'origine de ces set varie. Certains sont des créations volontaires, d'autres sont simplement dus aux interactions entre certains objets lorsqu'ils ont une source commune de lien.
 
 # Obtention
 Your content here
