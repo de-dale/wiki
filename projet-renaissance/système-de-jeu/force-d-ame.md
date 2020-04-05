@@ -2,18 +2,16 @@
 title: Force d'âme
 description: 
 published: true
-date: 2020-04-05T20:15:39.905Z
+date: 2020-04-05T20:17:28.162Z
 tags: 
 ---
 
 # Effet de la Force d'âme
 Un personnage peut créer un lien avec des objets, des entités et des sorts afin qu'ils l'accompagnent et lui prêtent leur pouvoirs. Mais le maintien de ces liens draine de l'énergie vitale, pouvant finir par la mort du personnage. La Force d'âme correspond à la capacité du personnage à maintenir ces liens sans en souffrir. **Un personnage peut posséder un nombre de liens déterminé par son [Palier de construction en Force d'âme](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/points-construction)**. Dépasser ce nombre résulterait de la mort du personnage dans les minutes suivantes.
 
-
-# Liens possibles
-## Objets magiques
+# Lien avec des objets magiques
 Certains objets possèdent une étincelle de magie en eux, mais c'est à leur porteur d'aller la chercher et de la maîtriser. Ces objets sont dits magiques (même si certains ingénieurs désapprouvent le terme de "magie", préferant le terme "énergie inexpliquée à ce jour").
-### Lien avec des objets
+### Conditions du lien
 Il n'est possible de se lier à un objet que pendant un Repos long et l'effet du lien ne se produit que si l'objet est équipé ou porté. Certains objets les plus puissants peuvent nécessiter plusieurs liens pour bénéficier de leur effets.
 Bien que liés, certains objets ne produiront leurs effets que si le porteur ne répond à certaines conditions. Il s'agit généralement de conditions basées sur les compétences, les caractéristiques ou la classe du porteur, mais certains ont des conditions bien plus fantasques, comme le genre ou encore la couleur des yeux...
 
@@ -25,7 +23,7 @@ A l'inverse, il existe de objets opposés qui ne peuvent être liés ensemble. S
 Certains objets sont exclusifs à des classes de personnage. Sauf mention contraire, les membres des autres classes ne pourront simplement pas s'en servir ni se lier avec eux.
 Les Ingénieurs ont la faculté unique de pouvoir se lier avec n'importe quel objet, même si cela leur est parfaitement inutile pour certains d'entre (qui n'apportent que des effets très spécifiques à une classe), à part bien sûr le plaisir malicieux d'énerver les membres des autres classes.
 
-## Appel
+# Lien d'appel
 Les personnages peuvent faire appel à des êtres provenant d'autres plans d'existence. Cet appel n'est pas une simple invocation qui dure quelques minutes. L'appel est un rituel ancien, uniquement réalisable à la fin d'un Repos long, au terme duquel une partie de la volonté d'une créature spécifique apparaît dans une enveloppe corporelle temporaire créée par le rituel et semblable à celle de la créature d'origine. Cette enveloppe ne dure généralement qu'une journée avant de se dégrader et de libérer la volonté de la créature appelée. Cette créature est souvent enfermée dans un espace hors du temps sans espoir de s'échapper.
 ### Actions de la créature liée
 La créature appelée est tenue d'agir selon la volonté du lieur, dans les limites du possible. Une partie de sa volonté étant liée à l'enveloppe invoquée, la mort et l'humiliation l'affectent. Une créature appelée dont l'enveloppe est trop souvent détruite ou maltraitée risque de finir par devenir folle et de soit ne plus pouvoir être appelée soit ne plus être contenue par les liens de l'appel, agissant à sa guise. C'est pour cela qu'elles refusent tout ce qui s'apparente au suicide ou à des actes dégradants pour elles.
@@ -38,9 +36,6 @@ Les rituels d'appel ont été intégrés au sein d'objets magiques, font partie 
 ### Nombre de créatures appelées
 Il n'y a pas de limite au nombre de créatures appelées, à part bien sûr le nombre de liens du personnage. Certaines créatures particulièrement puissantes peuvent demander plus d'un lien pour être appelées en toute sécurité.
 
-## Sorts et auras
+# Lien avec des sorts et auras
 Certaines capacités de très longue durée et de forte puissance peuvent demandées à être liées pour en bénéficier. Il peut s'agir de sorts à effet personnel ou bien d'auras qui bénéficient à toutes les créatures dans la zone.
 Ces capacités peuvent être obtenues par des objets liés, des capacités de classe ou encore les Voies des personnages.
-
-# Obtention de Force d'âme
-La Force d'âme
