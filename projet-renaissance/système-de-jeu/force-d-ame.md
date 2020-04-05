@@ -2,7 +2,7 @@
 title: Force d'âme
 description: 
 published: true
-date: 2020-04-05T18:39:48.103Z
+date: 2020-04-05T19:07:41.784Z
 tags: 
 ---
 
@@ -18,7 +18,12 @@ Certains objets magiques font partis d'ensembles d'objets, appelés **sets** qui
 L'origine de ces set varie. Certains sont des créations volontaires, d'autres sont simplement dus aux interactions entre certains objets lorsqu'ils ont une source commune de lien.
 
 ## Êtres appelés
-Les personnages peuvent faire appel à des êtres provenant d'autres plans d'existance. Cet appel n'est pas une simple invocation qui dure quelques minutes. Il s'agit d'un long rituel uniquement réalisable à la fin d'un Repos long qui appelle une créature qui restera jusqu'à ce qu'elle soit renvoyée (par un rituel ou par sa mort) ou libérée de ses obligations envers le personnage (en rompant le lien). Il est généralement préférable de renvoyer une créature plutôt que de rompre le lien avec elle car il n'est pas certain que cette dernière reparte immédiatement : elle préferera parfois rester un peu, généralement pour s'en prendre au personnage. En effet, l'appel est unidirectionnel : la créature appelée ne l'a pas choisi et doit suivre les ordres du personnage.
+Les personnages peuvent faire appel à des êtres provenant d'autres plans d'existence. Cet appel n'est pas une simple invocation qui dure quelques minutes. L'appel est un rituel ancien, uniquement réalisable à la fin d'un Repos long, au terme duquel une partie de la volonté d'une créature spécifique apparaît dans une enveloppe corporelle temporaire. L'enveloppe corporelle ne dure généralement qu'une journée avant de se dégrader et de libérer la volonté de la créature appelée. Cette créature est souvent enfermée dans un espace hors du temps sans espoir de s'échapper. 
+La créature appelée est tenue d'agir selon la volonté du lieur, dans les limites du possible. Une partie de sa volonté étant liée à l'enveloppe invoquée, la mort et l'humiliation l'affectent. Une créature appelée dont l'enveloppe est trop souvent détruite ou maltraitée risque de finir par devenir folle et de soit ne plus pouvoir être appelée soit ne plus être contenue par les liens de l'appel, agissant à sa guise. C'est pour cela qu'elles refusent tout ce qui s'apparente au suicide ou à des actes dégradants pour elles.
+Les créatures appelées sont spécifiques et ne le font par choix, néanmoins, pour beaucoup d'entre elles, cet appel est une libération temporaire de leur prison. Aussi il est souvent préférable de leur donner des missions simples et claires pour éviter qu'elles ne les pervertissent et de leur témoigner un minimum de respect. En effet, au prochain appel, ce sera la même créature qui répondra et si son lieur s'est montré cruel envers elle, elle n'hésitera pas à en faire autant avec lui dès que l'occasion se présentera. Au contraire, si ce dernier a été si ce n'est bon, au moins juste, elle pourra finir par apprécier la compagnie du lieur, voir lui rendre service.
+La créature appelée reste une journée au maximum, jusqu'à ce qu'elle soit tuée, renvoyée par un rituel spécifique (qu'il émane du lieur ou d'une autre créature) ou que le lien soit rompu.
+ 
+
 
 # Obtention
 Your content here
