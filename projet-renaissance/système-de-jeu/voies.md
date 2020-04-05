@@ -2,7 +2,7 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T09:04:52.553Z
+date: 2020-04-05T09:06:15.444Z
 tags: 
 ---
 
@@ -18,3 +18,17 @@ Le personnage peut améliorer les pouvoirs de ses Voies en achetant des Points d
 Chaque pouvoir de voie présente une liste d'améliorations possibles. Sélectionner une amélioration coûte 1 Point de voie et il faut avoir déjà dépensé dans le pouvoir un nombre de Point de voie au moins égal au rang de l'amélioration. Le personnage peut réaffecter tous ses Points de voie après chaque Repos long.
 
 # Liste des Voies
+## Voie de l'Âme
+
+## Voie du Jeu
+
+## Voie du Destin
+
+## Voie de le Rébellion
+
+## Voie de la Célébrité
+
+
+
+
+
