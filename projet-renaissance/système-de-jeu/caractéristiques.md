@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-04-05T20:08:30.820Z
+date: 2020-04-05T20:09:26.398Z
 tags: 
 ---
 
@@ -18,9 +18,6 @@ Dans cette situation, si Bob avait cherché à comprendre comment la débloquer,
 ## Pré-requis d'aptitudes ou d'objets
 Certaines aptitudes ou objets demandent une valeur minimale de caractéristique pour être utilisables ou bien possèdent des effets supplémentaires si le personnage a atteint ou dépassé une valeur de caractéristique spécifique.
 
-## Altération de caractéristiques
-Il est possible d'altérer les effets de ses caractéristiques en y affectant des [Points d'Altération](http://de-dale.hd.free.fr/fr/projet-renaissance/système-de-jeu/points-construction). Ses altérations peuvent être changées après un Repos long.
-
 # Valeurs de caractéristiques
 ## A la création
 A sa création, un personnage dispose de 8 points à répartir comme il le souhaite entre ses 4 Caractérisques. Chaque point dépensé dans une Caractéristique augmente sa valeur de 1.
@@ -29,6 +26,9 @@ A sa création, un personnage dispose de 8 points à répartir comme il le souha
 ## Achat avec des Points de construction
 Il est aussi possible d'augmenter ses valeurs de Caractéristique avec des [Points de construction](http://de-dale.hd.free.fr/projet-renaissance/syst%C3%A8me-de-jeu/points-construction). **Augementer une de ses valeurs de caractéristique de 1 coûte 3 PC.**
 A noter que là aussi, cet achat est définitif. Il n'est pas possible de revenir en arrière une fois fait.
+
+## Altération de caractéristiques
+Il est possible d'altérer les effets de ses caractéristiques en y affectant des [Points d'Altération](http://de-dale.hd.free.fr/fr/projet-renaissance/système-de-jeu/points-construction). Ces altérations peuvent être changées après un Repos long.
 
 # Liste des caractéristiques
 ## Carrure
