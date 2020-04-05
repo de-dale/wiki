@@ -2,7 +2,7 @@
 title: Force d'âme
 description: 
 published: true
-date: 2020-04-05T19:37:30.557Z
+date: 2020-04-05T20:00:33.849Z
 tags: 
 ---
 
@@ -38,6 +38,8 @@ Les rituels d'appel ont été intégrés au sein d'objets magiques, font partie 
 Il n'y a pas de limite au nombre de créatures appelées, à part bien sûr le nombre de liens du personnage. Certaines créatures particulièrement puissantes peuvent demander plus d'un lien pour être appelées en toute sécurité.
 
 ## Sorts et auras
+Certaines capacités de très longue durée et de forte puissance peuvent demandées à être liées pour en bénéficier. Il peut s'agir de sorts à effet personnel ou bien d'auras qui bénéficient à toutes les créatures dans la zone.
+Ces capacités peuvent être obtenues par des objets liés, des capacités de classe ou encore les Voies des personnages.
 
-# Obtention
+# Obtention de Force d'Âme
 Your content here
