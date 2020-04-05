@@ -2,7 +2,7 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T09:51:45.706Z
+date: 2020-04-05T09:52:04.722Z
 tags: 
 ---
 
@@ -29,7 +29,7 @@ Les rebelles sont contre l'ordre établi, ils ont la volonté de changer les cho
 ## Voie de la Célébrité
 La Voie de la Célébrité répond au besoin de reconnaissance par ses pairs. Ceux qui l'empruntent ne cherchent pas seulement le succès, ils veulent que celui-ci soit connu. Ils excellent lorsqu'ils sont entourés par d'autres personnes et brillent d'une aura majestueuse qui peut inspirer respect, crainte ou admiration dans le coeur de leurs alliés comme de leurs ennemis. Mais cette reconnaissance n'est qu'un bandage et fini par agir comme une drogue dont ils ne peuvent plus se passer, sans pour autant répondre à leur véritable besoin.
 ## Voie du Secret
-Tout le monde a des secrets et certains se font un devoir de les protéger, aussi bien les leurs que ceux des autres. Choisir cette Voie permet de s'assurer que les secrets les plus dangereux et les plus vils seront bien gardés, mais aussi de forcer les autres à révéler leurs secrets les plus enfouis. Néanmoins, l'accès à de telles connaissances n'est pas sans conséquences et ceux qui les détiennent finissent généralement par développer des troubles du comportement comme de l'anxiété, de la bipolarité, voir de la schizophrénie.
+Tout le monde a des secrets et certains se font un devoir de les protéger, aussi bien les leurs que ceux des autres. Choisir cette Voie permet de s'assurer que les secrets les plus dangereux et les plus vils seront bien gardés, mais aussi de forcer les autres à révéler leurs secrets les plus enfouis. Néanmoins, l'accès à de telles connaissances n'est pas sans conséquences et ceux qui les détiennent finissent généralement par développer des troubles du comportement comme de l'anxiété, de la bipolarité, de la paranoïa, voir de la schizophrénie.
 
 
 
