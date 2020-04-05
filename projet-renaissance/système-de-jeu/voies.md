@@ -2,27 +2,21 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T10:17:50.295Z
+date: 2020-04-05T15:52:26.772Z
 tags: 
 ---
 
 # Usage des Voies
-Les Voies sont les chemins de progression que le personnage choisit d'emprunter. Chaque Voie représente un aspect de sa personnalité, comme l'attrait au jeu, le suivi de son destin ou au contraire le refus de ce dernier, l'attirance pour l'immatériel, ou encore le besoin de célébrité. 
+Les Voies sont les chemins de progression que le personnage choisit d'emprunter. Chaque Voie représente un aspect de sa personnalité, comme par exemple l'attrait au jeu, le suivi de son destin ou au contraire le refus de ce dernier, l'attirance pour l'immatériel, ou encore le besoin de célébrité. 
 ## Effets des Voies
 Les Voies sont à double tranchant : elles vont renforcer certains aspects du personnage et lui conférer des bonus et pouvoirs spéciaux, mais au prix de défauts et malus. Elles peuvent donc aider à mieux définir un personnage lors de sa création ou de son évolution.
+Chaque Voie possède un effet initial qui se met en place dès que le personnage l'a choisie. Le personnage pourra ensuite sélectionner des effets supplémentaire au fur et à mesure de sa progression.
 ## Choix des Voies
 Un personnage peut sélectionner au maximum 2 Voies différentes. Ce choix peut se faire à la création ou lors d'un Repos long, et une par une ou les 2 d'un coup. Ce choix est définitif une fois fait. Il est donc tout à fait possible qu'un personnage de niveau 6 n'ait qu'une Voie, voire aucune.
-## Points de Voie
-Le personnage peut améliorer les pouvoirs de ses Voies en achetant des Points de voie grâce à ses Points de Progression et en les affectant aux améliorations de son choix. Les Points de voie achetés le sont définitivement.
-## Améliorations
-Chaque pouvoir de voie présente une liste d'améliorations possibles. Sélectionner une amélioration coûte 1 Point de voie et il faut avoir déjà dépensé dans le pouvoir un nombre de Point de voie au moins égal au rang de l'amélioration. Le personnage peut réaffecter tous ses Points de voie après chaque Repos long.
-
-| Amélioration  | Pré-requis en Points de voie <br> dépensés dans la Voie |
-| ------------- |:-------------: |
-| Rang 0        | **Aucun** |
-| Rang 1        | **1**     |
-| Rang 2        | **2**     |
-| Rang 3        | **3**     |
+## Arpentage des Voies
+Les Voies fonctionnent comme une succession de chemins. Lorsque le personnage sélectionne un effet dans une de ses Voies, il se ferme l'accès aux autres, mais ouvre l'accès aux effets suivants. **Sélectionner un effet coûte 250 XP et doit se faire pendant un Repos long.**
+## Rebrousser chemin
+Un personnage qui s'est aventuré trop loin à son goût dans le chemin qu'il a pris peut rebrousser chemin. Pour cela, il doit dépenser de  250 XP afin d'oublier le dernier effet sélectionné. Il peut répéter l'opération plusieurs fois, jusqu'à ce qu'il retourne à l'endroit choisi. Il est alors libre de prendre un autre chemin s'il le souhaite.
 
 # Liste des Voies
 ## Voie de l'Âme
