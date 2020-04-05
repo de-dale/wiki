@@ -2,15 +2,17 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-04T15:51:44.966Z
+date: 2020-04-05T10:04:46.262Z
 tags: 
 ---
 
 > **Bienvenue sur le Wiki!**
 >
 > Voici un outil collaboratif pour partager nos différents projets.
-> Merci à Sharah, pour cette idée, que j'ai honteusement re-pompée.
+> Merci à Sharah, pour cette idée, que j'ai honteusement re-pompée. 
 > <span style="text-align:right;display:block">_Faby_</span>
+No problemo
+> <span style="text-align:right;display:block">_Sharah_</span>
 {.is-info}
 
 
@@ -27,7 +29,7 @@ tags:
 |Guides rapides pour bien démarrer|Guides pour quelques questions courantes|Références vers d'autres outils|
 
 # Comment contribuer ?
-Actuellement, Sharah et Faby sont les deux administrateur de ce wiki. Adressez leur vos questions.
+Actuellement, Sharah et Faby sont les deux administrateurs de ce wiki. Adressez leur vos questions.
 
 <a id="get-started"></a>
 ## Tutoriaux
@@ -40,12 +42,12 @@ Les inscriptions sont libres et permettent d'accéder à tout le wiki, de tout m
 
 ### Créer une page 
 
-Il y a un bouton en haut à droite pour créer une page.Cliquer dessus.
-Rensigner le nom de votre nouvelle page.
-Renseiger son emplacement (non définitif).
-Cliquer sur "OK" en ahaut à droite
+Il y a un bouton en haut à droite pour créer une page. Cliquez dessus.
+Renseignez le nom de votre nouvelle page.
+Renseigez son emplacement (non définitif).
+Cliquez sur "OK" en ahaut à droite
 
-Choisir un éditeur parmi les 3 proposés. Priviliégier Le **Markdown** si vous le connaissez, sinon l'**Editeur visuel:** qui est le plus simple à prendre en main.
+Choisissez un éditeur parmi les 3 proposés. Priviliégier Le **Markdown** si vous le connaissez, sinon l'**Editeur visuel:** qui est le plus simple à prendre en main.
  
  <a id="howto"></a>
  ## Guides pratiques
@@ -55,7 +57,7 @@ Choisir un éditeur parmi les 3 proposés. Priviliégier Le **Markdown** si vous
  Quelques conseils pour la rédaction de ma documenation : [Guide pratique de documentation](/home/howto/documentation-guidelines)
  
  <a id="references"></a>
- ## Rérérences
+ ## Références
  
  - [WikiJS *Guide officiel*](https://docs.requarks.io/guide/intro)
  - [Wikipedia *Nous explique le Markdown*](https://fr.wikipedia.org/wiki/Markdown) 
