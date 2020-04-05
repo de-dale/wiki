@@ -2,12 +2,21 @@
 title: Classes
 description: 
 published: true
-date: 2020-04-05T15:38:04.633Z
+date: 2020-04-05T20:27:54.790Z
 tags: 
 ---
 
-# Pouvoirs des classes
 La classe d'un personnage lui apporte des pouvoirs uniques et surtout un système de ressources qui lui permettra d'augmenter la puissance des capacités qu'il utilise, et ce d'où qu'elles viennent (classe, voie ou équipement).
+# Choix de la classe
+Lors de la création d'un personnage celui-ci doit choisir à quelle classe il appartiendra. Ce choix est ferme et définitif, il ne sera plus possible de changer par la suite.
+
+# Système de ressources
+La classe d'un personnage lui apporte un système de ressources spéciales. Il peut s'agir de Foi pour le Fanatique, d'Intuition et d'Idée géniale pour l'Ingénieur, ou d'Adrénaline pour l'Enragé. 
+Ces ressources spéciales pourront servir à soit utiliser ses capacités de classe, soit obtenir des **Empower (Emp)**. Les Emp sont une ressource commune à tous les personnages qui leur permet d'activer les effets les plus puissants de leurs capacités, qu'elles proviennents de leurs objets liés, de leur Voie ou d'ailleurs.
+
+
+# Capacités de classe
+ **Un personnage peut posséder un nombre de liens déterminé par son [Palier de construction en Force d'âme](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/points-construction)**. Dépasser ce nombre résulterait de la mort du personnage dans les minutes suivantes.
 ## Points de classe
 Le personnage peut améliorer ses pouvoirs de classe en achetant des **Points de classe** grâce à ses **Points de Progression** et en les affectant aux **améliorations** de son choix. Les Points de classe achetés le sont définitivement.
 ## Améliorations
