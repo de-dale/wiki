@@ -2,7 +2,7 @@
 title: Points de création
 description: 
 published: true
-date: 2020-04-05T14:34:38.781Z
+date: 2020-04-05T14:35:03.379Z
 tags: 
 ---
 
@@ -17,8 +17,8 @@ Les Points de construction peuvent être dépensés pour :
 ## Obtention de nouvelles aptitudes
 Le personnage peut se servir de ses Points de construction pour obtenir des aptitudes dans les catégories suivantes :
  * Entraînement : Obtention de dons
- * Classe : Maîtriser une nouvelle capacité de classe
- * Augmenter sa Force d'âme
+ * Classe : Maîtrise d'une nouvelle capacité de classe
+ * Force d'âme : Augmenter de puissance
  
 Le coût d'obtention des aptitudes fonctionne en palier pour chaque catégorie d'aptitude
 Le coût d'obtention de ces aptitudes va en croissant pour chaque catégorie, comme indiqué dans le tableau ci-dessous. Pour obtenir le bonus 
