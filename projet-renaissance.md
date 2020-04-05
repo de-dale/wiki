@@ -2,7 +2,7 @@
 title: Projet Renaissance
 description: 
 published: true
-date: 2020-04-05T12:33:52.065Z
+date: 2020-04-05T12:41:36.577Z
 tags: 
 ---
 
@@ -22,7 +22,7 @@ Le projet Renaissance est la création d'un système de jeu de rôle communautai
   * [Statistiques générales](http://de-dale.hd.free.fr/fr/projet-renaissance/système-de-jeu/statistiques)
   * [Caractéristiques](http://de-dale.hd.free.fr/fr/projet-renaissance/système-de-jeu/caractéristiques)
   * [Classe](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/classes)
-  * [Entraînement](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/entrainement)
+  * [Entraînement : Dons et Compétences](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/entrainement)
   * [Force d'âme](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/force-d-ame)
 {.links-list}
 #### Vie et progression
