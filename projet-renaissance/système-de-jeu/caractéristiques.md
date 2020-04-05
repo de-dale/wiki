@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-04-05T20:07:29.289Z
+date: 2020-04-05T20:08:30.820Z
 tags: 
 ---
 
@@ -15,8 +15,8 @@ Bob se trouve face à une porte fermée qu'il doit ouvrir pour fuir des gobleins
 Dans cette situation, si Bob avait cherché à comprendre comment la débloquer, le MJ aurait demandé un test de Réflexion pour tenter de comprendre que les gonds de la porte étaient bloqués et avaient besoin de graisse. S'il avait opté pour la manoeuvre délicate, le MJ lui aurait annoncé qu'il s'agissait d'un échec : la porte ne pouvait pas être ouverte de cette façon, le blocage des gonds ne permettant pas autre chose qu'un passage en force.
 {.is-info}
 
-## En pré-requis
-De plus, certaines aptitudes ou objets demandent une valeur minimale de caractéristique pour être utilisables ou bien possèdent des effets supplémentaires si le personnage a atteint ou dépassé une valeur de caractéristique spécifique.
+## Pré-requis d'aptitudes ou d'objets
+Certaines aptitudes ou objets demandent une valeur minimale de caractéristique pour être utilisables ou bien possèdent des effets supplémentaires si le personnage a atteint ou dépassé une valeur de caractéristique spécifique.
 
 ## Altération de caractéristiques
 Il est possible d'altérer les effets de ses caractéristiques en y affectant des [Points d'Altération](http://de-dale.hd.free.fr/fr/projet-renaissance/système-de-jeu/points-construction). Ses altérations peuvent être changées après un Repos long.
