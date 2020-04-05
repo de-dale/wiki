@@ -2,7 +2,7 @@
 title: Points de création
 description: 
 published: true
-date: 2020-04-05T15:18:40.724Z
+date: 2020-04-05T15:20:41.571Z
 tags: 
 ---
 
@@ -59,6 +59,7 @@ Les Points de construction peuvent enfin servir à augmenter les caractéristiqu
 
 # Rachat de Points de construction
 Au fur et à mesure de son expérience, un personnage peut s'apercevoir que certains choix de construction n'étaient pas les bons ou ne lui correspondaient pas. Il a dans ce cas la possibilité de racheter les Points de construction qu'il estime mal investis pour les réaffecter.
+Il doit dépenser 200 XP par Point de construction qu'il souhaite racheter, avec les spécificités suivantes :
 
 
 
