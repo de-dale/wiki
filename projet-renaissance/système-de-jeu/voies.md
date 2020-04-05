@@ -2,7 +2,7 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T10:08:38.640Z
+date: 2020-04-05T10:15:29.022Z
 tags: 
 ---
 
@@ -17,8 +17,8 @@ Le personnage peut améliorer les pouvoirs de ses Voies en achetant des Points d
 ## Améliorations
 Chaque pouvoir de voie présente une liste d'améliorations possibles. Sélectionner une amélioration coûte 1 Point de voie et il faut avoir déjà dépensé dans le pouvoir un nombre de Point de voie au moins égal au rang de l'amélioration. Le personnage peut réaffecter tous ses Points de voie après chaque Repos long.
 
-| Amélioration  | Points de Voie dépensés dans la Voie |
-| ------------- |:-------------:  |
+| Amélioration  | Pré-requis en Points de voie dépensés dans la Voie |
+| ------------- |:-------------: |
 | Rang 0        | Aucun |
 | Rang 1        | 1     |
 | Rang 2        | 2     |
