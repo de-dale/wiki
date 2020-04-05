@@ -2,7 +2,7 @@
 title: Force d'âme
 description: 
 published: true
-date: 2020-04-05T19:24:13.132Z
+date: 2020-04-05T19:33:53.903Z
 tags: 
 ---
 
@@ -12,10 +12,17 @@ Un personnage peut créer un lien avec des objets, des entités et des sorts afi
 # Liens possibles
 ## Objets magiques
 Certains objets possèdent une étincelle de magie en eux, mais c'est à leur porteur d'aller la chercher et de la maîtriser. Ces objets sont dits magiques (même si certains ingénieurs désapprouvent le terme de "magie", préferant le terme "énergie inexpliquée à ce jour").
+### Lien avec des objets
 Il n'est possible de se lier à un objet que pendant un Repos long et l'effet du lien ne se produit que si l'objet est équipé ou porté. Certains objets les plus puissants peuvent nécessiter plusieurs liens pour bénéficier de leur effets.
+Bien que liés, certains objets ne produiront leurs effets que si le porteur ne répond à certaines conditions. Il s'agit généralement de conditions basées sur les compétences, les caractéristiques ou la classe du porteur, mais certains ont des conditions bien plus fantasques, comme le genre ou encore la couleur des yeux...
 
-Certains objets magiques font partis d'ensembles d'objets, appelés **sets** qui donnent à leur porteur des pouvoirs supplémentaires tant qu'il est lié à plusieurs d'entre eux. Les pouvoirs varient en fonction du nombre de pièces liées et équipées.
-L'origine de ces set varie. Certains sont des créations volontaires, d'autres sont simplement dus aux interactions entre certains objets lorsqu'ils ont une source commune de lien.
+### Sets et opposés
+Certains objets magiques font partis d'ensembles d'objets, appelés **sets** qui donnent à leur porteur des pouvoirs supplémentaires tant qu'il est lié à plusieurs d'entre eux. Les pouvoirs varient en fonction du nombre de pièces liées et équipées. L'origine de ces sets varie. Certains sont des créations volontaires, d'autres sont simplement dus aux interactions entre certains objets lorsqu'ils ont une source commune de lien.
+A l'inverse, il existe de objets opposés qui ne peuvent être liés ensemble. Si un personnage tente de lier deux objets opposés, aucun des deux ne lui fournira ses pouvoirs.
+
+### Objets exclusifs
+Certains objets sont exclusifs à des classes de personnage. Sauf mention contraire, les membres des autres classes ne pourront simplement pas s'en servir ni se lier avec eux.
+Les Ingénieurs ont la faculté unique de pouvoir se lier avec n'importe quel objet, même si cela leur est parfaitement inutile pour certains d'entre (qui n'apportent que des effets très spécifiques à une classe), à part bien sûr le plaisir malicieux d'énerver les membres des autres classes.
 
 ## Appel
 Les personnages peuvent faire appel à des êtres provenant d'autres plans d'existence. Cet appel n'est pas une simple invocation qui dure quelques minutes. L'appel est un rituel ancien, uniquement réalisable à la fin d'un Repos long, au terme duquel une partie de la volonté d'une créature spécifique apparaît dans une enveloppe corporelle temporaire créée par le rituel et semblable à celle de la créature d'origine. Cette enveloppe ne dure généralement qu'une journée avant de se dégrader et de libérer la volonté de la créature appelée. Cette créature est souvent enfermée dans un espace hors du temps sans espoir de s'échapper.
@@ -27,6 +34,8 @@ La créature appelée reste une journée au maximum, jusqu'à ce qu'elle soit tu
 ### Obtention d'un rituel d'appel
 Les rituels d'appel sont des connaissances rares. Ils demandent d'avoir le nom de la créature appelée, la méthode pour faire venir sa volonté jusqu'au lieur et lui façonner une enveloppe corporelle, et enfin les garanties de son obéissance. Il n'existe donc pas de rituel d'appel standard.
 Les rituels d'appel ont été intégrés au sein d'objets magiques, font partie de secrets connus uniquement par les membres de certaines classes, ou encore sont profondément enfouis dans la Voie que le personnage emprunte.
+### Nombre de créatures appelées
+Il n'y a pas vraiment de 
 
 # Obtention
 Your content here
