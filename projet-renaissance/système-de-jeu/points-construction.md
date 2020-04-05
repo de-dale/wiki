@@ -2,7 +2,7 @@
 title: Points de construction
 description: 
 published: true
-date: 2020-04-05T16:08:11.366Z
+date: 2020-04-05T20:10:30.306Z
 tags: 
 ---
 
@@ -25,7 +25,7 @@ Le personnage peut se servir de ses Points de construction dans les catégories 
 Pour chacune d'entre elles, le personnage peut dépenser des Points de construction pour acheter un Palier de construction. Une fois un Palier de construction obtenu, en fonction de la catégorie choisie, il gagne :
  * **Entraînement : +1 don**
  * **Classe : +1 capacité de classe**
- * **Force d'âme : +1 de puissance**
+ * **Force d'âme : +1 lien**
  
 ### Coût des paliers
 Le coût pour atteindre les Paliers de construction va en croissant pour chaque catégorie.
@@ -42,13 +42,13 @@ Le coût pour atteindre les Paliers de construction va en croissant pour chaque 
 ### Tableau récapitulatif des bonus cumulés
 | Palier de construction | Coût en PC | Entraînement | Classe | Force d'âme |
 | :----------: | :----------: | :----------: | :----: | :---------: |
-| 1 | 1        | **1 Don** | **1 Capacité de classe** | **1 de Puissance** | 
-| 2 | 3        | **2 Dons** | **2 Capacités de classe** | **2 de Puissance** | 
-| 3 | 6        | **3 Dons** | **3 Capacités de classe** | **3 de Puissance** | 
-| 4 | 10       | **4  Dons** | **4 Capacités de classe** | **4 de Puissance** | 
-| 5 | 15       | **5 Dons** | **5 Capacités de classe** | **5 de Puissance** |
-| 6 | 21       | **6 Dons** | **6 Capacités de classe** | **6 de Puissance** | 
-| 7 | 28       | **7 Dons** | **7 Capacités de classe** | **7 de Puissance** | 
+| 1 | 1        | **1 Don** | **1 Capacité de classe** | **1 Lien** | 
+| 2 | 3        | **2 Dons** | **2 Capacités de classe** | **2 Liens** | 
+| 3 | 6        | **3 Dons** | **3 Capacités de classe** | **3 Liens** | 
+| 4 | 10       | **4  Dons** | **4 Capacités de classe** | **4 Liens** | 
+| 5 | 15       | **5 Dons** | **5 Capacités de classe** | **5 Liens** |
+| 6 | 21       | **6 Dons** | **6 Capacités de classe** | **6 Liens** | 
+| 7 | 28       | **7 Dons** | **7 Capacités de classe** | **7 Liens** | 
 
 ## Altération d'aptitudes
 Les Points de construction peuvent servir à acheter des **Points d'Altérations** qui servent à modifier et améliorer leurs dons, capacités de classes et effets liés par la force d'âme. Après chaque *Repos long*, le personnage peut affecter ses Points d'Altération aux altérations de son choix de ses différentes aptitudes. La plupart des altérations ne consomment qu'un seul point, mais les plus puissantes peuvent en demander plusieurs. Les altérations choisies restent jusqu'au prochain Repos long.
