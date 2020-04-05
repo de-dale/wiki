@@ -2,7 +2,7 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T09:06:15.444Z
+date: 2020-04-05T09:13:25.218Z
 tags: 
 ---
 
@@ -19,9 +19,9 @@ Chaque pouvoir de voie présente une liste d'améliorations possibles. Sélectio
 
 # Liste des Voies
 ## Voie de l'Âme
-
+Un personnage qui choisit cette Voie est particulièrement attiré par 
 ## Voie du Jeu
-
+Cette Voie représenté l'attrait pour le jeu et les paris. Ceux qui empruntent cette voie ont une meilleure maîtrise des probabilités et peuvent aller jusqu'à les défier en transformant des échecs certains en réussites hasardeuses. Mais cette passion peut les dévorer : il leur est difficile de résister aux défis et la tentation de faire monter les enjeux devient forte. 
 ## Voie du Destin
 
 ## Voie de le Rébellion
