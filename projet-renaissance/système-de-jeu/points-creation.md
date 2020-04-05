@@ -2,7 +2,7 @@
 title: Points de création
 description: 
 published: true
-date: 2020-04-05T15:20:41.571Z
+date: 2020-04-05T15:32:59.597Z
 tags: 
 ---
 
@@ -59,7 +59,14 @@ Les Points de construction peuvent enfin servir à augmenter les caractéristiqu
 
 # Rachat de Points de construction
 Au fur et à mesure de son expérience, un personnage peut s'apercevoir que certains choix de construction n'étaient pas les bons ou ne lui correspondaient pas. Il a dans ce cas la possibilité de racheter les Points de construction qu'il estime mal investis pour les réaffecter.
-Il doit dépenser 200 XP par Point de construction qu'il souhaite racheter, avec les spécificités suivantes :
+Il doit dépenser 200 XP par Point de construction qu'il souhaite racheter pendant un Repos long, avec les spécificités suivantes :
+> **Rachat d'aptitudes**
+Le personnage doit racheter le Palier de construction entier. Ainsi s'il veut racheter son 4° don qui ne lui sert pas, il doit racheter le 4° Palier de construction, ce qui signifie qu'il doit payer 800 XP et qu'il récupérera 4 PC.
+Si le personnage rachète une aptitude offrant une Compétence, il perd une de ses Compétences correspondant à celle offerte par l'aptitude, ainsi que toute l'XP qu'il avait investit dedans.
+{.is-success}
 
-
-
+> **Rachat de Caractéristique**
+Racheter 1 point de Caractéristique coûte 600 XP car le personnage doit racheter les 3 PC qu'il a investit dedans. 
+Le personnage peut uniquement racheter les PC qu'il a dépensés dans ses Caractérisques, mais cela n'a pas besoin d'être dans la même Caractéristique. 
+Enfin, il ne peut pas dépenser 600 XP pour baisser une de ses Caractérisques de 1 alors qu'il n'a investi aucun PC dans ses Caractéristiques.
+{.is-success}
