@@ -2,7 +2,7 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T09:52:04.722Z
+date: 2020-04-05T10:08:38.640Z
 tags: 
 ---
 
@@ -16,6 +16,12 @@ Un personnage peut sélectionner au maximum 2 Voies différentes. Ce choix peut 
 Le personnage peut améliorer les pouvoirs de ses Voies en achetant des Points de voie grâce à ses Points de Progression et en les affectant aux améliorations de son choix. Les Points de voie achetés le sont définitivement.
 ## Améliorations
 Chaque pouvoir de voie présente une liste d'améliorations possibles. Sélectionner une amélioration coûte 1 Point de voie et il faut avoir déjà dépensé dans le pouvoir un nombre de Point de voie au moins égal au rang de l'amélioration. Le personnage peut réaffecter tous ses Points de voie après chaque Repos long.
+
+| Amélioration  | Points de Voie dépensés dans la Voie |
+| ------------- |:-------------:  |
+| Rang 0        | Aucun |
+| Rang 1        | 1     |
+| Rang 2        | 2     |
 
 # Liste des Voies
 ## Voie de l'Âme
