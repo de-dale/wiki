@@ -2,7 +2,7 @@
 title: Veilleur
 description: 
 published: true
-date: 2020-04-05T12:36:51.809Z
+date: 2020-04-05T12:37:18.634Z
 tags: 
 ---
 
@@ -66,3 +66,5 @@ Par une action, il effectue un jet de **`[Phare]`**, et gagne le nombre de succ�
 Révéler les faiblesses et Comprendre un point faible ne bénéficient pas de cette augmentation; @ voir pour un meilleur wording.
 
 > ~~Quand le personnage réussit à identifier une créature, il **gagne un bonus de compétence de +1 aux jets d’attaque, aux tests de caractéristique opposés, aux tests de compétence et aux tests de niveau de lanceur de sorts effectués contre les créatures de la même espèce~~
+
+# Veilleur | Barrier (Arm Blocker)
