@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2020-04-05T20:32:17.681Z
+date: 2020-04-05T20:35:03.596Z
 tags: 
 ---
 
@@ -11,8 +11,10 @@ La classe d'un personnage lui apporte des pouvoirs uniques et surtout un systèm
 Lors de la création d'un personnage celui-ci doit choisir à quelle classe il appartiendra. Ce choix est ferme et définitif, il ne sera plus possible de changer par la suite.
 
 # Système de ressources
-La classe d'un personnage lui apporte un système de ressources spéciales. Il peut s'agir de Foi pour le Fanatique, d'Intuition et d'Idée géniale pour l'Ingénieur, ou d'Adrénaline pour l'Enragé. 
-Cette ressource spéciale pourra servir soit à utiliser ses capacités de classe, soit à obtenir des **Empower (Emp)**. Les Emp sont une ressource commune à tous les personnages qui leur permet d'activer les effets les plus puissants de leurs capacités, qu'elles proviennents de leurs objets liés, de leur Voie ou d'ailleurs. Chaque classe génère sa ressources spéciale de façon différente et à un rythme différent. Si le Fanatique génère de la Foi de façon très régulière, les Idées géniales d'un Ingénieur arrivent de façon aléatoire et la Mémorisation d'un Erudit est disponible immédiatement, mais se régénère très lentement. 
+La classe d'un personnage lui apporte un système de ressources spéciales. Il peut s'agir de Foi pour le Fanatique, d'Intuition et d'Idée géniale pour l'Ingénieur, ou de Mémorisation pour l'Erudit. Chaque classe génère sa ressource spéciale de façon différente et à un rythme différent. Si le Fanatique génère de la Foi de façon très régulière, les Idées géniales d'un Ingénieur arrivent de façon aléatoire et la Mémorisation d'un Erudit est disponible immédiatement, mais se régénère très lentement. La description de chaque ressource spéciale est fait dans la classe associée.
+Cette ressource spéciale pourra servir soit à utiliser ses capacités de classe, soit à obtenir des **Empower (Emp)**. 
+## Empower
+Les Emp sont une ressource commune à tous les personnages qui leur permet d'activer les effets les plus puissants de leurs capacités, qu'elles proviennents de leurs objets liés, de leur Voie ou d'ailleurs. 
 
 
 # Capacités de classe
