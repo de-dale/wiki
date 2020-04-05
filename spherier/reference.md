@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: 
 published: true
-date: 2020-04-05T07:57:21.088Z
+date: 2020-04-05T07:57:29.270Z
 tags: 
 ---
 
