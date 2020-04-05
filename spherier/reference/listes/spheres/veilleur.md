@@ -2,7 +2,7 @@
 title: Veilleur
 description: 
 published: true
-date: 2020-04-05T12:37:32.400Z
+date: 2020-04-05T12:37:48.957Z
 tags: 
 ---
 
@@ -70,3 +70,5 @@ Révéler les faiblesses et Comprendre un point faible ne bénéficient pas de c
 # Veilleur | Barrier (Arm Blocker)
 
 # Veilleur | Accélérateur (Arm Buffer)
+
+# Veilleur | Fielder (Anvil Zoner)
