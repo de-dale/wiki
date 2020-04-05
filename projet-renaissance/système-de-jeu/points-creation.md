@@ -2,29 +2,31 @@
 title: Points de création
 description: 
 published: true
-date: 2020-04-05T15:02:13.233Z
+date: 2020-04-05T15:15:44.251Z
 tags: 
 ---
 
 # Obtention
-Les Points de construction (PC) sont une "monnaie" servant à améliorer les personnages. **1 Point de construction peut s'échanger contre 100 XP.** Chaque personnage commence avec 25 Points de construction et peut en cumuler jusqu'à un maximum de 40. Un personnage conserve tous les Points de construction qu'il n'a pas dépensé.
+Les Points de construction (PC) sont une "monnaie" servant à améliorer les personnages. **1 Point de construction peut s'échanger contre 100 XP.** Chaque personnage **commence avec 25 Points de construction** et peut en cumuler jusqu'à un **maximum de 40**. Un personnage conserve tous les Points de construction qu'il n'a pas dépensé.
 
 # Utilité
 Les Points de construction peuvent être dépensés pour :
  * Obtenir de nouvelles aptitudes
- * Améliorer des aptitudes existantes
+ * Altérer des aptitudes existantes
  * Augmenter ses caractéristiques
+
+Tout achat est définitif, sauf en cas de rachat de ses Points de construction.
 ## Obtention de nouvelles aptitudes
 Le personnage peut se servir de ses Points de construction dans les catégories suivantes :
 * Entraînement
 * Classe 
 * Force d'âme
 
-Pour chacune d'entre elles, le personnage peut dépenser des Points de construction pour acheter un Palier de construction. Une fois un Palier de construction obtenu, en fonction de la catégorie il gagne :
+Pour chacune d'entre elles, le personnage peut dépenser des Points de construction pour acheter un Palier de construction. Une fois un Palier de construction obtenu, en fonction de la catégorie choisie, il gagne :
  * **Entraînement : +1 don**
  * **Classe : +1 capacité de classe**
  * **Force d'âme : +1 de puissance**
-
+ 
 ### Coût des paliers
 Le coût pour atteindre les Paliers de construction va en croissant pour chaque catégorie.
 | Palier de construction | Coût en PC | Coût en PC cumulé
@@ -48,9 +50,12 @@ Le coût pour atteindre les Paliers de construction va en croissant pour chaque 
 | 6 | 21       | **6 Dons** | **6 Capacités de classe** | **6 de Puissance** | 
 | 7 | 28       | **7 Dons** | **7 Capacités de classe** | **7 de Puissance** | 
 
-| Effet | Coût en PP |
-| ------------- |:-------------: |
-| +1 dans une Caractéristique        | **3** |
-| Point d'altération        | **1**     |
-| Rang 2        | **2**     |
-| Rang 3        | **3**     |
+## Altération d'aptitudes
+Les Points de construction peuvent servir à acheter des **Points d'Altérations** qui servent à modifier et améliorer leurs dons, capacités de classes et effets liés par la force d'âme. Après chaque *Repos long*, le personnage peut affecter ses Points d'Altération aux altérations de son choix de ses différentes aptitudes. La plupart des altérations ne consomment qu'un seul point, mais les plus puissantes peuvent en demander plusieurs. Les altérations choisies restent jusqu'au prochain Repos long.
+**1 Point d'Altération coûte 1 PC.**
+
+## Augmentation de caractéristiques
+Les Points de construction peuvent enfin servir à augmenter les caractéristiques du personnage. **+1 dans une valeur de Caractéristique coûte 3 PC.**
+
+# Rachat de Points de construction
+
