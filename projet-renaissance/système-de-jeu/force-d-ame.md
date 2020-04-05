@@ -2,7 +2,7 @@
 title: Force d'âme
 description: 
 published: true
-date: 2020-04-05T19:33:53.903Z
+date: 2020-04-05T19:35:54.977Z
 tags: 
 ---
 
@@ -35,7 +35,7 @@ La créature appelée reste une journée au maximum, jusqu'à ce qu'elle soit tu
 Les rituels d'appel sont des connaissances rares. Ils demandent d'avoir le nom de la créature appelée, la méthode pour faire venir sa volonté jusqu'au lieur et lui façonner une enveloppe corporelle, et enfin les garanties de son obéissance. Il n'existe donc pas de rituel d'appel standard.
 Les rituels d'appel ont été intégrés au sein d'objets magiques, font partie de secrets connus uniquement par les membres de certaines classes, ou encore sont profondément enfouis dans la Voie que le personnage emprunte.
 ### Nombre de créatures appelées
-Il n'y a pas vraiment de 
+Il n'y a pas de limite au nombre de créatures appelées, à part bien sûr le nombre de liens du personnage. Certaines créatures particulièrement puissantes peuvent demander plus d'un lien pour être appelées en toute sécurité.
 
 # Obtention
 Your content here
