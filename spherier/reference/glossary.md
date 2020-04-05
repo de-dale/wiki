@@ -2,7 +2,7 @@
 title: Glossaire
 description: 
 published: true
-date: 2020-04-05T07:54:18.035Z
+date: 2020-04-05T08:11:30.596Z
 tags: 
 ---
 
@@ -11,8 +11,11 @@ tags:
 ## [Personnage](/spherier/reference/regles/personnage)[](https://trello.com/c/j5txrEnh) 
 Projection d'un joueur dans le jeu.
 
-## [Sphérier](/spherier/reference/regles/personnage#spherier)[](https://trello.com/c/bNZnhEeY) 
-Arbre de compétence d'un personnage. 
+## Sphérier
+Le [Sphérier][] (voir aussi sur [Trello][Sphérier.trello]) d'un personnage correspond à son arbre de compétence d'un personnage. 
+
+[Sphérier]: /spherier/reference/regles/personnage#spherier
+[Sphérier.trello]: https://trello.com/c/bNZnhEeY
 
 ## Sphère
 Une [Sphère][](Voir aussi sur [Trello][Sphère.trello]) est un sous-arbre de compétence d'un personnage.
