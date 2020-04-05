@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-04T20:05:43.676Z
+date: 2020-04-05T09:59:48.728Z
 tags: 
 ---
 
@@ -24,7 +24,7 @@ Les Caractéristiques sont au nombre de 4 : la **Carrure**, la **Dextérité**, 
 Un personnage appartient à une classe qui lui apporte des pouvoirs spécifiques ainsi qu'une mécanique de ressource afin d'utiliser des actions spéciales ou d'améliorer ses capacités existantes.
 #### Compétences
 Chaque personnage dispose de compétences qui lui sont propres, comme une expertise dans un domaine magique, une discrétion naturelle ou la maîtrise d'un art. Ces compétences peuvent s'avérer précieuses dans les bonnes conditions et aider le personnage à réussir un test.
-#### Voies
+#### [Voies](http://de-dale.hd.free.fr/e/fr/projet-renaissance/syst%C3%A8me-de-jeu/voies)
 Les deux voies que choisit d'emprunter le personnage sont à double tranchant : elles apportent un effet intéressant et des pouvoirs puissants si le personnage choisi d'investir dedans, mais aussi des défauts. Le choix d'une voie peut être fait n'importe quand, mais il est définitif. Il est possible de changer les pouvoirs des voies chaque jour.
 #### Equipement
 Le dernier aspect d'un personnage est son équipement, c'est à dire les objets avec lesquels il part à l'aventure. Un personnage ne peut porter qu'un objet par emplacement et les objets magiques lui demanderont de se lier à eux pour utiliser leur pleine puissance.
