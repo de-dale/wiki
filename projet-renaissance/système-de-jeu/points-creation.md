@@ -2,7 +2,7 @@
 title: Points de création
 description: 
 published: true
-date: 2020-04-05T14:44:50.970Z
+date: 2020-04-05T14:53:51.918Z
 tags: 
 ---
 
@@ -15,8 +15,12 @@ Les Points de construction peuvent être dépensés pour :
  * Améliorer des aptitudes existantes
  * Augmenter ses caractéristiques
 ## Obtention de nouvelles aptitudes
-Le personnage peut se servir de ses Points de construction pour obtenir accroître son Entraînement, débloquer des Capacités de classe ou augmenter la puissance de sa Force d'âme.
-Pour chacune de ces catégories, le personnage peut dépenser des Points de construction. Lorsqu'il atteint un Palier de construction d'une catégorie, il gagne :
+Le personnage peut se servir de ses Points de construction dans les catégories suivantes :
+* Entraînement
+* Classe 
+* Force d'âme
+
+Pour chacune d'entre elles, le personnage peut dépenser des Points de construction jusqu'à atteindre un Palier de construction dans cette catégorie. Une fois un Palier de construction atteint, en fonction de la catégorie il gagne :
  * **Entraînement : +1 don**
  * **Classe : +1 capacité de classe**
  * **Force d'âme : +1 de puissance**
