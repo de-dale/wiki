@@ -2,7 +2,7 @@
 title: Points de création
 description: 
 published: true
-date: 2020-04-05T15:33:45.113Z
+date: 2020-04-05T16:06:02.099Z
 tags: 
 ---
 
@@ -66,7 +66,5 @@ Si le personnage rachète une aptitude offrant une Compétence, il perd une de s
 {.is-success}
 
 > **Rachat de Caractéristique**
-Racheter 1 point de Caractéristique coûte 600 XP car le personnage doit racheter les 3 PC qu'il a investit dedans. 
-Le personnage peut uniquement racheter les PC qu'il a dépensés dans ses Caractérisques, mais cela n'a pas besoin d'être dans la même Caractéristique. 
-Enfin, il ne peut pas dépenser 600 XP pour baisser une de ses Caractérisques de 1 alors qu'il n'a investi aucun PC dans ses Caractéristiques.
+Il est impossible de racheter des PC investits dans ses Caractéristiques.
 {.is-success}
