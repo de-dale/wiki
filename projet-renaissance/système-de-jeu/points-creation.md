@@ -2,7 +2,7 @@
 title: Points de création
 description: 
 published: true
-date: 2020-04-05T14:23:17.484Z
+date: 2020-04-05T14:24:47.891Z
 tags: 
 ---
 
@@ -21,11 +21,11 @@ Le personnage peut se servir de ses Points de construction afin :
  * Augmenter sa Force d'âme
 Le coût d'obtention de ces aptitudes va en croissant pour chaque catégorie.
 | Coût en PP | Entraînement | Classe | Force d'âme |
-| ------------- | :-------------: | :-------------: | :-------------: |
-| 1        | **1 Don** | **1 Capacité de classe ** | ** Force d'âme +1 ** | 
-| 3        | **1 Don** | **1 Capacité de classe ** | ** Force d'âme +1 ** | 
-| 6        | **1 Don** | **1 Capacité de classe ** | ** Force d'âme +1 ** | 
-| 10       | **1 Don** | **1 Capacité de classe ** | ** Force d'âme +1 ** | 
+| ---------- | :----------: | :----: | :---------: |
+| 1        | **1 Don** | **1 Capacité de classe** | **Force d'âme +1** | 
+| 3        | **1 Don** | **1 Capacité de classe** | **Force d'âme +1** | 
+| 6        | **1 Don** | **1 Capacité de classe** | **Force d'âme +1** | 
+| 10       | **1 Don** | **1 Capacité de classe** | **Force d'âme +1** | 
 
 
 
