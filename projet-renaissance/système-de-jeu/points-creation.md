@@ -2,7 +2,7 @@
 title: Points de création
 description: 
 published: true
-date: 2020-04-05T14:35:30.843Z
+date: 2020-04-05T14:44:50.970Z
 tags: 
 ---
 
@@ -15,15 +15,26 @@ Les Points de construction peuvent être dépensés pour :
  * Améliorer des aptitudes existantes
  * Augmenter ses caractéristiques
 ## Obtention de nouvelles aptitudes
-Le personnage peut se servir de ses Points de construction pour obtenir des aptitudes dans les catégories suivantes :
- * **Entraînement : Obtention de dons**
- * **Classe : Maîtrise d'une nouvelle capacité de classe**
- * **Force d'âme : Augmenter de puissance**
- 
-Le coût d'obtention des aptitudes fonctionne en palier pour chaque catégorie d'aptitude
-Le coût d'obtention de ces aptitudes va en croissant pour chaque catégorie, comme indiqué dans le tableau ci-dessous. Pour obtenir le bonus 
+Le personnage peut se servir de ses Points de construction pour obtenir accroître son Entraînement, débloquer des Capacités de classe ou augmenter la puissance de sa Force d'âme.
+Pour chacune de ces catégories, le personnage peut dépenser des Points de construction. Lorsqu'il atteint un Palier de construction d'une catégorie, il gagne :
+ * **Entraînement : +1 don**
+ * **Classe : +1 capacité de classe**
+ * **Force d'âme : +1 de puissance**
 
-| Palier | Coût en PC | Entraînement | Classe | Force d'âme |
+### Coût des paliers
+Le coût pour atteindre les Paliers de construction va en croissant pour chaque catégorie.
+| Palier de construction | Coût en PC | Coût en PC cumulé
+| :----------: | :----------: | :----------: |
+| 1 | 1 | 1        | 
+| 2 | 2 | 3        |
+| 3 | 3 | 6        |
+| 4 | 4 | 10       | 
+| 5 | 5 | 15       |
+| 6 | 6 | 21       |
+| 7 | 7 | 28       |
+
+### Tableau récapitulatif des bonus cumulés
+| Palier de construction | Coût en PC | Entraînement | Classe | Force d'âme |
 | :----------: | :----------: | :----------: | :----: | :---------: |
 | 1 | 1        | **1 Don** | **1 Capacité de classe** | **Force d'âme 1** | 
 | 2 | 3        | **2 Dons** | **2 Capacités de classe** | **Force d'âme 2** | 
