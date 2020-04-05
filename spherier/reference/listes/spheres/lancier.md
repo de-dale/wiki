@@ -2,7 +2,7 @@
 title: Lancier
 description: 
 published: true
-date: 2020-04-05T12:30:12.509Z
+date: 2020-04-05T12:32:26.139Z
 tags: 
 ---
 
@@ -37,3 +37,12 @@ Attaque : pluie de flèche, zone, cibles multiples.
 
 Immobiliser dans zones. 
 Zone(3n+1): 1case, 7cases, 19cases
+
+# Lancier Dragon
+
+1. Maniement
+1. Fente
+1. Autre bout (1/2 att,  1/2 deg) 
+1. Enchaîner (3 touches => att gratuite) 
+1. Intercepter
+1. Maniement 2
