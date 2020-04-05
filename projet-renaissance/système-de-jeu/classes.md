@@ -2,7 +2,7 @@
 title: Classes
 description: 
 published: true
-date: 2020-04-05T20:43:31.546Z
+date: 2020-04-05T20:43:48.500Z
 tags: 
 ---
 
