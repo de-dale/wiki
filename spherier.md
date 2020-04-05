@@ -2,7 +2,7 @@
 title: Le Sphérier
 description: 
 published: true
-date: 2020-04-05T07:59:23.874Z
+date: 2020-04-05T08:06:55.188Z
 tags: 
 ---
 
@@ -29,13 +29,13 @@ A priori, à l'exception de la recherche de mots-clés, il n'est pas nécessaire
 <div class="row">
 <div class="col-6" id="tutorials-start-here">
   
-<span style="font-size:1.5em">**[Tutoriaux](/spherier/tutoriaux)**</span>
+<span style="font-size:1.5em">**🍼 [Tutoriaux](/spherier/tutoriaux)**</span>
 
 Pour les joueurs voulant s'initier au Sphérier. Propose des guides simplifiés pour créer ou jouer son premier personnage.
 </div>
 <div class="col-6" id="how-to">
 
-<span style="font-size:1.5em">**[Guides pratiques](/spherier/guides)**</span>
+<span style="font-size:1.5em">**⚒ [Guides pratiques](/spherier/guides)**</span>
 
 Outils et guides pratiques, à destination de joueurs un peu plus expérimentés, ou des MJ en herbe.
 </div>
@@ -44,7 +44,7 @@ Outils et guides pratiques, à destination de joueurs un peu plus expérimentés
 <div class="row">
 <div class="col-6" id="key-topics">
   
-<span style="font-size:1.5em">**[Concepts clés](/spherier/concepts)**</span>
+<span style="font-size:1.5em">**🗝 [Concepts clés](/spherier/concepts)**</span>
 
 Explications et analyses de quelques concepts clés du Sphérier. Discussions ouvertes sur les évolution possibles du Sphérier.
 </div>
