@@ -2,7 +2,7 @@
 title: Points de création
 description: 
 published: true
-date: 2020-04-05T14:25:24.688Z
+date: 2020-04-05T14:26:51.123Z
 tags: 
 ---
 
@@ -23,13 +23,13 @@ Le coût d'obtention de ces aptitudes va en croissant pour chaque catégorie.
 
 | Coût en PP | Entraînement | Classe | Force d'âme |
 | :----------: | :----------: | :----: | :---------: |
-| 1        | **1 Don** | **1 Capacité de classe** | **Force d'âme +1** | 
-| 3        | **1 Don** | **1 Capacité de classe** | **Force d'âme +1** | 
-| 6        | **1 Don** | **1 Capacité de classe** | **Force d'âme +1** | 
-| 10       | **1 Don** | **1 Capacité de classe** | **Force d'âme +1** | 
-
-
-
+| 1        | **1 Don** | **1 Capacité de classe** | **Force d'âme 1** | 
+| 3        | **2 Dons** | **2 Capacités de classe** | **Force d'âme 2** | 
+| 6        | **3 Dons** | **3 Capacités de classe** | **Force d'âme 3** | 
+| 10       | **4 Dons** | **4 Capacités de classe** | **Force d'âme 4** | 
+| 15       | **5 Dons** | **5 Capacités de classe** | **Force d'âme 5** | 
+| 21       | **6 Dons** | **6 Capacités de classe** | **Force d'âme 6** | 
+| 28       | **7 Dons** | **7 Capacités de classe** | **Force d'âme 7** | 
 
 | Effet | Coût en PP |
 | ------------- |:-------------: |
