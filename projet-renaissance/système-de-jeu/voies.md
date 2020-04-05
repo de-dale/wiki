@@ -2,7 +2,7 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T09:38:53.854Z
+date: 2020-04-05T09:39:57.073Z
 tags: 
 ---
 
@@ -23,7 +23,7 @@ Un personnage qui choisit cette Voie est particulièrement attiré par l'immaté
 ## Voie du Jeu
 Cette Voie représenté l'attrait pour le jeu et les paris. Ceux qui empruntent cette voie ont une meilleure maîtrise des probabilités et peuvent aller jusqu'à les défier en transformant des échecs certains en réussites hasardeuses. Mais cette passion peut les dévorer : il leur est difficile de résister aux défis et la tentation de faire monter les enjeux devient forte. 
 ## Voie du Destin
-Certains sont persuadés que tout le monde à un destin et qu'il est impossible d'y échapper. Ils croient aussi généralement que leur propre destin est particulièrement grandiose ou alors atrocement cruel. Emprunter cette voie permet de personnage de participer à la réalisation de son destin, quelqu'il soit, évitant les pièges de l'existence et pouvant aller jusqu'à distordre la réalité pour y parvenir. Ils deviennent alors obsédés par ce que l'avenir leur réserve, ne regardant plus leur présent ni leur passé.
+Cette Voie est faite pour ceux qui sont persuadés que tout le monde à un destin et qu'il est impossible d'y échapper. Ils croient aussi généralement que leur propre destin est particulièrement grandiose ou alors atrocement cruel. Emprunter cette voie permet de personnage de participer à la réalisation de son destin, quelqu'il soit, évitant les pièges de l'existence et pouvant aller jusqu'à distordre la réalité pour y parvenir. Ils deviennent alors obsédés par ce que l'avenir leur réserve, ne regardant plus leur présent ni leur passé.
 ## Voie de la Rébellion
 Les rebelles sont contre l'ordre établi, ils ont la volonté de changer les choses, généralement pour une situation qui leur semble meilleure ou leur propre profit. Ceux qui se tournent vers cette voie obtiennent la capacité de changer l'ordre établi, jusqu'à modifier le cours du temps pour changer ce qui aurait dû se produire. Mais il est difficile de s'arrêter de vouloir changer les choses et les personnages ayant choisi cette voie risquent de ne plus jamais être satisfaits de leur situation et de s'engager dans des combats perdus d'avance pour la changer.
 ## Voie de la Célébrité
