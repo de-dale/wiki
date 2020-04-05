@@ -2,7 +2,7 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T09:39:57.073Z
+date: 2020-04-05T09:45:50.510Z
 tags: 
 ---
 
@@ -27,6 +27,8 @@ Cette Voie est faite pour ceux qui sont persuadés que tout le monde à un desti
 ## Voie de la Rébellion
 Les rebelles sont contre l'ordre établi, ils ont la volonté de changer les choses, généralement pour une situation qui leur semble meilleure ou leur propre profit. Ceux qui se tournent vers cette voie obtiennent la capacité de changer l'ordre établi, jusqu'à modifier le cours du temps pour changer ce qui aurait dû se produire. Mais il est difficile de s'arrêter de vouloir changer les choses et les personnages ayant choisi cette voie risquent de ne plus jamais être satisfaits de leur situation et de s'engager dans des combats perdus d'avance pour la changer.
 ## Voie de la Célébrité
+La Voie de la Célébrité répond au besoin de reconnaissance par ses pairs. Ceux qui l'empruntent ne cherchent pas seulement le succès, ils veulent que celui-ci soit connu. Ils excellent lorsqu'ils sont entourés par d'autres personnes et brillent d'une aura majestueuse qui peut inspirer respect, crainte ou admiration dans le coeur de leurs alliés comme de leurs ennemis. Mais cette reconnaissance n'est qu'un bandage et fini par agir comme une drogue dont ils ne peuvent plus se passer, sans pour autant répondre à leur véritable besoin.
+## Voie du Secret
 
 
 
