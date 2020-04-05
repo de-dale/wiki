@@ -2,12 +2,13 @@
 title: Force d'âme
 description: 
 published: true
-date: 2020-04-05T20:00:33.849Z
+date: 2020-04-05T20:15:39.905Z
 tags: 
 ---
 
 # Effet de la Force d'âme
-Un personnage peut créer un lien avec des objets, des entités et des sorts afin qu'ils l'accompagnent et lui prêtent leur pouvoirs. Mais le maintien de ces liens drainent de l'énergie vitale, pouvant finir par la mort du personnage. La Force d'âme correspond à la capacité du personnage à maintenir ces liens sans en souffrir. **Un personnage peut posséder un nombre de liens égal à sa puissance de Force d'âme**. Dépasser ce nombre résulterait de la mort du personnage dans les minutes suivantes.
+Un personnage peut créer un lien avec des objets, des entités et des sorts afin qu'ils l'accompagnent et lui prêtent leur pouvoirs. Mais le maintien de ces liens draine de l'énergie vitale, pouvant finir par la mort du personnage. La Force d'âme correspond à la capacité du personnage à maintenir ces liens sans en souffrir. **Un personnage peut posséder un nombre de liens déterminé par son [Palier de construction en Force d'âme](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/points-construction)**. Dépasser ce nombre résulterait de la mort du personnage dans les minutes suivantes.
+
 
 # Liens possibles
 ## Objets magiques
@@ -41,5 +42,5 @@ Il n'y a pas de limite au nombre de créatures appelées, à part bien sûr le n
 Certaines capacités de très longue durée et de forte puissance peuvent demandées à être liées pour en bénéficier. Il peut s'agir de sorts à effet personnel ou bien d'auras qui bénéficient à toutes les créatures dans la zone.
 Ces capacités peuvent être obtenues par des objets liés, des capacités de classe ou encore les Voies des personnages.
 
-# Obtention de Force d'Âme
-Your content here
+# Obtention de Force d'âme
+La Force d'âme
