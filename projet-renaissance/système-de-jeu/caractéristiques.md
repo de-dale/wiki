@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-04-05T16:11:02.590Z
+date: 2020-04-05T20:05:25.585Z
 tags: 
 ---
 
@@ -17,6 +17,9 @@ Dans cette situation, si Bob avait cherché à comprendre comment la débloquer,
 
 ## En pré-requis
 De plus, certaines aptitudes ou objets demandent une valeur minimale de caractéristique pour être utilisables ou bien possèdent des effets supplémentaires si le personnage a atteint ou dépassé une valeur de caractéristique spécifique.
+
+## Altération de caractéristiques
+Il est possible d'altérer les effets de ses caractéristiques en y affectant des [Points d'Altération](http://de-dale.hd.free.fr/fr/projet-renaissance/système-de-jeu/points-construction). Ses altérations peuvent être changées après un Repos long.
 
 # Valeurs de caractéristiques
 ## A la création
