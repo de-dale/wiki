@@ -2,7 +2,7 @@
 title: Points de création
 description: 
 published: true
-date: 2020-04-05T15:32:59.597Z
+date: 2020-04-05T15:33:45.113Z
 tags: 
 ---
 
@@ -15,7 +15,7 @@ Les Points de construction peuvent être dépensés pour :
  * Altérer des aptitudes existantes
  * Augmenter ses caractéristiques
 
-Tout achat est définitif, sauf en cas de rachat de ses Points de construction.
+Tout achat est définitif, sauf en cas de rachat de ses Points de construction, et doit se faire pendant un Repos long.
 ## Obtention de nouvelles aptitudes
 Le personnage peut se servir de ses Points de construction dans les catégories suivantes :
 * Entraînement
