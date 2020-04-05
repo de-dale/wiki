@@ -2,7 +2,7 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T15:52:26.772Z
+date: 2020-04-05T15:52:59.289Z
 tags: 
 ---
 
@@ -16,7 +16,7 @@ Un personnage peut sélectionner au maximum 2 Voies différentes. Ce choix peut 
 ## Arpentage des Voies
 Les Voies fonctionnent comme une succession de chemins. Lorsque le personnage sélectionne un effet dans une de ses Voies, il se ferme l'accès aux autres, mais ouvre l'accès aux effets suivants. **Sélectionner un effet coûte 250 XP et doit se faire pendant un Repos long.**
 ## Rebrousser chemin
-Un personnage qui s'est aventuré trop loin à son goût dans le chemin qu'il a pris peut rebrousser chemin. Pour cela, il doit dépenser de  250 XP afin d'oublier le dernier effet sélectionné. Il peut répéter l'opération plusieurs fois, jusqu'à ce qu'il retourne à l'endroit choisi. Il est alors libre de prendre un autre chemin s'il le souhaite.
+Un personnage qui s'est aventuré trop loin à son goût dans le chemin qu'il a pris peut rebrousser chemin. Pour cela, il doit dépenser **250 XP pendant un Repos long afin d'oublier le dernier effet sélectionné**. Il peut répéter l'opération plusieurs fois, jusqu'à ce qu'il retourne à l'endroit choisi. Il est alors libre de prendre un autre chemin s'il le souhaite.
 
 # Liste des Voies
 ## Voie de l'Âme
