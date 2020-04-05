@@ -2,7 +2,7 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T09:18:08.961Z
+date: 2020-04-05T09:22:30.250Z
 tags: 
 ---
 
@@ -23,7 +23,7 @@ Un personnage qui choisit cette Voie est particulièrement attiré par l'immaté
 ## Voie du Jeu
 Cette Voie représenté l'attrait pour le jeu et les paris. Ceux qui empruntent cette voie ont une meilleure maîtrise des probabilités et peuvent aller jusqu'à les défier en transformant des échecs certains en réussites hasardeuses. Mais cette passion peut les dévorer : il leur est difficile de résister aux défis et la tentation de faire monter les enjeux devient forte. 
 ## Voie du Destin
-
+Certains sont persuadés que tout le monde à un destin et qu'il est impossible d'y échapper. Ils croient aussi généralement que leur propre destin est particulièrement grandiose ou alors atrocement cruel. Emprunter cette voie permet de personnage de participer à la réalisation de son destin, quelqu'il soit, évitant les pièges de l'existence et pouvant aller jusqu'à distordre la réalité pour y parvenir. Ils deviennent alors obsédés par ce que l'avenir leur réserve, ne regardant 
 ## Voie de le Rébellion
 
 ## Voie de la Célébrité
