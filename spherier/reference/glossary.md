@@ -2,14 +2,17 @@
 title: Glossaire
 description: 
 published: true
-date: 2020-04-05T08:11:30.596Z
+date: 2020-04-05T12:20:37.811Z
 tags: 
 ---
 
 > À pour vocation de référencer les mots-clés, et de les associer à une courte définition ainsi qu'à un lien vers leur carte. 
 
-## [Personnage](/spherier/reference/regles/personnage)[](https://trello.com/c/j5txrEnh) 
+## Personnage
 Projection d'un joueur dans le jeu.
+
+[Personnage](/spherier/reference/regles/personnage)
+[Personnage.trello](https://trello.com/c/j5txrEnh) 
 
 ## Sphérier
 Le [Sphérier][] (voir aussi sur [Trello][Sphérier.trello]) d'un personnage correspond à son arbre de compétence d'un personnage. 
@@ -25,18 +28,33 @@ Voir aussi la [Liste des Sphères][]
 [Sphère.trello]: https://trello.com/c/ZJVIytbL
 [Liste des Sphères]: /spherier/reference/listes/spheres
 
-## [Facette](/spherier/reference/regles/personnage#facette)[](https://trello.com/c/nNBTIelT)
+## [Facette][][][Facette.trello]
 Feuille de l'arbre de compétence d'un personnage. 
 
-## [Capacités](/spherier/reference/regles/capacites)[](https://trello.com/c/EUJsvYrZ)
+[Facette]: /spherier/reference/regles/personnage#facette
+[Facette.trello]: https://trello.com/c/nNBTIelT
+
+## [Capacités][][][Capacités.trello]
 Permet à un personnage de déclencher un effet. 
 
-## [Compétences](/spherier/reference/regles/competences)[](https://trello.com/c/udzuobSo)
+[Capacités]: /spherier/reference/regles/capacites
+[Capacités.trello]: https://trello.com/c/EUJsvYrZ
+
+## [Compétences][][][Compétences.trello]
 Expression de l'efficacité d'une Capacité.
 
-## [Karma](https://trello.com/c/Fv26adNT)
+[Compétences]: /spherier/reference/regles/competences
+[Compétences.trello]: https://trello.com/c/udzuobSo
+
+## [Karma][Karma.trello]
 Échelle de progression d'un **Personnage**
 
-## [Action](https://trello.com/c/MPbgE0oE)
+[Karma.trello]: https://trello.com/c/Fv26adNT
 
-## [Réaction](https://trello.com/c/vcCvdkOI)
+## [Action][Action.trello]
+
+[Action.trello]: https://trello.com/c/MPbgE0oE
+
+## [Réaction][Réaction.trello]
+
+[Réaction.trello]: https://trello.com/c/vcCvdkOI
