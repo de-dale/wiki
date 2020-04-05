@@ -2,7 +2,7 @@
 title: Projet Renaissance
 description: 
 published: true
-date: 2020-04-05T12:19:48.465Z
+date: 2020-04-05T12:23:48.509Z
 tags: 
 ---
 
@@ -14,7 +14,7 @@ Le projet Renaissance est la création d'un système de jeu de rôle communautai
 ### Personnages
 #### Création
 **Aspect qualitatif**
-  * Identité et comportement
+  * [Identité et comportement](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/identite_comportement)
   * [Voies](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/voies)
 {.links-list}
 
