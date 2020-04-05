@@ -2,7 +2,7 @@
 title: Caractéristiques
 description: 
 published: true
-date: 2020-04-05T20:05:25.585Z
+date: 2020-04-05T20:07:29.289Z
 tags: 
 ---
 
@@ -40,6 +40,8 @@ Elle sert principalement lorsque le personnage cherche à faire des actions bas�
 * Porter une charge
 * Pousser quelqu'un ou quelque chose
 Elle est liée à l'[Encaissement] et au [Blocage].
+  * [Altérations de la Carrure]
+{.links-list}
 
 ## Dextérité
 La Dextérité reflète l'agilité naturelle du personnage.
@@ -51,6 +53,8 @@ Elle sert principalement lorsque le personnage cherche à faire des actions habi
 * Se cacher
 * Se faufiler
 Elle est liée à l'[Esquive] et à la [Parade].
+  * [Altérations de la Dextérité]
+{.links-list}
 
 ## Réflexion
 La Réflexion reflète la capacité du personnage à réfléchir et mobiliser son savoir.
@@ -62,6 +66,8 @@ Elle sert principalement lorsque le personnage cherche à créer ou résoudre de
 * Trouver un argument convaincant
 * Trouver une faille dans une illusion ou un enchantement
 Elle est liée au [Discernement] et au [Piège Mental].
+  * [Altérations de la Réflexion]
+{.links-list}
 
 ## Volonté
 La Volonté reflète la force mentale et la détermination du personnage.
@@ -72,3 +78,5 @@ Elle sert principalement lorsque le personnage cherche à imposer des choses, te
 * Ne pas succomber à la peur
 * *Survivre dans le monde Astral*
 Elle est liée à la [Résistance] et à l'[Esprit vide].
+  * [Altérations de la Volonté]
+{.links-list}
