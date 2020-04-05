@@ -2,7 +2,7 @@
 title: Points de création
 description: 
 published: true
-date: 2020-04-05T15:15:44.251Z
+date: 2020-04-05T15:18:40.724Z
 tags: 
 ---
 
@@ -58,4 +58,7 @@ Les Points de construction peuvent servir à acheter des **Points d'Altérations
 Les Points de construction peuvent enfin servir à augmenter les caractéristiques du personnage. **+1 dans une valeur de Caractéristique coûte 3 PC.**
 
 # Rachat de Points de construction
+Au fur et à mesure de son expérience, un personnage peut s'apercevoir que certains choix de construction n'étaient pas les bons ou ne lui correspondaient pas. Il a dans ce cas la possibilité de racheter les Points de construction qu'il estime mal investis pour les réaffecter.
+
+
 
