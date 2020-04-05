@@ -2,7 +2,7 @@
 title: Sphères
 description: 
 published: true
-date: 2020-04-05T12:33:18.829Z
+date: 2020-04-05T12:33:36.251Z
 tags: 
 ---
 
@@ -15,7 +15,7 @@ Elles sont réparties par thématiques, ce qui ne limite en rien le choix des pe
 - [Scout](scout)
 - [Lancier](lancier)
 - [Gardien](gardien)
-- [Cpntrôlleur de mana)(controlleur-de-mana)
+- [Contrôlleur de mana](controlleur-de-mana)
 
 > **Symboles:**
 <i class="mdi mdi-hexagon-multiple-outline"></i>  Material Design Icons `mdi-hexagon-multiple-outline`
