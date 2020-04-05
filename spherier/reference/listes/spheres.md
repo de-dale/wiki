@@ -2,7 +2,7 @@
 title: Sphères
 description: 
 published: true
-date: 2020-04-05T12:23:44.007Z
+date: 2020-04-05T12:29:39.502Z
 tags: 
 ---
 
@@ -13,7 +13,8 @@ Elles sont réparties par thématiques, ce qui ne limite en rien le choix des pe
 
 - [Veilleur](veilleur)
 - [Scout](scout)
-
+- [Lancier](lancier)
+- [Gardien](gardien)
 
 > **Symboles:**
 <i class="mdi mdi-hexagon-multiple-outline"></i>  Material Design Icons `mdi-hexagon-multiple-outline`
