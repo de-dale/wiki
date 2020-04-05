@@ -2,7 +2,7 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T10:15:29.022Z
+date: 2020-04-05T10:15:44.455Z
 tags: 
 ---
 
@@ -22,6 +22,7 @@ Chaque pouvoir de voie présente une liste d'améliorations possibles. Sélectio
 | Rang 0        | Aucun |
 | Rang 1        | 1     |
 | Rang 2        | 2     |
+| Rang 3        | 3     |
 
 # Liste des Voies
 ## Voie de l'Âme
