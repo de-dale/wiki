@@ -2,7 +2,7 @@
 title: Voies
 description: 
 published: true
-date: 2020-04-05T15:53:09.102Z
+date: 2020-04-05T15:53:34.837Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 Les Voies sont les chemins de progression que le personnage choisit d'emprunter. Chaque Voie représente un aspect de sa personnalité, comme par exemple l'attrait au jeu, le suivi de son destin ou au contraire le refus de ce dernier, l'attirance pour l'immatériel, ou encore le besoin de célébrité. 
 ## Effets des Voies
 Les Voies sont à double tranchant : elles vont renforcer certains aspects du personnage et lui conférer des bonus et pouvoirs spéciaux, mais au prix de défauts et malus. Elles peuvent donc aider à mieux définir un personnage lors de sa création ou de son évolution.
-Chaque Voie possède un effet initial qui se met en place dès que le personnage l'a choisie. Le personnage pourra ensuite sélectionner des effets supplémentaire au fur et à mesure de sa progression.
+Chaque Voie possède un effet initial qui se met en place dès que le personnage l'a choisie. Il pourra ensuite sélectionner des effets supplémentaires au fur et à mesure de sa progression.
 ## Choix des Voies
 Un personnage peut sélectionner au maximum 2 Voies différentes. Ce choix peut se faire à la création ou lors d'un Repos long, et une par une ou les 2 d'un coup. Ce choix est définitif une fois fait. Il est donc tout à fait possible qu'un personnage de niveau 6 n'ait qu'une Voie, voire aucune.
 ## Arpentage des Voies
