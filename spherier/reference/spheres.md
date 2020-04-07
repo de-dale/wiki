@@ -2,7 +2,7 @@
 title: Sphères
 description: 
 published: true
-date: 2020-04-07T13:20:05.079Z
+date: 2020-04-07T13:21:36.464Z
 tags: 
 ---
 
@@ -22,6 +22,13 @@ Elles sont réparties par thématiques, ce qui ne limite en rien le choix des pe
 - [Brute](brute)
 - [Naturelles](naturelles)
 - [Carrure](carrure)
+- [Agilité](agilite)
+- [Reaction]
+- [Intelligence]
+- [Perception]
+- [Ego]
+- [Chance]
+- [Magie]
 
 > **Symboles:**
 <i class="mdi mdi-hexagon-multiple-outline"></i>  Material Design Icons `mdi-hexagon-multiple-outline`
