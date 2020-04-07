@@ -2,14 +2,9 @@
 title: Règles de base
 description: 
 published: true
-date: 2020-04-04T21:23:35.770Z
+date: 2020-04-07T13:48:12.371Z
 tags: 
 ---
-
-
-[personnage](personnage) 
-[compétences](competences) 
-[capacité](capacites) 
 
 # Carte
 
