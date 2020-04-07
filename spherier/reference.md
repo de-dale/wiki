@@ -2,16 +2,18 @@
 title: 📖 Documentation de référence
 description: 
 published: true
-date: 2020-04-07T12:55:02.286Z
+date: 2020-04-07T13:49:19.245Z
 tags: 
 ---
 
-# Règles
+# Règles de base
 
-- [Règles de base](/spherier/reference/regles)
-- [Glossaire](/spherier/reference/glossary)
+- [Règles de base](regles)
+- [Personnage](regles/personnage) 
+- [Compétences](regles/competences) 
+- [Capacité](regles/capacites) 
+- [Glossaire](glossary)
 {.links-list}
-
 
 # Listes
 
