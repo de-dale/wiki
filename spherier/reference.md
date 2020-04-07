@@ -2,17 +2,17 @@
 title: 📖 Documentation de référence
 description: 
 published: true
-date: 2020-04-07T13:51:08.623Z
+date: 2020-04-07T19:13:56.434Z
 tags: 
 ---
 
 # Règles de base
 
-- [Règles de base](regles)
 - [Concept](concept)
 - [Personnage](regles/personnage) 
 - [Compétences](regles/competences) 
-- [Capacité](regles/capacites) 
+- [Capacité](regles/capacites)
+- [Cartes](cartes)
 - [Glossaire](glossary)
 {.links-list}
 
