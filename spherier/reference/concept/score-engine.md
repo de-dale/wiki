@@ -2,11 +2,9 @@
 title: Système de Score sur 1d20
 description: 
 published: true
-date: 2020-04-07T13:57:22.888Z
+date: 2020-04-07T14:05:33.108Z
 tags: 
 ---
-
-# d20
 
 > Système D&D like. Cest le système que l'on utilise pour jouer à D&D3.5 et Pathfinder.
 
@@ -15,23 +13,28 @@ tags:
 Dans ce système, le personnage lance 1d20, additionne  son degré de maîtrise dans la compétence utilisée, ses bonus, soustrait ses malus,  puis compare le résultat au degré de difficulté. S'il a plus, son action aboutit,  sinon elle échoue. 
 
 En résumé :
-> **[Compétence]** = somme (1d20 + "<Compétence> + Bonus - Malus") 
 
-Le DD pour une action:
-> **Facile:**                 5
-> **Moyenne:**         10
-> **Difficile:**            15
-> **Très difficile:**   20
+ **[Compétence]** = somme (1d20 + "<Compétence> + Bonus - Malus") 
+
+> Une échelle de DD pour une action:
+>- **Facile:** 5
+>- **Moyenne:** 10
+>- **Difficile:** 15
+>- **Très difficile:** 20
 
 ## Types de test
 
-### Tests et limites
+### Tests de réussite
 
->  **Test de réussite**
-> **`[Dressage](10)`**
-> Compétence                  Limite          DD
-> utilisée dans               applicable
-> le test 
+Le test le plus basique. On confronte un lancer de dés à un socre et on regarde s'il s'agit d'une réussite.
+Exemple de test de réussite: 
+
+    [Dressage](10)
+    
+où :
+- `[Dressage]` : Compétence utilisée dans le test 
+- ` ` : Limite applicable 
+- `10` : DD
 
 ### Tests opposés
 
