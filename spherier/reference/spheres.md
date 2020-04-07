@@ -2,7 +2,7 @@
 title: Sphères
 description: 
 published: true
-date: 2020-04-07T13:11:53.935Z
+date: 2020-04-07T13:20:05.079Z
 tags: 
 ---
 
@@ -10,6 +10,9 @@ tags:
 
 Ci-dessous, la liste des Sphères.  
 Elles sont réparties par thématiques, ce qui ne limite en rien le choix des personnages. 
+
+> ⚠️ C'est du gros WIP, avec un copier+coller brut du Trello
+{.is-warning}
 
 - [Veilleur](veilleur)
 - [Scout](scout)
