@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: 
 published: true
-date: 2020-04-07T19:13:56.434Z
+date: 2020-04-07T19:19:35.508Z
 tags: 
 ---
 
@@ -12,7 +12,7 @@ tags:
 - [Personnage](regles/personnage) 
 - [Compétences](regles/competences) 
 - [Capacité](regles/capacites)
-- [Cartes](cartes)
+- [Carte](carte)
 - [Glossaire](glossary)
 {.links-list}
 
