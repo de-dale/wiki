@@ -2,7 +2,7 @@
 title: Concept
 description: 
 published: true
-date: 2020-04-07T13:55:23.186Z
+date: 2020-04-07T13:55:51.404Z
 tags: 
 ---
 
@@ -39,6 +39,6 @@ Si le test est une réussite, on parlera de "**Marge de Réussite**", sinon il s
 
 # Moteurs de lancer
 
-- [Succès *Compter le nombre de succès sur une brouette de d6*](success)
-- [Score *Compte le score total sur 1d20 et ses modificateurs*](score)
+- [Succès *Compter le nombre de succès sur une brouette de d6*](success-engine)
+- [Score *Compte le score total sur 1d20 et ses modificateurs*](score-engine)
 {.links-list}
