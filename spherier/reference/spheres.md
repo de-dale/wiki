@@ -2,7 +2,7 @@
 title: Sphères
 description: 
 published: true
-date: 2020-04-07T13:29:00.614Z
+date: 2020-04-07T13:31:59.805Z
 tags: 
 ---
 
@@ -25,7 +25,7 @@ Elles sont réparties par thématiques, ce qui ne limite en rien le choix des pe
 - [Agilité](agilite)
 - [Reactivité](reactivite)
 - [Intelligence](intelligence)
-- [Perception]
+- [Perception](perception)
 - [Ego]
 - [Chance]
 - [Magie]
