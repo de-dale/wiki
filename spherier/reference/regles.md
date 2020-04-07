@@ -1,8 +1,8 @@
 ---
-title: Règles de base
+title: Carte
 description: 
 published: true
-date: 2020-04-07T19:11:37.811Z
+date: 2020-04-07T19:14:57.232Z
 tags: 
 ---
 
