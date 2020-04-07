@@ -2,7 +2,7 @@
 title: Sphères
 description: 
 published: true
-date: 2020-04-07T13:21:36.464Z
+date: 2020-04-07T13:26:22.681Z
 tags: 
 ---
 
@@ -23,7 +23,7 @@ Elles sont réparties par thématiques, ce qui ne limite en rien le choix des pe
 - [Naturelles](naturelles)
 - [Carrure](carrure)
 - [Agilité](agilite)
-- [Reaction]
+- [Reactivité](reactivite)
 - [Intelligence]
 - [Perception]
 - [Ego]
