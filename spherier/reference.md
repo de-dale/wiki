@@ -2,13 +2,14 @@
 title: 📖 Documentation de référence
 description: 
 published: true
-date: 2020-04-07T13:49:19.245Z
+date: 2020-04-07T13:51:08.623Z
 tags: 
 ---
 
 # Règles de base
 
 - [Règles de base](regles)
+- [Concept](concept)
 - [Personnage](regles/personnage) 
 - [Compétences](regles/competences) 
 - [Capacité](regles/capacites) 
@@ -17,10 +18,10 @@ tags:
 
 # Listes
 
-- [Sphères](/spherier/reference/spheres)
-- [Facettes](/spherier/reference/facettes)
-- [Capacités](/spherier/reference/capacites)
-- [Compétences](/spherier/reference/competences)
+- [Sphères](spheres)
+- [Facettes](facettes)
+- [Capacités](capacites)
+- [Compétences](competences)
 {.links-list}
 
 # Liens externes
