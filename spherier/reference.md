@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: 
 published: true
-date: 2020-04-05T07:57:29.270Z
+date: 2020-04-07T12:55:02.286Z
 tags: 
 ---
 
@@ -15,7 +15,7 @@ tags:
 
 # Listes
 
-- [Sphères](/spherier/reference/listes/spheres)
+- [Sphères](/spherier/reference/spheres)
 - [Facettes](/spherier/reference/facettes)
 - [Capacités](/spherier/reference/capacites)
 - [Compétences](/spherier/reference/competences)
