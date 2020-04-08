@@ -2,7 +2,7 @@
 title: Concept
 description: 
 published: true
-date: 2020-04-07T14:25:17.281Z
+date: 2020-04-08T12:48:21.283Z
 tags: 
 ---
 
@@ -134,27 +134,30 @@ A chaque test consécutif, on retire un dé de la réserve.
 Une fois que tous les dés sont retirés, on ne peut plus poursuivre le test.
 
 **Système au score de d20**
-A chaque test consécutif, on applique un malus de -1 sur le prochain jet.
-Une fois que tous la somme des malus égale le degré de maîtrise du personnage dans la compétence utilisée, on ne peut plus poursuivre le test. 
-> Cf. Artisanat 
+A chaque test consécutif, on applique un malus cummulatif de -1 sur le prochain jet.
+Une fois que le malus cumulé égale le degré de maîtrise du personnage dans la compétence utilisée, on ne peut plus poursuivre le test. 
 
 ## Tests d'équipe
-WIP
->  **Test de réussite**
-> `[Dressage](2)`
-> Compétence                   Limite         DD
-> utilisée dans                applicable
-> le test
-> **+1 par succès        +1 par assistant avec
-> des assistants            1 succès ou plus**
 
+Tests où plusierus personnage cherchent à réussir ensembe une action.
+On désigne un "Leader", les autres personnage seront alors les "Assistants".
 
-### Tests d'équipe
+Exemple:
 
->  **Test de réussite**
-> `[Dressage](32)`
-> Compétence                   Limite         DD
-> utilisée dans                applicable
-> le test
-> **+2 par succès        +1 par assistant avec
-> des assistants            1 succès ou plus**
+    [Rituel satanique](10,  2)
+    
+où :
+- `[Rituel satanique]` : Compétence utilisée dans le test 
+- ` ` : Limite applicable 
+- `10` : DD à atteindre par le Leader pour réussir son jet
+- `2` : DD à atteindre par un Assistant pour "Réussir à aider correctement"
+- '?' : Nombre maximum d'Assistants 
+- '?' : Nombre minimal de  d'Assistants 
+
+**Système à succès**
+On ajoute à la réserve de dé du Leader, tous les succès excedentaires des Assistants.
+La Limite du Leader pour ce test, augmente 1 par Assistant ayant 1 réussi à aider correctement.
+
+**Système au score de d20**
+On ajoute +2 par assistant ayant réussi à aider correctement.
+La Limite du Leader pour ce test, augmente de 1 par Assistant ayant réussi à aider correctement.
