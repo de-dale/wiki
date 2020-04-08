@@ -2,7 +2,7 @@
 title: Liste des Sphères
 description: 
 published: true
-date: 2020-04-08T13:43:38.011Z
+date: 2020-04-08T13:44:03.337Z
 tags: 
 ---
 
@@ -14,7 +14,7 @@ Elles sont réparties par thématiques, ce qui ne limite en rien le choix des pe
 > ⚠️ C'est du gros WIP, avec un copier+coller brut du Trello
 {.is-warning}
 
-- [Veilleur](../sphères-liste/veilleur)
+- [Veilleur](./../sphères-liste/veilleur)
 - [Scout](scout)
 - [Lancier](lancier)
 - [Gardien](gardien)
