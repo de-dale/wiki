@@ -2,7 +2,7 @@
 title: Capacités
 description: 
 published: true
-date: 2020-04-03T13:45:53.087Z
+date: 2020-04-08T13:48:10.486Z
 tags: 
 ---
 
@@ -27,6 +27,8 @@ Par une action
 En réponse à un adversaire
 En réaction à une action d'attaque
 
+Voir aussi la [Liste des Capacités][]
+
 # Capacités Actives
 
 Une **Capacité Active** demande au moins une **Action** ou une **Réaction**, pour que ses effets s'appliquent.
@@ -37,3 +39,5 @@ Souvent, les effets d'une **Capacité Active** sont limités dans le temps.
 Une **Capacité Passive** applique continuellement ses effets, tant que ses conditions d'activation s'appliquent. 
 
 Souvent une **Capacité Passive** ne s'applique qu'au personnage la possédant.
+
+[Liste des Capacités]: /sphérier/reference/liste-capacités
