@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: 
 published: true
-date: 2020-04-08T14:11:57.150Z
+date: 2020-04-08T14:12:54.637Z
 tags: 
 ---
 
@@ -31,4 +31,4 @@ tags:
 - [GitHub Pages _Site vitrine de présentation du sphérier_](https://de-dale.github.io/spherier)
 - [GitBook _Site présentant le sphéier sous forme de livre_](https://de-dale.gitbook.io/spherier)
 - [Notions _Espace de travail sur le spéhrier (obsolète)_](https://www.notion.so/spherier/)
-{.links-list}
+{.links-list} 
