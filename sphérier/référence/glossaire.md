@@ -2,7 +2,7 @@
 title: Glossaire
 description: 
 published: true
-date: 2020-04-08T14:11:12.458Z
+date: 2020-04-08T14:11:29.729Z
 tags: 
 ---
 
@@ -26,7 +26,7 @@ Voir aussi la [Liste des Sphères][]
 
 [Sphère]: /sphérier/référence/personnages#sphères
 [Sphère.trello]: https://trello.com/c/ZJVIytbL
-[Liste des Sphères]: /sphérier/référence/listes-sphères
+[Liste des Sphères]: /sphérier/référence/liste-sphères
 
 ## [Facette][][][Facette.trello]
 Feuille de l'arbre de compétence d'un personnage. 
