@@ -2,26 +2,26 @@
 title: 📖 Documentation de référence
 description: 
 published: true
-date: 2020-04-08T13:39:53.427Z
+date: 2020-04-08T13:41:12.394Z
 tags: 
 ---
 
 # Règles de base
 
 - [Mécaniques de base](core)
-- [Personnage](regles/personnage) 
-- [Compétences](regles/competences) 
-- [Capacité](regles/capacites)
+- [Personnages](personnages) 
+- [Compétences](compétences) 
+- [Capacités](capacités)
 - [Carte](carte)
 - [Glossaire](glossary)
 {.links-list}
 
 # Listes
 
-- [Sphères](spheres)
-- [Facettes](facettes)
-- [Capacités](capacites)
-- [Compétences](competences)
+- [Sphères](sphères-liste)
+- [Facettes](facettes-liste)
+- [Capacités](capacités-liste)
+- [Compétences](compétences-liste)
 {.links-list}
 
 # Liens externes
