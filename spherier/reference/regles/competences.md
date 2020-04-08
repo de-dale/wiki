@@ -2,7 +2,7 @@
 title: Compétences
 description: 
 published: true
-date: 2020-04-08T13:11:44.806Z
+date: 2020-04-08T13:41:42.118Z
 tags: 
 ---
 
