@@ -1,8 +1,8 @@
 ---
-title: Concept
+title: Règles de base
 description: 
 published: true
-date: 2020-04-08T13:38:35.938Z
+date: 2020-04-08T13:39:14.629Z
 tags: 
 ---
 
