@@ -2,7 +2,7 @@
 title: Contrôleur de mana
 description: 
 published: true
-date: 2020-04-05T12:54:52.110Z
+date: 2020-04-08T13:57:48.226Z
 tags: 
 ---
 
