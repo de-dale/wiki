@@ -2,25 +2,31 @@
 title: Concept
 description: 
 published: true
-date: 2020-04-08T13:11:00.908Z
+date: 2020-04-08T13:37:36.444Z
 tags: 
 ---
 
-# Test de Compétence 
+# Mécanique de base
 
-Lorsque vous faites appel à vos **[Capacités](https://trello.com/c/EUJsvYrZ)** pour accomplir quelque chose de difficile, d’extraordinaire ou de risqué, afin de déterminer si vous réussissez ou si vous échouez, vous effectuez un **Test de Compétence**.
-Vous utilisez votre **[Compétence](https://trello.com/c/udzuobSo)**, et récupérez votre **Maîtrise** et votre ~~Expertise~~ **Limite**. Vous lancez alors les dés, et vous cherchez à obtenir un résultat suffisant pour égaler ou surpasser le **Degré de Difficulté**, abrégé en "**DD**", et parfois appelé "_Seuil_".
+Vos personnages sont des aventuriers, régulièrement ils utiliseront leurs **[Capacités][][][Capacités.trello]** pour accomplir quelque chose de difficile, d’extraordinaire ou de risqué. Lorsque que le succès n'est pas garanti, vous effectuez un **Test**, dont ler résultat déterminera si vous réussissez ou si vous échouez dans votre entreprise.
 
+Vous utilisez votre **[Compétence][][][Compétence.trello]**, et récupérez votre **Maîtrise** et votre **Limite**.
+
+Vous lancez alors les dés, et vous cherchez à obtenir un résultat suffisant pour égaler ou surpasser le **Degré de Difficulté**, abrégé en "**DD**", et parfois appelé "_Seuil_".
 Si le résultat des dés est supérieur ou égal au **DD**, le test est une **Réussite**, sinon, c'est un **Échec**. 
 
-Le mode du calcul du résultat, et le degré de difficulté, dépendent du système de jeu que vous choisissez d'utiliser.
+Le mode du calcul du résultat, et le degré de difficulté, dépendent du **système de jeu** que vous choisissez d'utiliser.
+- [Succès *Compter le nombre de succès sur une brouette de d6*](success-engine)
+- [Score *Compter le score total sur 1d20 et ses modificateurs*](score-engine)
+
+{.links-list}
 
 ## Limite
 
 La **Limite** sur un **Test de Compétence** correspond au plafond du résultat
 qu'il est possible d'obtenir sur ce test.
 
-Chaque **Compétence** possède sa propre La **Limite**.
+Chaque **Compétence** possède sa propre **Limite**.
 
 > **Note d'équilibrage:** _(à déplacer dans la partie "Discussion" de la Doc)_
 > La **Limite** permet de pallier à un manque d'équilibrage dans le jeu, en limitant la puissance des joueurs par des palliers.
@@ -39,10 +45,6 @@ Si le test est une réussite, on parlera de "**Marge de Réussite**", sinon il s
 
 # Systèmes de jeu
 
-- [Succès *Compter le nombre de succès sur une brouette de d6*](success-engine)
-- [Score *Compte le score total sur 1d20 et ses modificateurs*](score-engine)
-{.links-list}
-
 <a id="success-engine"></a>
 ##  d6 - Dés à succès
 
@@ -53,7 +55,9 @@ Ce nombre est égal au **degré de maîtrise**, de la compétence utilisée, aju
 
 > **RD** = <Compétence> + Bonus - Malus
 
-Un **succès** correspond à un 5 ou un 6 sur le résultat d'un dé. On compare ensuite le nombre de succès au DD, pour déterminer si le test est une réussite ou un échec.
+L’objectif quand on lance les dés est d’obtenir des **succès**. Un succès correspond à un 5 ou un 6 sur le résultat d'un dé.
+Le nombre de succès obtenus est comparé au DD, pour déterminer si le test est une réussite ou un échec.
+
 
 En résumé :
 
@@ -161,3 +165,10 @@ La Limite du Leader pour ce test, augmente 1 par Assistant ayant 1 réussi à ai
 **Système au score de d20**
 On ajoute +2 par assistant ayant réussi à aider correctement.
 La Limite du Leader pour ce test, augmente de 1 par Assistant ayant réussi à aider correctement.
+
+
+
+[Capacités]: /spherier/reference/regles/capacites
+[Capacités.trello]: https://trello.com/c/EUJsvYrZ
+[Compétence]: /spherier/reference/regles/competences
+[Compétence.trello]: https://trello.com/c/udzuobSo
