@@ -2,7 +2,7 @@
 title: Concept
 description: 
 published: true
-date: 2020-04-08T13:37:36.444Z
+date: 2020-04-08T13:37:57.359Z
 tags: 
 ---
 
@@ -16,8 +16,8 @@ Vous lancez alors les dés, et vous cherchez à obtenir un résultat suffisant p
 Si le résultat des dés est supérieur ou égal au **DD**, le test est une **Réussite**, sinon, c'est un **Échec**. 
 
 Le mode du calcul du résultat, et le degré de difficulté, dépendent du **système de jeu** que vous choisissez d'utiliser.
-- [Succès *Compter le nombre de succès sur une brouette de d6*](success-engine)
-- [Score *Compter le score total sur 1d20 et ses modificateurs*](score-engine)
+- [Succès *Compter le nombre de succès sur une brouette de d6*](#success-engine)
+- [Score *Compter le score total sur 1d20 et ses modificateurs*](#score-engine)
 
 {.links-list}
 
