@@ -2,7 +2,7 @@
 title: Capacités
 description: 
 published: true
-date: 2020-04-08T13:48:44.665Z
+date: 2020-04-08T14:04:04.282Z
 tags: 
 ---
 
