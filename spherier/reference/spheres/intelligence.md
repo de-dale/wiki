@@ -2,7 +2,7 @@
 title: Sphères de l'Intelligence
 description: 
 published: true
-date: 2020-04-07T13:31:38.417Z
+date: 2020-04-08T14:01:35.632Z
 tags: 
 ---
 
