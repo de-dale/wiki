@@ -2,7 +2,7 @@
 title: Le Sphérier
 description: 
 published: true
-date: 2020-04-08T13:51:15.798Z
+date: 2020-04-08T14:13:38.809Z
 tags: 
 ---
 
@@ -50,7 +50,7 @@ Explications et analyses de quelques concepts clés du Sphérier. Discussions ou
 </div>
 <div class="col-6" id="reference">
   
-<span style="font-size:1.5em">**📖 [Documentation de référence](reference)**</span>
+<span style="font-size:1.5em">**📖 [Documentation de référence](référence)**</span>
 
 Ensemble des règles permettant d'utiliser le Sphérier. Liste également les éléments de jeu : Sphères, Compétences, Capacité, Glossaire.
 </div>
@@ -67,8 +67,8 @@ Ensemble des règles permettant d'utiliser le Sphérier. Liste également les é
 
 # Liste de liens
 
-- [Règles](reference/core)
-- [Glossaire](reference/glossary)
+- [Règles](référence/core)
+- [Glossaire](référence/glossaire)
 
 - Espace de travail Notions (obsolète): https://www.notion.so/spherier/
 - Repertoire de sauvegarde GitHub: https://github.com/de-dale/spherier
