@@ -2,7 +2,7 @@
 title: Compétences
 description: 
 published: true
-date: 2020-04-03T13:45:25.688Z
+date: 2020-04-08T13:11:44.806Z
 tags: 
 ---
 
@@ -29,3 +29,6 @@ Une Compétence est notée ainsi :
     > voir aussi **_[Expertise(Grade, Compétence)](https://trello.com/c/0EKOzT2h)_**
 
 **Exemple :** Bluff<+10, 6>
+
+[Compétences]: /spherier/reference/regles/competences
+[Compétences.trello]: https://trello.com/c/udzuobSo
