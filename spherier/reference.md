@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: 
 published: true
-date: 2020-04-08T13:41:12.394Z
+date: 2020-04-08T13:45:21.503Z
 tags: 
 ---
 
@@ -18,10 +18,10 @@ tags:
 
 # Listes
 
-- [Sphères](sphères-liste)
-- [Facettes](facettes-liste)
-- [Capacités](capacités-liste)
-- [Compétences](compétences-liste)
+- [Sphères](liste-sphères)
+- [Facettes](liste-facettes)
+- [Capacités](liste-capacités)
+- [Compétences](liste-compétences)
 {.links-list}
 
 # Liens externes
