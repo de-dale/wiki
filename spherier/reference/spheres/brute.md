@@ -2,7 +2,7 @@
 title: Brute
 description: 
 published: true
-date: 2020-04-05T12:55:07.628Z
+date: 2020-04-08T13:58:14.414Z
 tags: 
 ---
 
