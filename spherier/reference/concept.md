@@ -2,7 +2,7 @@
 title: Concept
 description: 
 published: true
-date: 2020-04-08T13:37:57.359Z
+date: 2020-04-08T13:38:35.938Z
 tags: 
 ---
 
@@ -70,6 +70,7 @@ En résumé :
 > - **Très difficile:** 4
 {.is-info}
 
+<a id="score-engine"></a>
 ## d20 - Score de dé
 
 _**Donjon&Dragons:** Chaque fois que vous lancez les dés, vous cherchez à obtenir un score suffisant pour égaler ou surpasser un seuil, correspondant au total minimal à atteindre pour réussir ce que vous essayez de faire._
