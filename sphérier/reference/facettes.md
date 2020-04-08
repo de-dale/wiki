@@ -2,7 +2,7 @@
 title: Facettes
 description: Liste des Facettes
 published: true
-date: 2020-04-08T13:55:00.798Z
+date: 2020-04-08T14:05:50.360Z
 tags: 
 ---
 
