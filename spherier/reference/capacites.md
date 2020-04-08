@@ -2,7 +2,7 @@
 title: Liste des Capacités
 description: 
 published: true
-date: 2020-04-07T12:57:46.225Z
+date: 2020-04-08T13:59:43.334Z
 tags: 
 ---
 
