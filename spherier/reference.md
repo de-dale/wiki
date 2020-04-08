@@ -2,13 +2,13 @@
 title: 📖 Documentation de référence
 description: 
 published: true
-date: 2020-04-07T19:38:55.126Z
+date: 2020-04-08T13:39:53.427Z
 tags: 
 ---
 
 # Règles de base
 
-- [Concept](concept)
+- [Mécaniques de base](core)
 - [Personnage](regles/personnage) 
 - [Compétences](regles/competences) 
 - [Capacité](regles/capacites)
