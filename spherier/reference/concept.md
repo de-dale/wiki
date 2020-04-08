@@ -2,7 +2,7 @@
 title: Concept
 description: 
 published: true
-date: 2020-04-08T12:48:21.283Z
+date: 2020-04-08T13:11:00.908Z
 tags: 
 ---
 
@@ -22,13 +22,14 @@ qu'il est possible d'obtenir sur ce test.
 
 Chaque **Compétence** possède sa propre La **Limite**.
 
-> **NB:**
-La **Limite** permet de pallier à un manque d'équilibrage dans le jeu, en limitant la puissance des joueurs par des palliers.
+> **Note d'équilibrage:** _(à déplacer dans la partie "Discussion" de la Doc)_
+> La **Limite** permet de pallier à un manque d'équilibrage dans le jeu, en limitant la puissance des joueurs par des palliers.
 Elle est peut-être amenée à disparaître ; il faut voir comment les joueurs font évoluer leurs personnages avec/sans le plafond de puissance.
-
+> 
 > Deux options envisagées :
-> - ( ) Limiter le nombre de dés lancés
-> - (x) Limiter le nombre de succès (cf.SR5)
+> - [ ] Limiter le nombre de dés lancés
+> - [x] Limiter le nombre de succès (cf.SR5)
+
 
 ## Marge
 
@@ -45,11 +46,7 @@ Si le test est une réussite, on parlera de "**Marge de Réussite**", sinon il s
 <a id="success-engine"></a>
 ##  d6 - Dés à succès
 
-> Système SR5 like
-> **A ma préférence**
-
-> **SR5:**
-_Chaque fois que vous lancez les dés, vous cherchez à obtenir assez de succès pour égaler ou surpasser un seuil, qui est le nombre de succès dont vous avez besoin pour faire ce que vous essayez de faire._
+_**Shadowrun:** Chaque fois que vous lancez les dés, vous cherchez à obtenir assez de succès pour égaler ou surpasser un seuil, qui est le nombre de succès dont vous avez besoin pour faire ce que vous essayez de faire._
 
 Pour effectuer un **Test de Compétence**, on constitue la **Réserve de Dés**, c'est à dire, le nombre de dés à lancer.
 Ce nombre est égal au **degré de maîtrise**, de la compétence utilisée, ajusté par les différents modificateurs, bonus et malus.
@@ -59,29 +56,32 @@ Ce nombre est égal au **degré de maîtrise**, de la compétence utilisée, aju
 Un **succès** correspond à un 5 ou un 6 sur le résultat d'un dé. On compare ensuite le nombre de succès au DD, pour déterminer si le test est une réussite ou un échec.
 
 En résumé :
-> **[Compétence]** = succès{5,6}(<Compétence> + Bonus - Malus × d6) 
 
-> Le DD pour une action:
+    [Compétence] = succès{5,6}(<Compétence> + Bonus - Malus × d6)
+
+> Une échelle de DD pour une action:
 > - **Facile:** 1
-> - **Moyenne:**          2
-> - **Difficile:**             3
-> - **Très difficile:**    4
+> - **Moyenne:** 2
+> - **Difficile:** 3
+> - **Très difficile:** 4
+{.is-info}
 
-> Système D&D like. Cest le système que l'on utilise pour jouer à D&D3.5 et Pathfinder.
+## d20 - Score de dé
 
-> _Chaque fois que vous lancez les dés, vous cherchez à obtenir un score suffisant pour égaler ou surpasser un seuil, correspondant au total minimal à atteindre pour réussir ce que vous essayez de faire._
+_**Donjon&Dragons:** Chaque fois que vous lancez les dés, vous cherchez à obtenir un score suffisant pour égaler ou surpasser un seuil, correspondant au total minimal à atteindre pour réussir ce que vous essayez de faire._
 
 Dans ce système, le personnage lance 1d20, additionne  son degré de maîtrise dans la compétence utilisée, ses bonus, soustrait ses malus,  puis compare le résultat au degré de difficulté. S'il a plus, son action aboutit,  sinon elle échoue. 
 
 En résumé :
 
- **[Compétence]** = somme (1d20 + "<Compétence> + Bonus - Malus") 
+    [Compétence] = somme (1d20 + "<Compétence> + Bonus - Malus") 
 
 > Une échelle de DD pour une action:
->- **Facile:** 5
->- **Moyenne:** 10
->- **Difficile:** 15
->- **Très difficile:** 20
+> - **Facile:** 5
+> - **Moyenne:** 10
+> - **Difficile:** 15
+> - **Très difficile:** 20
+{.is-info}
 
 
 # Types de tests
