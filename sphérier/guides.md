@@ -1,8 +1,8 @@
 ---
-title: ⚙ Outils ⚒
+title: ⚒ Guides pratiques
 description: 
 published: true
-date: 2020-04-09T13:48:11.330Z
+date: 2020-04-09T13:50:01.602Z
 tags: 
 ---
 
@@ -19,6 +19,7 @@ tags:
 
 Quelques questions auxquelles cette page devra répondre :
 
+1. Comment je créée un personnage ?
 1. Comment concevoir :
     - Une Sphère
     - Une Facette
