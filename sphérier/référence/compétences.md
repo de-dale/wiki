@@ -2,9 +2,13 @@
 title: Compétences
 description: 
 published: true
-date: 2020-04-09T19:45:52.384Z
+date: 2020-04-09T19:47:50.175Z
 tags: 
 ---
+
+
+> # **Compétence<Maîtrise, Limite>**
+{.is-info}
 
 # Compétenc
 **Paradigme :**
