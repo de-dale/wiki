@@ -2,7 +2,7 @@
 title: Règles de base
 description: 
 published: true
-date: 2020-04-08T14:12:26.517Z
+date: 2020-04-09T19:31:33.765Z
 tags: 
 ---
 
@@ -167,9 +167,7 @@ La Limite du Leader pour ce test, augmente 1 par Assistant ayant 1 réussi à ai
 On ajoute +2 par assistant ayant réussi à aider correctement.
 La Limite du Leader pour ce test, augmente de 1 par Assistant ayant réussi à aider correctement.
 
-
-
-[Capacités]: /spherier/reference/regles/capacites
+[Capacités]: /sphérier/référence/capacités
 [Capacités.trello]: https://trello.com/c/EUJsvYrZ
-[Compétence]: /spherier/reference/regles/competences
+[Compétence]: /sphérier/référence/compétences
 [Compétence.trello]: https://trello.com/c/udzuobSo
