@@ -1,8 +1,8 @@
 ---
-title: Règles de base
+title: Mécanique de base
 description: 
 published: true
-date: 2020-04-09T19:33:48.133Z
+date: 2020-04-09T19:34:33.260Z
 tags: 
 ---
 
