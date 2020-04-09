@@ -2,7 +2,7 @@
 title: Compétences
 description: 
 published: true
-date: 2020-04-09T19:40:55.520Z
+date: 2020-04-09T19:43:36.982Z
 tags: 
 ---
 
@@ -45,5 +45,10 @@ Elle est peut-être amenée à disparaître ; il faut voir comment les joueurs f
 > - [ ] Limiter le nombre de dés lancés
 > - [x] Limiter le nombre de succès (cf.SR5)
 
+[core]:/sphérier/référence/core
+
 [Compétences]: /sphérier/référence/compétences
 [Compétences.trello]: https://trello.com/c/udzuobSo
+
+[Personnage]: /sphérier/référence/personnages
+[Personnage.trello]: https://trello.com/c/j5txrEnh
