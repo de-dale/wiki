@@ -2,7 +2,7 @@
 title: Mécanique de base
 description: 
 published: true
-date: 2020-04-09T19:38:42.088Z
+date: 2020-04-09T19:39:28.453Z
 tags: 
 ---
 
@@ -16,25 +16,10 @@ Vous lancez alors les dés, et vous cherchez à obtenir un résultat suffisant p
 Si le résultat des dés est supérieur ou égal au **DD**, le test est une **Réussite**, sinon, c'est un **Échec**. 
 
 Le mode du calcul du résultat, et le degré de difficulté, dépendent du **système de jeu** que vous choisissez d'utiliser.
+
 - [Succès *Compter le nombre de succès sur une brouette de d6*](#success-engine)
 - [Score *Compter le score total sur 1d20 et ses modificateurs*](#score-engine)
-
 {.links-list}
-
-## Limite
-
-La **Limite** sur un **Test de Compétence** correspond au plafond du résultat
-qu'il est possible d'obtenir sur ce test.
-
-Chaque **Compétence** possède sa propre **Limite**.
-
-> **Note d'équilibrage:** _(à déplacer dans la partie "Discussion" de la Doc)_
-> La **Limite** permet de pallier à un manque d'équilibrage dans le jeu, en limitant la puissance des joueurs par des palliers.
-Elle est peut-être amenée à disparaître ; il faut voir comment les joueurs font évoluer leurs personnages avec/sans le plafond de puissance.
-> 
-> Deux options envisagées :
-> - [ ] Limiter le nombre de dés lancés
-> - [x] Limiter le nombre de succès (cf.SR5)
 
 
 ## Marge
