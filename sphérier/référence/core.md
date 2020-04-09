@@ -2,7 +2,7 @@
 title: Règles de base
 description: 
 published: true
-date: 2020-04-09T19:31:33.765Z
+date: 2020-04-09T19:32:57.991Z
 tags: 
 ---
 
@@ -39,7 +39,7 @@ Elle est peut-être amenée à disparaître ; il faut voir comment les joueurs f
 
 ## Marge
 
-Une Marge est la différence entre le résultat d'un **Test de Compétence**, et le **DD** associé. Elle traduit le degré de réussite ou d'échec d'un personnage, sur l'action entreprise et sera toujours positive. 
+La **Marge** est la différence entre le résultat d'un **Test de Compétence**, et le **DD** associé. Elle traduit le degré de réussite ou d'échec d'un personnage, sur l'action entreprise et sera toujours positive. 
 
 Si le test est une réussite, on parlera de "**Marge de Réussite**", sinon il s'agira de la "**Marge d'Échec**".
 
