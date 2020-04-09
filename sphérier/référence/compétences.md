@@ -2,7 +2,7 @@
 title: Compétences
 description: 
 published: true
-date: 2020-04-09T20:00:04.693Z
+date: 2020-04-09T20:14:37.047Z
 tags: 
 ---
 
@@ -11,7 +11,11 @@ tags:
 {.is-info}
 
 
-# Compétenc
+# Compétences
+
+Si les [Capacités][] déterminent les actions que peut entreprendre un [Personnage][], les **Compétences** déterminent si un personnage accompli ce qu'il entreprend ou échoue en essayant.
+Les **Compétences** constituent un indice de l'efficacité du **[Personnage][]**, et de sa maîtrise dans l'usage de ses **[Capacités][]**.
+
 
 <!--
 A skill is an ability that allows a character to perform some action or make some item that improves with use. The improvement depends on the difficulty of the action or the difficulty in creating the item. Professions are a subset of skills. Not all skills are professions.
@@ -28,7 +32,6 @@ Reword de Compétence :
 **Compétences = Maîtrise + Expertise + ∆Capacités**
 
 
-Les **Compétences** permettent au **[Personnage][]**, d'utiliser efficacement ses **[Capacités][]**.
 
 Une Compétence est notée ainsi :
 > **Nom<Maîtrise, Limite>**
