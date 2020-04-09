@@ -2,7 +2,7 @@
 title: Compétences
 description: 
 published: true
-date: 2020-04-09T19:48:12.519Z
+date: 2020-04-09T20:00:04.693Z
 tags: 
 ---
 
@@ -10,7 +10,13 @@ tags:
 > **Compétence<Maîtrise, Limite>**
 {.is-info}
 
+
 # Compétenc
+
+<!--
+A skill is an ability that allows a character to perform some action or make some item that improves with use. The improvement depends on the difficulty of the action or the difficulty in creating the item. Professions are a subset of skills. Not all skills are professions.
+-->
+
 **Paradigme :**
 Les **Capacités** déterminent les **Compétences** qu'un personnage possède, et non l'inverse.
 > **Corollaire :**
@@ -20,7 +26,7 @@ Si un **Personnage** possède une **Compétence**, il peut l'exploiter dans au m
 Reword de Compétence :
 **Compétences = Savoir + Limite + ∆Capacités**
 **Compétences = Maîtrise + Expertise + ∆Capacités**
-Trait de compétence
+
 
 Les **Compétences** permettent au **[Personnage][]**, d'utiliser efficacement ses **[Capacités][]**.
 
@@ -49,6 +55,7 @@ Elle est peut-être amenée à disparaître ; il faut voir comment les joueurs f
 > - [ ] Limiter le nombre de dés lancés
 > - [x] Limiter le nombre de succès (cf.SR5)
 
+## Trait de compétence
 
 [Capacités]: /sphérier/référence/capacités
 [Capacités.trello]: https://trello.com/c/EUJsvYrZ
