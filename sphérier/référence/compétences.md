@@ -2,12 +2,12 @@
 title: Compétences
 description: 
 published: true
-date: 2020-04-08T14:03:01.179Z
+date: 2020-04-09T19:40:55.520Z
 tags: 
 ---
 
-# Compétences
-> **Paradigme :**
+# Compétenc
+**Paradigme :**
 Les **Capacités** déterminent les **Compétences** qu'un personnage possède, et non l'inverse.
 > **Corollaire :**
 Si un **Personnage** possède une **Compétence**, il peut l'exploiter dans au moins une **Capacité** qu'il possède. 
@@ -30,5 +30,20 @@ Une Compétence est notée ainsi :
 
 **Exemple :** Bluff<+10, 6>
 
-[Compétences]: /spherier/reference/regles/competences
+## Limite
+
+La **Limite** sur un **Test de Compétence** correspond au plafond du résultat
+qu'il est possible d'obtenir sur ce test.
+
+Chaque **Compétence** possède sa propre **Limite**.
+
+> **Note d'équilibrage:** _(à déplacer dans la partie "Discussion" de la Doc)_
+> La **Limite** permet de pallier à un manque d'équilibrage dans le jeu, en limitant la puissance des joueurs par des palliers.
+Elle est peut-être amenée à disparaître ; il faut voir comment les joueurs font évoluer leurs personnages avec/sans le plafond de puissance.
+> 
+> Deux options envisagées :
+> - [ ] Limiter le nombre de dés lancés
+> - [x] Limiter le nombre de succès (cf.SR5)
+
+[Compétences]: /sphérier/référence/compétences
 [Compétences.trello]: https://trello.com/c/udzuobSo
