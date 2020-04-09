@@ -2,7 +2,7 @@
 title: Mécanique de base
 description: 
 published: true
-date: 2020-04-09T19:34:33.260Z
+date: 2020-04-09T19:34:46.871Z
 tags: 
 ---
 
