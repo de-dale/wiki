@@ -2,7 +2,7 @@
 title: Mécanique de base
 description: 
 published: true
-date: 2020-04-09T19:34:46.871Z
+date: 2020-04-09T19:38:42.088Z
 tags: 
 ---
 
@@ -91,9 +91,9 @@ En résumé :
 
 # Types de tests
 
-## Tests de réussite
+## Tests simple
 
-Le test le plus basique. On confronte un lancer de dés à un socre et on regarde s'il s'agit d'une réussite.
+Le test le plus basique : le lancer de dés est confronté au DD et on regarde s'il s'agit d'une réussite ou d'un échec. 
 
 Exemple : 
 
@@ -101,7 +101,6 @@ Exemple :
     
 où :
 - `[Dressage]` : Compétence utilisée dans le test 
-- ` ` : Limite applicable 
 - `10` : DD
 
 ## Tests opposés
@@ -114,10 +113,7 @@ Exemple :
        
 où :
 - `[Bluff]` : Compétence utilisée dans le test 
-- ` ` : Limite applicable 
 - `[Psychologie]` : Compétence utilisée par l'opposant
-- ` ` : Limite appliquée à l'opposant
-
 
 ## Tests étendus
 
@@ -129,7 +125,6 @@ Exemple:
     
 où :
 - `[Mecanique]` : Compétence utilisée dans le test 
-- ` ` : Limite applicable 
 - `2` : DD minimal à atteindre pour faire avancer le score total
 - `10` : Score total à atteindre à l'issue du test 
 - `1h` : Intervalle entre deux tests 
@@ -153,7 +148,6 @@ Exemple:
     
 où :
 - `[Rituel satanique]` : Compétence utilisée dans le test 
-- ` ` : Limite applicable 
 - `10` : DD à atteindre par le Leader pour réussir son jet
 - `2` : DD à atteindre par un Assistant pour "Réussir à aider correctement"
 - '?' : Nombre maximum d'Assistants 
