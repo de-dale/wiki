@@ -2,7 +2,7 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-03T06:47:36.314Z
+date: 2020-04-09T13:52:46.720Z
 tags: howto, documentation
 ---
 
@@ -32,7 +32,7 @@ Il s'agit des _tutoriaux_, des _guides pratiques_, des _guides de réfrences_ et
 |          pour | apprendre |  un objectif | de l'information | comprendre |
 |          doit | permettre à un nouvel utilisateur de démarrer | montrer comment résoudre un problème spécifique |  décrire la machinerie | expliquer |
 | sous la forme | d'un exercice | de séries d'étapes | de pure description | d'explications argumentées | 
-|     analogies |teaching a small child how to cook| a recipe in a cookery book| a reference encyclopaedia article| an article on culinary social history| 
+|     analogies | apprendre à un enfant comment cuisiner | une recette dans un livre de cuisine | un article encuclopédique sur un ingrédient | une article de blog sur l'histoire de la société culinaire | 
 
 
 # Tutoriaux
