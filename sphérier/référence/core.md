@@ -2,13 +2,13 @@
 title: Règles de base
 description: 
 published: true
-date: 2020-04-09T19:32:57.991Z
+date: 2020-04-09T19:33:48.133Z
 tags: 
 ---
 
 # Mécanique de base
 
-Vos personnages sont des aventuriers, régulièrement ils utiliseront leurs **[Capacités][][][Capacités.trello]** pour accomplir quelque chose de difficile, d’extraordinaire ou de risqué. Lorsque que le succès n'est pas garanti, vous effectuez un **Test**, dont ler résultat déterminera si vous réussissez ou si vous échouez dans votre entreprise.
+Vos personnages sont des aventuriers, qui utiliseront leurs **[Capacités][][][Capacités.trello]** pour accomplir quelque chose de difficile, d’extraordinaire ou de risqué. Lorsque que le succès n'est pas garanti, vous effectuez un **Test**, dont le résultat déterminera si vous réussissez ou si vous échouez dans votre entreprise.
 
 Vous utilisez votre **[Compétence][][][Compétence.trello]**, et récupérez votre **Maîtrise** et votre **Limite**.
 
