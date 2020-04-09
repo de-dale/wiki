@@ -2,7 +2,7 @@
 title: ⚙ Outils ⚒
 description: 
 published: true
-date: 2020-04-04T06:20:05.725Z
+date: 2020-04-09T13:48:11.330Z
 tags: 
 ---
 
@@ -17,7 +17,44 @@ tags:
 - [Comment contribuer ? *Apporter ma pierre à l'edifice*]()
 {.links-list}
 
+Quelques questions auxquelles cette page devra répondre :
+
+1. Comment concevoir :
+    - Une Sphère
+    - Une Facette
+    - Une Capacité
+    - Une Compétence 
+2. Comment intégrer ma conception à l'existant ?
+    - Comment tester ma conception ? 
+    - Equilibrage: Echelle de puissance et combo ? quelles questions poser ?
+    
+
 # Conception
+
+## But d'une carte
+
+> **Punchline:** Spécialiser la carte avec son but
+Objectif pédagogiques / 
+
+Lors de la création d'une Carte, il faut répondre aux question suivantes :
+- En tant que joueur, pourquoi est-ce que je choisi cette carte ?
+- En tant que joueur, une fois que j'ai choisi cette carte, je peux faire ... ?
+- En tant que MJ, lorsqu'un joueur chois cette carte, quels nouveaux défis puis-je lui proposer ?
+- En tant que MJ, lorsque je donne cette carte à un Mob, quels nouveaux défis est-il caâble de fournir ?
+
+Pour qu'une carte soit utile, il faut que:
+
+- Elle soit autosuffisante en terme de capacité utile
+- Elle vienne compléter des capacités déjà existantes
+
+Pour qu'une carte soit autosuffisante, il faut savoir quel rôle elle aide à remplir dans le combat. 
+
+- Rôle: Anvil/Hammer/Arm
+- Stratégie: 
+    - Bruiser/Healer,
+    - Skirmisher/Zoner
+    - Sniper/Blocker
+    - Buffer/Sapper
 
 ## Criticité
 Echelle permettant d'évaluer la criticité des éléments du jeu, afin de prioriser leur création, et leur wording.
@@ -62,31 +99,6 @@ Le jet de **_[Compétences]_** permet de déterminer la puissance sur la table p
 Améliorer la Compétence
 Ajouter un Trait à la compétence
 Améliorer la limite
-
-## But d'une carte
-
-> **Punchline:** Spécialiser la carte avec son but
-Objectif pédagogiques / 
-
-Lors de la création d'une Carte, il faut répondre aux question suivantes :
-- En tant que joueur, pourquoi est-ce que je choisi cette carte ?
-- En tant que joueur, une fois que j'ai choisi cette carte, je peux faire ... ?
-- En tant que MJ, lorsqu'un joueur chois cette carte, quels nouveaux défis puis-je lui proposer ?
-- En tant que MJ, lorsque je donne cette carte à un Mob, quels nouveaux défis est-il caâble de fournir ?
-
-Pour qu'une carte soit utile, il faut que:
-
-- Elle soit autosuffisante en terme de capacité utile
-- Elle vienne compléter des capacités déjà existantes
-
-Pour qu'une carte soit autosuffisante, il faut savoir quel rôle elle aide à remplir dans le combat. 
-
-- Rôle: Anvil/Hammer/Arm
-- Stratégie: 
-    - Bruiser/Healer,
-    - Skirmisher/Zoner
-    - Sniper/Blocker
-    - Buffer/Sapper
     
 # Méthodes
 
