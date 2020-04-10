@@ -2,25 +2,25 @@
 title: Compétences
 description: 
 published: true
-date: 2020-04-10T05:58:31.201Z
+date: 2020-04-10T13:08:05.933Z
 tags: 
 ---
 
-# Compétences
-
-Si les [Capacités][] déterminent les actions que peut entreprendre un [Personnage][], les **Compétences** déterminent si un personnage accompli ce qu'il entreprend ou échoue en essayant.
-Les **Compétences** constituent un indice de l'efficacité du **[Personnage][]**, et de sa maîtrise dans l'usage de ses **[Capacités][]**.
-
-
-<!--
-A skill is an ability that allows a character to perform some action or make some item that improves with use. The improvement depends on the difficulty of the action or the difficulty in creating the item. Professions are a subset of skills. Not all skills are professions.
--->
 
 > **Paradigme :**
 Les **Capacités** déterminent les **Compétences** qu'un personnage possède, et non l'inverse.
 > **Corollaire :**
 Si un **Personnage** possède une **Compétence**, il peut l'exploiter dans au moins une **Capacité** qu'il possède.
 {.is-warning}
+
+# Compétences
+
+Si les **[Capacités][]** déterminent les actions que peut entreprendre un **[Personnage][]**, les **Compétences** déterminent si un personnage accompli ce qu'il entreprend ou échoue en essayant.
+Les **Compétences** constituent un indice de l'efficacité du **[Personnage][]**, et de sa maîtrise dans l'usage de ses **[Capacités][]**.
+
+<!--
+A skill is an ability that allows a character to perform some action or make some item that improves with use. The improvement depends on the difficulty of the action or the difficulty in creating the item. Professions are a subset of skills. Not all skills are professions.
+-->
 
 > **Compétence<Maîtrise, Limite>**
 {.is-info}
