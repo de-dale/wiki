@@ -2,7 +2,7 @@
 title: Mécanique de base
 description: 
 published: true
-date: 2020-04-09T19:39:28.453Z
+date: 2020-04-10T13:43:39.158Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ Vos personnages sont des aventuriers, qui utiliseront leurs **[Capacités][][][C
 Vous utilisez votre **[Compétence][][][Compétence.trello]**, et récupérez votre **Maîtrise** et votre **Limite**.
 
 Vous lancez alors les dés, et vous cherchez à obtenir un résultat suffisant pour égaler ou surpasser le **Degré de Difficulté**, abrégé en "**DD**", et parfois appelé "_Seuil_".
-Si le résultat des dés est supérieur ou égal au **DD**, le test est une **Réussite**, sinon, c'est un **Échec**. 
+Si le résultat du lancer de dés est supérieur ou égal au **DD**, le test est une **Réussite**, sinon, c'est un **Échec**. 
 
 Le mode du calcul du résultat, et le degré de difficulté, dépendent du **système de jeu** que vous choisissez d'utiliser.
 
@@ -35,18 +35,22 @@ Si le test est une réussite, on parlera de "**Marge de Réussite**", sinon il s
 
 _**Shadowrun:** Chaque fois que vous lancez les dés, vous cherchez à obtenir assez de succès pour égaler ou surpasser un seuil, qui est le nombre de succès dont vous avez besoin pour faire ce que vous essayez de faire._
 
-Pour effectuer un **Test de Compétence**, on constitue la **Réserve de Dés**, c'est à dire, le nombre de dés à lancer.
-Ce nombre est égal au **degré de maîtrise**, de la compétence utilisée, ajusté par les différents modificateurs, bonus et malus.
+Pour effectuer un **test**, on constitue la **Réserve de Dés**, c'est à dire, le **nombre de dés à lancer**.
+Ce nombre est égal au **degré de Maîtrise**, de la **[Compétence][]** utilisée, ajusté par les différents modificateurs, bonus et malus.
 
-> **RD** = <Compétence> + Bonus - Malus
+    Réserve de Dés = <Compétence> + Bonus - Malus
 
 L’objectif quand on lance les dés est d’obtenir des **succès**. Un succès correspond à un 5 ou un 6 sur le résultat d'un dé.
-Le nombre de succès obtenus est comparé au DD, pour déterminer si le test est une réussite ou un échec.
-
+Le nombre de succès constitue le résultat du lancer.
+Ce résultat est plafonné par la **Limite** de la **[Compétence][]** utilisée. 
+Dans ce système, la **Limite** est le nombre **maximal de succès** que l'on peut objtenir sur un lancer de dés, en tenant compte des bonus et malus.
 
 En résumé :
 
-    [Compétence] = succès{5,6}(<Compétence> + Bonus - Malus × d6)
+    [Compétence] = succès{5,6}("<Degré de Maîtrise> + Bonus - Malus" × d6)
+    max [Compétence] = <Limite>
+    
+Si le résultat du lancer de dés est supérieur ou égal au **DD**, le test est une **Réussite**, sinon, c'est un **Échec**. 
 
 > Une échelle de DD pour une action:
 > - **Facile:** 1
@@ -55,16 +59,23 @@ En résumé :
 > - **Très difficile:** 4
 {.is-info}
 
+
 <a id="score-engine"></a>
 ## d20 - Score de dé
 
 _**Donjon&Dragons:** Chaque fois que vous lancez les dés, vous cherchez à obtenir un score suffisant pour égaler ou surpasser un seuil, correspondant au total minimal à atteindre pour réussir ce que vous essayez de faire._
 
-Dans ce système, le personnage lance 1d20, additionne  son degré de maîtrise dans la compétence utilisée, ses bonus, soustrait ses malus,  puis compare le résultat au degré de difficulté. S'il a plus, son action aboutit,  sinon elle échoue. 
+Dans ce système, pour effectuer un **test**, le personnage lance 1d20, additionne son **degré de maîtrise** de la compétence utilisée, et ajuste le résultat avec différents modificateurs, bonus et malus.
+La somme totale constitue le résultat du lancer de dés.
+Ce résultat est plafonné par la **Limite** de la **[Compétence][]** utilisée. 
+Dans ce système, on additionne **20 + Limite** pour connaître le **résultat maximal** que peut obtenir sur un lancer de dés.
 
 En résumé :
 
-    [Compétence] = somme (1d20 + "<Compétence> + Bonus - Malus") 
+    [Compétence] = somme (1d20 + "<Degré de Maîtrise> + Bonus - Malus")
+    max [Compétence] = 20 + <Limite>
+
+Si le résultat du lancer de dés est supérieur ou égal au **DD**, le test est une **Réussite**, sinon, c'est un **Échec**. 
 
 > Une échelle de DD pour une action:
 > - **Facile:** 5
@@ -72,7 +83,6 @@ En résumé :
 > - **Difficile:** 15
 > - **Très difficile:** 20
 {.is-info}
-
 
 # Types de tests
 
@@ -124,8 +134,8 @@ Une fois que le malus cumulé égale le degré de maîtrise du personnage dans l
 
 ## Tests d'équipe
 
-Tests où plusierus personnage cherchent à réussir ensembe une action.
-On désigne un "Leader", les autres personnage seront alors les "Assistants".
+Tests où plusieurs personnages cherchent à réussir ensemble une action.
+Ils désignent le "Leader" du test, les autres personnage seront alors les "Assistants".
 
 Exemple:
 
