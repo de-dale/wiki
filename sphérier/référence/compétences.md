@@ -2,14 +2,9 @@
 title: Compétences
 description: 
 published: true
-date: 2020-04-09T20:14:37.047Z
+date: 2020-04-10T05:58:31.201Z
 tags: 
 ---
-
-
-> **Compétence<Maîtrise, Limite>**
-{.is-info}
-
 
 # Compétences
 
@@ -21,16 +16,19 @@ Les **Compétences** constituent un indice de l'efficacité du **[Personnage][]*
 A skill is an ability that allows a character to perform some action or make some item that improves with use. The improvement depends on the difficulty of the action or the difficulty in creating the item. Professions are a subset of skills. Not all skills are professions.
 -->
 
-**Paradigme :**
+> **Paradigme :**
 Les **Capacités** déterminent les **Compétences** qu'un personnage possède, et non l'inverse.
 > **Corollaire :**
-Si un **Personnage** possède une **Compétence**, il peut l'exploiter dans au moins une **Capacité** qu'il possède. 
+Si un **Personnage** possède une **Compétence**, il peut l'exploiter dans au moins une **Capacité** qu'il possède.
+{.is-warning}
+
+> **Compétence<Maîtrise, Limite>**
+{.is-info}
 
 > TODO:
 Reword de Compétence :
 **Compétences = Savoir + Limite + ∆Capacités**
 **Compétences = Maîtrise + Expertise + ∆Capacités**
-
 
 
 Une Compétence est notée ainsi :
@@ -42,6 +40,15 @@ Une Compétence est notée ainsi :
     > voir aussi **_[Expertise(Grade, Compétence)](https://trello.com/c/0EKOzT2h)_**
 
 **Exemple :** Bluff<+10, 6>
+
+
+## Maîtrise
+
+**Maîtrise**, ou **_Degré de Maîtrise_** : la valeur numérique que l'on utilise pour un **[Test de Compétence][core]** et qui détermine
+- le nombre de dés lancés
+- le bonus sur le d20
+
+Voiir aussi la Capacité: **_[Maîtriser(Compétence)](https://trello.com/c/vvsCl8rH)_**
 
 ## Limite
 
