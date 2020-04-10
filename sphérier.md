@@ -2,7 +2,7 @@
 title: Le Sphérier
 description: 
 published: true
-date: 2020-04-10T13:53:24.760Z
+date: 2020-04-10T13:56:34.163Z
 tags: 
 ---
 
@@ -44,7 +44,7 @@ Outils et guides pratiques, à destination de joueurs un peu plus expérimentés
 <div class="row">
 <div class="col-6" id="key-topics">
   
-<span style="font-size:1.5em">**🗝 [Concepts clés](concepts)**</span>
+<span style="font-size:1.5em">**✨ [Concepts clés](concepts)**</span>
 
 Explications et analyses de quelques concepts clés du Sphérier. Discussions ouvertes sur les évolution possibles du Sphérier.
 </div>
