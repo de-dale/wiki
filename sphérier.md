@@ -2,7 +2,7 @@
 title: Le Sphérier
 description: 
 published: true
-date: 2020-04-08T14:13:38.809Z
+date: 2020-04-10T13:53:24.760Z
 tags: 
 ---
 
@@ -29,7 +29,7 @@ A priori, à l'exception de la recherche de mots-clés, il n'est pas nécessaire
 <div class="row">
 <div class="col-6" id="tutorials-start-here">
   
-<span style="font-size:1.5em">**🍼 [Tutoriaux](tutoriaux)**</span>
+<span style="font-size:1.5em">**🍼 [Tutoriels](tutoriels)**</span>
 
 Pour les joueurs voulant s'initier au Sphérier. Propose des guides simplifiés pour créer ou jouer son premier personnage.
 </div>
