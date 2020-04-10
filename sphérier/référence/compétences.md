@@ -2,7 +2,7 @@
 title: Compétences
 description: 
 published: true
-date: 2020-04-10T13:08:05.933Z
+date: 2020-04-10T13:10:09.830Z
 tags: 
 ---
 
@@ -15,7 +15,7 @@ Si un **Personnage** possède une **Compétence**, il peut l'exploiter dans au m
 
 # Compétences
 
-Si les **[Capacités][]** déterminent les actions que peut entreprendre un **[Personnage][]**, les **Compétences** déterminent si un personnage accompli ce qu'il entreprend ou échoue en essayant.
+Si les **[Capacités][]** déterminent les actions que peut entreprendre un **[Personnage][]**, les **Compétences** déterminent si un personnage accomplit ce qu'il entreprend ou échoue en essayant.
 Les **Compétences** constituent un indice de l'efficacité du **[Personnage][]**, et de sa maîtrise dans l'usage de ses **[Capacités][]**.
 
 <!--
