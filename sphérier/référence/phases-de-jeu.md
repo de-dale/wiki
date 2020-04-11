@@ -2,7 +2,7 @@
 title: Phases de jeu
 description: 
 published: true
-date: 2020-04-11T15:29:25.607Z
+date: 2020-04-11T19:39:43.379Z
 tags: 
 ---
 
@@ -267,27 +267,24 @@ Le plus souvent ils influent comme modificateur de Compétence:
 
 > NB: Typer les Compétences/Capacités
 
->  [Sphérier](https://trello.com/c/9Yfoopo6) > [Phases de jeu](https://trello.com/c/PmgRVPin)
+## Rôle
+## Postures
 
 <a id="intermède"></a>
 # Hors-combat / Intermède
 
 Hors combat : tout ce qui n'est pas combat. -> Ni du RP du coup (oui, je sais c'est pas clair car le RP n'est pas du combat). Dans cette phase, c'est tout ce qui est Artisanat, Interlude, Exploration, Investigation
 
->  [Sphérier](https://trello.com/c/9Yfoopo6) > [Phases de jeu](https://trello.com/c/PmgRVPin)
-
 <a id="roleplay"></a>
 # Roleplay
 
 > Definir le roleplay ? C'est difficile, c'est principalement les phases ou tu incarnes ton personnage
-
 > _Naveed_
-
->
+{.is-info}
 
 > Le Roleplay, c'est ce que tu fais à chaque fois que tu fais prendre une décision à ton personnage. 
-
 > _Sharah_
+{.is-info}
 
 Dans un RPG, un joueur va sans cesse prendre des décisions pour son personnage. Qu'il décide de combattre ou de fuir, de charmer ou d'intimider, de frapper de taille ou d'estoc, de lancer un dort ou un autre, le joueur fait vivre son personnage . 
 
