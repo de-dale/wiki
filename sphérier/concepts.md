@@ -2,7 +2,7 @@
 title: ✨ Concepts
 description: Espace de discussion et de création autours des concepts liées à la création du sphérier.
 published: true
-date: 2020-04-11T08:15:06.790Z
+date: 2020-04-11T20:25:23.833Z
 tags: 
 ---
 
@@ -32,4 +32,34 @@ Cet échange résume à lui seul les trois composantes du livre-jeu :
 — Interview de Paul Mason sur le site de La Bibliothèque des aventuriers.
 
 
+
+Discussion avec sharah sur Slack
+
+Il peut aussi être intéressant d'élargir ta question au hors combat aussi et plus parler de formation d'équipe.
+
+En partant du principe que les nécessités du combat sont couvertes par le Arm/Anvil/Hammer, il faut regarder le reste.
+
+Pour moi (ouvert à discussion), il manque du coup :
+
+- Accès à l'information
+- Déplacements/voyage
+
+**Accès à l'information :** Comment les personnages savent-ils ce qu'ils ont besoin de savoir pour décider de la suite ? Je vois plusieurs réponses :
+
+- Infiltration : Chercher les réponses sur le terrain
+- Relationnel : Demander à d'autres
+- Divination : Demander à une entité supérieure / Hacking ?
+- D'autres idées ?
+
+**Déplacements/voyage :** Comment les joueurs vont-ils d'un point A à un point B en toute sécurité ? Cela inclut aussi bien les longues distances que le passage d'un gouffre.
+
+Pour le voyage long :
+
+- Connaissances pour mener le voyage à son terme
+- Ressources nécessaires au voyage et à la survie
+- Moyen de locomotion
+
+Pour le déplacement, il s'agit de passer outre les obstacles non-combat (piège, passage détruit,etc...) Il y a beaucoup de possibilités de réponse : vol, passe-muraille, TP courte distance, forme gazeuse, invisibilité, nage, escalade etc... La question est quels sont les types de déplacements auxquels les perso ont accès et à quelle fréquence ? Plus le spectre sera large, moins ils seront bloqués.
+
+Je pense qu'une équipe qui est parée sur ces 3 axes (combat/info/déplacement), i.e. qui a plusieurs rôles/réponses possibles sur chacun d'eux ne devrait pas rencontrer de difficulté majeure au cours d'une aventure.
 -->
