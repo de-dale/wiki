@@ -2,7 +2,7 @@
 title: Capacités
 description: 
 published: true
-date: 2020-04-11T11:35:37.611Z
+date: 2020-04-11T11:53:06.358Z
 tags: 
 ---
 
@@ -19,7 +19,7 @@ Elle peut être ***Active***, ou ***Passive***.
 
 Une capacité ne prend effet que dans une **Phase de jeu** donnée.
 > Actuellement,  je ne sais pas si je cherche à synergiser le combat et le hors-combat, ou si je laisse deux systèmes indépendants. La synergie me paraît difficile à équilibrer.
-
+{.is-warning}
 
 > **Wording:** activer une Capacité
 Lors de sa phase d'action
