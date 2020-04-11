@@ -2,7 +2,7 @@
 title: Capacités et Compétences
 description: 
 published: true
-date: 2020-04-11T12:05:40.514Z
+date: 2020-04-11T12:13:31.964Z
 tags: 
 ---
 
@@ -41,13 +41,9 @@ Une **Capacité Passive** applique continuellement ses effets, tant que ses cond
 Souvent une **Capacité Passive** ne s'applique qu'au personnage la possédant.
 
 > **Paradigme :**
-
 Les **Capacités** déterminent les **Compétences** qu'un personnage possède, et non l'inverse.
-
 > **Corollaire :**
-
 Si un **Personnage** possède une **Compétence**, il peut l'exploiter dans au moins une **Capacité** qu'il possède.
-
 {.is-warning}
 
 # Compétences
@@ -63,17 +59,12 @@ A skill is an ability that allows a character to perform some action or make som
 -->
 
 > **Compétence<Maîtrise, Limite>**
-
 {.is-info}
-
-
-
 
 > TODO:
 Reword de Compétence :
 **Compétences = Savoir + Limite + ∆Capacités**
 **Compétences = Maîtrise + Expertise + ∆Capacités**
-
 
 Une Compétence est notée ainsi :
 > **Nom<Maîtrise, Limite>**
@@ -84,7 +75,6 @@ Une Compétence est notée ainsi :
     > voir aussi **_[Expertise(Grade, Compétence)](https://trello.com/c/0EKOzT2h)_**
 
 **Exemple :** Bluff<+10, 6>
-
 
 ## Maîtrise
 
