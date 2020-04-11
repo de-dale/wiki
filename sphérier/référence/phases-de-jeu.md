@@ -2,7 +2,7 @@
 title: Phases de jeu
 description: 
 published: true
-date: 2020-04-11T14:45:45.109Z
+date: 2020-04-11T14:46:32.252Z
 tags: 
 ---
 
@@ -20,8 +20,7 @@ Le jeu se divise en plusieurs phases. Chacune se définit par un rythme différe
 Chaque phase encadre un certain nombre de Capacités.
 Corollaire : chaque capacité ne peut d'utiliser que dans un scope/cadre/phase, spécifique.
 
-- [Combat][]
-    - [][Combat.trello]
+- [Combat *Voir aussi [Trello][Combat.trello]*][Combat]
 - [Hors-combat / Intermède][][][Hors-combat / Intermède.trello]
 - [Roleplay][][][Roleplay.trello]
 - [Hors-jeu][][][Hors-jeu.trello]
