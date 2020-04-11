@@ -2,7 +2,7 @@
 title: Phases de jeu
 description: 
 published: true
-date: 2020-04-11T19:40:23.461Z
+date: 2020-04-11T19:41:19.763Z
 tags: 
 ---
 
@@ -207,6 +207,7 @@ Un **[Personnage](https://trello.com/c/j5txrEnh)** ne peut effectuer de **Réact
 Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réaction, Initiative) : **`R°`**.
 
 # Marque
+-> record en "Effet"
 
 Une Marque représente un Effet se déclenchant à un moment du jeu, sans décision. 
 
