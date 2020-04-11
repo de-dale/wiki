@@ -2,7 +2,7 @@
 title: Phases de jeu
 description: 
 published: true
-date: 2020-04-11T15:21:39.535Z
+date: 2020-04-11T15:22:02.482Z
 tags: 
 ---
 
@@ -25,7 +25,7 @@ Corollaire : chaque capacité ne peut d'utiliser que dans un scope/cadre/phase, 
 
 > Ça y'est!  Vous êtes entrés dans une phase de négociation musclée.
 Il est temps de se mettre sur la figure, : le combat commence.
-{.is-info .gray}
+{.grey}
 
 Lorsque les joueurs, ou le maître du jeu, décident qu'il est temps de réduire l'ennemi en petits bouts plus ou moins comestibles, on déclenche un **Combat**.
 
