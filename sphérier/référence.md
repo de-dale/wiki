@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: 
 published: true
-date: 2020-04-09T06:08:09.292Z
+date: 2020-04-11T14:32:28.066Z
 tags: 
 ---
 
@@ -13,6 +13,7 @@ tags:
 - [Compétences](compétences) 
 - [Capacités](capacités)
 - [Carte](carte)
+- [Phases de jeu](phases-de-jeu)
 - [Glossaire](glossaire)
 {.links-list}
 
