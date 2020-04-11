@@ -2,13 +2,15 @@
 title: Personnages
 description: 
 published: true
-date: 2020-04-08T14:03:42.051Z
+date: 2020-04-11T08:14:47.118Z
 tags: 
 ---
 
 # Personnage
+Dans le jeu de rôle, les joueurs prennent entièrement part à l'histoire et à sa narration.
+Pour intervenir directement dans cet imaginaire, ils utilisent un avatar, le **Personnage** leur permettant de se projetter dans le jeu et d'y agir.
+Les joueurs peuvent alors décider des actions physiques ou imaginaires des personnages, des actions narratives (dialogues improvisés, descriptions, jeu) et surtout, **prendre les décisions** sur le développement du personnage et de son histoire.
 
-Un **Personnage** est l'avatar d'un joueur dans le jeu. 
 
 Les caractéristiques d'un **_Personnage_**, sont définies par la résolution de son **[Sphérier](https://trello.com/c/bNZnhEeY)**. C'est-à-dire que l'ensemble des **[Capacités](https://trello.com/c/EUJsvYrZ)** et des **[Compétences](https://trello.com/c/udzuobSo)** d'un **Personnage** se retrouvent dans son **[Sphérier](https://trello.com/c/bNZnhEeY)**.
 
