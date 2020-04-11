@@ -2,7 +2,7 @@
 title: Capacités
 description: 
 published: true
-date: 2020-04-11T11:33:05.801Z
+date: 2020-04-11T11:35:37.611Z
 tags: 
 ---
 
@@ -11,9 +11,9 @@ tags:
 > **Paradigme :**
 Les **Capacités** déterminent les **Compétences** qu'un personnage possède, et non l'inverse.
 
-Une **Capacité** est une option qu'a un **[Personnage](https://trello.com/c/j5txrEnh)**, lui permettant de choisir de déclencher un **Effet**.
+Une **Capacité** est une option qu'a un **[Personnage][][][Personnage.trello]**, lui permettant de choisir de déclencher un **[Effet][]**.
 
-L'efficacité d'une **Capacité** est souvent indexée sur son **Degré de Maîtrise**, et donc sur les points de la **[Compétence](https://trello.com/c/udzuobSo)** associee.
+L'efficacité d'une **Capacité** est souvent indexée sur son **Degré de Maîtrise**, et donc sur les points de la **[Compétence][][][Compétence.trello]** associee.
 
 Elle peut être ***Active***, ou ***Passive***.
 
@@ -48,6 +48,8 @@ Souvent une **Capacité Passive** ne s'applique qu'au personnage la possédant.
 
 [Compétences]: /sphérier/référence/compétences
 [Compétences.trello]: https://trello.com/c/udzuobSo
+
+[Effet]: /sphérier/référence/effet
 
 [Personnage]: /sphérier/référence/personnages
 [Personnage.trello]: https://trello.com/c/j5txrEnh
