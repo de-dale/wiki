@@ -2,7 +2,7 @@
 title: Phases de jeu
 description: 
 published: true
-date: 2020-04-11T19:39:43.379Z
+date: 2020-04-11T19:40:23.461Z
 tags: 
 ---
 
@@ -254,11 +254,9 @@ Les effets d'un marqueur peuvent varier .
 Le plus souvent ils influent comme modificateur de Compétence:
 
 - <Compétence>
-- [Compétence]
-
+   [Compétence]
 - Valeurs : fixe ou lancer. 
     Ex: Marqueur (Cumul, [Pistolet], Attaque)
-
 - Application :
     +/-1 A° (Accélération,  Étourdissement, Paralysie) 
     +/-1 R°
