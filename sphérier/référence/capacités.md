@@ -2,7 +2,7 @@
 title: Capacités
 description: 
 published: true
-date: 2020-04-08T14:04:20.584Z
+date: 2020-04-11T11:33:05.801Z
 tags: 
 ---
 
@@ -41,3 +41,13 @@ Une **Capacité Passive** applique continuellement ses effets, tant que ses cond
 Souvent une **Capacité Passive** ne s'applique qu'au personnage la possédant.
 
 [Liste des Capacités]: /sphérier/référence/liste-capacités
+[Capacités]: /sphérier/référence/capacités
+[Capacités.trello]: https://trello.com/c/EUJsvYrZ
+
+[core]:/sphérier/référence/core
+
+[Compétences]: /sphérier/référence/compétences
+[Compétences.trello]: https://trello.com/c/udzuobSo
+
+[Personnage]: /sphérier/référence/personnages
+[Personnage.trello]: https://trello.com/c/j5txrEnh
