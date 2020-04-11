@@ -2,7 +2,7 @@
 title: Phases de jeu
 description: 
 published: true
-date: 2020-04-11T14:47:04.646Z
+date: 2020-04-11T14:47:21.484Z
 tags: 
 ---
 
@@ -21,9 +21,9 @@ Chaque phase encadre un certain nombre de Capacités.
 Corollaire : chaque capacité ne peut d'utiliser que dans un scope/cadre/phase, spécifique.
 
 - [Combat]
-- [Hors-combat / Intermède][][][Hors-combat / Intermède.trello]
-- [Roleplay][][][Roleplay.trello]
-- [Hors-jeu][][][Hors-jeu.trello]
+- [Hors-combat / Intermède]
+- [Roleplay]
+- [Hors-jeu]
 {.links-list}
 
 <a id="combat"></a>
