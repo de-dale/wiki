@@ -2,7 +2,7 @@
 title: Personnages
 description: 
 published: true
-date: 2020-04-11T08:54:29.778Z
+date: 2020-04-11T08:54:44.098Z
 tags: 
 ---
 
@@ -15,7 +15,7 @@ Les joueurs peuvent alors décider des actions physiques ou imaginaires des pers
 > TODO
 WIP.
 Actuellement, cette page est naze
-{.is--warning}
+{.is-warning}
 
 Les Caractéristiques d'un personnage décrivent son ancrage dans le mond imaginaire
 Un personnage fait partie du monde, il s’y adapte
