@@ -2,14 +2,29 @@
 title: Personnages
 description: 
 published: true
-date: 2020-04-11T08:14:47.118Z
+date: 2020-04-11T08:54:29.778Z
 tags: 
 ---
 
-# Personnage
+
 Dans le jeu de rôle, les joueurs prennent entièrement part à l'histoire et à sa narration.
 Pour intervenir directement dans cet imaginaire, ils utilisent un avatar, le **Personnage** leur permettant de se projetter dans le jeu et d'y agir.
 Les joueurs peuvent alors décider des actions physiques ou imaginaires des personnages, des actions narratives (dialogues improvisés, descriptions, jeu) et surtout, **prendre les décisions** sur le développement du personnage et de son histoire.
+
+# Informations des personnages
+> TODO
+WIP.
+Actuellement, cette page est naze
+{.is--warning}
+
+Les Caractéristiques d'un personnage décrivent son ancrage dans le mond imaginaire
+Un personnage fait partie du monde, il s’y adapte
+<!--
+Vous trouverez en  n de ce livre une  che de personnage qui comprend toutes les infos dont vous aurez besoin pour vous référer rapidement à votre personnage. 
+La  che de personnage peut contenir tout un tas de chiffres et autres statistiques, mais votre personnage est davantage que cela. Le personnage est la combinaison des compé- tences, des aptitudes innées, de sagesse urbaine et de maté- riel de pointe qui le rend dangereux, parfois pour les autres, parfois pour lui-même, souvent pour les deux. Les chiffres sont là pour vous résumer les compétences et capacités de votre personnage,
+et pour fournir les informations nécessaires pour résoudre les divers tests qui se présentent.
+En tant que joueur, cependant, vous pouvez travailler entre les chiffres et autres parties du per- sonnage pour créer une personnalité vivante qui fasse partie de la tragédie humaine du Sixième Monde.
+-->
 
 
 Les caractéristiques d'un **_Personnage_**, sont définies par la résolution de son **[Sphérier](https://trello.com/c/bNZnhEeY)**. C'est-à-dire que l'ensemble des **[Capacités](https://trello.com/c/EUJsvYrZ)** et des **[Compétences](https://trello.com/c/udzuobSo)** d'un **Personnage** se retrouvent dans son **[Sphérier](https://trello.com/c/bNZnhEeY)**.
