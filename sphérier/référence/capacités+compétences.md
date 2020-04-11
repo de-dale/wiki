@@ -2,7 +2,7 @@
 title: Capacités et Compétences
 description: 
 published: true
-date: 2020-04-11T12:13:31.964Z
+date: 2020-04-11T12:15:41.549Z
 tags: 
 ---
 
