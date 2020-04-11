@@ -2,7 +2,7 @@
 title: Le Sphérier
 description: 
 published: true
-date: 2020-04-10T16:54:53.144Z
+date: 2020-04-11T07:55:39.987Z
 tags: 
 ---
 
@@ -31,7 +31,8 @@ A priori, à l'exception de la recherche de mots-clés, il n'est pas nécessaire
   
 <span style="font-size:1.5em">**🍼 [Premiers Pas](premiers-pas)**</span>
 
-Pour les joueurs voulant s'initier au Sphérier. Propose des guides simplifiés pour créer ou jouer son premier personnage.
+Pour les joueurs voulant s'initier au Sphérier.
+  Propose des guides simplifiés pour créer ou jouer son premier personnage.
 </div>
 <div class="col-6" id="how-to">
 
@@ -44,15 +45,17 @@ Outils et guides pratiques, à destination de joueurs un peu plus expérimentés
 <div class="row">
 <div class="col-6" id="key-topics">
   
-<span style="font-size:1.5em">**✨ [Concepts clés](concepts)**</span>
+<span style="font-size:1.5em">**✨ [Concepts](concepts)**</span>
 
-Explications et analyses de quelques concepts clés du Sphérier. Discussions ouvertes sur les évolution possibles du Sphérier.
+Explications et analyses de quelques concepts clés du Sphérier.
+Discussions ouvertes sur les évolution possibles du Sphérier.
 </div>
 <div class="col-6" id="reference">
   
 <span style="font-size:1.5em">**📖 [Documentation de référence](référence)**</span>
 
-Ensemble des règles permettant d'utiliser le Sphérier. Liste également les éléments de jeu : Sphères, Compétences, Capacité, Glossaire.
+Ensemble des règles permettant d'utiliser le Sphérier.
+  Liste également les éléments de jeu : Sphères, Compétences, Capacité, Glossaire.
 </div>
 </div>
 </div>
