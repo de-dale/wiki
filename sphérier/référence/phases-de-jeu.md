@@ -2,7 +2,7 @@
 title: Phases de jeu
 description: 
 published: true
-date: 2020-04-11T14:33:55.923Z
+date: 2020-04-11T14:45:07.357Z
 tags: 
 ---
 
@@ -20,12 +20,15 @@ Le jeu se divise en plusieurs phases. Chacune se définit par un rythme différe
 Chaque phase encadre un certain nombre de Capacités.
 Corollaire : chaque capacité ne peut d'utiliser que dans un scope/cadre/phase, spécifique.
 
-### [Combat](https://trello.com/c/uxiA3U2p)
-### [Hors-combat / Intermède](https://trello.com/c/LnGMxpKw)
-### [Roleplay](https://trello.com/c/3waMqLGG)
-### [Hors-jeu](https://trello.com/c/ngRJ4EsD)
+- [Combat][][][Combat.trello]
+- [Hors-combat / Intermède][][][Hors-combat / Intermède.trello]
+- [Roleplay][][][Roleplay.trello]
+- [Hors-jeu][][][Hors-jeu.trello]
+{.links-list}
 
+<a id="combat"></a>
 # Combat
+:warning: A reworder complètement.
 
 > La violence est le dernier recours de l'incompétence. 
 
@@ -274,12 +277,14 @@ Le plus souvent ils influent comme modificateur de Compétence:
 
 >  [Sphérier](https://trello.com/c/9Yfoopo6) > [Phases de jeu](https://trello.com/c/PmgRVPin)
 
+<a id="intermède"></a>
 # Hors-combat / Intermède
 
 Hors combat : tout ce qui n'est pas combat. -> Ni du RP du coup (oui, je sais c'est pas clair car le RP n'est pas du combat). Dans cette phase, c'est tout ce qui est Artisanat, Interlude, Exploration, Investigation
 
 >  [Sphérier](https://trello.com/c/9Yfoopo6) > [Phases de jeu](https://trello.com/c/PmgRVPin)
 
+<a id="roleplay"></a>
 # Roleplay
 
 > Definir le roleplay ? C'est difficile, c'est principalement les phases ou tu incarnes ton personnage
@@ -333,6 +338,7 @@ Comment on résout une Scène RP
 
 >  [Sphérier](https://trello.com/c/9Yfoopo6) > [Phases de jeu](https://trello.com/c/PmgRVPin)
 
+<a id="hors-jeu"></a>
 # Hors-jeu
 
 # Types de dégâts
@@ -370,3 +376,15 @@ Naturellement, on va décrire un personnage sur trois axes:
 - Mental
 
 Ces trois axes donnent les trois Jets de sauvegarde.
+
+[Combat]: /sphérier/référence/phases-de-jeu#combat
+[Combat.trello]: https://trello.com/c/uxiA3U2p
+
+[Hors-combat / Intermède]: /sphérier/référence/phases-de-jeu#intermède
+[Hors-combat / Intermède.trello]: https://trello.com/c/LnGMxpKw
+
+[Roleplay]: /sphérier/référence/phases-de-jeu#roleplay
+[Roleplay.trello]: https://trello.com/c/3waMqLGG
+
+[Hors-jeu]: /sphérier/référence/phases-de-jeu#hors-jeu
+[Hors-jeu.trello]: https://trello.com/c/ngRJ4EsD
