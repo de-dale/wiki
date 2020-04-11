@@ -2,20 +2,11 @@
 title: Phases de jeu
 description: 
 published: true
-date: 2020-04-11T14:47:21.484Z
+date: 2020-04-11T15:21:39.535Z
 tags: 
 ---
 
-Les règles cadrent des phases de jeu, et principalement :
-- Le combat
-- Le hors combat
-
-> La majorité des règles ci-dessous sont relatives au combat. Lorsqu'il s'agit de hors combat, cela est précisé dans un encart dédié.
-
-
-# Phases de jeu
-
-Le jeu se divise en plusieurs phases. Chacune se définit par un rythme différent, une temporalité différente. 
+Le jeu se divise en plusieurs phases. Chacune se définit par un rythme différent et une temporalité différente. 
 
 Chaque phase encadre un certain nombre de Capacités.
 Corollaire : chaque capacité ne peut d'utiliser que dans un scope/cadre/phase, spécifique.
@@ -32,22 +23,23 @@ Corollaire : chaque capacité ne peut d'utiliser que dans un scope/cadre/phase, 
 
 > La violence est le dernier recours de l'incompétence. 
 
-> Ça y'est!  Vous êtes entrés dans une phase de négociation musclée. Il est temps de se mettre sur la figure, : le combat commence. 
+> Ça y'est!  Vous êtes entrés dans une phase de négociation musclée.
+Il est temps de se mettre sur la figure, : le combat commence.
+{.is-info .gray}
 
-Lorsque les joueurs, ou le maître du jeu,  décident qu'il est temps de réduire l'ennemi en petits bouts plus ou moins comestibles, on déclenche un **Combat**.
+Lorsque les joueurs, ou le maître du jeu, décident qu'il est temps de réduire l'ennemi en petits bouts plus ou moins comestibles, on déclenche un **Combat**.
 
 ~~Lors d'une rencontre entre différents `protagonistes`, c'est à dire des personnages joueurs comme non joueurs, lorsque l'un d'eux montre une velléité de porter atteinte à l'intégrité, physique, ou mentale de l'autre partie, alors on initie une phase de combat.~~
 
-**Protagoniste:** dans un combat, on appelle `protagoniste`, tout personnage, joueur ou non-joueur, prenant part au combat.
+<a id="protagoniste"></a>
+**Protagoniste:**
+dans un combat, on appelle **Protagoniste**, tout personnage, joueur ou non-joueur, intervenant dans le combat.
 
 **Mise en place :**
-
 On détermine qui peut agir, on rassemble leurs ressources (cartes Action et Réaction) et on se tient prêt pour la première passe d'initiative.
 
-Le combat est découpé en tours, pour simplifier la gestion de la temporalité. 
-
 ## Tours de combat
-
+Afin de simplifier la gestion de la temporalité, un Combat se découpe en tours.
 Un tour de combat se découpe de la manière suivante :
 
 - Préparation
