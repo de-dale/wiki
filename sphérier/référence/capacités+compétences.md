@@ -2,7 +2,7 @@
 title: Capacités et Compétences
 description: 
 published: true
-date: 2020-04-11T12:03:09.628Z
+date: 2020-04-11T12:03:35.056Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ Les **Capacités** déterminent les **Compétences** qu'un personnage possède, 
 
 Une **Capacité** est une option qu'a un **[Personnage][][][Personnage.trello]**, lui permettant de choisir de déclencher un **[Effet][]**.
 
-L'efficacité d'une **Capacité** est souvent indexée sur son **Degré de Maîtrise**, et donc sur les points de la **[Compétence][Compétence s][][Compétence.trello]** associee.
+L'efficacité d'une **Capacité** est souvent indexée sur son **Degré de Maîtrise**, et donc sur les points de la **[Compétence][Compétences][][Compétences.trello]** associee.
 
 Elle peut être ***Active***, ou ***Passive***.
 
