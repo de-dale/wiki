@@ -2,7 +2,7 @@
 title: Généralités sur le jeu de rôle
 description: 
 published: true
-date: 2020-04-13T14:38:21.234Z
+date: 2020-04-13T14:38:54.722Z
 tags: 
 ---
 
@@ -18,3 +18,5 @@ Les aventuriers peuvent entreprendre toute action imaginée par les joueurs, mai
 Les **interactions sociales** consistent à faire discuter un aventurier avec quelqu'un (ou quelque chose) d'autre. Il peut s'agir d'exiger d'un éclaireur capturé qu'il révèle l'entrée du repaire des gobelins, récupérer des informations d'un prisonnier rescapé, demander grâce auprès d'un chef de guerre orque, ou convaincre un miroir magique de vous dévoiler un espace lointain.
 
 Les **combats** impliquent des attaques armées, le lancement de sorts, les manœuvres tactiques, et concrètement tout ce qui peut être mis en œuvre pour battre son adversaire, que ce soit pour le tuer, le capturer ou le faire fuir. Le combat est le segment de D&D le plus structuré, avec une attribution de tours de jeu afin que chaque créature ait la possibilité d'agir. Même dans le cadre d'une bataille rangée, il y a toujours de nombreuses opportunités pour les personnages de tenter des actions originales comme dévaler un escalier en surfant sur son bouclier, examiner l'environnement à la recherche du levier qui engloutira l'ennemi dans un piège, et dialoguer avec les différentes parties, amies ou ennemies (ou tiers !).
+
+# Approche de Sharah
