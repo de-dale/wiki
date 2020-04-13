@@ -2,7 +2,7 @@
 title: ⚒ Guides pratiques
 description: 
 published: true
-date: 2020-04-09T13:50:16.931Z
+date: 2020-04-13T06:42:56.369Z
 tags: 
 ---
 
@@ -31,6 +31,34 @@ Quelques questions auxquelles cette page devra répondre :
     
 
 # Conception
+<!--
+Personnage by Sharah
+
+ne sachant pas comment tu comptes t'y prendre pour ton système de jeu, je vais te donner mon approche pour la création des perso
+
+dans ma conception, un perso et par extension sa classe (l'un des éléments fixes du perso) est défini par un gameplay qui va notamment dépendre de sa façon de générer des ressources pour utiliser des capacités plus puissantes. (Rien de très innovant, la plupart des jeux fonctionne comme ça, ce qui varie principalement, c'est le nombre de ressources différentes)
+
+Par exemple, la génération graduelle de ressource en partant de 0 avec un max et pendant un temps limité (enragé) vs un démarrage au max de sa ressources avec une génération faible ou inexistante mais sans limite de temps (Erudit) vs une double ressource générées aléatoirement une avec une limite de temps et l'autre sans, et une possibilité de conversion (l'ingénieur)
+
+Cela va te donner une partie du gameplay au niveau du perso. ET te donner un tempo dans l'équipe. Un Enragé sera peu efficace en début de combat et bien plus à la fin, mais il le sera de la même façon dans tous les combats et préfèrera les combats longs.
+Un Erudit sera bon en début de journée, mais jouera une guerre d'attrition : son efficacité est inversement proportionnelle au nombre de rounds de combat dans la journée.
+Un Ingénieur sera moins contrôlable, du moins en début de journée, et potentiellement une grande puissance en fin de journée s'il est parvenu à conserver sa ressource sans limite de temps. (modifié) 
+
+Une équipe gagnera donc naturellement à être muti-classe car elle pourra ainsi garder une efficience constante tout au long de la journée d'aventure. En prenant une équipe composée des 3 rôles ci-dessus, l'Erudit sera généralement un Ouvreur et l'Enragé le Mainteneur/Finisseur. L'Ingé sera plus un joker qui pourra aider au besoin et prendra le relai de l'Erudit en fin de journée et/ou apportera un coup de pouce lors d'un combat plus difficile.
+
+Le reste du gameplay est défini par les capacités du personnages qui lui proviennent de 2 axes principaux : ses capacités de classe et ses objets.
+Ses capas de classes sont figés lors du choix initial de la classe et les objets sont totalement libres. A partir de là, le perso pourra choisir quelles capacités il veut utiliser et créer ses propres combos et définir son rôle (Arm/Anvil/Hammer). Rentrer dans la liste des capacités possibles est à peu près sans fin. Si tu veux des idées, prends la liste des objets et des capas des jeux cités plus haut. Tu en as pour quelques semaines de lecture. (NB : ce n'est qu'une demi blague. Il y a beaucoup d'excellentes idées dedans)
+
+Enfin j'utilise gameplay au sens général, mais on peut le décliner au moins en 2 : offensif et défensif.
+Offensif : le plus connu, comment le perso tape et tue. Tu as la distinction cac/distance, mais surtout est-ce qu'il fait 1 grosse action par tour ou plein de petites ? Est-ce qu'il lance des dés pour toucher ou le fait automatiquement ? Est-ce qu'il doit attaquer pour participer au combat ou il peut soutenir d'autres ? Dans ce cas, comment faire pour que le joueur ne se fasse pas chier ?
+Défensif : comment le personnage fait-il pour survivre le plus longtemps possible de façon active ? (La mécanique de défense de DD par exemple n'est pas vraiment un gameplay : il n'y a pas d'action de la part du perso pour se défendre. Les JS en sont un.). Dans mon système, j'ai pris un aspect assez simple, mais qui joue sur le ressenti : soit on atténue (dégâts/effets réguliers et faibles), soit on tente d'éviter (dégâts/effets en pic). On y adjoindre des effets de défense actives (les réactions) pour modifier la défense utilisée et ses effets.
+
+Et pour finir car Coralie attend son café, je dirais qu'il faut quand même tenir compte du hors-combat dans ton combat. Un exemple simple : des joueurs peuvent prendre en embuscade leurs ennemis ? Ou peuvent-ils infiltrer un endroit pour assassiner une cible ? Si oui comment se passe la sortie de l'infiltration et l'entame du combat ? Y a-t-il même un combat ?
+Les mécaniques pures de combat vont être fortement impactées par ton hors-combat. Pourquoi est-ce qu'on fonce comme des ânes dans PF ? Car c'est la meilleure strat : les persos sont dimensionnés pour et les autres entames de combat consomment des ressources et présentent des chances de réussite faibles pour un avantage relatif. Si dans ton système, il est facile d'infiltrer et de prendre par surprise, et que cela confère un bonus important, les joueurs se tourneront vers ce mode d'engage. Tes combats prendront alors une autre dimension : les joueurs auront alors généralement l'avantage sur leur ennemis par un meilleur placement/info/initiative. Et tes combats vont tourner autour de la capacité de l'ennemi à nullifier cette stratégie.
+Même réflexion sur la "profondeur du combat". L'impact du combat va beaucoup jouer sur la façon dont il déroule. Si les attaques font perdre plus de 50% de la vie d'un joueur à chaque coup avec de fortes chances de toucher alors l'attaque et le CC deviennent les meilleurs strats : tuer vite avant de prendre trop cher. Tout se joue l'init et à celui qui parviendra à CC/OS l'autre : combats rapides et extrêmement violent. Sur 1 jet de dés, tout peut se finir. Le rôle de l'Arm devient moins critique. A l'inverse, si les attaques font peu mal, alors la défense devient une stratégie bien plus intéressante : on réduit les risques au maximum et on prend l'avantage sur la durée. Les combats sont longs et risquent d'être vite pénibles. Le rôle de l'Anvil devient moins important.
+(Enfin il y a la capacité à pouvoir finir les combats sans combattre vraiment. Soit avec des capa qui OS, soit en transformant les combats en d'autres types de rencontres genre discussion. Dans ce cas, c'est le rôle du Hammer qui perd de son intérêt.)
+
+-->
 
 ## But d'une carte
 
