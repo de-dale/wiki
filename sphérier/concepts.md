@@ -2,7 +2,7 @@
 title: ✨ Concepts
 description: Espace de discussion et de création autours des concepts liées à la création du sphérier.
 published: true
-date: 2020-04-11T20:25:23.833Z
+date: 2020-04-13T14:40:13.567Z
 tags: 
 ---
 
@@ -18,7 +18,7 @@ tags:
 - ne pas avoir privilégié à telle façon de faire ?
 - n'as-tu pas penser à ... ?
 
-# Généralités sur le JdR
+[Généralités sur le JdR](jdr) 
 <!-- LIVRE EJU
 Plus communément appelés « livres dont vous êtes le héros » en référence à la collection la plus connue, ce sont des livres (voire des bandes-dessinées) dont les paragraphes sont numérotés ; à la fin de la lecture d'un paragraphe, le lecteur a le choix entre plusieurs possibilités (actions du personnage), qui renvoient à différents paragraphes. Ainsi, les paragraphes ne sont pas lus dans l'ordre des numéros, et chaque lecteur ne lira pas les mêmes paragraphes (puisqu'il ne fera pas les mêmes choix). Le livre peut donc générer « plusieurs histoires » (même si en général il y a des « points de passage » obligés). Le lecteur ne joue pas de rôle puisqu’il ne fait que choisir parmi des possibilités imposées, cependant, les mondes décrits, le type d’aventure et les mécanismes de jeu se rapprochent des jeux de rôle sur table.
 
