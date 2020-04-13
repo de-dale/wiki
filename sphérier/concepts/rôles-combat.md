@@ -2,13 +2,13 @@
 title: Les rôles dans le combat
 description: 
 published: true
-date: 2020-04-13T21:08:26.136Z
+date: 2020-04-13T21:09:19.919Z
 tags: 
 ---
 
 # Anvil/Arm/Hammer
 
-https://docs.google.com/document/d/1i5hWkHXHOetRlpLOmxbpoEWod77psN0JcwFvxClNrGc/edit?usp=drivesdk
+[Google Doc](https://docs.google.com/document/d/1i5hWkHXHOetRlpLOmxbpoEWod77psN0JcwFvxClNrGc/edit?usp=drivesdk) 
 
 
 The hammer represents characters built to defeat the encounter by dealing damage or otherwise permanently removing an enemy as a threat. Hammers pound the encounter into something resembling victory.
