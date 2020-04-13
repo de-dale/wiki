@@ -2,12 +2,13 @@
 title: Les rôles dans le combat
 description: 
 published: true
-date: 2020-04-13T20:13:27.863Z
+date: 2020-04-13T20:18:39.906Z
 tags: 
 ---
 
 # Anvil/Arm/Hammer
-Your content here
+
+https://docs.google.com/document/d/1i5hWkHXHOetRlpLOmxbpoEWod77psN0JcwFvxClNrGc/edit?usp=drivesdk
 
 # Huit stratégies
 
