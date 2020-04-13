@@ -2,13 +2,22 @@
 title: Les rôles dans le combat
 description: 
 published: true
-date: 2020-04-13T20:18:39.906Z
+date: 2020-04-13T21:08:26.136Z
 tags: 
 ---
 
 # Anvil/Arm/Hammer
 
 https://docs.google.com/document/d/1i5hWkHXHOetRlpLOmxbpoEWod77psN0JcwFvxClNrGc/edit?usp=drivesdk
+
+
+The hammer represents characters built to defeat the encounter by dealing damage or otherwise permanently removing an enemy as a threat. Hammers pound the encounter into something resembling victory.
+
+
+The anvil represents characters built and specialized in holding the enemy down. That is reducing their capacity to fight against the hammers or otherwise defeat you. This is typically done through combat maneuvers, battlefield control spells, debuffs, or other similar methods to reduce an enemies capacity to do the same to the group.
+
+
+The Arm represents the support center of the group. He allows the hammer to hit harder, the anvil to hold the enemy better and keeps them working before the enemy can break either. Through buffs, heals, or other forms of support an arm allows the rest of the group to perform better than normal and overcome encounters very quickly without an extra drain on resources.
 
 # Huit stratégies
 
