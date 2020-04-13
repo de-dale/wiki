@@ -2,7 +2,7 @@
 title: Le Sphérier
 description: 
 published: true
-date: 2020-04-11T07:55:39.987Z
+date: 2020-04-13T06:41:06.553Z
 tags: 
 ---
 
@@ -64,6 +64,7 @@ Ensemble des règles permettant d'utiliser le Sphérier.
 
 - [Règles](référence/core)
 - [Glossaire](référence/glossaire)
+- [TODO](todo)
 
 - Espace de travail Notions (obsolète): https://www.notion.so/spherier/
 - Repertoire de sauvegarde GitHub: https://github.com/de-dale/spherier
