@@ -2,7 +2,7 @@
 title: Statistiques générales
 description: 
 published: true
-date: 2020-04-14T19:11:48.512Z
+date: 2020-04-14T19:14:03.612Z
 tags: 
 ---
 
@@ -22,10 +22,11 @@ Pour plus de détails sur la mécanique d'action : [Organisation d'un affronteme
 Lors d'une rencontre, les actions des personnages sont régulées. Ils ne peuvent accomplir qu'un certain nombre d'actions par tour, chacune de ces actions consommant des Points d'Action (PA).
 Un personnage dispose de **6 PA** à sa création.
 ## Points de Réaction
-De même que pour les actions, ils ne peuvent réagir à une action qu'une nombre limité de fois à chaque tour.
+De même que pour les actions, ils ne peuvent réagir à une action qu'une nombre limité de fois à chaque tour en utilisant des Points de Réaction (PR).
 Un personnage dispose de **1 PR** à sa création.
 ## Point de Mouvement
-
+Enfin, lorsqu'un personnage choisit de faire une action de mouvement pour se déplacer, il peut se déplacer d'un nombre maximum de case égal à ses Points de Mouvement (PM).
+Un personnage dispose de **1 PM** à sa création.
 # Vie
 
 ## Points de Santé
