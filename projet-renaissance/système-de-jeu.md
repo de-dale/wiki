@@ -2,7 +2,7 @@
 title: Système de règles
 description: 
 published: true
-date: 2020-04-05T09:59:48.728Z
+date: 2020-04-14T18:49:45.212Z
 tags: 
 ---
 
@@ -16,7 +16,7 @@ Le contexte de l'histoire dans laquelle les personnages évoluent est donné par
 Lors de sa création, le joueur peut laisser libre cours à son imagination pour tout ce qui touche à l'aspect et au comportement de son personnage. Les parties"techniques" du personnage, tels que sa classe, ses capacités, ses compétences, ses voies et ses caractéristiques, sont plus normés afin de garantir un équilibrage entre plusieurs personnages, grâce aux **Points de Progression**.
 #### [Identité, aspect et comportement](points-progression)
 Un personnage est un être entier avec un passé et une envie de futur, une histoire propre, des caractéristiques physiques et mentales, un comportement, des croyances, des amis, des déceptions,...
-#### Statistiques initiales
+#### [Statistiques initiales](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/statistiques)
 Un personnage est aussi un ensemble de statistiques qui garantissent que tous les personnages auront une base chiffrée identique, qui sera modifiée par les choix de création et de développement de chaque personnage.
 #### [Caratéristiques](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/caractéristiques)
 Les Caractéristiques sont au nombre de 4 : la **Carrure**, la **Dextérité**, la **Réflexion** et la **Volonté**, Chaque personnage peut y affecter des valeurs différentes. Ces dernières présentent un intérêt majeur car elles apportent un bonus au d20 lancé pour déterminer le succès ou l'échec d'une action.
