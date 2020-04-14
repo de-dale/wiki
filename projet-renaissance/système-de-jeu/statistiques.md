@@ -2,7 +2,7 @@
 title: Statistiques générales
 description: 
 published: true
-date: 2020-04-14T19:06:53.892Z
+date: 2020-04-14T19:10:57.723Z
 tags: 
 ---
 
@@ -21,7 +21,8 @@ tags:
 Lors d'une rencontre, les actions des personnages sont régulées. Ils ne peuvent accomplir qu'un certain nombre d'actions par tour, chacune de ces actions consommant des Points d'Action (PA). Pour plus de détails : [Organisation d'un affrontement](http://de-dale.hd.free.fr/fr/projet-renaissance/syst%C3%A8me-de-jeu/actions).
 Un personnage dispose de **6 PA** à sa création.
 ## Points de Réaction
-
+De même que pour les actions, ils ne peuvent réagir à une action qu'une nombre limité de fois à chaque tour.
+Un personnage dispose de **1 PR** à sa création.
 
 ## Point de Mouvement
 
