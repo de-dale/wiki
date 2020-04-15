@@ -2,7 +2,7 @@
 title: Statistiques générales
 description: 
 published: true
-date: 2020-04-15T10:13:25.466Z
+date: 2020-04-15T10:25:34.427Z
 tags: 
 ---
 
@@ -43,11 +43,13 @@ Une 3 attaque la touche violemment et lui inflige 10 dégâts. Alice retire donc
 
 ## Résilience temporaire
 ### Absorption
-L'Aborption est la première couche de résilience. Elle représente une protection très éphèmère (quelques secondes) et généralement puissante. Elle ne dure que jusqu'à la fin du tour. Les personnages ne disposent pas d'Absorption naturellement.
+L'Aborption est la première couche de résilience. Elle représente une protection très éphèmère (quelques secondes) et généralement puissante. Elle ne dure que jusqu'à la fin du tour. Les personnages ne disposent pas d'Absorption naturellement, elle se génère au travers de leurs capacités.
 ### Points de vie temporaires
-Les PV temporaires représentent la seconde couche de résilience. Ils durent plus longtemps que l'Absorption (quelques minutes) mais sont plus limités. Les PV temporaires durent jusqu'à ce que le temps passe. Les personnages ne disposent pas de PV temporaires naturellement, mais sont limités à un maximum de 10. Les PV temporaires gagnés au dela de cette limite son perdus.
+Les PV temporaires représentent la seconde couche de résilience. Ils durent plus longtemps que l'Absorption (quelques minutes) mais sont plus limités. Les PV temporaires durent jusqu'à ce que le temps passe. Les personnages disposent d'un maximum de 10 PV tempoaires, nombre qui peut être modifié par leur objets, capacité, entraînement... Ils commencent leur journée d'aventure à 0, mais pourront en générer grâce à leurs capacités. Les PV temporaires gagnés au dela de cette limite son perdus.
 ## Résilience vitale
 ### Points de vie
+Les PV sont la principale source de résilience des personnages. Ils ont pour objectif de protéger les Points de Santé et de mesurer dans quelle forme est le personnage.
+Les personnages disposent d'un maximum 30 PV de base, nombre qui peut être modifié par leur objets, capacité, entraînement...
 ### Points de Santé
 
 
