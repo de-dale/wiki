@@ -2,7 +2,7 @@
 title: Statistiques générales
 description: 
 published: true
-date: 2020-04-15T11:24:42.374Z
+date: 2020-04-15T11:44:36.600Z
 tags: 
 ---
 
@@ -51,15 +51,19 @@ Les PV temporaires représentent la seconde couche de résilience. Ils durent pl
 ### Points de vie
 Les PV sont la principale source de résilience des personnages. Ils ont pour objectif de protéger les Points de Santé et de mesurer dans quelle forme est le personnage.
 Les personnages disposent d'un maximum 30 PV de base et commencent leur journée d'aventure au maximum de leurs PV. Les PV se régènèrent notamment lors des Repos courts (1d6 PV) et des Repos longs (jusqu'à leur maximum).
+Lorsque les PV d'un personnage tombent à 0 et perd 1 Point de Santé automatiquement. Tant qu'il est à 0 PV, il est KO et ne peut agir.
 **Etat blessé**
 Lorsqu'un personnage a perdu 50% ou plus de ses PV maximaux, il est alors considéré comme blessé. C'est un état visible donc ses alliés et ennemis le savent immédiatement. Certaines capacités sont plus efficaces sur des personnages blessés, notamment provenant des bêtes sauvages, il est donc dangereux de rester dans cet état en territoire hostile.
 Le seuil auquel un personnage est considéré comme blessé peut être modifié comme pour le reste de ses statisitques, mais il ne peut jamais dépasser ses **PV max - 1**.
 ### Points de Santé
-Les Points de Santé sont la dernière barrière d'un personnage avant la mort.
+Les Points de Santé sont la dernière barrière d'un personnage. Il est difficile de s'en prendre directement à eux, sauf avec des effets qui devraient directement tuer un personnage.
+Les personnages disposent de base 3 Points de Santé qui se régénèrent après un Repos long uniquement. Ils ne se décomptent pas comme les autres résiliences ; un personnage perd 1 Point de Santé dans les cas suivants uniquement :
+* Ses PV tombent à 0
+* Il est KO et subit des dégâts non-fixes (quelque soit le montant de dégâts)
 
+Cela signifie qu'une fois qu'un personnage est à terre avec 0 PV, il faudra encore 2 attaques sur lui pour l'achever. Il est possible de le soigner dans l'intervale pour lui rendre des PV, mais s'il repasse à 0 PV, il perdra de nouveau 1 point de Santé.
 
-
-
-
+Lorsqu'un personnage tombe à 0 Point de Santé, il tombe dans le coma. Il ne pourra plus reprendre l'aventure avant d'en être sorti, ce qui prend longtemps et demande des soins suivis généralement incompatible avec un bivouac. Il faut considérer que le personnage n'est plus en capacité à poursuivre l'aventure.
 
 # Réduction de dégâts
+Les personnages vont subir toute sorte d'attaque durant leur aventure
