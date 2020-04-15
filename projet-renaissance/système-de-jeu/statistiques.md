@@ -2,7 +2,7 @@
 title: Statistiques générales
 description: 
 published: true
-date: 2020-04-15T09:47:04.268Z
+date: 2020-04-15T09:55:36.968Z
 tags: 
 ---
 
@@ -28,9 +28,13 @@ Un personnage dispose de **1 PR** à sa création.
 Enfin, lorsqu'un personnage choisit de faire une action de mouvement pour se déplacer, il peut se déplacer d'un nombre maximum de case égal à ses Points de Mouvement (PM).
 Un personnage dispose de **1 PM** à sa création.
 # Vie
-La vie d'un personnage est sa ressource la plus précieuse. Si un personnage peut mourir, il a plusieurs statistiques qui représentent sa résilience naturelle. Elles sont présentées ci-dessous dans l'ordre d'utilisation, de la plus éphémère et la moins critique, à la plus pérènne et la plus cirtique. Ainsi lorsqu'un personnage perd des points dans statistique en particulier, il doit les retirer de cette statistique. jusqu'à ce qu'elle arrive à 0 puis de celle d'en dessous et ainsi de suite jusqu'à ce qu'il ait tous les points perdus aient été affectés.
-Dans le cas des dégâts sans précision (généralement dans le cas d'un combat), il est considéré qu'il
+La vie d'un personnage est sa ressource la plus précieuse. Si un personnage peut mourir, il a plusieurs statistiques qui représentent sa résilience naturelle à la mort. Elles se distinguent en 2 catégories : 
+* Résilience temporaire : Elle commence à 0 et est simple à générer pendant l'aventure, mais présente une limite dans le temps.
+* Résilience vitale : Elle commence au maximum et est difficile à régénérer en dehors des Repos. Elle est par contre permanente.
+Lorsqu'un personnage subit des dégâts, il perd d'abord de sa résilience temporaire puis la vitale. Elles sont présentées ci-dessous dans l'ordre d'utilisation, de la plus éphémère et la moins critique, à la plus pérènne et la plus critique. Par contre, lorsqu'il est précisé que les dégâts ne concernent qu'un résilience, seule celle-ci est affectée.
+
 ## Résilience temporaire
+Lorsqu'un personnage perd des points dans une statistique en particulier, il doit les retirer de cette statistique jusqu'à ce qu'elle arrive à 0.
 ### Absorption
 L'Aborption est la première couche de résilience. Elle représente une protection 
 ### Points de vie temporaires
