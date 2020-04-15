@@ -2,7 +2,7 @@
 title: Statistiques générales
 description: 
 published: true
-date: 2020-04-15T10:48:02.569Z
+date: 2020-04-15T11:19:02.645Z
 tags: 
 ---
 
@@ -46,11 +46,11 @@ Les chiffres donnés ci-dessous sont ceux dont disposent un personnage à sa cr�
 ### Absorption
 L'Aborption est la première couche de résilience. Elle représente une protection très éphèmère (quelques secondes) et généralement puissante. Elle ne dure que jusqu'à la fin du tour. Les personnages ne disposent pas d'Absorption naturellement, elle se génère au travers de leurs capacités.
 ### Points de vie temporaires
-Les PV temporaires représentent la seconde couche de résilience. Ils durent plus longtemps que l'Absorption (quelques minutes) mais sont plus limités. Les PV temporaires durent jusqu'à ce que le temps passe. Les personnages disposent d'un maximum de 10 PV temporaires et commencent leur journée d'aventure à 0, mais pourront en générer grâce à leurs capacités. Les PV temporaires gagnés au dela de cette limite son perdus.
+Les PV temporaires représentent la seconde couche de résilience. Ils durent plus longtemps que l'Absorption (quelques minutes) mais sont plus limités. Les PV temporaires durent jusqu'à ce que le temps passe. Les personnages disposent d'un maximum de 10 PV temporaires et commencent leur journée d'aventure à 0, mais pourront en générer grâce à leurs capacités. Les PV temporaires gagnés au dela de cette limite sont perdus.
 ## Résilience vitale
 ### Points de vie
 Les PV sont la principale source de résilience des personnages. Ils ont pour objectif de protéger les Points de Santé et de mesurer dans quelle forme est le personnage.
-Les personnages disposent d'un maximum 30 PV de base et commencent leur journée d'aventure au maximum de leurs PV. Les PV se régènèrent notamment lors des Repos courts 
+Les personnages disposent d'un maximum 30 PV de base et commencent leur journée d'aventure au maximum de leurs PV. Les PV se régènèrent notamment lors des Repos courts (1d6 PV) et des Repos longs (jusqu'à leur maximum).
 ### Points de Santé
 
 
