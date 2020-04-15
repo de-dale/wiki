@@ -2,7 +2,7 @@
 title: Statistiques générales
 description: 
 published: true
-date: 2020-04-14T19:14:03.612Z
+date: 2020-04-15T09:47:04.268Z
 tags: 
 ---
 
@@ -28,13 +28,20 @@ Un personnage dispose de **1 PR** à sa création.
 Enfin, lorsqu'un personnage choisit de faire une action de mouvement pour se déplacer, il peut se déplacer d'un nombre maximum de case égal à ses Points de Mouvement (PM).
 Un personnage dispose de **1 PM** à sa création.
 # Vie
+La vie d'un personnage est sa ressource la plus précieuse. Si un personnage peut mourir, il a plusieurs statistiques qui représentent sa résilience naturelle. Elles sont présentées ci-dessous dans l'ordre d'utilisation, de la plus éphémère et la moins critique, à la plus pérènne et la plus cirtique. Ainsi lorsqu'un personnage perd des points dans statistique en particulier, il doit les retirer de cette statistique. jusqu'à ce qu'elle arrive à 0 puis de celle d'en dessous et ainsi de suite jusqu'à ce qu'il ait tous les points perdus aient été affectés.
+Dans le cas des dégâts sans précision (généralement dans le cas d'un combat), il est considéré qu'il
+## Résilience temporaire
+### Absorption
+L'Aborption est la première couche de résilience. Elle représente une protection 
+### Points de vie temporaires
+## Résilience vitale
+### Points de vie
+### Points de Santé
 
-## Points de Santé
 
-## Points de vie
 
-## Points de vie temporaires
 
-## Absorption
+
+
 
 # Réduction de dégâts
