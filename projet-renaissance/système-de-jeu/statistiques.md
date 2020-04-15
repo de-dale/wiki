@@ -2,7 +2,7 @@
 title: Statistiques générales
 description: 
 published: true
-date: 2020-04-15T11:19:02.645Z
+date: 2020-04-15T11:24:18.600Z
 tags: 
 ---
 
@@ -51,8 +51,11 @@ Les PV temporaires représentent la seconde couche de résilience. Ils durent pl
 ### Points de vie
 Les PV sont la principale source de résilience des personnages. Ils ont pour objectif de protéger les Points de Santé et de mesurer dans quelle forme est le personnage.
 Les personnages disposent d'un maximum 30 PV de base et commencent leur journée d'aventure au maximum de leurs PV. Les PV se régènèrent notamment lors des Repos courts (1d6 PV) et des Repos longs (jusqu'à leur maximum).
+**Etat blessé**
+Lorsqu'un personnage a perdu 50% ou plus de ses PV maximaux, il est alors considéré comme blessé. C'est un état visible donc ses alliés et ennemis le savent immédiatement. Certaines capacités sont plus efficaces sur des personnages blessés, notamment provenant des bêtes sauvages, il est donc dangereux de rester dans cet état en territoire hostile.
+Le seuil auquel un personnage est considéré comme blessé peut être modifié comme pour le reste de ses statisitques, mais il ne peut jamais dépasser ses **PV max - 1**.
 ### Points de Santé
-
+Les Points de Santé sont la dernière barrière d'un personnage avant la mort.
 
 
 
