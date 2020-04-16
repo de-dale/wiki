@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-16T19:11:51.643Z
+date: 2020-04-16T19:17:27.909Z
 tags: 
 ---
 
@@ -74,20 +74,24 @@ La **Passe d'initiative** se déroule alors de la manière suivante :
 
 ### Piocher
 
-Le **Decker** révèle la premère carte du **Deck d'initiative**. La pioche marque le début de la Passe. 
+Le **Decker** révèle la premère carte du **Deck d'initiative**.
+La **Pioche** marque le début de la Passe. 
 
-### Agir
+### Agir : Phase Action
 
-Le **Protagoniste** inscrit sur la carte d'action **possède l'initiative**. Il peut alors:
-     1. **Jouer:** il peut consommer tout ou partie des carte d'actions qu'il possède à cet instant, pour utiliser **une unique capacité** ~~des capacités et effectuer des actions~~
-     1. **Passer:** il ne fait rien et met alors sa carte d'action face visible devant lui. Il pourra l'utiliser par la suite.  
+Le **Protagoniste** inscrit sur la carte d'action **possède l'initiative**. Il peut soit :
+1. **Jouer:**
+il peut consommer tout ou partie des carte d'actions qu'il possède à cet instant, pour utiliser **une unique capacité** ~~des capacités et effectuer des actions~~
+2. **Passer:**
+il ne fait rien et met alors sa carte d'action face visible devant lui.
+Il pourra l'utiliser par la suite.  
 
-### Répondre
+### Répondre: Phase Réponse
 
 Les adversaires du **protagoniste** venant de jouer, désignent parmi eux, un **protagoniste**.
-Ce dernier **possède l'initiative** ; il peut **jouer** ou **passer**., comme cdans la phase Action, ci-dessus.
-    - TODO: Pas de méthode de désignation actuellement définie
-    - Dans le cas où il y à plus de deux factions, le MJ décide quel camp possède la réponse. Préférentiellement, il s'agira de la faction agressée. La réponse à cette réponse suit les mêmes règles. 
+Ce dernier **possède l'initiative** ; il peut **jouer** ou **passer**., comme dans la phase Action, ci-dessus.
+- TODO: Pas de méthode de désignation actuellement définie
+- Dans le cas où il y à plus de deux factions, le MJ décide quel camp possède la réponse. Préférentiellement, il s'agira de la faction agressée. La réponse à cette réponse suit les mêmes règles. 
 
 > Les phases de **Réponses** se succèdent à moins que deux **Protagonistes** passent consécutivement: La passe d'initiative prend fin.
 
