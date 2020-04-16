@@ -2,7 +2,7 @@
 title: Markdown
 description: Guide de survie avec le markdown
 published: true
-date: 2020-03-29T14:08:53.954Z
+date: 2020-04-16T12:52:10.810Z
 tags: 
 ---
 
@@ -422,3 +422,26 @@ Ou, en pur Markdown, mais en perdant la taille et la bordure de l'image :
 ```markdown
 [![TEXTE ALT IMAGE ICI](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_ICI)
 ```
+
+# Extensions spécifiques à Wiki JS
+
+## Blockquote
+
+> INFO
+{.is-info}
+
+> WARN
+{.is-warning}
+
+> SUCCESS
+{.is-success}
+
+> DANGER
+{.is-danger}
+
+> CUSTOM:
+> GREY 
+> LIGHTEN-3
+> RED-TEXT
+> TEXT-DARKEN-4
+{.grey .lighten-3 .red--text .text--darken-4}
