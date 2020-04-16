@@ -2,14 +2,14 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-16T12:46:59.726Z
+date: 2020-04-16T14:01:45.605Z
 tags: 
 ---
 
 :warning: A reworder complètement.
 
 > La violence est le dernier recours de l'incompétence.
-> _Salvor Hardin_
+> <span style="text-align:right;display:block">_Salvor Hardin_</span> 
 {.is-warning}
 
 > Ça y'est!  Vous êtes entrés dans une phase de négociation musclée.
@@ -21,70 +21,72 @@ Lorsque les joueurs, ou le maître du jeu, décident qu'il est temps de réduire
 ~~Lors d'une rencontre entre différents `protagonistes`, c'est à dire des personnages joueurs comme non joueurs, lorsque l'un d'eux montre une velléité de porter atteinte à l'intégrité, physique, ou mentale de l'autre partie, alors on initie une phase de combat.~~
 
 <a id="protagoniste"></a>
-**Protagoniste:**
-dans un combat, on appelle **Protagoniste**, tout personnage, joueur ou non-joueur, intervenant dans le combat.
+> **Protagoniste**
+Un **Protagoniste** désigne n'importe quel personnage, joueur ou non-joueur, intervenant dans le combat.
+{.is-success}
 
 **Mise en place :**
 On détermine qui peut agir, on rassemble leurs ressources (cartes Action et Réaction) et on se tient prêt pour la première passe d'initiative.
 
-## Tours de combat
+# Tour de combat
 Afin de simplifier la gestion de la temporalité, un Combat se découpe en tours.
 Un tour de combat se découpe de la manière suivante :
 
-- Préparation
-- Passe d'initiative (une ou plusieurs) 
-- Fin du tour
+1. [Préparation]()
+2. Passe d'initiative (une ou plusieurs) 
+3. Fin du tour
+
+## Préparation
 
 Un tour de combat commence avec la **préparation**:
 
- - on mélange le deck d'initiative
- - on distribue les cartes réactions
+Chaque **Protagoniste** dispose d'un certain nombre de **Cartes Actions**, qui lui sont propres. Au début du tour, ces cartes sont mises en commun, puis mélangées pour constituer le **Deck d'initiative**.
 
-Une fois la préparation terminée, le tour **continue**; on entame une passe d'initiative, en révélant une carte.
-Tant qu'il y a au moins une carte dans le deck d'initiative, le tour **continue** ; on enchaîne les passes d'initiative.
+Le tour commence dès que le **Deck d'Initiative** est constitué.
 
-Le tour se **termine** lorsqu'on tente de révéler une carte d'action dans le deck d'initiative, mais que ce dernier est vide. 
-À ce moment, tous les `protagonistes` perdent leurs actions restantes :
- - les cartes action restantes ne peuvent plus être utilisées
- - les cartes réaction restantes ne peuvent plus être utilisées
-Si le combat n'est pas terminé, on recommence un tour de combat, avec sa préparation.
+<a id="deck-initiative"></a>
+> **Deck d'Initiative**
+Le **_Deck d'Initiative_** contient toutes les **Cartes Actions** de tous les **Protagonistes** d'un combat.
+Il est constitué au début du tour.
+{.is-success}
 
-### Préparation
+## Passe d'initiative
 
-Chaque `protagoniste` dispose d'un certain nombre de points d'**`Actions`**,  matérialisés par des cartes nominatives.
+Un joueur, que l'on appellera le **Decker**, révèle une carte du **Deck d'initiative**.
+Cette étape, la **Pioche**, marque le début d'une **Passe d'initiative**.
 
-Au début du tour de combat, tous les `protagonistes` mettent en commun leurs cartes **`Actions`** que l'on mélange pour constituer le **`Deck d'initiative`** (wording: Deck d'action ?). 
+La **Passe d'initiative** est la séquence d'événements qui on lieu entre deux **Pioches**.
+Elle commence avec la première **Pioche**, et se finit avant la seconde.
 
-Le tour commence lorsque le MJ (ou n'importe quel autre joueur) révèle la première carte du Deck d'initiative.
+<a id="decker"></a>
+> **Decker**
+Le joueur qui révèle les cartes du **Deck d'Initiative** est appelé le **_Decker_**.
+Ce rôle peut être endossé par le Maitre du Jeu, s'il le souhaite.
+{.is-success}
 
-## Agir: l'Initiative
+La **Passe d'initiative** se déroule alors de la manière suivante :
 
-Une **`passe d'initiative`** démarre alors.
-
-### Passe d'initiative
-
-Une **`Passe d'initiative`** est la séquence d'événements se déroulants, à partir le moment où une carte du Deck d'initiative est révélée, et ce jusqu'à ce que la passe d'initiative prenne fin.
-Une **`Passe d'initiative`** est la séquence d'événements se déroulants, entre deux pioches de cartes du deck d'initiative. Elle commence avec la première pioche, et se finit avant la seconde.
-
-Une **`Passe d'initiative`** se déroule de la manière suivante :
-
-1. la **pioche:** une carte du Deck d'initiative est révélée. La pioche marque le début de la passe. 
-1. l'**action** : le `protagoniste` inscrit sur la carte d'action **possède l'initiative**. Il peut alors:
-     1. **jouer:** il peut consommer tout ou partie des carte d'actions qu'il possède à cet instant, pour utiliser **une unique capacité** ~~des capacités et effectuer des actions~~
-     1. **passer:** il ne fait rien et met alors sa carte d'action face visible devant lui. Il pourra l'utiliser par la suite.  
-1. la **réponse:** les adversaires du `protagoniste` venant de jouer, désignent parmi eux, un `protagoniste`. Ce dernier **possède l'initiative** ; il peut **jouer** ou **passer**.
+1. **Pioche** 
+Le **Decker** révèle la premère carete du **Deck d'initiative**. La pioche marque le début de la Passe. 
+2. L'**Action** :
+Le **Protagoniste** inscrit sur la carte d'action **possède l'initiative**. Il peut alors:
+     1. **Jouer:** il peut consommer tout ou partie des carte d'actions qu'il possède à cet instant, pour utiliser **une unique capacité** ~~des capacités et effectuer des actions~~
+     1. **Passer:** il ne fait rien et met alors sa carte d'action face visible devant lui. Il pourra l'utiliser par la suite.  
+1. La **Réponse:**
+Les adversaires du **protagoniste** venant de jouer, désignent parmi eux, un **protagoniste**.
+Ce dernier **possède l'initiative** ; il peut **jouer** ou **passer**., comme cdans la phase Action, ci-dessus.
     - TODO: Pas de méthode de désignation actuellement définie
     - Dans le cas où il y à plus de deux factions, le MJ décide quel camp possède la réponse. Préférentiellement, il s'agira de la faction agressée. La réponse à cette réponse suit les mêmes règles. 
-1. Les phases de **réponses** se succèdent à moins que deux `protagonistes` passent consécutivement: La passe d'initiative prend fin.
+1. Les phases de **Réponses** se succèdent à moins que deux `protagonistes` passent consécutivement: La passe d'initiative prend fin.
 
-Exemples : passe d'initiative possible pour un combats en 1 vs1 entre Alice et Bob. Alice pioche et possède l'initiative.
+**Exemples :** Passe d'initiative possible pour un combats en 1vs1 entre Alice et Bob. Alice pioche et possède l'initiative.
 
-- ☑ *Alice pioche, Alice passe, Bob passe, fin de la passe.*
-- ☑ *Alice pioche, (Alice passe, Bob joue,)^n Alice passe, Bob passe, fin de la passe.*
-- ☑ *Alice pioche, Alice joue, Bob passe, Alice passe, fin de la passe*
-- ☑ *Alice pioche, (Alice joue, Bob passe,)^n Alice passe, fin de la passe.*
-- ☑ *Alice pioche, Alice joue, Bob joue, Alice passe, Bob passe, fin de la passe.*
-- ☑ *Alice pioche, (Alice joue, Bob joue,)^n Alice passe, Bob passe, fin de la passe.*
+- ☑ *Alice pioche, Alice passe, Bob passe, fin de la Passe.*
+- ☑ *Alice pioche, (Alice passe, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
+- ☑ *Alice pioche, Alice joue, Bob passe, Alice passe, fin de la Passe*
+- ☑ *Alice pioche, (Alice joue, Bob passe,)^n Alice passe, fin de la Passe.*
+- ☑ *Alice pioche, Alice joue, Bob joue, Alice passe, Bob passe, fin de la Passe.*
+- ☑ *Alice pioche, (Alice joue, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
 
 ```
             
@@ -97,19 +99,38 @@ Exemples : passe d'initiative possible pour un combats en 1 vs1 entre Alice et B
     
 ```
 
-Questions:
+> Questions (à mettre dans les Concepts):
+> - Si un `protagoniste` passe au cours d'une passe d'action, est-ce qu'il peut rejouer plus tard dans la même passe d'initiative ?
+>    - **Pro:** risque pris récompensé, possibilité de rattraper une situation qui dégénère. Empêcher de rejouer fera tourner le combat en tentative de bloquer les réponses adverses. De plus le nombre de réponse serait une ressource directement indexée le la quantité de protagonistes dans chaque camp. 
+>    - **Cons:** peut ralentir la passe d'init, ralenti la détermination du `protagonistes` possédant l'initiative. 
+>    - **Décision:** oui, s'il passe dans une passe d'initiative, un protagoniste peut répondre plus tard dans la même passe. 
 
-- Si un `protagoniste` passe au cours d'une passe d'action, est-ce qu'il peut rejouer plus tard dans la même passe d'initiative ?
-    - Pro: risque pris récompensé, possibilité de rattraper une situation qui dégénère. Empêcher de rejouer fera tourner le combat en tentative de bloquer les réponses adverses. De plus le nombre de réponse serait une ressource directement indexée le la quantité de protagonistes dans chaque camp. 
-    - Cons: peut ralentir la passe d'init, ralenti la détermination du `protagonistes` possédant l'initiative. 
-    - **Décision:** oui, s'il passe dans une passe d'initiative, un protagoniste peut répondre plus tard dans la même passe. 
+> :warning: Si un **Protagoniste** passe, dans une **Passe d'initaitive**, il pourra toujours jouer plus tard, dans la même Passe, si celle-ci se poursuit.
 
-~~
-Récupération de "Agir".
+Tant que le **Deck d'initiative** contient au moins une carte, le tour continue. Le **Decker** révèle les cartes les unes après les autres : les **Passes d'initative** se succèdent les unes aux autres.
+
+## Fin du Tour
+
+Le tour se **termine** lorsque le **Decker** n'a plus de Carte Action à révéler das le **Deck d'Initiative**.
+
+À ce moment, tous les effets qui se "déclenchent à la fin du tour" sont activés, dans l'ordre dans lequel ils ont été créées.
+
+Si le combat n'est pas terminé, on recommence un tour de combat, avec sa préparation.
+
+## Fin du combat
+
+> Fin du combat
+{.is-danger}
+
+# Agir: l'Initiative
 
 ## Initiative
 ### Lancer de dé
-Les acteurs d'un combat lancent un jet d'initiative. Ils jouent ensuite leur tour de combat, dans l'ordre décroissant des initiatives.
+> NON
+{.is-danger}
+
+Les acteurs d'un combat lancent un jet d'initiative.
+Ils jouent ensuite leur tour de combat, dans l'ordre décroissant des initiatives.
 Au début de son tour, un acteur récupère tous ses points d'Action et de Réaction.
 
 ### Deck d'actions.
@@ -124,14 +145,6 @@ Une fois le Deck vidé, c'est la fin du tour. On récupère toutes les cartes, m
 **Acteur ayant toutes ses cartes en main :** Sais pas 😑
 ~~
 
-## Fin du Tour
-
-Le tour se **termine** lorsqu'on tente de révéler une carte d'action dans le deck d'initiative, mais que ce dernier est vide.
-
-À ce moment, tous les `protagonistes` perdent leurs actions restantes :
- - les cartes action restantes ne peuvent plus être utilisées
- - les cartes réaction restantes ne peuvent plus être utilisées
-Si le combat n'est pas terminé, on recommence un tour de combat, avec sa préparation.
 
 ## Réagir
 
