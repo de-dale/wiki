@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-16T14:01:45.605Z
+date: 2020-04-16T19:11:51.643Z
 tags: 
 ---
 
@@ -18,27 +18,29 @@ Il est temps de se mettre sur la figure, : le combat commence.
 
 Lorsque les joueurs, ou le maître du jeu, décident qu'il est temps de réduire l'ennemi en petits bouts plus ou moins comestibles, on déclenche un **Combat**.
 
+**Mise en place :**
+On détermine qui peut agir, on rassemble leurs ressources (cartes Action et Réaction) et on se tient prêt pour la première passe d'initiative.
+
+<!--*
 ~~Lors d'une rencontre entre différents `protagonistes`, c'est à dire des personnages joueurs comme non joueurs, lorsque l'un d'eux montre une velléité de porter atteinte à l'intégrité, physique, ou mentale de l'autre partie, alors on initie une phase de combat.~~
+-->
 
 <a id="protagoniste"></a>
 > **Protagoniste**
 Un **Protagoniste** désigne n'importe quel personnage, joueur ou non-joueur, intervenant dans le combat.
 {.is-success}
 
-**Mise en place :**
-On détermine qui peut agir, on rassemble leurs ressources (cartes Action et Réaction) et on se tient prêt pour la première passe d'initiative.
-
 # Tour de combat
-Afin de simplifier la gestion de la temporalité, un Combat se découpe en tours.
-Un tour de combat se découpe de la manière suivante :
+Afin de simplifier la gestion de la temporalité, un **Combat** se découpe en tours.
+Un tour de combat se compose de 3 étapes :
 
-1. [Préparation]()
-2. Passe d'initiative (une ou plusieurs) 
+1. Préparation
+2. Une ou plusieurs **Passe d'initiative**
 3. Fin du tour
 
 ## Préparation
 
-Un tour de combat commence avec la **préparation**:
+Un tour de combat commence avec la **préparation**.
 
 Chaque **Protagoniste** dispose d'un certain nombre de **Cartes Actions**, qui lui sont propres. Au début du tour, ces cartes sont mises en commun, puis mélangées pour constituer le **Deck d'initiative**.
 
@@ -67,17 +69,27 @@ Ce rôle peut être endossé par le Maitre du Jeu, s'il le souhaite.
 La **Passe d'initiative** se déroule alors de la manière suivante :
 
 1. **Pioche** 
-Le **Decker** révèle la premère carete du **Deck d'initiative**. La pioche marque le début de la Passe. 
-2. L'**Action** :
+2. L'**Action**
+3. La ou les **Réponse(s)**
+
+### Piocher
+
+Le **Decker** révèle la premère carte du **Deck d'initiative**. La pioche marque le début de la Passe. 
+
+### Agir
+
 Le **Protagoniste** inscrit sur la carte d'action **possède l'initiative**. Il peut alors:
      1. **Jouer:** il peut consommer tout ou partie des carte d'actions qu'il possède à cet instant, pour utiliser **une unique capacité** ~~des capacités et effectuer des actions~~
      1. **Passer:** il ne fait rien et met alors sa carte d'action face visible devant lui. Il pourra l'utiliser par la suite.  
-1. La **Réponse:**
+
+### Répondre
+
 Les adversaires du **protagoniste** venant de jouer, désignent parmi eux, un **protagoniste**.
 Ce dernier **possède l'initiative** ; il peut **jouer** ou **passer**., comme cdans la phase Action, ci-dessus.
     - TODO: Pas de méthode de désignation actuellement définie
     - Dans le cas où il y à plus de deux factions, le MJ décide quel camp possède la réponse. Préférentiellement, il s'agira de la faction agressée. La réponse à cette réponse suit les mêmes règles. 
-1. Les phases de **Réponses** se succèdent à moins que deux `protagonistes` passent consécutivement: La passe d'initiative prend fin.
+
+> Les phases de **Réponses** se succèdent à moins que deux **Protagonistes** passent consécutivement: La passe d'initiative prend fin.
 
 **Exemples :** Passe d'initiative possible pour un combats en 1vs1 entre Alice et Bob. Alice pioche et possède l'initiative.
 
