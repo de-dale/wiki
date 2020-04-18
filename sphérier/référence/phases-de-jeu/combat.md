@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:22:30.079Z
+date: 2020-04-18T14:30:25.200Z
 tags: 
 ---
 
@@ -154,9 +154,12 @@ actor Alice #red
 actor Bob #blue
 [-> Alice: Pioche
 
+===
 Alice -> Bob ++ : Passe
-Bob -> Bob : Joue
+note right of Bob: Joue
 Bob -> Alice --
+=== n fois ===
+
 
 Alice -> Bob : Passe
 Bob -> "Fin de la Passe" ** : Passe
@@ -170,7 +173,7 @@ actor Alice #red
 actor Bob #blue
 [-> Alice ++ : Pioche
 
-Alice -> Alice: Joue
+note left of Alice: Joue
 Alice -> Bob --
 
 Bob -> Alice : Passe
@@ -184,8 +187,14 @@ actor Alice #red
 actor Bob #blue
 [-> Alice: Pioche
 
-(Alice joue, Bob passe,)^n
-Alice passe, fin de la Passe.*
+...
+note left of Alice: Joue
+Alice -> Bob --
+Bob -> Alice : Passe
+
+...n fois... 
+
+Alice -> "Fin de la Passe" ** : Passe
 ```
 
 *Alice pioche, Alice joue, Bob joue, Alice passe, Bob passe, fin de la Passe.*
