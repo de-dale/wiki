@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:16:07.897Z
+date: 2020-04-18T14:18:39.518Z
 tags: 
 ---
 
@@ -142,14 +142,23 @@ actor Bob #blue
 
 [-> Alice: Pioche
 
-Alice -> Bob : Passe,
+Alice -> Bob : Passe
 Bob -> "Fin de la Passe" ** : Passe
 ```
 
 ```plantuml
-Alice pioche,
-(Alice passe, Bob joue,)^n
-Alice passe, Bob passe, fin de la Passe.*
+actor Alice #red
+actor Bob #blue
+
+[-> Alice: Pioche
+
+Alice -> Bob ++ : Passe
+Bob -> Bob : Joue
+Bob -> Alice --
+
+Alice -> Bob : Passe
+Bob -> "Fin de la Passe" ** : Passe
+
 ```
 
 ```plantuml
