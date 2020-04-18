@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:35:30.694Z
+date: 2020-04-18T14:38:39.673Z
 tags: 
 ---
 
@@ -201,14 +201,14 @@ actor Alice #red
 actor Bob #blue
 [-> Alice ++ : Pioche
 
-
 rnote left of Alice: Joue
 Alice -> Bob -- ++ 
 rnote right of Bob: Joue
 Bob -> Alice -- ++
 
 Alice -> Bob -- : Passe
-Bob -> "Fin de la Passe" ** : Passe
+Bob ->o] : Passe
+rnote right : "Fin de la Passe"
 ```
 
 *Alice pioche, (Alice joue, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
