@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T13:55:07.207Z
+date: 2020-04-18T14:07:44.217Z
 tags: 
 ---
 
@@ -132,6 +132,51 @@ Bob --> Alice: Authentication Response
 Alice -> Alice: PIOCHE
 Alice -> Bob: Another authentication Request
 Alice <-- Bob: another authentication Response
+```
+
+https://plantuml.com/fr/sequence-diagram
+
+```plantuml
+actor Alice red
+actor Bob blue
+
+[-> Alice: Pioche
+
+Alice -> Bob : passe,
+Bob -> "Fin de la Passe"!! passe
+```
+
+```plantuml
+Alice pioche,
+(Alice passe, Bob joue,)^n
+Alice passe, Bob passe, fin de la Passe.*
+```
+
+```plantuml
+Alice pioche,
+Alice joue,
+Bob passe,
+Alice passe, fin de la Passe*
+```
+
+```plantuml
+Alice pioche,
+(Alice joue, Bob passe,)^n
+Alice passe, fin de la Passe.*
+```
+
+```plantuml
+Alice pioche,
+Alice joue, Bob joue, 
+Alice passe, Bob passe, fin de la Passe.*
+```
+
+```plantuml
+Alice pioche,
+(Alice joue, Bob joue,)^n
+Alice passe,
+Bob passe,
+fin de la Passe.*
 ```
 
 > Questions (à mettre dans les Concepts):
