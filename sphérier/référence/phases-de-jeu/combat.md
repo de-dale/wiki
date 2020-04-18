@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:30:53.209Z
+date: 2020-04-18T14:31:05.475Z
 tags: 
 ---
 
@@ -154,7 +154,7 @@ actor Alice #red
 actor Bob #blue
 [-> Alice: Pioche
 
-==
+== ==
 Alice -> Bob ++ : Passe
 note right of Bob: Joue
 Bob -> Alice --
