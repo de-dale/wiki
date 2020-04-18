@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:47:18.944Z
+date: 2020-04-18T18:59:12.107Z
 tags: 
 ---
 
@@ -104,9 +104,11 @@ Répondre à cette réponse suivra les mêmes règles ;  le Narrateur/MJ décide
 
 Les phases de **Réponses** se succèdent à moins que deux **Protagonistes** passent consécutivement: La passe d'initiative prend fin.
 
-__CURSOR__
+#### Exemples
 
-**Exemples :** Passe d'initiative possible pour un combats en 1vs1 entre Alice et Bob. Alice pioche et possède l'initiative.
+**Passes d'initiative** possible pour un combats en 1vs1.
+- Alice: Faction Rouge, pioche systématiquement
+- Bob: Faction bleue
 
 - ☑ *Alice pioche, Alice passe, Bob passe, fin de la Passe.*
 - ☑ *Alice pioche, (Alice passe, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
@@ -115,27 +117,10 @@ __CURSOR__
 - ☑ *Alice pioche, Alice joue, Bob joue, Alice passe, Bob passe, fin de la Passe.*
 - ☑ *Alice pioche, (Alice joue, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
 
-```
-            
-    Pioche --> Action: Alice 
-                      Joue ---> Réponse: Initiative Bob
-                               Joue -> Réponse Alice
-                               Passe -> Réponse Alice
-                      Passe ---> Réponse: Initiative Bob
-        Initiative Alice 
-    
-```
 
-```plantuml
-Alice -> Bob: PIOCHE
-Bob --> Alice: Authentication Response
-Alice -> Alice: PIOCHE
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
-```
+> Les diagrammes de séquence sot faits à l'aide de [PlantUML](https://plantuml.com/fr/sequence-diagram) 
 
-https://plantuml.com/fr/sequence-diagram
-
+#### Exemple : deux passes
 *Alice pioche, Alice passe, Bob passe, fin de la Passe.*
 
 ```plantuml
@@ -147,24 +132,7 @@ Alice -> Bob : Passe
 Bob ->o] : Passe
 note right of Bob : Fin de la Passe
 ```
-
-*Alice pioche, (Alice passe, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
-
-```plantuml
-actor Alice #red
-actor Bob #blue
-[-> Alice: Pioche
-
-...
-Alice -> Bob ++ : Passe
-rnote right of Bob: Joue
-Bob -> Alice --
-...n fois... 
-
-Alice -> Bob : Passe
-Bob ->o] : Passe
-rnote right of Bob: Fin de la Passe
-```
+#### Exemple : celui qui pioche joue, ses adversaires passent
 
 *Alice pioche, Alice joue, Bob passe, Alice passe, fin de la Passe*
 
@@ -198,6 +166,28 @@ Alice ->o] : Passe
 rnote right of Bob: Fin de la Passe
 ```
 
+#### Exemple : celui qui pioche passe, ses adversaires jouent
+
+*Alice pioche, (Alice passe, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
+
+```plantuml
+actor Alice #red
+actor Bob #blue
+[-> Alice: Pioche
+
+...
+Alice -> Bob ++ : Passe
+rnote right of Bob: Joue
+Bob -> Alice --
+...n fois... 
+
+Alice -> Bob : Passe
+Bob ->o] : Passe
+rnote right of Bob: Fin de la Passe
+```
+
+#### Exemple : tout le monde joue
+
 *Alice pioche, Alice joue, Bob joue, Alice passe, Bob passe, fin de la Passe.*
 
 ```plantuml
@@ -223,9 +213,10 @@ rnote right of Bob: Fin de la Passe
 ```plantuml
 actor Alice #red
 actor Bob #blue
-[-> Alice ++ : Pioche
+[-> Alice : Pioche
 
 ...
+activate Aluce
 rnote left of Alice: Joue
 Alice -> Bob --
 
