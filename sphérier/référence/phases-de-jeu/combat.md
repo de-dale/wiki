@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:13:50.327Z
+date: 2020-04-18T14:14:20.645Z
 tags: 
 ---
 
@@ -143,7 +143,7 @@ actor Bob #blue
 [-> Alice: Pioche
 
 Alice -> Bob : passe,
-Bob -> "Fin de la Passe"!! passe
+Bob -> "Fin de la Passe"!! : passe
 ```
 
 ```plantuml
