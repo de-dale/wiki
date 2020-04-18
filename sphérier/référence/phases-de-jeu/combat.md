@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T13:45:39.045Z
+date: 2020-04-18T13:45:58.634Z
 tags: 
 ---
 
@@ -103,6 +103,8 @@ Préférentiellement, il s'agira de la **Faction** agressée, mais ce n'est pas 
 Répondre à cette réponse suivra les mêmes règles ;  le Narrateur/MJ décidera de nouveau quelle fation agira.
 
 Les phases de **Réponses** se succèdent à moins que deux **Protagonistes** passent consécutivement: La passe d'initiative prend fin.
+
+__CURSOR__
 
 **Exemples :** Passe d'initiative possible pour un combats en 1vs1 entre Alice et Bob. Alice pioche et possède l'initiative.
 
