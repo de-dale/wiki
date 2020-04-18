@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T13:53:04.432Z
+date: 2020-04-18T13:54:07.055Z
 tags: 
 ---
 
@@ -126,13 +126,13 @@ __CURSOR__
     
 ```
 
-@startuml
+```plantuml
 Alice -> Bob: Authentication Request
 Bob --> Alice: Authentication Response
 
 Alice -> Bob: Another authentication Request
 Alice <-- Bob: another authentication Response
-@enduml
+```
 
 > Questions (à mettre dans les Concepts):
 > - Si un `protagoniste` passe au cours d'une passe d'action, est-ce qu'il peut rejouer plus tard dans la même passe d'initiative ?
