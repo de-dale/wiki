@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:45:56.037Z
+date: 2020-04-18T14:46:32.477Z
 tags: 
 ---
 
@@ -236,7 +236,6 @@ Bob -> Alice --
 
 ... n fois ...
 
-activate Alice
 Alice -> Bob -- : Passe
 
 Bob ->o] : Passe
