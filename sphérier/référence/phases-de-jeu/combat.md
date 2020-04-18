@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:07:44.217Z
+date: 2020-04-18T14:13:50.327Z
 tags: 
 ---
 
@@ -137,8 +137,8 @@ Alice <-- Bob: another authentication Response
 https://plantuml.com/fr/sequence-diagram
 
 ```plantuml
-actor Alice red
-actor Bob blue
+actor Alice #red
+actor Bob #blue
 
 [-> Alice: Pioche
 
