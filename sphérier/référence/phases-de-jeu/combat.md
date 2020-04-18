@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:46:40.839Z
+date: 2020-04-18T14:47:18.944Z
 tags: 
 ---
 
@@ -163,7 +163,7 @@ Bob -> Alice --
 
 Alice -> Bob : Passe
 Bob ->o] : Passe
-rnote right of Bob : Fin de la Passe
+rnote right of Bob: Fin de la Passe
 ```
 
 *Alice pioche, Alice joue, Bob passe, Alice passe, fin de la Passe*
@@ -178,7 +178,7 @@ Alice -> Bob --
 
 Bob -> Alice : Passe
 Alice ->o] : Passe
-rnote right : Fin de la Passe
+rnote right of Bob: Fin de la Passe
 ```
 
 *Alice pioche, (Alice joue, Bob passe,)^n Alice passe, fin de la Passe.*
@@ -195,7 +195,7 @@ Bob -> Alice : Passe
 ...n fois... 
 
 Alice ->o] : Passe
-rnote right : Fin de la Passe
+rnote right of Bob: Fin de la Passe
 ```
 
 *Alice pioche, Alice joue, Bob joue, Alice passe, Bob passe, fin de la Passe.*
@@ -215,7 +215,7 @@ Bob -> Alice --
 Alice -> Bob -- : Passe
 
 Bob ->o] : Passe
-rnote right : Fin de la Passe
+rnote right of Bob: Fin de la Passe
 ```
 
 *Alice pioche, (Alice joue, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
@@ -238,7 +238,7 @@ Bob -> Alice --
 Alice -> Bob -- : Passe
 
 Bob ->o] : Passe
-rnote right : Fin de la Passe
+rnote right of Bob: Fin de la Passe
 ```
 
 > Questions (à mettre dans les Concepts):
