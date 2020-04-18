@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-16T19:17:27.909Z
+date: 2020-04-18T13:45:39.045Z
 tags: 
 ---
 
@@ -30,6 +30,12 @@ On détermine qui peut agir, on rassemble leurs ressources (cartes Action et Ré
 Un **Protagoniste** désigne n'importe quel personnage, joueur ou non-joueur, intervenant dans le combat.
 {.is-success}
 
+<a id="faction"></a>
+> **Factions**
+Une **Faction** regroupe plusieurs protagonistes, qui cherchent la même issue dans le combat. qui partagent le même objectif.
+Chque **Protagoniste** est rattaché à une unique **Faction**.
+{.is-success}
+
 # Tour de combat
 Afin de simplifier la gestion de la temporalité, un **Combat** se découpe en tours.
 Un tour de combat se compose de 3 étapes :
@@ -38,9 +44,8 @@ Un tour de combat se compose de 3 étapes :
 2. Une ou plusieurs **Passe d'initiative**
 3. Fin du tour
 
+<a id="préparation"></a>
 ## Préparation
-
-Un tour de combat commence avec la **préparation**.
 
 Chaque **Protagoniste** dispose d'un certain nombre de **Cartes Actions**, qui lui sont propres. Au début du tour, ces cartes sont mises en commun, puis mélangées pour constituer le **Deck d'initiative**.
 
@@ -54,46 +59,50 @@ Il est constitué au début du tour.
 
 ## Passe d'initiative
 
-Un joueur, que l'on appellera le **Decker**, révèle une carte du **Deck d'initiative**.
-Cette étape, la **Pioche**, marque le début d'une **Passe d'initiative**.
+La **Passe d'initiative** se déroule de la manière suivante :
+
+1. La **Pioche**
+2. L'**Action**
+3. La ou les **Réponse(s)**
 
 La **Passe d'initiative** est la séquence d'événements qui on lieu entre deux **Pioches**.
 Elle commence avec la première **Pioche**, et se finit avant la seconde.
 
+### Piocher
+> La Phase de Pioche
+
+La **Pioche** est la première étape d'une **Passe d'initiative**.
+Un joueur, que l'on appellera le **Decker**, révèle à l'assemblée, la première carte du **Deck d'initiative**.
+
 <a id="decker"></a>
 > **Decker**
 Le joueur qui révèle les cartes du **Deck d'Initiative** est appelé le **_Decker_**.
-Ce rôle peut être endossé par le Maitre du Jeu, s'il le souhaite.
+Ce rôle peut être endossé par le Narrateur, s'il le souhaite.
 {.is-success}
 
-La **Passe d'initiative** se déroule alors de la manière suivante :
+La carte ainsi tirée apparient à un **Protagoniste**. Il applique immédiatement les effets de sa **Carte Action**, généralement un gain en **Point d'Action**, et peut ensuite **Agir** (cf. Phase d'Action ci-dessous).
 
-1. **Pioche** 
-2. L'**Action**
-3. La ou les **Réponse(s)**
+### Agir
+> La Phase Action
 
-### Piocher
-
-Le **Decker** révèle la premère carte du **Deck d'initiative**.
-La **Pioche** marque le début de la Passe. 
-
-### Agir : Phase Action
-
-Le **Protagoniste** inscrit sur la carte d'action **possède l'initiative**. Il peut soit :
+Lorsqu'un **Protagoniste** peut **Agir** Il a le choix entre :
 1. **Jouer:**
-il peut consommer tout ou partie des carte d'actions qu'il possède à cet instant, pour utiliser **une unique capacité** ~~des capacités et effectuer des actions~~
+Il peut consommer tout ou partie de ses **Point d'Action**, pour activer **une unique** capacité (se déplacer, attaquer, lancer un sort, etc).
+Les phases successives de **Réponse**, lui permetteront d'activer une unique capacité, à de multiples reprises.
 2. **Passer:**
-il ne fait rien et met alors sa carte d'action face visible devant lui.
-Il pourra l'utiliser par la suite.  
+Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
 
-### Répondre: Phase Réponse
+### Répondre
+> La Phase Réponse
 
-Les adversaires du **protagoniste** venant de jouer, désignent parmi eux, un **protagoniste**.
-Ce dernier **possède l'initiative** ; il peut **jouer** ou **passer**., comme dans la phase Action, ci-dessus.
-- TODO: Pas de méthode de désignation actuellement définie
-- Dans le cas où il y à plus de deux factions, le MJ décide quel camp possède la réponse. Préférentiellement, il s'agira de la faction agressée. La réponse à cette réponse suit les mêmes règles. 
+Les adversaires du **Protagoniste** venant de jouer, désignent parmi eux, un **Protagoniste**, qui peut **Agir**.
+Ce dernier peut alors **jouer** ou **passer**, comme décrit ci-dessus.
 
-> Les phases de **Réponses** se succèdent à moins que deux **Protagonistes** passent consécutivement: La passe d'initiative prend fin.
+> Dans le cas où il y à plus de deux **Factions**, c'est au Narrateur/MJ de décider quelle **Faction** peut **Agir**.
+Préférentiellement, il s'agira de la **Faction** agressée, mais ce n'est pas automatique.
+Répondre à cette réponse suivra les mêmes règles ;  le Narrateur/MJ décidera de nouveau quelle fation agira.
+
+Les phases de **Réponses** se succèdent à moins que deux **Protagonistes** passent consécutivement: La passe d'initiative prend fin.
 
 **Exemples :** Passe d'initiative possible pour un combats en 1vs1 entre Alice et Bob. Alice pioche et possède l'initiative.
 
