@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T13:54:07.055Z
+date: 2020-04-18T13:55:07.207Z
 tags: 
 ---
 
@@ -127,9 +127,9 @@ __CURSOR__
 ```
 
 ```plantuml
-Alice -> Bob: Authentication Request
+Alice -> Bob: PIOCHE
 Bob --> Alice: Authentication Response
-
+Alice -> Alice: PIOCHE
 Alice -> Bob: Another authentication Request
 Alice <-- Bob: another authentication Response
 ```
