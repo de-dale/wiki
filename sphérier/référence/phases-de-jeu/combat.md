@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:38:39.673Z
+date: 2020-04-18T14:39:15.975Z
 tags: 
 ---
 
@@ -204,7 +204,8 @@ actor Bob #blue
 rnote left of Alice: Joue
 Alice -> Bob -- ++ 
 rnote right of Bob: Joue
-Bob -> Alice -- ++
+Bob -> Alice --
+activate Alice
 
 Alice -> Bob -- : Passe
 Bob ->o] : Passe
