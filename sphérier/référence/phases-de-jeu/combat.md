@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:32:21.197Z
+date: 2020-04-18T14:35:30.694Z
 tags: 
 ---
 
@@ -162,7 +162,6 @@ Bob -> Alice --
 
 Alice -> Bob : Passe
 Bob -> "Fin de la Passe" ** : Passe
-
 ```
 
 *Alice pioche, Alice joue, Bob passe, Alice passe, fin de la Passe*
@@ -172,7 +171,7 @@ actor Alice #red
 actor Bob #blue
 [-> Alice ++ : Pioche
 
-note left of Alice: Joue
+rnote left of Alice: Joue
 Alice -> Bob --
 
 Bob -> Alice : Passe
@@ -187,7 +186,7 @@ actor Bob #blue
 [-> Alice ++ : Pioche
 
 ...
-note left of Alice: Joue
+rnote left of Alice: Joue
 Alice -> Bob --
 Bob -> Alice : Passe
 ...n fois... 
@@ -200,10 +199,16 @@ Alice -> "Fin de la Passe" ** : Passe
 ```plantuml
 actor Alice #red
 actor Bob #blue
-[-> Alice: Pioche
+[-> Alice ++ : Pioche
 
-Alice joue, Bob joue, 
-Alice passe, Bob passe, fin de la Passe.*
+
+rnote left of Alice: Joue
+Alice -> Bob -- ++ 
+rnote right of Bob: Joue
+Bob -> Alice -- ++
+
+Alice -> Bob -- : Passe
+Bob -> "Fin de la Passe" ** : Passe
 ```
 
 *Alice pioche, (Alice joue, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
@@ -214,9 +219,9 @@ actor Bob #blue
 [-> Alice: Pioche
 
 (Alice joue, Bob joue,)^n
-Alice passe,
-Bob passe,
-fin de la Passe.*
+
+Alice -> Bob : Passe
+Bob -> "Fin de la Passe" ** : Passe
 ```
 
 > Questions (à mettre dans les Concepts):
