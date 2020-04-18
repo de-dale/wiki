@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:40:45.578Z
+date: 2020-04-18T14:41:15.875Z
 tags: 
 ---
 
@@ -145,7 +145,7 @@ actor Bob #blue
 
 Alice -> Bob : Passe
 Bob ->o] : Passe
-note right : Fin de la Passe
+note right of Bob : Fin de la Passe
 ```
 
 *Alice pioche, (Alice passe, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
