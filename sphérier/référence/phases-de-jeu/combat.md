@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:18:39.518Z
+date: 2020-04-18T14:22:30.079Z
 tags: 
 ---
 
@@ -136,20 +136,22 @@ Alice <-- Bob: another authentication Response
 
 https://plantuml.com/fr/sequence-diagram
 
+*Alice pioche, Alice passe, Bob passe, fin de la Passe.*
+
 ```plantuml
 actor Alice #red
 actor Bob #blue
-
 [-> Alice: Pioche
 
 Alice -> Bob : Passe
 Bob -> "Fin de la Passe" ** : Passe
 ```
 
+*Alice pioche, (Alice passe, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
+
 ```plantuml
 actor Alice #red
 actor Bob #blue
-
 [-> Alice: Pioche
 
 Alice -> Bob ++ : Passe
@@ -161,27 +163,49 @@ Bob -> "Fin de la Passe" ** : Passe
 
 ```
 
-```plantuml
-Alice pioche,
-Alice joue,
-Bob passe,
-Alice passe, fin de la Passe*
-```
+*Alice pioche, Alice joue, Bob passe, Alice passe, fin de la Passe*
 
 ```plantuml
-Alice pioche,
+actor Alice #red
+actor Bob #blue
+[-> Alice ++ : Pioche
+
+Alice -> Alice: Joue
+Alice -> Bob --
+
+Bob -> Alice : Passe
+Alice -> "Fin de la Passe" ** : Passe
+```
+
+*Alice pioche, (Alice joue, Bob passe,)^n Alice passe, fin de la Passe.*
+
+```plantuml
+actor Alice #red
+actor Bob #blue
+[-> Alice: Pioche
+
 (Alice joue, Bob passe,)^n
 Alice passe, fin de la Passe.*
 ```
 
+*Alice pioche, Alice joue, Bob joue, Alice passe, Bob passe, fin de la Passe.*
+
 ```plantuml
-Alice pioche,
+actor Alice #red
+actor Bob #blue
+[-> Alice: Pioche
+
 Alice joue, Bob joue, 
 Alice passe, Bob passe, fin de la Passe.*
 ```
 
+*Alice pioche, (Alice joue, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
+
 ```plantuml
-Alice pioche,
+actor Alice #red
+actor Bob #blue
+[-> Alice: Pioche
+
 (Alice joue, Bob joue,)^n
 Alice passe,
 Bob passe,
