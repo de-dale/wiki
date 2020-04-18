@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T14:41:15.875Z
+date: 2020-04-18T14:45:08.354Z
 tags: 
 ---
 
@@ -162,7 +162,8 @@ Bob -> Alice --
 ...n fois... 
 
 Alice -> Bob : Passe
-Bob -> "Fin de la Passe" ** : Passe
+Bob ->o] : Passe
+note right of Bob : Fin de la Passe
 ```
 
 *Alice pioche, Alice joue, Bob passe, Alice passe, fin de la Passe*
@@ -176,7 +177,7 @@ rnote left of Alice: Joue
 Alice -> Bob --
 
 Bob -> Alice : Passe
-Alice -> "Fin de la Passe" ** : Passe
+Alice ->o] : Passe
 ```
 
 *Alice pioche, (Alice joue, Bob passe,)^n Alice passe, fin de la Passe.*
@@ -192,7 +193,7 @@ Alice -> Bob --
 Bob -> Alice : Passe
 ...n fois... 
 
-Alice -> "Fin de la Passe" ** : Passe
+Alice ->o] : Passe
 ```
 
 *Alice pioche, Alice joue, Bob joue, Alice passe, Bob passe, fin de la Passe.*
@@ -203,16 +204,17 @@ actor Bob #blue
 [-> Alice ++ : Pioche
 
 rnote left of Alice: Joue
-Alice -> Bob -- 
+Alice -> Bob --
+
 activate Bob
 rnote right of Bob: Joue
 Bob -> Alice --
-activate Alice
 
+activate Alice
 Alice -> Bob -- : Passe
+
 Bob ->o] : Passe
 note right : Fin de la Passe
-
 ```
 
 *Alice pioche, (Alice joue, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
@@ -220,12 +222,23 @@ note right : Fin de la Passe
 ```plantuml
 actor Alice #red
 actor Bob #blue
-[-> Alice: Pioche
+[-> Alice ++ : Pioche
 
-(Alice joue, Bob joue,)^n
+...
+rnote left of Alice: Joue
+Alice -> Bob --
 
-Alice -> Bob : Passe
-Bob -> "Fin de la Passe" ** : Passe
+activate Bob
+rnote right of Bob: Joue
+Bob -> Alice --
+
+... n fois ...
+
+activate Alice
+Alice -> Bob -- : Passe
+
+Bob ->o] : Passe
+note right : Fin de la Passe
 ```
 
 > Questions (à mettre dans les Concepts):
