@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T20:43:56.005Z
+date: 2020-04-19T20:44:41.208Z
 tags: 
 ---
 
@@ -444,7 +444,7 @@ Certaines Capacités permettent de simuler un Rôle différents du Rôle endoss�
 
 Exemples de rôle :
 - Formation "Classique" : Tank, Healer, Damager, Support
-- Formation "ToG": Pêcheur, Lancier, Veilleur, Elzireur
+- Formation "ToG": Pêcheur, Lancier, Veilleur, Éclaireur, Contrôleur de Mana
 Elizeur
 
 ## Postures
