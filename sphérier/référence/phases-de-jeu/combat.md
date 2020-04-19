@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T13:59:41.261Z
+date: 2020-04-19T14:02:00.971Z
 tags: 
 ---
 
@@ -238,7 +238,7 @@ alt Alice Passe
 	Alice -> Bob : Passe
 else Alice Joue
 	activate Alice
-	rnote left of Alice: Joue
+	rnote over Alice: Joue
 	Alice -> Bob --
 end
 
@@ -246,7 +246,7 @@ alt Bob Passe
 	Bob -> Alice : Passe
 else Bob joue
   activate Bob
-	rnote right of Bob: Joue
+	rnote over Bob: Joue
 	Bob -> Alice --
 end
 
