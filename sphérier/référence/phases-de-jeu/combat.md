@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T20:44:56.089Z
+date: 2020-04-19T20:46:42.560Z
 tags: 
 ---
 
@@ -449,7 +449,7 @@ Elizeur
 
 ## Postures
 
-Techniquement, une Posture et un Rôle fonctionnent de la même manière.
+Techniquement, la Posture et le Rôle fonctionnent de la même manière, et cohabitent : un personnage peut en même temps, endosser un Rôle et adopter une Posture. 
 Quelques différences:
 - on peut commence le combat adversaire un Rôle, mais pas avec une Posture
 - il est plus facile de prendre ou de changer de Posture que de Rôle
