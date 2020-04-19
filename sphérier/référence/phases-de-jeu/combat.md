@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T14:02:55.569Z
+date: 2020-04-19T14:06:20.846Z
 tags: 
 ---
 
@@ -250,11 +250,11 @@ else ou Bob joue
 	Bob -> Alice -- : Rend la main après avoir joué
 end
 
-alt Fin de la passe
+alt si Alice est la première à passer
 	Alice -> Bob -- : Passe
 	Bob ->o] : Passe
 	rnote right of Bob: Fin de la Passe
-else 
+else si Bos est le premier à passer
 	Bob -> Alice : Passe
 	Alice ->o] : Passe
 	rnote right of Bob: Fin de la Passe
