@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T13:17:20.018Z
+date: 2020-04-19T13:17:59.703Z
 tags: 
 ---
 
@@ -144,15 +144,14 @@ rnote right of Bob: Fin de la Passe
 ```plantuml
 actor Alice #red
 actor Bob #blue
-[-> Alice ++ : Pioche
+[-> Alice : Pioche
 
-...
 loop n fois
-rnote left of Alice: Joue
-Alice -> Bob --
-Bob -> Alice : Passe
+	activazte Alice
+	rnote left of Alice: Joue
+	Alice -> Bob --
+	Bob -> Alice : Passe
 end
-...... 
 
 Alice ->o] : Passe
 rnote right of Bob: Fin de la Passe
