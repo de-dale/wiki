@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T14:02:00.971Z
+date: 2020-04-19T14:02:55.569Z
 tags: 
 ---
 
@@ -236,18 +236,18 @@ deactivate Bob
   
 alt Alice Passe  
 	Alice -> Bob : Passe
-else Alice Joue
+else ou Alice Joue
 	activate Alice
 	rnote over Alice: Joue
-	Alice -> Bob --
+	Alice -> Bob -- : Rend la main après avoir joué
 end
 
 alt Bob Passe
 	Bob -> Alice : Passe
-else Bob joue
+else ou Bob joue
   activate Bob
 	rnote over Bob: Joue
-	Bob -> Alice --
+	Bob -> Alice -- : Rend la main après avoir joué
 end
 
 alt Fin de la passe
