@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T13:18:17.911Z
+date: 2020-04-19T13:51:05.563Z
 tags: 
 ---
 
@@ -222,6 +222,47 @@ Alice -> Bob -- : Passe
 Bob ->o] : Passe
 rnote right of Bob: Fin de la Passe
 ```
+
+# Tout dedant
+
+
+```plantuml
+actor Alice #red
+actor Bob #blue
+[-> Alice : Pioche
+
+alt Alice joue
+
+	activate Alice
+	rnote left of Alice: Joue
+	Alice -> Bob --
+
+else Alice Passe
+
+	  Alice -> Bob : Passe
+
+end
+
+alt Bob joue
+
+	activate Bob
+	rnote right of Bob: Joue
+	Bob -> Alice --
+
+else Bob Passe
+
+	Bob -> Alice : Passe
+
+end
+
+else 
+	Bob -> Alice : Passe
+	Alice ->o] : Passe
+	rnote right of Bob: Fin de la Passe
+end
+```
+
+
 
 > Questions (à mettre dans les Concepts):
 > - Si un `protagoniste` passe au cours d'une passe d'action, est-ce qu'il peut rejouer plus tard dans la même passe d'initiative ?
