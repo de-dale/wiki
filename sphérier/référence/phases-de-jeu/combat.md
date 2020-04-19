@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T20:10:55.831Z
+date: 2020-04-19T20:43:56.005Z
 tags: 
 ---
 
@@ -436,7 +436,7 @@ Le plus souvent ils influent comme modificateur de Compétence:
 
 ## Rôle
 
-Dans le sphérier, les personnages n'ont pas de classe. En revanche, s'ils en ont la **Capacités**, ils peuvent endosser un **Rôle**, répondant à leurs besoins. Certaines Capacités ne s'activent que si le personnage à endossé le Rôle adéquat, de même que certains Declencheurs dans les combos de Formation de Combat. 
+Dans le sphérier, les personnages n'ont pas de classe. En revanche, s'ils en ont la **Capacités**, ils peuvent endosser un **Rôle** répondant à leurs besoins. Certaines Capacités ne s'activent que si le personnage à endossé le Rôle adéquat, de même que certains Declencheurs dans les combos de Formation de Combat. 
 
 **Changer de Rôle** au cours du combat est possible, mais demande du temps et de la concentration (PA + éventuellement un équivalent à "Incanter"). 
 
@@ -448,3 +448,10 @@ Exemples de rôle :
 Elizeur
 
 ## Postures
+
+Techniquement, une Posture et un Rôle fonctionnent de la même manière.
+Quelques différences:
+- on peut commence le combat adversaire un Rôle, mais pas avec une Posture
+- il est plus facile de prendre ou de changer de Posture que de Rôle
+- prendre ou maintenir une Posture peut demander des Ressources
+
