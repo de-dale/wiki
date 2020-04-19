@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T14:11:22.374Z
+date: 2020-04-19T14:12:23.158Z
 tags: 
 ---
 
@@ -254,7 +254,7 @@ alt si Alice est la première à passer
 	Alice -> Bob -- : Passe
 	Bob ->o] : Passe
 	rnote right of Bob: Fin de la Séquence
-else si Bobs est le premier à passer
+else si Bob est le premier à passer
 	Bob -> Alice : Passe
 	Alice ->o] : Passe
 	rnote right of Bob: Fin de la Séquence
