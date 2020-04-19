@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T19:59:56.471Z
+date: 2020-04-19T20:10:55.831Z
 tags: 
 ---
 
@@ -436,6 +436,15 @@ Le plus souvent ils influent comme modificateur de Compétence:
 
 ## Rôle
 
-Dans le sphérier, les personnages n'ont pas de classe. En revanche, s'ils en ont la **Capacités**, ils peuvent endosser un unique **Rôle**, leur 
+Dans le sphérier, les personnages n'ont pas de classe. En revanche, s'ils en ont la **Capacités**, ils peuvent endosser un **Rôle**, répondant à leurs besoins. Certaines Capacités ne s'activent que si le personnage à endossé le Rôle adéquat, de même que certains Declencheurs dans les combos de Formation de Combat. 
+
+**Changer de Rôle** au cours du combat est possible, mais demande du temps et de la concentration (PA + éventuellement un équivalent à "Incanter"). 
+
+Certaines Capacités permettent de simuler un Rôle différents du Rôle endossé par le personnage. 
+
+Exemples de rôle :
+- Formation "Classique" : Tank, Healer, Damager, Support
+- Formation "ToG": Pêcheur, Lancier, Veilleur, Elzireur
+Elizeur
 
 ## Postures
