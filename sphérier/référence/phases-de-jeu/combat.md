@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T19:53:10.593Z
+date: 2020-04-19T19:59:56.471Z
 tags: 
 ---
 
@@ -343,33 +343,27 @@ A fusionner avec les PA
 - Autres ressources, spécifiques à chaque build
 Ça peut être des ressources nécessaires (munitions ou mana) ou des ressources pour altérer des capacités existantes (Actions héroïque)
 
-
-# Action
+# Meta
+## Action
 
 > **Coût:** cf. Capacité
-
-> **Déclencheur:** décision du joueur
-
-> **Effet:** cf. Capacité
+**Déclencheur:** décision du joueur
+**Effet:** cf. Capacité
 
 > L'**Action**, correspond à l'activation consciente d'une **Capacité**.
 
 **Action :** Le **[Personnage](https://trello.com/c/j5txrEnh)** choisit une **[Capacité Active](https://trello.com/c/seeagtHL)** et paie son **Coût**, pour en déclencher ses **Effets**.
 
 Le **[Personnage](https://trello.com/c/j5txrEnh)** peut effectuer une **Action**:
-
 - lors d'une **Passe d'initiative**, quand il **possède l'initiative**
-
 - lors d'une **Passe d'initiative**, en **Réponse** à un adversaire. 
 
 Le coût d'une **Action** s'exprime en "**Point d'Action**" (Carte Action, Initiative) : **`A°`**
 
-# Réaction
+## Réaction
 
 > **Coût:** cf. Capacité
-
 > **Déclencheur:** Événement propice (cf. Capacité) et décision du joueur
-
 > **Effet:** cf. Capacité
 
 > Une **Réaction** est une **Action**, que l'on ne peut faire qu'en réponse à un **Événement spécifique**. 
@@ -380,8 +374,8 @@ Un **[Personnage](https://trello.com/c/j5txrEnh)** ne peut effectuer de **Réact
 
 Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réaction, Initiative) : **`R°`**.
 
-# Marque
--> record en "Effet"
+## Marque
+-> reword en "Effet"
 
 Une Marque représente un Effet se déclenchant à un moment du jeu, sans décision. 
 
@@ -399,7 +393,7 @@ Exemples factices de la syntaxe:
 - **Marqueur (Choc, Cumul, Attaque<+1>, À la prochaine attaque)**
 - **Choc: Marqueur(Cumul, Attaque<+1>, À la prochaine attaque)**
 
-## Types de marqueur
+### Types de marqueur
 Un marqueur possède un, et un seul type. Le type détermine les contraintes de dépense du marqueur, lorsque les conditions de déclenchement sont réunies. 
 
 > Variantes :
@@ -441,4 +435,7 @@ Le plus souvent ils influent comme modificateur de Compétence:
 > NB: Typer les Compétences/Capacités
 
 ## Rôle
+
+Dans le sphérier, les personnages n'ont pas de classe. En revanche, s'ils en ont la **Capacités**, ils peuvent endosser un unique **Rôle**, leur 
+
 ## Postures
