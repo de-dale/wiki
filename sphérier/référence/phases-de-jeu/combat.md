@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T13:52:14.708Z
+date: 2020-04-19T13:55:57.902Z
 tags: 
 ---
 
@@ -234,6 +234,7 @@ actor Bob #blue
 alt Alice joue
 
 	activate Alice
+  desactivate Bob
 	rnote left of Alice: Joue
 	Alice -> Bob --
 
@@ -245,7 +246,8 @@ end
 
 alt Bob joue
 
-	activate Bob
+  desactivate Alice
+  activate Bob
 	rnote right of Bob: Joue
 	Bob -> Alice --
 
