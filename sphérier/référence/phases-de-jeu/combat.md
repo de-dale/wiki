@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T13:51:05.563Z
+date: 2020-04-19T13:52:14.708Z
 tags: 
 ---
 
@@ -255,6 +255,10 @@ else Bob Passe
 
 end
 
+alt Fin de la passe
+	Alice -> Bob -- : Passe
+	Bob ->o] : Passe
+	rnote right of Bob: Fin de la Passe
 else 
 	Bob -> Alice : Passe
 	Alice ->o] : Passe
