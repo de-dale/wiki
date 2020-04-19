@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T14:13:12.056Z
+date: 2020-04-19T14:14:47.844Z
 tags: 
 ---
 
@@ -102,7 +102,11 @@ Répondre à cette réponse suivra les mêmes règles ;  le Narrateur/MJ décide
 
 Les phases de **Réponses** se succèdent à moins que deux **Protagonistes** passent consécutivement: La passe d'initiative prend fin.
 
-#### Résumé par un diagramme
+#### Exemple par un diagramme
+
+**Passes d'initiative** possible pour un combats en 1vs1.
+- Alice: Faction Rouge, pioche systématiquement
+- Bob: Faction bleue
 
 ```plantuml
 actor Alice #red
