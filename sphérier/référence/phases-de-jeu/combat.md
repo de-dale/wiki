@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T13:17:59.703Z
+date: 2020-04-19T13:18:17.911Z
 tags: 
 ---
 
@@ -147,7 +147,7 @@ actor Bob #blue
 [-> Alice : Pioche
 
 loop n fois
-	activazte Alice
+	activate Alice
 	rnote left of Alice: Joue
 	Alice -> Bob --
 	Bob -> Alice : Passe
