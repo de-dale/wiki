@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T19:45:03.546Z
+date: 2020-04-19T19:53:10.593Z
 tags: 
 ---
 
@@ -54,6 +54,31 @@ Il est constitué au début du tour.
 {.is-success}
 
 ## Passe d'initiative
+
+<!--
+# Agir: l'Initiative
+
+## Initiative
+### Lancer de dé
+> NON
+{.is-danger}
+
+Les acteurs d'un combat lancent un jet d'initiative.
+Ils jouent ensuite leur tour de combat, dans l'ordre décroissant des initiatives.
+Au début de son tour, un acteur récupère tous ses points d'Action et de Réaction.
+
+### Deck d'actions.
+Les `Actions` des acteurs d'un combat sont représentées par des cartes nominatives. On mélange toutes les cartes et on les tire une par une. 
+
+Lorsqu'une carte est révélée, elle est rendue à son possesseur. Celui-ci acquiert "la main"/l'initiative sur le combat.
+Il peut alors dépenser sa ou ses `Actions` pour activer une `Capacité` connue. Sinon, il peut garder ses Actions pour les dépenser plus tard dans le tour.
+
+Une fois le Deck vidé, c'est la fin du tour. On récupère toutes les cartes, même celles qui n'ont pas été jouées, et on les mélange.
+
+**Actions sur plusieurs tours :** Sais pas 😑
+**Acteur ayant toutes ses cartes en main :** Sais pas 😑
+~~
+-->
 
 La **Passe d'initiative** se déroule de la manière suivante :
 
@@ -291,30 +316,6 @@ Si le combat n'est pas terminé, on recommence un tour de combat, avec sa prépa
 > Fin du combat
 {.is-danger}
 
-# Agir: l'Initiative
-
-## Initiative
-### Lancer de dé
-> NON
-{.is-danger}
-
-Les acteurs d'un combat lancent un jet d'initiative.
-Ils jouent ensuite leur tour de combat, dans l'ordre décroissant des initiatives.
-Au début de son tour, un acteur récupère tous ses points d'Action et de Réaction.
-
-### Deck d'actions.
-Les `Actions` des acteurs d'un combat sont représentées par des cartes nominatives. On mélange toutes les cartes et on les tire une par une. 
-
-Lorsqu'une carte est révélée, elle est rendue à son possesseur. Celui-ci acquiert "la main"/l'initiative sur le combat.
-Il peut alors dépenser sa ou ses `Actions` pour activer une `Capacité` connue. Sinon, il peut garder ses Actions pour les dépenser plus tard dans le tour.
-
-Une fois le Deck vidé, c'est la fin du tour. On récupère toutes les cartes, même celles qui n'ont pas été jouées, et on les mélange.
-
-**Actions sur plusieurs tours :** Sais pas 😑
-**Acteur ayant toutes ses cartes en main :** Sais pas 😑
-~~
-
-
 ## Réagir
 
 La réaction est une interruption du flux normal du combat. Un protagoniste réagit à un **événement** et dépense des **Réaction s** pour intervenir.
@@ -334,11 +335,13 @@ Au début du combat, tous les `protagonistes` récupèrent devant eux, autant de
 ## Ressources
 
 Les ressources utilisables en combat :
-- PV
-- (Lucidité) 
-- Action
+- Point de vie: PV (et dérivés : Lucidité, Bouclier, PV temporaires, etc.) 
+- Point d'Action: PA
+Nécessaires pour activer des capacités et faire des actions.
 - Réaction
-- Réserve de dés
+A fusionner avec les PA
+- Autres ressources, spécifiques à chaque build
+Ça peut être des ressources nécessaires (munitions ou mana) ou des ressources pour altérer des capacités existantes (Actions héroïque)
 
 
 # Action
