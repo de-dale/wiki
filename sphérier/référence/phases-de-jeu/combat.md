@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T14:14:47.844Z
+date: 2020-04-19T19:25:37.597Z
 tags: 
 ---
 
@@ -95,6 +95,11 @@ Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
 
 Les adversaires du **Protagoniste** venant de jouer, désignent parmi eux, un **Protagoniste**, qui peut **Agir**.
 Ce dernier peut alors **jouer** ou **passer**, comme décrit ci-dessus.
+
+> **À TESTER**
+Option #1: Si celui qui pioche passe, droit de réponse aux opposants. 
+Option #2: Si celui qui pioche passe, fin de la séquence.
+{.is-success}
 
 > Dans le cas où il y à plus de deux **Factions**, c'est au Narrateur/MJ de décider quelle **Faction** peut **Agir**.
 Préférentiellement, il s'agira de la **Faction** agressée, mais ce n'est pas automatique.
