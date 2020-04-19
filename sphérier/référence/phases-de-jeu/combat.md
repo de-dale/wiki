@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T14:12:23.158Z
+date: 2020-04-19T14:13:12.056Z
 tags: 
 ---
 
@@ -101,6 +101,43 @@ Préférentiellement, il s'agira de la **Faction** agressée, mais ce n'est pas 
 Répondre à cette réponse suivra les mêmes règles ;  le Narrateur/MJ décidera de nouveau quelle fation agira.
 
 Les phases de **Réponses** se succèdent à moins que deux **Protagonistes** passent consécutivement: La passe d'initiative prend fin.
+
+#### Résumé par un diagramme
+
+```plantuml
+actor Alice #red
+actor Bob #blue
+[-> Alice : Pioche
+
+deactivate Bob
+  
+alt Alice Passe  
+	Alice -> Bob : Passe
+else ou Alice Joue
+	activate Alice
+	rnote over Alice: Joue
+	Alice -> Bob -- : Rend la main après avoir joué
+end
+
+alt Bob Passe
+	Bob -> Alice : Passe
+else ou Bob joue
+  activate Bob
+	rnote over Bob: Joue
+	Bob -> Alice -- : Rend la main après avoir joué
+end
+
+alt si Alice est la première à passer
+	Alice -> Bob -- : Passe
+	Bob ->o] : Passe
+	rnote right of Bob: Fin de la Séquence
+else si Bob est le premier à passer
+	Bob -> Alice : Passe
+	Alice ->o] : Passe
+	rnote right of Bob: Fin de la Séquence
+end
+```
+
 
 #### Exemples
 
@@ -222,46 +259,6 @@ Alice -> Bob -- : Passe
 Bob ->o] : Passe
 rnote right of Bob: Fin de la Passe
 ```
-
-# Tout dedant
-
-
-```plantuml
-actor Alice #red
-actor Bob #blue
-[-> Alice : Pioche
-
-
-deactivate Bob
-  
-alt Alice Passe  
-	Alice -> Bob : Passe
-else ou Alice Joue
-	activate Alice
-	rnote over Alice: Joue
-	Alice -> Bob -- : Rend la main après avoir joué
-end
-
-alt Bob Passe
-	Bob -> Alice : Passe
-else ou Bob joue
-  activate Bob
-	rnote over Bob: Joue
-	Bob -> Alice -- : Rend la main après avoir joué
-end
-
-alt si Alice est la première à passer
-	Alice -> Bob -- : Passe
-	Bob ->o] : Passe
-	rnote right of Bob: Fin de la Séquence
-else si Bob est le premier à passer
-	Bob -> Alice : Passe
-	Alice ->o] : Passe
-	rnote right of Bob: Fin de la Séquence
-end
-```
-
-
 
 > Questions (à mettre dans les Concepts):
 > - Si un `protagoniste` passe au cours d'une passe d'action, est-ce qu'il peut rejouer plus tard dans la même passe d'initiative ?
