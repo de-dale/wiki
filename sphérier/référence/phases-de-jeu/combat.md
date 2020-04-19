@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T19:25:37.597Z
+date: 2020-04-19T19:27:38.748Z
 tags: 
 ---
 
@@ -96,7 +96,7 @@ Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
 Les adversaires du **Protagoniste** venant de jouer, désignent parmi eux, un **Protagoniste**, qui peut **Agir**.
 Ce dernier peut alors **jouer** ou **passer**, comme décrit ci-dessus.
 
-> **À TESTER**
+> 🧪 **À TESTER** 🧪
 Option #1: Si celui qui pioche passe, droit de réponse aux opposants. 
 Option #2: Si celui qui pioche passe, fin de la séquence.
 {.is-success}
