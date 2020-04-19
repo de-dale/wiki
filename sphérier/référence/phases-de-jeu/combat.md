@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T19:27:38.748Z
+date: 2020-04-19T19:33:16.635Z
 tags: 
 ---
 
@@ -276,6 +276,7 @@ rnote right of Bob: Fin de la Passe
 >    - **Décision:** oui, s'il passe dans une passe d'initiative, un protagoniste peut répondre plus tard dans la même passe. 
 
 > :warning: Si un **Protagoniste** passe, dans une **Passe d'initaitive**, il pourra toujours jouer plus tard, dans la même Passe, si celle-ci se poursuit.
+{.is-info}
 
 Tant que le **Deck d'initiative** contient au moins une carte, le tour continue. Le **Decker** révèle les cartes les unes après les autres : les **Passes d'initative** se succèdent les unes aux autres.
 
