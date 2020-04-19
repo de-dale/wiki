@@ -2,13 +2,11 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-18T19:00:22.825Z
+date: 2020-04-19T13:17:20.018Z
 tags: 
 ---
 
-:warning: A reworder complètement.
-
-> La violence est le dernier recours de l'incompétence.
+> _La violence est le dernier recours de l'incompétence._
 > <span style="text-align:right;display:block">_Salvor Hardin_</span> 
 {.is-warning}
 
@@ -21,7 +19,7 @@ Lorsque les joueurs, ou le maître du jeu, décident qu'il est temps de réduire
 **Mise en place :**
 On détermine qui peut agir, on rassemble leurs ressources (cartes Action et Réaction) et on se tient prêt pour la première passe d'initiative.
 
-<!--*
+<!--
 ~~Lors d'une rencontre entre différents `protagonistes`, c'est à dire des personnages joueurs comme non joueurs, lorsque l'un d'eux montre une velléité de porter atteinte à l'intégrité, physique, ou mentale de l'autre partie, alors on initie une phase de combat.~~
 -->
 
@@ -110,17 +108,9 @@ Les phases de **Réponses** se succèdent à moins que deux **Protagonistes** pa
 - Alice: Faction Rouge, pioche systématiquement
 - Bob: Faction bleue
 
-- ☑ *Alice pioche, Alice passe, Bob passe, fin de la Passe.*
-- ☑ *Alice pioche, (Alice passe, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
-- ☑ *Alice pioche, Alice joue, Bob passe, Alice passe, fin de la Passe*
-- ☑ *Alice pioche, (Alice joue, Bob passe,)^n Alice passe, fin de la Passe.*
-- ☑ *Alice pioche, Alice joue, Bob joue, Alice passe, Bob passe, fin de la Passe.*
-- ☑ *Alice pioche, (Alice joue, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
+> Les diagrammes de séquence ont été réalisés à [PlantUML](https://plantuml.com/fr/sequence-diagram) 
 
-
-> Les diagrammes de séquence sot faits à l'aide de [PlantUML](https://plantuml.com/fr/sequence-diagram) 
-
-#### Exemple : deux passes
+##### Exemple : personne n'agit
 *Alice pioche, Alice passe, Bob passe, fin de la Passe.*
 
 ```plantuml
@@ -132,8 +122,8 @@ Alice -> Bob : Passe
 Bob ->o] : Passe
 note right of Bob : Fin de la Passe
 ```
-#### Exemple : celui qui pioche joue, ses adversaires passent
 
+#### Exemple : celui qui pioche joue, ses adversaires passent
 *Alice pioche, Alice joue, Bob passe, Alice passe, fin de la Passe*
 
 ```plantuml
@@ -157,10 +147,12 @@ actor Bob #blue
 [-> Alice ++ : Pioche
 
 ...
+loop n fois
 rnote left of Alice: Joue
 Alice -> Bob --
 Bob -> Alice : Passe
-...n fois... 
+end
+...... 
 
 Alice ->o] : Passe
 rnote right of Bob: Fin de la Passe
