@@ -2,7 +2,7 @@
 title: ⚒ Guides pratiques
 description: 
 published: true
-date: 2020-04-19T20:55:30.248Z
+date: 2020-04-21T08:21:56.473Z
 tags: 
 ---
 
@@ -300,3 +300,5 @@ Thème :
 # Outil de création de carte
 http://funcardmaker.thaledric.fr/#
 
+# Liste d'icones
+https://game-icons.net/images/montages/game-icons.net.png
