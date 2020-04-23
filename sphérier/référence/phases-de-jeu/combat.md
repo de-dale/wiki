@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-23T13:28:36.877Z
+date: 2020-04-23T13:31:24.117Z
 tags: 
 ---
 
@@ -317,7 +317,8 @@ Si le combat n'est pas terminé, on recommence un tour de combat, avec sa prépa
 ## Réagir
 
 La **Réaction (à un vénemnt)** est une **Action** qui s'effectue en dehors du flux normal de l'initiative.
-Un **Protagoniste** peut **Réagir** face à un **Evénement** ; il peut consommer tout ou partie de ses **Point de Réaction** pour activer **une unique** capacité pouvant se déclencher face à l'**Evenement**
+Un **Protagoniste** peut **Réagir** face à un **Événement** ; il peut consommer tout ou partie de ses **Point de Réaction** pour activer **une unique** capacité pouvant se déclencher face à l'**Événement**
+
 ~~Il peut consommer tout ou partie de ses **Point d'Action**, pour activer **une unique** capacité (se déplacer, attaquer, lancer un sort, etc).
 Les phases successives de **Réponse**, lui permettront d'activer une unique capacité, à de multiples reprises.~~
 ~~Un **Protagoniste** réagit à un **événement** et dépense des **Points de Réactions** pour intervenir.~~
