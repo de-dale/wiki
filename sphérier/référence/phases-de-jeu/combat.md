@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-19T20:54:22.948Z
+date: 2020-04-23T13:28:36.877Z
 tags: 
 ---
 
@@ -29,7 +29,7 @@ Un **Protagoniste** désigne n'importe quel personnage, joueur ou non-joueur, in
 <a id="faction"></a>
 > **Factions**
 Une **Faction** regroupe plusieurs protagonistes, qui cherchent la même issue dans le combat. qui partagent le même objectif.
-Chque **Protagoniste** est rattaché à une unique **Faction**.
+Chaque **Protagoniste** est rattaché à une unique **Faction**.
 {.is-success}
 
 # Tour de combat
@@ -119,7 +119,7 @@ Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
 Les adversaires du **Protagoniste** venant de jouer, désignent parmi eux, un **Protagoniste**, qui peut **Agir**.
 Ce dernier peut alors **jouer** ou **passer**, comme décrit ci-dessus.
 
-> 🧪 **À TESTER** 🧪
+> 🧪 **À TESTER** :test:
 Option #1: Si celui qui pioche passe, droit de réponse aux opposants. 
 Option #2: Si celui qui pioche passe, fin de la séquence.
 {.is-success}
@@ -169,7 +169,6 @@ else si Bob est le premier à passer
 	rnote right of Bob: Fin de la Séquence
 end
 ```
-
 
 #### Exemples
 
@@ -306,7 +305,6 @@ Tant que le **Deck d'initiative** contient au moins une carte, le tour continue.
 ## Fin du Tour
 
 Le tour se **termine** lorsque le **Decker** n'a plus de Carte Action à révéler das le **Deck d'Initiative**.
-
 À ce moment, tous les effets qui se "déclenchent à la fin du tour" sont activés, dans l'ordre dans lequel ils ont été créées.
 
 Si le combat n'est pas terminé, on recommence un tour de combat, avec sa préparation.
@@ -318,7 +316,11 @@ Si le combat n'est pas terminé, on recommence un tour de combat, avec sa prépa
 
 ## Réagir
 
-La réaction est une interruption du flux normal du combat. Un protagoniste réagit à un **événement** et dépense des **Réaction s** pour intervenir.
+La **Réaction (à un vénemnt)** est une **Action** qui s'effectue en dehors du flux normal de l'initiative.
+Un **Protagoniste** peut **Réagir** face à un **Evénement** ; il peut consommer tout ou partie de ses **Point de Réaction** pour activer **une unique** capacité pouvant se déclencher face à l'**Evenement**
+~~Il peut consommer tout ou partie de ses **Point d'Action**, pour activer **une unique** capacité (se déplacer, attaquer, lancer un sort, etc).
+Les phases successives de **Réponse**, lui permettront d'activer une unique capacité, à de multiples reprises.~~
+~~Un **Protagoniste** réagit à un **événement** et dépense des **Points de Réactions** pour intervenir.~~
 
 Chaque `protagoniste` dispose d'un certain nombre de points de **`Réactions`**,  matérialisés par des cartes nominatives. 
 Au début du combat, tous les `protagonistes` récupèrent devant eux, autant de carte **`Réactions`** que leur maximum leur permet. 
@@ -327,6 +329,10 @@ Au début du combat, tous les `protagonistes` récupèrent devant eux, autant de
   -> ça peut être le déclenchement d'une action préparée
   -> ça peut être le déclenchement d'une réaction générique face à un événement prévu par une capacité du personnage (exemple D&D: un déplacement d'un personnage A dans une case contrôlé par un personnage B provoque une attaque d'opportunité de B vers A)
 
+> **Points d'Action vs Points de Réaction**
+TODO : lien vers les Concepts :sparkles: 
+Décision : **Points d'Action == Points de Réaction**. Pas de raison de faire deux réserves différentes.
+{.is-warning}
 
 ## Surprise
 
