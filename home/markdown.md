@@ -2,7 +2,7 @@
 title: Markdown
 description: Guide de survie avec le markdown
 published: true
-date: 2020-04-16T12:54:19.764Z
+date: 2020-04-24T16:13:42.354Z
 tags: 
 ---
 
@@ -101,9 +101,9 @@ Barré en utilisant deux tildes. ~~Effacez-ça.~~
 
 	1. Premier item de liste ordonnée
 	2. Un autre item
-	⋅⋅* une sous-liste ordonnée. 
+	⋅⋅⋅* une sous-liste ordonnée. 
 	1. Les véritables numéros n'importent pas, si ce n'est que c'est un nombre
-	⋅⋅1. Sous-liste ordonnée
+	⋅⋅⋅1. Sous-liste ordonnée
 	4. Un autre item.
 
 	⋅⋅⋅Vous pouvez avoir proprement indenté les paragraphes dans des items de listes. Remarquez l'espace-blanc au-dessus, et les espaces en tête (au moins un, mais nous en utiliserons trois pour aligner aussi le Markdown brut).
@@ -119,9 +119,9 @@ Barré en utilisant deux tildes. ~~Effacez-ça.~~
 
 1. Premier item de liste ordonnée
 2. Un autre item
-  * une sous-liste ordonnée. 
+   * une sous-liste ordonnée. 
 1. Les véritables numéros n'importent pas, si ce n'est que c'est un nombre
-  1. Sous-liste ordonnée
+   1. Sous-liste ordonnée
 4. Un autre item.
 
    Vous pouvez avoir proprement indenté les paragraphes dans des items de listes. Notez la ligne blanche au-dessus, et les espaces avant, (au moins un, mais nous en utiliserons trois ici pour aligner aussi le Markdown brut).
@@ -293,8 +293,10 @@ les lignes de zèbre | sont jolies | $1
 Il doit y avoir au moins 3 tirets séparant chaque cellule d'en-tête. Les pipes (|) à l'extérieur sont facultatifs et vous n'avez pas besoin de produire la ligne brute de Markdown. Vous pouvez également utiliser le Markdown dans la ligne.
 
 Markdown | Moins | Joli | 
-_Still_ |`renders`| **nicely**
+--- | --- | ---
+*s'aligne* | `encore` | **joliment**
 1 | 2 | 3
+
 ---
 <span id="citations"></span>
 
