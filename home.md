@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-08T16:24:24.516Z
+date: 2020-04-24T16:15:33.314Z
 tags: 
 ---
 
@@ -42,10 +42,10 @@ Les inscriptions sont libres et permettent d'accéder à tout le wiki, de tout m
 
 ### Créer une page 
 
-Il y a un bouton en haut à droite pour créer une page. Cliquez dessus.
+Il y a un bouton en haut à droite pour créer une page: "Nouvelle page" lors du survol avec votre curseur de souris. Cliquez dessus.
 Renseignez le nom de votre nouvelle page.
-Renseigez son emplacement (non définitif).
-Cliquez sur "OK" en ahaut à droite
+Renseignez son emplacement. Il pourra être modifié par la suite.
+Cliquez sur "OK" en haut à droite
 
 Choisissez un éditeur parmi les 3 proposés. Priviliégier Le **Markdown** si vous le connaissez, sinon l'**Editeur visuel:** qui est le plus simple à prendre en main.
  
