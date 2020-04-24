@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-23T13:31:24.117Z
+date: 2020-04-24T16:17:55.904Z
 tags: 
 ---
 
@@ -316,16 +316,15 @@ Si le combat n'est pas terminé, on recommence un tour de combat, avec sa prépa
 
 ## Réagir
 
-La **Réaction (à un vénemnt)** est une **Action** qui s'effectue en dehors du flux normal de l'initiative.
+La **Réaction (à un événemnt)** est une **Action** qui s'effectue en dehors du flux normal de l'initiative.
 Un **Protagoniste** peut **Réagir** face à un **Événement** ; il peut consommer tout ou partie de ses **Point de Réaction** pour activer **une unique** capacité pouvant se déclencher face à l'**Événement**
 
-~~Il peut consommer tout ou partie de ses **Point d'Action**, pour activer **une unique** capacité (se déplacer, attaquer, lancer un sort, etc).
-Les phases successives de **Réponse**, lui permettront d'activer une unique capacité, à de multiples reprises.~~
-~~Un **Protagoniste** réagit à un **événement** et dépense des **Points de Réactions** pour intervenir.~~
+Exemple (inspiré de D&D) :
+- Événement: Alice se déplace dans un espace contrôlé par Bob
+- Réaction: Bob porte une "attaque d'opportunité" à Alice (version D&D )
+    - En détail : Bob possède une Capacité de type "Attaque", permettant de "Réagir face aux déplacements des adversiares dans l'espace qu'il contrôle"n qu'il active car il possède suffisement de Point de Réaction pour le faire.
 
-Chaque `protagoniste` dispose d'un certain nombre de points de **`Réactions`**,  matérialisés par des cartes nominatives. 
-Au début du combat, tous les `protagonistes` récupèrent devant eux, autant de carte **`Réactions`** que leur maximum leur permet. 
-
+Un **Protagoniste** peut **Réagir** face à un **Evénement** ; il peut consommer tout ou partie de ses **Point de Réaction** pour activer **une unique** capacité pouvant se déclencher face à l'**Evenement**
 - la **réaction:** où une équipe effectue une action, hors du flot normal d'initiative (c'est une mécanisme de pile)
   -> ça peut être le déclenchement d'une action préparée
   -> ça peut être le déclenchement d'une réaction générique face à un événement prévu par une capacité du personnage (exemple D&D: un déplacement d'un personnage A dans une case contrôlé par un personnage B provoque une attaque d'opportunité de B vers A)
@@ -334,6 +333,10 @@ Au début du combat, tous les `protagonistes` récupèrent devant eux, autant de
 TODO : lien vers les Concepts :sparkles: 
 Décision : **Points d'Action == Points de Réaction**. Pas de raison de faire deux réserves différentes.
 {.is-warning}
+
+> **Préparer son action**
+Impossible.
+La possibilité d'utiliser une Capacité "en réaction à un événement" est propre à chaque Capacité.
 
 ## Surprise
 
@@ -345,7 +348,7 @@ Les ressources utilisables en combat :
 - Point de vie: PV (et dérivés : Lucidité, Bouclier, PV temporaires, etc.) 
 - Point d'Action: PA
 Nécessaires pour activer des capacités et faire des actions.
-- Réaction
+- Point de Réaction : PR
 A fusionner avec les PA
 - Autres ressources, spécifiques à chaque build
 Ça peut être des ressources nécessaires (munitions ou mana) ou des ressources pour altérer des capacités existantes (Actions héroïque)
