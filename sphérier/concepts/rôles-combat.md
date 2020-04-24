@@ -2,8 +2,8 @@
 title: Les rôles dans le combat
 description: 
 published: true
-date: 2020-04-13T21:09:19.919Z
-tags: 
+date: 2020-04-24T16:19:50.748Z
+tags: combat
 ---
 
 # Anvil/Arm/Hammer
