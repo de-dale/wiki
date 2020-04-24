@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-24T16:17:55.904Z
+date: 2020-04-24T16:31:20.491Z
 tags: 
 ---
 
@@ -385,25 +385,33 @@ Un **[Personnage](https://trello.com/c/j5txrEnh)** ne peut effectuer de **Réact
 Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réaction, Initiative) : **`R°`**.
 
 ## Marque
--> reword en "Effet"
 
 Une Marque représente un Effet se déclenchant à un moment du jeu, sans décision. 
+Une Marque permet de représenter des Effets à différer dans la temporalité du jeu.
 
-Les marqueurs permettent de représenter des Effets à différer dans la temporalité du jeu.
-
-Un marqueur porte les données suivantes :
+Une Marque porte les données suivantes :
 
 - Nom
-- Type du Marqueur
 - Déclencheurs
 - Effets
 
-Exemples factices de la syntaxe: 
+## Effet
 
-- **Marqueur (Choc, Cumul, Attaque<+1>, À la prochaine attaque)**
-- **Choc: Marqueur(Cumul, Attaque<+1>, À la prochaine attaque)**
+Un Effet représente quelque chose qui mofifie l'état du jeu.
 
-### Types de marqueur
+Exemples :
+
+- <Compétence>
+   [Compétence]
+- Valeurs : fixe ou lancer. 
+    Ex: Marqueur (Cumul, [Pistolet], Attaque)
+- Application :
+    +/-1 A° (Accélération,  Étourdissement, Paralysie) 
+    +/-1 R°
+    +/-1 Attaque (Rage, Nova, Affaiblir) 
+    +/-1 Dégât
+
+### Types d'Effets
 Un marqueur possède un, et un seul type. Le type détermine les contraintes de dépense du marqueur, lorsque les conditions de déclenchement sont réunies. 
 
 > Variantes :
@@ -426,9 +434,8 @@ Il sont dépensés un par un, à chaque fois que les conditions de déclenchemen
 
 Un **Déclencheur** décrit un contexte, ou un événement qui permet/force le possesseur du marqueur à le consommer.
 
-## Effets
+## Types d'Effets
 > Cumul des effets vs. Effet le plus puissant
-
 Les effets d'un marqueur peuvent varier .
 Le plus souvent ils influent comme modificateur de Compétence:
 
@@ -441,6 +448,7 @@ Le plus souvent ils influent comme modificateur de Compétence:
     +/-1 R°
     +/-1 Attaque (Rage, Nova, Affaiblir) 
     +/-1 Dégât
+
 
 > NB: Typer les Compétences/Capacités
 
