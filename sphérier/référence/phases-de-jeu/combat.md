@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T13:09:38.911Z
+date: 2020-04-25T13:14:22.204Z
 tags: 
 ---
 
@@ -22,9 +22,11 @@ Le Narrateur/MJ pose le décor, énumère les [Acteurs] du combats, les [Faction
 Chacun fait le compte de ses abatis  et de Ressources de Combat : PV, Carte Action, et Autres Ressources éventuelles comme des munitions ou du mana. Tout le monde se tient prêt pour déterminer l'Initiative.
 
 # :baby_bottle: Tutoriels
+<a id="acteurs"></a>
 ### Acteurs
 [Acteur]: #acteurs
 [Acteurs]: #acteurs
+[Acteur princial]]: #acteurs
 
 Les [Acteurs] sont les personnages pouvant intervenir au cours d'un combat.
 Lorsqu'il s'agit d'un individu, personnage ou monstre, on parle de [Protagoniste].
@@ -34,7 +36,7 @@ Lorsqu'on parle de groupes, il s'agit de [Faction].
 
 Le combat se découpe en **Tours de combat**. Au début de chaque tour, tous les [Acteurs] mettent en commun leurs Cartes d'Action pour constituer le [Deck d'initiative]. Le tour se déroule ensuite de la manière suivante : 
 
-1. **Piocher** : la première carte du [Deck d'Initiative] est révélée, son [Acteur] peut [Agir]. Il est alors appelé **Acteur princial**.
+1. **Piocher** : la première carte du [Deck d'Initiative] est révélée. Son [Acteur], alors appelé **[Acteur princial]**, ajoute les Points d'Action correspondant à sa réserve.
 2. **Agir** : **Acteur princial** peut Agir.
 3. **Répondre** : une Faction adverse peut Agir
 4. Recommencer à l'étape [Pioche], tant qu'il reste une carte dans le [Deck d'initative].
@@ -62,6 +64,8 @@ Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. C
 ### Glossaire
 
 [Glossaire]: #glossaire
+
+[Acteur princial]
 
 <a id="deck-initiative"></a>
 > **Deck d'Initiative**
