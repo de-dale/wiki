@@ -2,7 +2,7 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-09T13:52:46.720Z
+date: 2020-04-25T08:51:22.464Z
 tags: howto, documentation
 ---
 
@@ -139,3 +139,14 @@ Technical reference material, for classes, methods, APIs, commands.
  
 > - 4 Fonctions dans la structure des documentation techniques [PDF](http://technicalcommunicationuk.com/wp/wp-content/uploads/2018/10/Daniele-Procida-–-Four-functions-in-the-structure-of-technical-documentation-and-why-they-matter.pdf) 
 > - Blog de [Divio](http://divio.com/blog/documentation/) 
+
+# Outils
+
+### :baby_bottle: Tutoriels
+<span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **Tutoriels**</span>
+### :gear: Guide pratique
+<span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **Guide pratique**</span>
+### :book: Référence
+<span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span>
+### :sparkles: Concepts
+<span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **Concepts**</span>
