@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T12:04:02.511Z
+date: 2020-04-25T12:16:07.578Z
 tags: 
 ---
 
@@ -23,6 +23,7 @@ Chacun fait le compte de ses abatis  et de Ressources de Combat : PV, Carte Acti
 
 # :baby_bottle: Tutoriels
 ### Acteurs
+[Acteur]: #acteurs
 [Acteurs]: #acteurs
 
 Les [Acteurs] sont les personnages pouvant intervenir au cours d'un combat.
@@ -31,14 +32,15 @@ Lorsqu'on parle de groupes, il s'agit de [Faction].
 
 ### Tour de combat et initiative
 
-Le combat se découpe en Tours de combat. Au début de chaque tour, tous les [Acteurs] mettent en commun leurs Cartes d'Action pour constituer le [Deck d'initiative]. Le tout 
+Le combat se découpe en Tours de combat. Au début de chaque tour, tous les [Acteurs] mettent en commun leurs Cartes d'Action pour constituer le [Deck d'initiative]. Le tour se déroule ensuite de la manière suivante : 
 
-1. Piocher : la première carte du Deck d'Initiative est révélée, son [Acteur] peut Agir. Il est alors appelé **Acteur princial**.
-2. Agir : **Acteur princial** peut Agir.
-3. Répondre : une Faction adverse peut Agir
-4. Recommencer à l'étape [Pioche], tant qu'il reste une carte dans le Deck d'Initative.
+1. **Piocher** : la première carte du [Deck d'Initiative] est révélée, son [Acteur] peut [Agir]. Il est alors appelé **Acteur princial**.
+2. **Agir** : **Acteur princial** peut Agir.
+3. **Répondre** : une Faction adverse peut Agir
+4. Recommencer à l'étape [Pioche], tant qu'il reste une carte dans le [Deck d'initative].
 
-A chaque [Pioche], l'[Acteur] de la Carte d'Action, alors appelé **Acteur princial**, peut [Agir].
+Quand le [Deck d'initiative] est vide au moment de [Piocher], c'est la fin du tour. 
+Le [Deck d'initiative] est remélangé, et c'est le début d'un nouveau tour.
 
 ### Agir et Réagir
 
@@ -59,13 +61,23 @@ Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. C
 <a id="glossaire"></a>
 ### Glossaire
 
-<a id="protagoniste"></a>
-> **Protagoniste**
-Un **Protagoniste** désigne n'importe quel personnage, joueur ou non-joueur, intervenant dans le combat.
+
+<a id="deck-initiative"></a>
+> **Deck d'Initiative**
+Le **_Deck d'Initiative_** contient toutes les **Cartes Actions** de tous les **Protagonistes** d'un combat.
+Il est constitué au début du tour.
+_Alt: "Pioche d'Initiative"_
 {.is-success}
 
-[Protagoniste]: #protagoniste
-[Protagonistes]: #protagoniste
+[Deck d'Initiative]: #deck-initiative
+
+<a id="decker"></a>
+> **Decker**
+Le joueur qui révèle les cartes du **Deck d'Initiative** est appelé le **_Decker_**.
+Ce rôle peut être endossé par le Narrateur, s'il le souhaite.
+{.is-success}
+
+[Decker]: #decker
 
 <a id="faction"></a>
 > **Factions**
@@ -75,6 +87,26 @@ Chaque **Protagoniste** est rattaché à une unique **Faction**.
 
 [Faction]: #faction
 [Factions]: #faction
+
+<a id="pioche"></a>
+#### Piocher
+> La Phase de Pioche
+
+La **Pioche** est la première étape d'une **Passe d'initiative**.
+Un joueur, que l'on appellera le **Decker**, révèle à l'assemblée, la première carte du **Deck d'initiative**.
+
+La carte ainsi tirée apparient à un **Protagoniste**. Il applique immédiatement les effets de sa **Carte Action**, généralement un gain en **Point d'Action**, et peut ensuite **Agir** (cf. Phase d'Action ci-dessous).
+
+[Pioche]: #piocher
+[Piocher]: #piocher
+
+<a id="protagoniste"></a>
+> **Protagoniste**
+Un **Protagoniste** désigne n'importe quel personnage, joueur ou non-joueur, intervenant dans le combat.
+{.is-success}
+
+[Protagoniste]: #protagoniste
+[Protagonistes]: #protagoniste
 
 <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span>
 # :sparkles: Concepts
@@ -100,12 +132,6 @@ Un tour de combat se compose de 3 étapes :
 Chaque **Protagoniste** dispose d'un certain nombre de **Cartes Actions**, qui lui sont propres. Au début du tour, ces cartes sont mises en commun, puis mélangées pour constituer le **Deck d'initiative**.
 
 Le tour commence dès que le **Deck d'Initiative** est constitué.
-
-<a id="deck-initiative"></a>
-> **Deck d'Initiative**
-Le **_Deck d'Initiative_** contient toutes les **Cartes Actions** de tous les **Protagonistes** d'un combat.
-Il est constitué au début du tour.
-{.is-success}
 
 ## Passe d'initiative
 
@@ -143,21 +169,24 @@ La **Passe d'initiative** se déroule de la manière suivante :
 La **Passe d'initiative** est la séquence d'événements qui on lieu entre deux **Pioches**.
 Elle commence avec la première **Pioche**, et se finit avant la seconde.
 
+<a id="pioche"></a>
 ### Piocher
+
 > La Phase de Pioche
 
 La **Pioche** est la première étape d'une **Passe d'initiative**.
 Un joueur, que l'on appellera le **Decker**, révèle à l'assemblée, la première carte du **Deck d'initiative**.
 
-<a id="decker"></a>
-> **Decker**
-Le joueur qui révèle les cartes du **Deck d'Initiative** est appelé le **_Decker_**.
-Ce rôle peut être endossé par le Narrateur, s'il le souhaite.
-{.is-success}
-
 La carte ainsi tirée apparient à un **Protagoniste**. Il applique immédiatement les effets de sa **Carte Action**, généralement un gain en **Point d'Action**, et peut ensuite **Agir** (cf. Phase d'Action ci-dessous).
 
+[Pioche]: #piocher
+[Piocher]: #piocher
+
+<a id="agir"></a>
 ### Agir
+
+[Agir]: #agir
+
 > La Phase Action
 
 Lorsqu'un **Protagoniste** peut **Agir** Il a le choix entre :
@@ -167,7 +196,11 @@ Les phases successives de **Réponse**, lui permetteront d'activer une unique ca
 2. **Passer:**
 Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
 
+<a id="répondre"></a>
 ### Répondre
+
+[Répondre]: #répondre
+
 > La Phase Réponse
 
 Les adversaires du **Protagoniste** venant de jouer, désignent parmi eux, un **Protagoniste**, qui peut **Agir**.
