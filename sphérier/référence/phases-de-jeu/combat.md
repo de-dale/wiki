@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T13:14:22.204Z
+date: 2020-04-25T13:27:09.059Z
 tags: 
 ---
 
@@ -26,11 +26,10 @@ Chacun fait le compte de ses abatis  et de Ressources de Combat : PV, Carte Acti
 ### Acteurs
 [Acteur]: #acteurs
 [Acteurs]: #acteurs
-[Acteur princial]]: #acteurs
+[Acteur princial]: #acteurs
 
-Les [Acteurs] sont les personnages pouvant intervenir au cours d'un combat.
-Lorsqu'il s'agit d'un individu, personnage ou monstre, on parle de [Protagoniste].
-Lorsqu'on parle de groupes, il s'agit de [Faction].
+Les [Acteurs] correspondent aux individus ou aux groupes, pouvant intervenir au cours d'un combat.
+Pour un individu, personnage ou monstre, on parlera de [Protagoniste], pour un groupe, il s'agira d'une [Faction].
 
 ### Tour de combat et initiative
 
@@ -39,7 +38,7 @@ Le combat se découpe en **Tours de combat**. Au début de chaque tour, tous les
 1. **Piocher** : la première carte du [Deck d'Initiative] est révélée. Son [Acteur], alors appelé **[Acteur princial]**, ajoute les Points d'Action correspondant à sa réserve.
 2. **Agir** : **Acteur princial** peut Agir.
 3. **Répondre** : une Faction adverse peut Agir
-4. Recommencer à l'étape [Pioche], tant qu'il reste une carte dans le [Deck d'initative].
+4. Recommencer à l'étape [Pioche], tant qu'il reste une carte dans le [Deck d'initiative].
 
 Quand le [Deck d'initiative] est vide au moment de [Piocher], c'est la fin du tour. 
 Le [Deck d'initiative] est remélangé, et c'est le début d'un nouveau tour.
