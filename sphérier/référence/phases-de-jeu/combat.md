@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T12:19:01.305Z
+date: 2020-04-25T13:09:38.911Z
 tags: 
 ---
 
@@ -475,73 +475,70 @@ Un **[Personnage](https://trello.com/c/j5txrEnh)** ne peut effectuer de **Réact
 
 Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réaction, Initiative) : **`R°`**.
 
+<a id="effet"></a>
+## Effet
+
+[Effet]: #effet
+
+Un [Effet] représente quelque chose qui mofifie l'état du jeu.
+
+Exemples d'effets :
+
+- <Compétence>
+   [Compétence]
+- Valeurs : fixe ou lancer. 
+    Ex: Marqueur (Cumul, [Pistolet], Attaque)
+- Application :
+    +/-1 A° (Accélération,  Étourdissement, Paralysie) 
+    +/-1 R°
+    +/-1 Attaque (Rage, Nova, Affaiblir) 
+    +/-1 Dégât
+
+### Durée de l'Effet
+Une Effet peut être instantané ou persistant.
+
+Un Effet instanténé applique ses modifications, et disparaît du jeu. Les modifications restent.
+Un Effet persistant applique ses modifications, et reste en jeu. Quand il disparaît, les modifications qu'il entraîne, disparaissent avec lui. La durée d'un Effet persistant n'engage que lui, elle peut être éphémère (durée du comabt), durable ( une journée), permanente, ou encore spécifique (ex: "<Compétences> minutes")
+
+
+### Types d'Effets
+
+#### Cumul
+
+Les Effets de Cumul se cumulent entre eux : on additionne tous leurs Effets pour en déterminer un Effet résultant.
+Quel que soit leur nombre, ils sont tous effectifs en même temps.
+
+### Puissance
+
+Les Effets de Puissance ne se cumulent pas entre eux, seul le plus puissant est pris en compte.
+Les Effets de Puissance ne se cumulent pas avec les Effets Cumulés. En cas de conflit, l'Effet résultant du Cumul est comparé avec l'Effet de Puissance pourt déterminer quel effet est effetif.
+
 ## Marque
 
-Une Marque représente un Effet se déclenchant à un moment du jeu, sans décision. 
-Une Marque permet de représenter des Effets à différer dans la temporalité du jeu.
+Une Marque représente un Effet se déclenchant automatiquement face à un Evenement Spécifique. 
+Une Marque peut permettre de représenter des Effets à différer dans la temporalité du jeu.
 
 Une Marque porte les données suivantes :
 
 - Nom
+- Cible
 - Déclencheurs
 - Effets
 
-## Effet
-
-Un Effet représente quelque chose qui mofifie l'état du jeu.
-
-Exemples :
-
-- <Compétence>
-   [Compétence]
-- Valeurs : fixe ou lancer. 
-    Ex: Marqueur (Cumul, [Pistolet], Attaque)
-- Application :
-    +/-1 A° (Accélération,  Étourdissement, Paralysie) 
-    +/-1 R°
-    +/-1 Attaque (Rage, Nova, Affaiblir) 
-    +/-1 Dégât
-
-### Types d'Effets
-Un marqueur possède un, et un seul type. Le type détermine les contraintes de dépense du marqueur, lorsque les conditions de déclenchement sont réunies. 
-
 > Variantes :
-> - Le type "Marqueurs" est associé à un nombre minimal de marqueurs à dépenser pour déclencher l'effet.
-> - Le type "Marqueurs" est associé à un nombre maximal de marqueurs que l'on peut dépenser pour un même déclenchement. 
+> - L'Effet produit par une Marque peut dépendre du nombre de Marque de même nom
+> - Une Marque peut avoir un nombre minimal de Marques à dépenser pour déclencher l'Effet.
+> - Une Marque peut avoir un nombre maximal de Marques à consommer pour un même déclenchement. 
 
-### Cumul
-> Wordings?: Stack, Canalisation
-
-Les marqueurs de même nom se cumulent entre eux.
-Quel que soit leur nombre, ils sont tous dépensés en même temps, pour une unique utilisation et leurs effets se cumulent.
-
-### Pile
-> Delay/Répartition/Jauge/Réserve/Bassin/Pile/Dispersion
-
-Les marqueur de même nom forment une pile.
-Il sont dépensés un par un, à chaque fois que les conditions de déclenchement sont réunies, suivant une stratégie "premier arrivé, premier parti" (FIFO) . 
-
-## Déclencheurs
+### Déclencheurs et Evénements Spécifiques
 
 Un **Déclencheur** décrit un contexte, ou un événement qui permet/force le possesseur du marqueur à le consommer.
 
-## Types d'Effets
-> Cumul des effets vs. Effet le plus puissant
-Les effets d'un marqueur peuvent varier .
-Le plus souvent ils influent comme modificateur de Compétence:
+Exemples d'événements Spécifiques 
 
-- <Compétence>
-   [Compétence]
-- Valeurs : fixe ou lancer. 
-    Ex: Marqueur (Cumul, [Pistolet], Attaque)
-- Application :
-    +/-1 A° (Accélération,  Étourdissement, Paralysie) 
-    +/-1 R°
-    +/-1 Attaque (Rage, Nova, Affaiblir) 
-    +/-1 Dégât
-
-
-> NB: Typer les Compétences/Capacités
+- La Cible de la Marque utilise une Capacité d'Attaque
+- Les Points de vie de la Cible descendent sous un certain seuil.
+- La Cible de la Marque est touchée par une Capacité activée par un Rôle "Epéiste"
 
 ## Rôle
 
