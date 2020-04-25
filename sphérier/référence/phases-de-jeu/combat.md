@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T13:27:09.059Z
+date: 2020-04-25T13:28:48.174Z
 tags: 
 ---
 
@@ -57,10 +57,10 @@ Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. C
 ### Marque
 <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **Guide pratique**</span>
 # :book: Référence
-### Détails
+## Détails
 
 <a id="glossaire"></a>
-### Glossaire
+## Glossaire
 
 [Glossaire]: #glossaire
 
@@ -205,11 +205,16 @@ La carte ainsi tirée apparient à un **Protagoniste**. Il applique immédiateme
 > La Phase Action
 
 Lorsqu'un **Protagoniste** peut **Agir** Il a le choix entre :
+<a id="jouer"></a>
 1. **Jouer:**
 Il peut consommer tout ou partie de ses **Point d'Action**, pour activer **une unique** capacité (se déplacer, attaquer, lancer un sort, etc).
 Les phases successives de **Réponse**, lui permetteront d'activer une unique capacité, à de multiples reprises.
+<a id="passer"></a>
 2. **Passer:**
 Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
+
+[Jouer]: #jouer
+[Passer]: #passer
 
 <a id="répondre"></a>
 ### Répondre
