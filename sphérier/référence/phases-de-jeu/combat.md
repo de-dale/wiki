@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T08:33:36.821Z
+date: 2020-04-25T08:34:29.089Z
 tags: 
 ---
 
@@ -21,7 +21,7 @@ Lorsque les joueurs, ou le Narrateur/MJ, montre une velléité de porter atteint
 Le Narrateur/MJ pose le décor, énumère les Acteurs du combats, les Factions et les Protagonistes. Il détermine qui peut agir, où et comment. 
 Chacun fait le compte de ses abatis  et de Ressources de Combat : PV, Carte Action, et Autres Ressources éventuelles comme des munitions ou du mana. Tout le monde se tient prêt pour déterminer l'Initiative.
 
-/play yeah
+:/play yeah:
 :baby_bottle:
 :hammer_wrench:
 
