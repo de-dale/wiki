@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T08:34:29.089Z
+date: 2020-04-25T08:46:51.984Z
 tags: 
 ---
 
@@ -16,16 +16,25 @@ Il est temps de se mettre sur la figure, : le combat commence.
 
 Lorsque les joueurs, ou le Narrateur/MJ, montre une velléité de porter atteinte à l'intégrité, physique ou mentale de l'autre partie, et décident qu'il est temps de réduire l'ennemi en petits bouts plus ou moins comestibles, alors, le **Combat** commence. 
 
+
+# :baby_bottle: Tutoriels
+<span style="background:#ccccee;padding:5px;border-radius:10px;">:baby_bottle: **Tutoriels**</span>
+# :gear: **Guide pratique**
+<span style="background:#aaccaa;padding:5px;border-radius:10px;">:gear: **Guide pratique**</span>
+# :book: **Référence**
+<span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span>
+# :sparkles: **Concepts**
+<span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **Concepts**</span>
+
 # Mise en place
 
 Le Narrateur/MJ pose le décor, énumère les Acteurs du combats, les Factions et les Protagonistes. Il détermine qui peut agir, où et comment. 
 Chacun fait le compte de ses abatis  et de Ressources de Combat : PV, Carte Action, et Autres Ressources éventuelles comme des munitions ou du mana. Tout le monde se tient prêt pour déterminer l'Initiative.
 
-:/play yeah:
-:baby_bottle:
-:hammer_wrench:
 
-:dolls:
+:hammer::wrench:
+
+
 
 <a id="protagoniste"></a>
 > **Protagoniste**
