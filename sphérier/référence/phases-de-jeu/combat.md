@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T08:46:51.984Z
+date: 2020-04-25T12:04:02.511Z
 tags: 
 ---
 
@@ -16,36 +16,75 @@ Il est temps de se mettre sur la figure, : le combat commence.
 
 Lorsque les joueurs, ou le Narrateur/MJ, montre une velléité de porter atteinte à l'intégrité, physique ou mentale de l'autre partie, et décident qu'il est temps de réduire l'ennemi en petits bouts plus ou moins comestibles, alors, le **Combat** commence. 
 
-
-# :baby_bottle: Tutoriels
-<span style="background:#ccccee;padding:5px;border-radius:10px;">:baby_bottle: **Tutoriels**</span>
-# :gear: **Guide pratique**
-<span style="background:#aaccaa;padding:5px;border-radius:10px;">:gear: **Guide pratique**</span>
-# :book: **Référence**
-<span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span>
-# :sparkles: **Concepts**
-<span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **Concepts**</span>
-
 # Mise en place
 
-Le Narrateur/MJ pose le décor, énumère les Acteurs du combats, les Factions et les Protagonistes. Il détermine qui peut agir, où et comment. 
+Le Narrateur/MJ pose le décor, énumère les [Acteurs] du combats, les [Factions] et les [Protagonistes]. Il détermine qui peut agir, où et comment. 
 Chacun fait le compte de ses abatis  et de Ressources de Combat : PV, Carte Action, et Autres Ressources éventuelles comme des munitions ou du mana. Tout le monde se tient prêt pour déterminer l'Initiative.
 
+# :baby_bottle: Tutoriels
+### Acteurs
+[Acteurs]: #acteurs
 
-:hammer::wrench:
+Les [Acteurs] sont les personnages pouvant intervenir au cours d'un combat.
+Lorsqu'il s'agit d'un individu, personnage ou monstre, on parle de [Protagoniste].
+Lorsqu'on parle de groupes, il s'agit de [Faction].
+
+### Tour de combat et initiative
+
+Le combat se découpe en Tours de combat. Au début de chaque tour, tous les [Acteurs] mettent en commun leurs Cartes d'Action pour constituer le [Deck d'initiative]. Le tout 
+
+1. Piocher : la première carte du Deck d'Initiative est révélée, son [Acteur] peut Agir. Il est alors appelé **Acteur princial**.
+2. Agir : **Acteur princial** peut Agir.
+3. Répondre : une Faction adverse peut Agir
+4. Recommencer à l'étape [Pioche], tant qu'il reste une carte dans le Deck d'Initative.
+
+A chaque [Pioche], l'[Acteur] de la Carte d'Action, alors appelé **Acteur princial**, peut [Agir].
+
+### Agir et Réagir
+
+A chaque tirage (voir aussi [Pioche], l'Acteur de la Carte d'Action, alors appelé Acteur princial, peut [Agir] : il a le choix entre [Jouer] ou [Passer].
+Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. Celle-ci désigne un [Protagoniste] pouvant [Agir]. Ce dernier dispose des mêmes choix que l'Acteur principal : [Jouer] ou [Passer]
 
 
+> <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **Tutoriel**</span>
+
+# :gear: Guide pratique
+### Altération
+### Combo
+### Marque
+<span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **Guide pratique**</span>
+# :book: Référence
+### Détails
+
+<a id="glossaire"></a>
+### Glossaire
 
 <a id="protagoniste"></a>
 > **Protagoniste**
 Un **Protagoniste** désigne n'importe quel personnage, joueur ou non-joueur, intervenant dans le combat.
 {.is-success}
 
+[Protagoniste]: #protagoniste
+[Protagonistes]: #protagoniste
+
 <a id="faction"></a>
 > **Factions**
 Une **Faction** regroupe plusieurs protagonistes, qui cherchent la même issue dans le combat. qui partagent le même objectif.
 Chaque **Protagoniste** est rattaché à une unique **Faction**.
 {.is-success}
+
+[Faction]: #faction
+[Factions]: #faction
+
+<span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span>
+# :sparkles: Concepts
+### Questions spécifiques
+<span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **Concepts**</span>
+
+
+=== REWORDS ===
+===============
+
 
 # Tour de combat
 Afin de simplifier la gestion de la temporalité, un **Combat** se découpe en tours.
