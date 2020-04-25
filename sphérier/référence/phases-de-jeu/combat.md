@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T13:33:04.757Z
+date: 2020-04-25T13:44:08.341Z
 tags: 
 ---
 
@@ -22,11 +22,7 @@ Le Narrateur/MJ pose le décor, énumère les [Acteurs] du combats, les [Faction
 Chacun fait le compte de ses abatis  et de Ressources de Combat : PV, Carte Action, et Autres Ressources éventuelles comme des munitions ou du mana. Tout le monde se tient prêt pour déterminer l'Initiative.
 
 # :baby_bottle: Tutoriels
-<a id="acteurs"></a>
 ### Acteurs
-[Acteur]: #acteurs
-[Acteurs]: #acteurs
-[Acteur principal]: #acteurs
 
 Les [Acteurs] correspondent aux individus ou aux groupes, pouvant intervenir au cours d'un combat.
 Pour un individu, personnage ou monstre, on parlera de [Protagoniste], pour un groupe, il s'agira d'une [Faction].
@@ -48,9 +44,6 @@ Le [Deck d'initiative] est remélangé, et c'est le début d'un nouveau tour.
 Un Acteur peut [Agir] : il a le choix entre [Jouer] ou [Passer].
 Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. Celle-ci désigne un [Protagoniste] pouvant [Agir]. Ce dernier dispose des mêmes choix : [Jouer] ou [Passer]
 
-
-
-
 > <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **Tutoriel**</span>
 
 # :gear: Guide pratique
@@ -63,39 +56,46 @@ Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. C
 
 <a id="glossaire"></a>
 ## Glossaire
-
 [Glossaire]: #glossaire
 
-[Acteur princial]
+<a id="acteur"></a>
+### Acteur
+[Acteur]: #acteur
+[Acteurs]: #acteur
+[Acteur principal]: #acteur
+
+Les [Acteurs] correspondent aux individus ou aux groupes, pouvant intervenir au cours d'un combat.
+Pour un individu, personnage ou monstre, on parlera de [Protagoniste], pour un groupe, il s'agira d'une [Faction].
+
+L'[Acteur principal] correspond à l'[Acteur] dont la Carte d'Action a été révélée lors de la [Pioche].
 
 <a id="deck-initiative"></a>
-> **Deck d'Initiative**
+### Deck d'Initiative
+[Deck d'Initiative]: #deck-initiative
+
 Le **_Deck d'Initiative_** contient toutes les **Cartes Actions** de tous les **Protagonistes** d'un combat.
 Il est constitué au début du tour.
 _Alt: "Pioche d'Initiative"_
-{.is-success}
-
-[Deck d'Initiative]: #deck-initiative
 
 <a id="decker"></a>
-> **Decker**
-Le joueur qui révèle les cartes du **Deck d'Initiative** est appelé le **_Decker_**.
-Ce rôle peut être endossé par le Narrateur, s'il le souhaite.
-{.is-success}
-
+### Decker
 [Decker]: #decker
 
-<a id="faction"></a>
-> **Factions**
-Une **Faction** regroupe plusieurs protagonistes, qui cherchent la même issue dans le combat. qui partagent le même objectif.
-Chaque **Protagoniste** est rattaché à une unique **Faction**.
-{.is-success}
+Le joueur qui révèle les cartes du **Deck d'Initiative** est appelé le **_Decker_**.
+Ce rôle peut être endossé par le Narrateur, s'il le souhaite.
 
+<a id="faction"></a>
+### Faction
 [Faction]: #faction
 [Factions]: #faction
 
+Une **[Faction]** regroupe plusieurs [Protagonistes], qui cherchent la même issue dans le combat, qui partagent le même objectif.
+Chaque **Protagoniste** est rattaché à une unique **Faction**.
+
 <a id="pioche"></a>
 #### Piocher
+[Pioche]: #piocher
+[Piocher]: #piocher
 > La Phase de Pioche
 
 La **Pioche** est la première étape d'une **Passe d'initiative**.
@@ -103,16 +103,27 @@ Un joueur, que l'on appellera le **Decker**, révèle à l'assemblée, la premi�
 
 La carte ainsi tirée apparient à un **Protagoniste**. Il applique immédiatement les effets de sa **Carte Action**, généralement un gain en **Point d'Action**, et peut ensuite **Agir** (cf. Phase d'Action ci-dessous).
 
-[Pioche]: #piocher
-[Piocher]: #piocher
+<a id="point-action"></a>
+### Point d'Action
+[Point d'Action]: #point-action
+[Ressource] permettant d'activer les Capacités actives.
+
+<a id="point-réaction"></a>
+### Point de Réaction
+[Point de Réaction]: #point-réaction
+[Ressource] permettant d'activer les Capacités actives.
 
 <a id="protagoniste"></a>
-> **Protagoniste**
-Un **Protagoniste** désigne n'importe quel personnage, joueur ou non-joueur, intervenant dans le combat.
-{.is-success}
-
+### Protagoniste
 [Protagoniste]: #protagoniste
 [Protagonistes]: #protagoniste
+
+Un **Protagoniste** désigne n'importe quel personnage, joueur ou non-joueur, intervenant dans le combat.
+
+<a id="ressource"></a>
+### Ressources
+[Ressource]: #ressources
+Terme méta désigantun élément de jeu qu'il est possible de consommer dans le combat.
 
 <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span>
 # :sparkles: Concepts
@@ -146,7 +157,8 @@ Un tour de combat se compose de 3 étapes :
 <a id="préparation"></a>
 ## Préparation
 
-Chaque **Protagoniste** dispose d'un certain nombre de **Cartes Actions**, qui lui sont propres. Au début du tour, ces cartes sont mises en commun, puis mélangées pour constituer le **Deck d'initiative**.
+Chaque **Protagoniste** dispose d'un certain nombre de **Cartes Actions**, qui lui sont propres.
+Au début du tour, ces cartes sont mises en commun, puis mélangées, pour constituer le **[Deck d'initiative]**.
 
 Le tour commence dès que le **Deck d'Initiative** est constitué.
 
