@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T13:50:19.444Z
+date: 2020-04-25T13:54:48.020Z
 tags: 
 ---
 
@@ -53,6 +53,123 @@ Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. C
 <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **Guide pratique**</span>
 # :book: Référence
 
+## Tour de combat :warning: A reworder
+Afin de simplifier la gestion de la temporalité, un **Combat** se découpe en tours.
+Un tour de combat se compose de 3 étapes :
+
+1. Préparation
+2. Une ou plusieurs **Passe d'initiative**
+3. Fin du tour
+
+<a id="préparation"></a>
+## Préparation :warning: A reworder
+
+Chaque **Protagoniste** dispose d'un certain nombre de **Cartes Actions**, qui lui sont propres.
+Au début du tour, ces cartes sont mises en commun, puis mélangées, pour constituer le **[Deck d'initiative]**.
+
+Le tour commence dès que le **Deck d'Initiative** est constitué.
+
+## Passe d'initiative / :warning: A reworder
+
+Tant que le **Deck d'initiative** contient au moins une carte, le tour continue.
+Le **Decker** révèle les cartes les unes après les autres : les **Passes d'initative** se succèdent les unes aux autres.
+
+
+La **Passe d'initiative** se déroule de la manière suivante :
+
+1. La **Pioche**
+2. L'**Action**
+3. La ou les **Réponse(s)**
+
+La **Passe d'initiative** est la séquence d'événements qui on lieu entre deux **Pioches**.
+Elle commence avec la première **Pioche**, et se finit avant la seconde.
+
+<a id="pioche"></a>
+### Piocher
+[Pioche]: #piocher
+[Piocher]: #piocher
+
+> La Phase de Pioche
+
+La **Pioche** est la première étape d'une **Passe d'initiative**.
+Un joueur, que l'on appellera le **Decker**, révèle à l'assemblée, la première carte du **Deck d'initiative**.
+
+La carte ainsi tirée apparient à un **Protagoniste**. Il applique immédiatement les effets de sa **Carte Action**, généralement un gain en **Point d'Action**, et peut ensuite **Agir** (cf. Phase d'Action ci-dessous).
+
+
+<a id="agir"></a>
+### Agir
+[Agir]: #agir
+
+> La Phase Action
+
+Lorsqu'un **Protagoniste** peut **Agir** Il a le choix entre :
+<a id="jouer"></a>
+1. **Jouer:**
+Il peut consommer tout ou partie de ses **Point d'Action**, pour activer **une unique** capacité (se déplacer, attaquer, lancer un sort, etc).
+Les phases successives de **Réponse**, lui permetteront d'activer une unique capacité, à de multiples reprises.
+<a id="passer"></a>
+2. **Passer:**
+Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
+
+[Jouer]: #jouer
+[Passer]: #passer
+
+<a id="répondre"></a>
+### Répondre
+[Répondre]: #répondre
+
+> La Phase Réponse
+
+Les adversaires du **Protagoniste** venant de jouer, désignent parmi eux, un **Protagoniste**, qui peut **Agir**.
+Ce dernier peut alors **jouer** ou **passer**, comme décrit ci-dessus.
+
+> 🧪 **À TESTER** :test:
+Option #1: Si l'[Acteur principal] passe, droit de réponse aux opposants. 
+Option #2: Si l'[Acteur principal] passe, fin de la séquence.
+{.is-success}
+
+> Dans le cas où il y à plus de deux **Factions**, c'est au Narrateur/MJ de décider quelle **Faction** peut **Agir**.
+Préférentiellement, il s'agira de la **Faction** agressée, mais ce n'est pas automatique.
+Répondre à cette réponse suivra les mêmes règles ;  le Narrateur/MJ décidera de nouveau quelle fation agira.
+
+Les phases de **Réponses** se succèdent à moins que deux **Protagonistes** passent consécutivement: La passe d'initiative prend fin.
+
+## Fin du Tour :warning: A reworder
+
+Le tour se **termine** lorsque le **Decker** n'a plus de Carte Action à révéler das le **Deck d'Initiative**.
+À ce moment, tous les effets qui se "déclenchent à la fin du tour" sont activés, dans l'ordre dans lequel ils ont été créées.
+
+Si le combat n'est pas terminé, on recommence un tour de combat, avec sa préparation.
+
+## Fin du combat
+
+> Fin du combat
+{.is-danger}
+
+## Réagir
+
+La **Réaction (à un événemnt)** est une **Action** qui s'effectue en dehors du flux normal de l'initiative.
+Un **Protagoniste** peut **Réagir** face à un **Événement** ; il peut consommer tout ou partie de ses **Point de Réaction** pour activer **une unique** capacité pouvant se déclencher face à l'**Événement**
+
+Exemple (inspiré de D&D) :
+- Événement: Alice se déplace dans un espace contrôlé par Bob
+- Réaction: Bob porte une "attaque d'opportunité" à Alice (version D&D )
+    - En détail : Bob possède une Capacité de type "Attaque", permettant de "Réagir face aux déplacements des adversiares dans l'espace qu'il contrôle"n qu'il active car il possède suffisement de Point de Réaction pour le faire.
+
+Un **Protagoniste** peut **Réagir** face à un **Evénement** ; il peut consommer tout ou partie de ses **Point de Réaction** pour activer **une unique** capacité pouvant se déclencher face à l'**Evenement**
+- la **réaction:** où une équipe effectue une action, hors du flot normal d'initiative (c'est une mécanisme de pile)
+  -> ça peut être le déclenchement d'une action préparée
+  -> ça peut être le déclenchement d'une réaction générique face à un événement prévu par une capacité du personnage (exemple D&D: un déplacement d'un personnage A dans une case contrôlé par un personnage B provoque une attaque d'opportunité de B vers A)
+
+> **Préparer son action**
+Impossible.
+La possibilité d'utiliser une Capacité "en réaction à un événement" est propre à chaque Capacité.
+
+## Surprise
+
+> modulo la surprise, qui fait partie du combat, mais pour laquelle l'initiative n'est parfois pas encore lancée
+
 <a id="effet"></a>
 ## Effet
 [Effet]: #effet
@@ -92,7 +209,7 @@ Les Effets de Puissance ne se cumulent pas avec les Effets Cumulés. En cas de c
 
 ## Marque
 
-Une Marque représente un Effet se déclenchant automatiquement face à un Evenement Spécifique. 
+Une Marque représente un [Effet] se déclenchant automatiquement face à un Evenement Spécifique. 
 Une Marque peut permettre de représenter des Effets à différer dans la temporalité du jeu.
 
 Une Marque porte les données suivantes :
@@ -232,6 +349,11 @@ A fusionner avec les PA
 > :warning: Si un **Protagoniste** passe, dans une **Passe d'initiative**, il pourra toujours jouer plus tard, dans la même Passe, si celle-ci se poursuit.
 {.is-info}
 
+
+> **Points d'Action vs Points de Réaction**
+TODO : lien vers les Concepts :sparkles: 
+Décision : **Points d'Action == Points de Réaction**. Pas de raison de faire deux réserves différentes.
+{.is-warning}
 
 <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **Concepts**</span>
 
@@ -506,51 +628,6 @@ Bob ->o] : Passe
 rnote right of Bob: Fin de la Passe
 ```
 
-Tant que le **Deck d'initiative** contient au moins une carte, le tour continue.
-Le **Decker** révèle les cartes les unes après les autres : les **Passes d'initative** se succèdent les unes aux autres.
-
-## Fin du Tour
-
-Le tour se **termine** lorsque le **Decker** n'a plus de Carte Action à révéler das le **Deck d'Initiative**.
-À ce moment, tous les effets qui se "déclenchent à la fin du tour" sont activés, dans l'ordre dans lequel ils ont été créées.
-
-Si le combat n'est pas terminé, on recommence un tour de combat, avec sa préparation.
-
-## Fin du combat
-
-> Fin du combat
-{.is-danger}
-
-## Réagir
-
-La **Réaction (à un événemnt)** est une **Action** qui s'effectue en dehors du flux normal de l'initiative.
-Un **Protagoniste** peut **Réagir** face à un **Événement** ; il peut consommer tout ou partie de ses **Point de Réaction** pour activer **une unique** capacité pouvant se déclencher face à l'**Événement**
-
-Exemple (inspiré de D&D) :
-- Événement: Alice se déplace dans un espace contrôlé par Bob
-- Réaction: Bob porte une "attaque d'opportunité" à Alice (version D&D )
-    - En détail : Bob possède une Capacité de type "Attaque", permettant de "Réagir face aux déplacements des adversiares dans l'espace qu'il contrôle"n qu'il active car il possède suffisement de Point de Réaction pour le faire.
-
-Un **Protagoniste** peut **Réagir** face à un **Evénement** ; il peut consommer tout ou partie de ses **Point de Réaction** pour activer **une unique** capacité pouvant se déclencher face à l'**Evenement**
-- la **réaction:** où une équipe effectue une action, hors du flot normal d'initiative (c'est une mécanisme de pile)
-  -> ça peut être le déclenchement d'une action préparée
-  -> ça peut être le déclenchement d'une réaction générique face à un événement prévu par une capacité du personnage (exemple D&D: un déplacement d'un personnage A dans une case contrôlé par un personnage B provoque une attaque d'opportunité de B vers A)
-
-> **Points d'Action vs Points de Réaction**
-TODO : lien vers les Concepts :sparkles: 
-Décision : **Points d'Action == Points de Réaction**. Pas de raison de faire deux réserves différentes.
-{.is-warning}
-
-> **Préparer son action**
-Impossible.
-La possibilité d'utiliser une Capacité "en réaction à un événement" est propre à chaque Capacité.
-
-## Surprise
-
-> modulo la surprise, qui fait partie du combat, mais pour laquelle l'initiative n'est parfois pas encore lancée
-
-
-
 # Meta
 ## Action
 
@@ -581,5 +658,4 @@ Le coût d'une **Action** s'exprime en "**Point d'Action**" (Carte Action, Initi
 Un **[Personnage](https://trello.com/c/j5txrEnh)** ne peut effectuer de **Réaction**, que s'il possède une **[Capacité Active](https://trello.com/c/seeagtHL)**, permettant de répondre à l'**Événement spécifique**
 
 Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réaction, Initiative) : **`R°`**.
-
 
