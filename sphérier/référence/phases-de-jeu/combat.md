@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T12:16:07.578Z
+date: 2020-04-25T12:19:01.305Z
 tags: 
 ---
 
@@ -32,7 +32,7 @@ Lorsqu'on parle de groupes, il s'agit de [Faction].
 
 ### Tour de combat et initiative
 
-Le combat se découpe en Tours de combat. Au début de chaque tour, tous les [Acteurs] mettent en commun leurs Cartes d'Action pour constituer le [Deck d'initiative]. Le tour se déroule ensuite de la manière suivante : 
+Le combat se découpe en **Tours de combat**. Au début de chaque tour, tous les [Acteurs] mettent en commun leurs Cartes d'Action pour constituer le [Deck d'initiative]. Le tour se déroule ensuite de la manière suivante : 
 
 1. **Piocher** : la première carte du [Deck d'Initiative] est révélée, son [Acteur] peut [Agir]. Il est alors appelé **Acteur princial**.
 2. **Agir** : **Acteur princial** peut Agir.
@@ -61,6 +61,7 @@ Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. C
 <a id="glossaire"></a>
 ### Glossaire
 
+[Glossaire]: #glossaire
 
 <a id="deck-initiative"></a>
 > **Deck d'Initiative**
@@ -111,6 +112,17 @@ Un **Protagoniste** désigne n'importe quel personnage, joueur ou non-joueur, in
 <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span>
 # :sparkles: Concepts
 ### Questions spécifiques
+
+> Questions (à mettre dans les Concepts):
+> - Si un `protagoniste` passe au cours d'une passe d'action, est-ce qu'il peut rejouer plus tard dans la même passe d'initiative ?
+>    - **Pro:** risque pris récompensé, possibilité de rattraper une situation qui dégénère. Empêcher de rejouer fera tourner le combat en tentative de bloquer les réponses adverses. De plus le nombre de réponse serait une ressource directement indexée le la quantité de protagonistes dans chaque camp. 
+>    - **Cons:** peut ralentir la passe d'init, ralenti la détermination du `protagonistes` possédant l'initiative. 
+>    - **Décision:** oui, s'il passe dans une passe d'initiative, un protagoniste peut répondre plus tard dans la même passe. 
+
+> :warning: Si un **Protagoniste** passe, dans une **Passe d'initiative**, il pourra toujours jouer plus tard, dans la même Passe, si celle-ci se poursuit.
+{.is-info}
+
+
 <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **Concepts**</span>
 
 
@@ -378,16 +390,8 @@ Bob ->o] : Passe
 rnote right of Bob: Fin de la Passe
 ```
 
-> Questions (à mettre dans les Concepts):
-> - Si un `protagoniste` passe au cours d'une passe d'action, est-ce qu'il peut rejouer plus tard dans la même passe d'initiative ?
->    - **Pro:** risque pris récompensé, possibilité de rattraper une situation qui dégénère. Empêcher de rejouer fera tourner le combat en tentative de bloquer les réponses adverses. De plus le nombre de réponse serait une ressource directement indexée le la quantité de protagonistes dans chaque camp. 
->    - **Cons:** peut ralentir la passe d'init, ralenti la détermination du `protagonistes` possédant l'initiative. 
->    - **Décision:** oui, s'il passe dans une passe d'initiative, un protagoniste peut répondre plus tard dans la même passe. 
-
-> :warning: Si un **Protagoniste** passe, dans une **Passe d'initaitive**, il pourra toujours jouer plus tard, dans la même Passe, si celle-ci se poursuit.
-{.is-info}
-
-Tant que le **Deck d'initiative** contient au moins une carte, le tour continue. Le **Decker** révèle les cartes les unes après les autres : les **Passes d'initative** se succèdent les unes aux autres.
+Tant que le **Deck d'initiative** contient au moins une carte, le tour continue.
+Le **Decker** révèle les cartes les unes après les autres : les **Passes d'initative** se succèdent les unes aux autres.
 
 ## Fin du Tour
 
