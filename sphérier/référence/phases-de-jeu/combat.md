@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T13:44:08.341Z
+date: 2020-04-25T13:50:19.444Z
 tags: 
 ---
 
@@ -52,7 +52,91 @@ Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. C
 ### Marque
 <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **Guide pratique**</span>
 # :book: Référence
-## Détails
+
+<a id="effet"></a>
+## Effet
+[Effet]: #effet
+[Effets]: #effet
+
+Un [Effet] représente quelque chose qui mofifie l'état du jeu.
+
+Exemples d'effets :
+
+- <Compétence>
+   [Compétence]
+- Valeurs : fixe ou lancer. 
+    Ex: Marqueur (Cumul, [Pistolet], Attaque)
+- Application :
+    +/-1 A° (Accélération,  Étourdissement, Paralysie) 
+    +/-1 R°
+    +/-1 Attaque (Rage, Nova, Affaiblir) 
+    +/-1 Dégât
+
+### Durée de l'Effet
+Une Effet peut être instantané ou persistant.
+
+Un Effet instanténé applique ses modifications, et disparaît du jeu. Les modifications restent.
+Un Effet persistant applique ses modifications, et reste en jeu. Quand il disparaît, les modifications qu'il entraîne, disparaissent avec lui. La durée d'un Effet persistant n'engage que lui, elle peut être éphémère (durée du comabt), durable ( une journée), permanente, ou encore spécifique (ex: "<Compétences> minutes")
+
+### Types d'Effets
+
+#### Cumul
+
+Les Effets de Cumul se cumulent entre eux : on additionne tous leurs Effets pour en déterminer un Effet résultant.
+Quel que soit leur nombre, ils sont tous effectifs en même temps.
+
+### Puissance
+
+Les Effets de Puissance ne se cumulent pas entre eux, seul le plus puissant est pris en compte.
+Les Effets de Puissance ne se cumulent pas avec les Effets Cumulés. En cas de conflit, l'Effet résultant du Cumul est comparé avec l'Effet de Puissance pourt déterminer quel effet est effetif.
+
+## Marque
+
+Une Marque représente un Effet se déclenchant automatiquement face à un Evenement Spécifique. 
+Une Marque peut permettre de représenter des Effets à différer dans la temporalité du jeu.
+
+Une Marque porte les données suivantes :
+
+- Nom
+- Cible
+- Déclencheurs
+- Effets
+
+> Variantes :
+> - L'Effet produit par une Marque peut dépendre du nombre de Marque de même nom
+> - Une Marque peut avoir un nombre minimal de Marques à dépenser pour déclencher l'Effet.
+> - Une Marque peut avoir un nombre maximal de Marques à consommer pour un même déclenchement. 
+
+### Déclencheurs et Evénements Spécifiques
+
+Un **Déclencheur** décrit un contexte, ou un événement qui permet/force le possesseur du marqueur à le consommer.
+
+Exemples d'événements Spécifiques 
+
+- La Cible de la Marque utilise une Capacité d'Attaque
+- Les Points de vie de la Cible descendent sous un certain seuil.
+- La Cible de la Marque est touchée par une Capacité activée par un Rôle "Epéiste"
+
+## Rôle
+
+Dans le Sphérier, les personnages n'ont pas de classe. En revanche, s'ils en ont la **Capacités**, ils peuvent endosser un **Rôle** répondant à leurs besoins. Certaines Capacités ne s'activent que si le personnage à endossé le Rôle adéquat, de même que certains Declencheurs dans les combos de Formation de Combat. 
+
+**Changer de Rôle** au cours du combat est possible, mais demande du temps et de la concentration (PA + éventuellement un équivalent à "Incanter"). 
+
+Certaines Capacités permettent de simuler un Rôle différents du Rôle endossé par le personnage. 
+
+Exemples de rôle :
+- Formation "Classique" : Tank, Healer, Damager, Support
+- Formation "ToG": Pêcheur, Lancier, Veilleur, Éclaireur, Contrôleur de Mana
+Elizeur
+
+## Postures
+
+Techniquement, la Posture et le Rôle fonctionnent de la même manière, et cohabitent : un personnage peut en même temps, endosser un Rôle et adopter une Posture. 
+Quelques différences:
+- on peut commence le combat adversaire un Rôle, mais pas avec une Posture
+- il est plus facile de prendre ou de changer de Posture que de Rôle
+- prendre ou maintenir une Posture peut demander des Ressources
 
 <a id="glossaire"></a>
 ## Glossaire
@@ -124,6 +208,16 @@ Un **Protagoniste** désigne n'importe quel personnage, joueur ou non-joueur, in
 ### Ressources
 [Ressource]: #ressources
 Terme méta désigantun élément de jeu qu'il est possible de consommer dans le combat.
+
+Les ressources utilisables en combat :
+- Point de vie: PV (et dérivés : Lucidité, Bouclier, PV temporaires, etc.) 
+- Point d'Action: PA
+Nécessaires pour activer des capacités et faire des actions.
+- Point de Réaction : PR
+A fusionner avec les PA
+- Autres ressources, spécifiques à chaque build
+Ça peut être des ressources nécessaires (munitions ou mana) ou des ressources pour altérer des capacités existantes (Actions héroïque)
+
 
 <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span>
 # :sparkles: Concepts
@@ -455,16 +549,7 @@ La possibilité d'utiliser une Capacité "en réaction à un événement" est pr
 
 > modulo la surprise, qui fait partie du combat, mais pour laquelle l'initiative n'est parfois pas encore lancée
 
-## Ressources
 
-Les ressources utilisables en combat :
-- Point de vie: PV (et dérivés : Lucidité, Bouclier, PV temporaires, etc.) 
-- Point d'Action: PA
-Nécessaires pour activer des capacités et faire des actions.
-- Point de Réaction : PR
-A fusionner avec les PA
-- Autres ressources, spécifiques à chaque build
-Ça peut être des ressources nécessaires (munitions ou mana) ou des ressources pour altérer des capacités existantes (Actions héroïque)
 
 # Meta
 ## Action
@@ -497,89 +582,4 @@ Un **[Personnage](https://trello.com/c/j5txrEnh)** ne peut effectuer de **Réact
 
 Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réaction, Initiative) : **`R°`**.
 
-<a id="effet"></a>
-## Effet
-
-[Effet]: #effet
-
-Un [Effet] représente quelque chose qui mofifie l'état du jeu.
-
-Exemples d'effets :
-
-- <Compétence>
-   [Compétence]
-- Valeurs : fixe ou lancer. 
-    Ex: Marqueur (Cumul, [Pistolet], Attaque)
-- Application :
-    +/-1 A° (Accélération,  Étourdissement, Paralysie) 
-    +/-1 R°
-    +/-1 Attaque (Rage, Nova, Affaiblir) 
-    +/-1 Dégât
-
-### Durée de l'Effet
-Une Effet peut être instantané ou persistant.
-
-Un Effet instanténé applique ses modifications, et disparaît du jeu. Les modifications restent.
-Un Effet persistant applique ses modifications, et reste en jeu. Quand il disparaît, les modifications qu'il entraîne, disparaissent avec lui. La durée d'un Effet persistant n'engage que lui, elle peut être éphémère (durée du comabt), durable ( une journée), permanente, ou encore spécifique (ex: "<Compétences> minutes")
-
-
-### Types d'Effets
-
-#### Cumul
-
-Les Effets de Cumul se cumulent entre eux : on additionne tous leurs Effets pour en déterminer un Effet résultant.
-Quel que soit leur nombre, ils sont tous effectifs en même temps.
-
-### Puissance
-
-Les Effets de Puissance ne se cumulent pas entre eux, seul le plus puissant est pris en compte.
-Les Effets de Puissance ne se cumulent pas avec les Effets Cumulés. En cas de conflit, l'Effet résultant du Cumul est comparé avec l'Effet de Puissance pourt déterminer quel effet est effetif.
-
-## Marque
-
-Une Marque représente un Effet se déclenchant automatiquement face à un Evenement Spécifique. 
-Une Marque peut permettre de représenter des Effets à différer dans la temporalité du jeu.
-
-Une Marque porte les données suivantes :
-
-- Nom
-- Cible
-- Déclencheurs
-- Effets
-
-> Variantes :
-> - L'Effet produit par une Marque peut dépendre du nombre de Marque de même nom
-> - Une Marque peut avoir un nombre minimal de Marques à dépenser pour déclencher l'Effet.
-> - Une Marque peut avoir un nombre maximal de Marques à consommer pour un même déclenchement. 
-
-### Déclencheurs et Evénements Spécifiques
-
-Un **Déclencheur** décrit un contexte, ou un événement qui permet/force le possesseur du marqueur à le consommer.
-
-Exemples d'événements Spécifiques 
-
-- La Cible de la Marque utilise une Capacité d'Attaque
-- Les Points de vie de la Cible descendent sous un certain seuil.
-- La Cible de la Marque est touchée par une Capacité activée par un Rôle "Epéiste"
-
-## Rôle
-
-Dans le Sphérier, les personnages n'ont pas de classe. En revanche, s'ils en ont la **Capacités**, ils peuvent endosser un **Rôle** répondant à leurs besoins. Certaines Capacités ne s'activent que si le personnage à endossé le Rôle adéquat, de même que certains Declencheurs dans les combos de Formation de Combat. 
-
-**Changer de Rôle** au cours du combat est possible, mais demande du temps et de la concentration (PA + éventuellement un équivalent à "Incanter"). 
-
-Certaines Capacités permettent de simuler un Rôle différents du Rôle endossé par le personnage. 
-
-Exemples de rôle :
-- Formation "Classique" : Tank, Healer, Damager, Support
-- Formation "ToG": Pêcheur, Lancier, Veilleur, Éclaireur, Contrôleur de Mana
-Elizeur
-
-## Postures
-
-Techniquement, la Posture et le Rôle fonctionnent de la même manière, et cohabitent : un personnage peut en même temps, endosser un Rôle et adopter une Posture. 
-Quelques différences:
-- on peut commence le combat adversaire un Rôle, mais pas avec une Posture
-- il est plus facile de prendre ou de changer de Posture que de Rôle
-- prendre ou maintenir une Posture peut demander des Ressources
 
