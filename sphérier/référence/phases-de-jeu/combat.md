@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T13:28:48.174Z
+date: 2020-04-25T13:33:04.757Z
 tags: 
 ---
 
@@ -26,7 +26,7 @@ Chacun fait le compte de ses abatis  et de Ressources de Combat : PV, Carte Acti
 ### Acteurs
 [Acteur]: #acteurs
 [Acteurs]: #acteurs
-[Acteur princial]: #acteurs
+[Acteur principal]: #acteurs
 
 Les [Acteurs] correspondent aux individus ou aux groupes, pouvant intervenir au cours d'un combat.
 Pour un individu, personnage ou monstre, on parlera de [Protagoniste], pour un groupe, il s'agira d'une [Faction].
@@ -35,7 +35,7 @@ Pour un individu, personnage ou monstre, on parlera de [Protagoniste], pour un g
 
 Le combat se découpe en **Tours de combat**. Au début de chaque tour, tous les [Acteurs] mettent en commun leurs Cartes d'Action pour constituer le [Deck d'initiative]. Le tour se déroule ensuite de la manière suivante : 
 
-1. **Piocher** : la première carte du [Deck d'Initiative] est révélée. Son [Acteur], alors appelé **[Acteur princial]**, ajoute les Points d'Action correspondant à sa réserve.
+1. **Piocher** : la première carte du [Deck d'Initiative] est révélée. Son [Acteur], alors appelé **[Acteur principal]**, ajoute les [Points d'Action] correspondant à sa réserve.
 2. **Agir** : **Acteur princial** peut Agir.
 3. **Répondre** : une Faction adverse peut Agir
 4. Recommencer à l'étape [Pioche], tant qu'il reste une carte dans le [Deck d'initiative].
@@ -45,8 +45,10 @@ Le [Deck d'initiative] est remélangé, et c'est le début d'un nouveau tour.
 
 ### Agir et Réagir
 
-A chaque tirage (voir aussi [Pioche], l'Acteur de la Carte d'Action, alors appelé Acteur princial, peut [Agir] : il a le choix entre [Jouer] ou [Passer].
-Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. Celle-ci désigne un [Protagoniste] pouvant [Agir]. Ce dernier dispose des mêmes choix que l'Acteur principal : [Jouer] ou [Passer]
+Un Acteur peut [Agir] : il a le choix entre [Jouer] ou [Passer].
+Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. Celle-ci désigne un [Protagoniste] pouvant [Agir]. Ce dernier dispose des mêmes choix : [Jouer] ou [Passer]
+
+
 
 
 > <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **Tutoriel**</span>
@@ -227,8 +229,8 @@ Les adversaires du **Protagoniste** venant de jouer, désignent parmi eux, un **
 Ce dernier peut alors **jouer** ou **passer**, comme décrit ci-dessus.
 
 > 🧪 **À TESTER** :test:
-Option #1: Si celui qui pioche passe, droit de réponse aux opposants. 
-Option #2: Si celui qui pioche passe, fin de la séquence.
+Option #1: Si l'[Acteur principal] passe, droit de réponse aux opposants. 
+Option #2: Si l'[Acteur principal] passe, fin de la séquence.
 {.is-success}
 
 > Dans le cas où il y à plus de deux **Factions**, c'est au Narrateur/MJ de décider quelle **Faction** peut **Agir**.
