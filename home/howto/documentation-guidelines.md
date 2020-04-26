@@ -2,7 +2,7 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-25T08:51:22.464Z
+date: 2020-04-26T13:37:57.950Z
 tags: howto, documentation
 ---
 
@@ -141,6 +141,24 @@ Technical reference material, for classes, methods, APIs, commands.
 > - Blog de [Divio](http://divio.com/blog/documentation/) 
 
 # Outils
+
+    <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span>
+    <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span>
+    <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span>
+    <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
+    [Tutoriels]: #
+    [Guide pratique]: #
+    [Référence]: #
+    [Concepts]: #
+
+<span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span>
+<span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span>
+<span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span>
+<span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
+[Tutoriels]: #
+[Guide pratique]: #
+[Référence]: #
+[Concepts]: #
 
 ### :baby_bottle: Tutoriels
 <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **Tutoriels**</span>
