@@ -2,7 +2,7 @@
 title: Guidelines de documentation
 description: Conseils de rédaction d'une documentation pertinente
 published: true
-date: 2020-04-26T13:37:57.950Z
+date: 2020-04-26T13:38:29.539Z
 tags: howto, documentation
 ---
 
@@ -151,10 +151,11 @@ Technical reference material, for classes, methods, APIs, commands.
     [Référence]: #
     [Concepts]: #
 
-<span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span>
-<span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span>
-<span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span>
-<span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
+<span style="background:#cceeee;padding:5px;border-radius:5px;">:baby_bottle: **[Tutoriels]**</span>
+<span style="background:#aaddaa;padding:5px;border-radius:5px;">:gear: **[Guide pratique]**</span>
+<span style="background:#ccccee;padding:5px;border-radius:5px;">:book: **[Référence]**</span>
+<span style="background:#eeccee;padding:5px;border-radius:5px;">:sparkles: **[Concepts]**</span>
+
 [Tutoriels]: #
 [Guide pratique]: #
 [Référence]: #
