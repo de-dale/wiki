@@ -2,7 +2,7 @@
 title: Combattre
 description: Premiers pas dans le combat
 published: true
-date: 2020-04-26T13:24:31.444Z
+date: 2020-04-26T13:33:54.669Z
 tags: combat, premiers pas
 ---
 
@@ -77,17 +77,17 @@ Question/Réponses sur les choix de conception du combat.
 [Combat.concepts]: /sphérier/concepts/meta-combat
 
 <!-- Liens de référence -->
-[Acteur]: [Combat.reference]#acteur
-[Acteurs]: [Combat.reference]#acteur
-[Acteur principal]: [Combat.reference]#acteur
-[Protagoniste]: #
-[Protagonistes]: #
-[Points d'Action]: #
+[Acteur]: #
+[Acteur principal]: #
+[Acteurs]: #
+[Agir]: #
 [Deck d'Initiative]: #
-[Pioche]: #
-[Piocher]: #
-[Jouer]: #
-[Passer]: #
 [Faction]: #
 [Factions]: #
-[Agir]: #
+[Jouer]: #
+[Passer]: #
+[Pioche]: #
+[Piocher]: #
+[Points d'Action]: #
+[Protagoniste]: #
+[Protagonistes]: #
