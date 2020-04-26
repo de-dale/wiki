@@ -2,7 +2,7 @@
 title: Combattre
 description: Premiers pas dans le combat
 published: true
-date: 2020-04-26T13:34:22.641Z
+date: 2020-04-26T13:41:34.445Z
 tags: combat, premiers pas
 ---
 
@@ -66,12 +66,18 @@ La documentaiton complète
 
 <div class="col-4">
 
-<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#eeccee;padding:10px;border-radius:10px;">**:sparkles: [Concepts][Combat.concepts]**</span>
+
 Question/Réponses sur les choix de conception du combat.
 </div>
 </div>
   
+---
+<span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span> <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span> <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span> <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
 
+[Tutoriels]: /sphérier/premiers-pas/combat
+[Guide pratique]: /sphérier/guides/combat
+[Référence]:  /sphérier/référence/phases-de-jeu/combat
+[Concepts]: /sphérier/concepts/meta-combat
 
 [Combat.howto]: /sphérier/guides/combat
 [Combat.reference]: /sphérier/référence/phases-de-jeu/combat
