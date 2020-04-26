@@ -2,7 +2,7 @@
 title: Combattre
 description: Premiers pas dans le combat
 published: true
-date: 2020-04-26T13:33:54.669Z
+date: 2020-04-26T13:34:22.641Z
 tags: combat, premiers pas
 ---
 
@@ -47,6 +47,7 @@ Un Acteur peut [Agir] : il a le choix entre [Jouer] ou [Passer].
 Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. Celle-ci désigne un [Protagoniste] pouvant [Agir]. Ce dernier dispose des mêmes choix : [Jouer] ou [Passer]
 
 > <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **Tutoriel**</span>
+Manque des choses
 
 # Aller plus loin
 
