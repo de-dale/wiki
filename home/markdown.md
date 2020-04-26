@@ -2,7 +2,7 @@
 title: Markdown
 description: Guide de survie avec le markdown
 published: true
-date: 2020-04-24T16:13:42.354Z
+date: 2020-04-26T13:17:07.050Z
 tags: 
 ---
 
@@ -447,3 +447,45 @@ Ou, en pur Markdown, mais en perdant la taille et la bordure de l'image :
 > RED-TEXT
 > TEXT-DARKEN-4
 {.grey .lighten-3 .red--text .text--darken-4}
+
+## Grille de présentation
+
+<div class="container">
+
+<!--DEBUT DE LA "LIGNE"-->
+<div class="row">
+<div class="col-6">
+  
+<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;">**🍼 [Premier lien](#)** </span>
+Texte.
+  
+</div>
+<div class="col-6">
+  
+<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;">**⚒ [Second lien](#)**</span>
+Etc.
+</div>
+</div>
+<!--FIN DE LA "LIGNE"-->
+
+<!--DEBUT DE LA "LIGNE"-->
+<div class="row">
+<div class="col-4">
+
+<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;">**✨ [Mix](#)**</span>
+On peut mixer des lignes de deux éléments et des lignes de trois éléments ou plus, jusqu'à 12.
+</div>
+<div class="col-4">
+  
+<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;">**📖 [Suite](#)**</span>
+Bla bla
+</div>
+
+<div class="col-4">
+
+<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;">**:+1: [A toi de jouer](#)**</span>
+Fin.
+</div>
+  
+</div>
+</div>
