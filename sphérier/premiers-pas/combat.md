@@ -2,7 +2,7 @@
 title: Combattre
 description: Premiers pas dans le combat
 published: true
-date: 2020-04-26T13:43:51.633Z
+date: 2020-04-26T13:48:23.608Z
 tags: combat, premiers pas
 ---
 
@@ -43,12 +43,12 @@ Le [Deck d'initiative] est remélangé, et c'est le début d'un nouveau tour.
 
 ### Agir et Réagir
 
+<span style="background:#cceeee;padding:5px;border-radius:10px;display:inline-block;margin-bottom:0.2em">:baby_bottle: **Tutoriel**</span>
+A compléter 
+
+
 Un Acteur peut [Agir] : il a le choix entre [Jouer] ou [Passer].
 Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. Celle-ci désigne un [Protagoniste] pouvant [Agir]. Ce dernier dispose des mêmes choix : [Jouer] ou [Passer]
-
-> <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **Tutoriel**</span>
-Manque des choses
-
   
 > ---
 > **Le Combat**
