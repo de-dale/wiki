@@ -2,7 +2,7 @@
 title: ✨ Concepts
 description: Espace de discussion et de création autours des concepts liées à la création du sphérier.
 published: true
-date: 2020-04-24T16:20:27.447Z
+date: 2020-04-26T09:16:03.123Z
 tags: 
 ---
 
@@ -21,6 +21,7 @@ tags:
 # Généralités 
 
 [Généralités sur le JdR](jdr) 
+Narrateur/MJ
 
 # Le Combat
 
