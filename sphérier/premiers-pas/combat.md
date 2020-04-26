@@ -2,7 +2,7 @@
 title: Combattre
 description: Premiers pas dans le combat
 published: true
-date: 2020-04-26T13:41:34.445Z
+date: 2020-04-26T13:43:51.633Z
 tags: combat, premiers pas
 ---
 
@@ -49,34 +49,16 @@ Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. C
 > <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **Tutoriel**</span>
 Manque des choses
 
-# Aller plus loin
-
-<div class="container">
-<div class="row">
-<div class="col-4">
-
-<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#aaddaa;padding:10px;border-radius:10px;">:gear: **[Guide pratique][Combat.howto]**</span>
-Tout ce qu'il faut savoir sur le combat.
-</div>
-<div class="col-4">
   
-<span style="font-size:1.5em;background:#ccccee;padding:10px;border-radius:10px;display:inline-block;margin-bottom:1em;">**📖 [Documentation de référence][Combat.reference]**</span>
-La documentaiton complète
-</div>
-
-<div class="col-4">
-
-
-Question/Réponses sur les choix de conception du combat.
-</div>
-</div>
-  
----
-<span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span> <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span> <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span> <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
+> ---
+> **Le Combat**
+>
+> <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span> <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span> <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span> <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
+>
 
 [Tutoriels]: /sphérier/premiers-pas/combat
 [Guide pratique]: /sphérier/guides/combat
-[Référence]:  /sphérier/référence/phases-de-jeu/combat
+[Référence]: /sphérier/référence/phases-de-jeu/combat
 [Concepts]: /sphérier/concepts/meta-combat
 
 [Combat.howto]: /sphérier/guides/combat
