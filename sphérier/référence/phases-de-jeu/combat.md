@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-26T13:48:42.240Z
+date: 2020-04-26T13:49:24.541Z
 tags: 
 ---
 
@@ -664,3 +664,8 @@ Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réact
 >
 > <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span> <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span> <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span> <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
 >
+
+[Tutoriels]: /sphérier/premiers-pas/combat
+[Guide pratique]: /sphérier/guides/combat
+[Référence]: /sphérier/référence/phases-de-jeu/combat
+[Concepts]: /sphérier/concepts/meta-combat
