@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-25T13:54:48.020Z
+date: 2020-04-26T13:48:42.240Z
 tags: 
 ---
 
@@ -659,3 +659,8 @@ Un **[Personnage](https://trello.com/c/j5txrEnh)** ne peut effectuer de **Réact
 
 Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réaction, Initiative) : **`R°`**.
 
+> ---
+> **Le Combat**
+>
+> <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span> <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span> <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span> <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
+>
