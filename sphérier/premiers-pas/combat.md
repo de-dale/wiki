@@ -2,7 +2,7 @@
 title: Combattre
 description: Premiers pas dans le combat
 published: true
-date: 2020-04-26T13:21:31.888Z
+date: 2020-04-26T13:23:07.054Z
 tags: combat, premiers pas
 ---
 
@@ -54,18 +54,18 @@ Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. C
 <div class="row">
 <div class="col-4">
 
-<span style="display:inline-block;margin-bottom:1em;background:#aaddaa;padding:5px;border-radius:10px;">:gear: **Guide pratique**</span>
+<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#aaddaa;padding:10px;border-radius:10px;">:gear: **Guide pratique**</span>
 Tout ce qu'il faut savoir sur le combat.
 </div>
 <div class="col-4">
   
-<span style="background:#ccccee;padding:5px;border-radius:10px;display:inline-block;margin-bottom:1em;">**📖 [Documentation de référence][Combat.reference]**</span>
+<span style="font-size:1.5em;background:#ccccee;padding:10px;border-radius:10px;display:inline-block;margin-bottom:1em;">**📖 [Documentation de référence][Combat.reference]**</span>
 La documentaiton complète
 </div>
 
 <div class="col-4">
 
-<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#eeccee;padding:5px;border-radius:10px;">**:sparkles: [Concepts](#)**</span>
+<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#eeccee;padding:10px;border-radius:10px;">**:sparkles: [Concepts](#)**</span>
 Question/Réponses sur les choix de conception du combat.
 </div>
 </div>
