@@ -2,7 +2,7 @@
 title: Combattre
 description: Premiers pas dans le combat
 published: true
-date: 2020-04-26T13:23:07.054Z
+date: 2020-04-26T13:24:31.444Z
 tags: combat, premiers pas
 ---
 
@@ -54,7 +54,7 @@ Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. C
 <div class="row">
 <div class="col-4">
 
-<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#aaddaa;padding:10px;border-radius:10px;">:gear: **Guide pratique**</span>
+<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#aaddaa;padding:10px;border-radius:10px;">:gear: **[Guide pratique][Combat.howto]**</span>
 Tout ce qu'il faut savoir sur le combat.
 </div>
 <div class="col-4">
@@ -65,13 +65,16 @@ La documentaiton complète
 
 <div class="col-4">
 
-<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#eeccee;padding:10px;border-radius:10px;">**:sparkles: [Concepts](#)**</span>
+<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#eeccee;padding:10px;border-radius:10px;">**:sparkles: [Concepts][Combat.concepts]**</span>
 Question/Réponses sur les choix de conception du combat.
 </div>
 </div>
   
 
+
+[Combat.howto]: /sphérier/guides/combat
 [Combat.reference]: /sphérier/référence/phases-de-jeu/combat
+[Combat.concepts]: /sphérier/concepts/meta-combat
 
 <!-- Liens de référence -->
 [Acteur]: [Combat.reference]#acteur
