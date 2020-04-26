@@ -2,8 +2,8 @@
 title: Combat
 description: 
 published: true
-date: 2020-04-26T13:49:24.541Z
-tags: 
+date: 2020-04-26T13:49:56.454Z
+tags: combat, référence
 ---
 
 > _La violence est le dernier recours de l'incompétence._
