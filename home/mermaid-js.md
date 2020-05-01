@@ -2,7 +2,7 @@
 title: Mermaid
 description: Bac à sable pour mermaid JS
 published: true
-date: 2020-05-01T13:11:25.251Z
+date: 2020-05-01T13:14:09.817Z
 tags: 
 ---
 
@@ -33,6 +33,20 @@ Exemple :
 		A --> C(Round Rect)
 		B --> D{Rhombus}
 		C --> D
+```
+
+```mermaid
+graph TD
+  (Feu) --> (Métal)
+  Métal --> (Ténèbres)
+  Ténèbres --> (Poison)
+  Poison --> (Pierre)
+  Pierre --> Feu
+  Ténèbres --> Feu
+  Feu --> Poison
+  Poison --> Métal
+  Métal --> Pierre
+  Pierre --> Ténèbres
 ```
 
 # Récupérer le diagramme sous forme d'iamage
