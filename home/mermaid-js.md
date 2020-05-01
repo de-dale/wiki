@@ -2,7 +2,7 @@
 title: Mermaid
 description: Bac à sable pour mermaid JS
 published: true
-date: 2020-05-01T13:11:13.907Z
+date: 2020-05-01T13:11:25.251Z
 tags: 
 ---
 
@@ -28,11 +28,11 @@ Exemple :
 ```
 
 ```mermaid
-graph TD
-A[Square Rect] -- Link text --> B((OH YEAH!))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+	graph TD
+		A[Square Rect] -- Link text --> B((OH YEAH!))
+		A --> C(Round Rect)
+		B --> D{Rhombus}
+		C --> D
 ```
 
 # Récupérer le diagramme sous forme d'iamage
