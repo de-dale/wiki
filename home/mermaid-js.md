@@ -2,7 +2,7 @@
 title: Mermaid
 description: Bac à sable pour mermaid JS
 published: true
-date: 2020-04-04T15:44:58.694Z
+date: 2020-05-01T13:03:33.793Z
 tags: 
 ---
 
@@ -33,7 +33,7 @@ graph LR
 
 ```mermaid
 graph TD
-A[Square Rect] -- Link text --> B((Circle))
+A[Square Rect] -- Link text --> B((OH YEAH!))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
