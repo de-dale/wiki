@@ -2,7 +2,7 @@
 title: Mermaid
 description: Bac à sable pour mermaid JS
 published: true
-date: 2020-05-01T13:03:33.793Z
+date: 2020-05-01T13:10:55.941Z
 tags: 
 ---
 
@@ -47,3 +47,9 @@ graph LR
     B-->D(fa:fa-spinner);
 </div>
 <script>mermaid.initialize({startOnLoad:true});</script>
+
+# Récupérer le diagramme sous forme d'iamage
+
+Utiliser l'éditeur en ligne : mermaid-js.github.io/mermaid-live-editor/
+Copier/coller la définition de votre diagramme dans l'éditeur.
+Cliquer sur "Download SVG" ou "Download PNG"
