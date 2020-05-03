@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: :book: Documentation de référence du combat
 published: true
-date: 2020-05-03T13:52:12.462Z
+date: 2020-05-03T14:06:01.099Z
 tags: combat, référence
 ---
 
@@ -15,15 +15,10 @@ tags: combat, référence
 
 ---
 
-# :gear: Guide pratique
-### Altération
-### Combo
-### Marque
-<span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **Guide pratique**</span>
-# :book: Le combat
+# :book: Le déroulement du combat
+<span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span>
 
 Un **Combat** suit un déroulé bien précis. Afin de simplifier la gestion de la temporalité, il se découpe en tours de jeu.
-
 <a id="initiative-préparation"></a>
 ## Préparation de l'initiative
 [Préparation de l'initiative]: #initiative-préparation
@@ -61,7 +56,7 @@ Il peut ensuite **[Agir]**.
 [Jouer]: #jouer
 [Passer]: #passer
 
-Lorsque"un [Acteur] peut [Agir] : il a le choix entre [Jouer] ou [Passer].
+Lorsqu'un [Acteur] peut [Agir] : il a le choix entre [Jouer] ou [Passer].
 <a id="jouer"></a>
 1. **Jouer**
 Il peut consommer tout ou partie de ses **[Points d'Action]**, pour activer **une unique** capacité (se déplacer, attaquer, lancer un sort, etc).
@@ -88,8 +83,7 @@ Une fois la réponse terminée, l'[Acteur principal] peut de nouveau [Agir]
 Dans le cas où il y à plus de deux **Factions**, c'est au Narrateur/MJ de décider quelle **Faction** peut **Agir**.
 Préférentiellement, il s'agira de la **Faction** agressée, mais ce n'est pas automatique.
 
-<a id="initiative-fin"></a>
-## L'Initiative prend fin
+## <a id="initiative-fin"></a> L'Initiative prend fin
 [l'initiative prend fin]: #initiative-fin
 
 Lorsque le [Decker] n'a plus de Carte Action à révéler dans le [Deck d'Initiative], alors, **[l'initiative prend fin]**.
@@ -97,12 +91,12 @@ Lorsque le [Decker] n'a plus de Carte Action à révéler dans le [Deck d'Initia
 
 Si le combat n'est pas terminé, on recommence la [Préparation de l'initiative].
 
-## Fin du combat
+## <a id="combat-fin"></a> Fin du combat
 
 > Fin du combat
 {.is-danger}
 
-## Réagir
+## <a id="réagir"></a> Réagir
 
 La **Réaction (à un événemnt)** est une **Action** qui s'effectue en dehors du flux normal de l'initiative.
 Un **Protagoniste** peut **Réagir** face à un **Événement** ; il peut consommer tout ou partie de ses **Point de Réaction** pour activer **une unique** capacité pouvant se déclencher face à l'**Événement**
@@ -121,7 +115,7 @@ Un **Protagoniste** peut **Réagir** face à un **Evénement** ; il peut consomm
 Impossible.
 La possibilité d'utiliser une Capacité "en réaction à un événement" est propre à chaque Capacité.
 
-## Surprise
+## <a id="surprise"></a>  Surprise
 
 > modulo la surprise, qui fait partie du combat, mais pour laquelle l'initiative n'est parfois pas encore lancée
 
@@ -213,6 +207,8 @@ Quelques différences:
 <a id="glossaire"></a>
 ## Glossaire
 [Glossaire]: #glossaire
+<span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span> La liste des termes utilisés dans cette documentation.
+
 
 <a id="acteur"></a>
 ### Acteur
@@ -224,6 +220,12 @@ Les [Acteurs] correspondent aux individus ou aux groupes, pouvant intervenir au 
 Pour un individu, personnage ou monstre, on parlera de [Protagoniste], pour un groupe, il s'agira d'une [Faction].
 
 L'[Acteur principal] correspond à l'[Acteur] dont la Carte d'Action a été révélée lors de la [Pioche].
+
+<a id="carte-action"></a>
+### Carte d'Action
+[Carte Action]: #carte-action
+
+Carte d'un [Acteur] lui octroyant des [Points d'Action], et éventuellement dispensant des effets.
 
 <a id="deck-initiative"></a>
 ### Deck d'Initiative
@@ -240,6 +242,8 @@ _Alt: "Pioche d'Initiative"_
 Le joueur qui révèle les cartes du **Deck d'Initiative** est appelé le **_Decker_**.
 Ce rôle peut être endossé par le Narrateur, s'il le souhaite.
 
+> Terme alternatif : Donneur
+
 <a id="faction"></a>
 ### Faction
 [Faction]: #faction
@@ -252,22 +256,24 @@ Chaque **Protagoniste** est rattaché à une unique **Faction**.
 #### Piocher
 [Pioche]: #piocher
 [Piocher]: #piocher
-> La Phase de Pioche
 
-La **Pioche** est la première étape d'une **Passe d'initiative**.
-Un joueur, que l'on appellera le **Decker**, révèle à l'assemblée, la première carte du **Deck d'initiative**.
+La **Pioche** est la première étape d'un tour de combat
+Un joueur, que l'on appellera le [Decker], révèle à l'assemblée, la première carte du [Deck d'initiative].
 
-La carte ainsi tirée apparient à un **Protagoniste**. Il applique immédiatement les effets de sa **Carte Action**, généralement un gain en **Point d'Action**, et peut ensuite **Agir** (cf. Phase d'Action ci-dessous).
+* L'[Acteur] propriétaire de la carte devient l'[Acteur principal].
+* Il applique immédiatement les effets de sa **[Carte Action]**, généralement un gain en **[Point d'Action]**
+* Il peut ensuite **[Agir]**.
 
 <a id="point-action"></a>
 ### Point d'Action
 [Point d'Action]: #point-action
+[Points d'Action]: #point-action
 [Ressource] permettant d'activer les Capacités actives.
 
 <a id="point-réaction"></a>
 ### Point de Réaction
 [Point de Réaction]: #point-réaction
-[Ressource] permettant d'activer les Capacités actives.
+[Ressource] permettant d'activer les Capacités ré-actives.
 
 <a id="protagoniste"></a>
 ### Protagoniste
@@ -290,8 +296,13 @@ A fusionner avec les PA
 - Autres ressources, spécifiques à chaque build
 Ça peut être des ressources nécessaires (munitions ou mana) ou des ressources pour altérer des capacités existantes (Actions héroïque)
 
+# :gear: Guide pratique
+### Altération
+### Combo
+### Marque
+<span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **Guide pratique**</span>
 
-<span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span>
+
 # :sparkles: Concepts
 ### Questions spécifiques
 
