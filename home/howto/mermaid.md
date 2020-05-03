@@ -2,7 +2,7 @@
 title: Mermaid
 description: Bac à sable pour mermaid JS
 published: true
-date: 2020-05-03T12:07:36.563Z
+date: 2020-05-03T12:11:07.579Z
 tags: 
 ---
 
@@ -35,8 +35,7 @@ Exemple :
 		C --> D
 ```
 
-Avec des icones ?
-
+Avec des icones issues de [Font Awesome Icons](fontawesome.com/icons)
 
 ```
     ```mermaid
