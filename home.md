@@ -2,7 +2,7 @@
 title: Accueil
 description: 
 published: true
-date: 2020-04-24T16:15:33.314Z
+date: 2020-05-03T12:02:13.704Z
 tags: 
 ---
 
@@ -52,9 +52,11 @@ Choisissez un éditeur parmi les 3 proposés. Priviliégier Le **Markdown** si v
  <a id="howto"></a>
  ## Guides pratiques
  
- Comment j'écris mon article en Markdown ? [Petit guide pour le markdown](/home/markdown)
+Comment j'écris mon article en Markdown ? [Petit guide pour le markdown](/home/howto/markdown)
+
+Comment j'utilise Mermaid pour faire des diagrammes intégrés à ma page ? [Guide pratique de mermaid](/home/howto/mermaid)
  
- Quelques conseils pour la rédaction de ma documenation : [Guide pratique de documentation](/home/howto/documentation-guidelines)
+Quelques conseils pour la rédaction de ma documenation : [Guide pratique de documentation](/home/howto/documentation-guidelines)
  
  <a id="references"></a>
  ## Références
