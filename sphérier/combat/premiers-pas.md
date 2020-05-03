@@ -2,7 +2,7 @@
 title: 🍼 Premiers Pas
 description: Premiers pas dans le combat
 published: true
-date: 2020-05-03T13:01:54.032Z
+date: 2020-05-03T13:03:05.929Z
 tags: combat, premiers pas
 ---
 
@@ -59,11 +59,8 @@ A compléter
 Un Acteur peut [Agir] : il a le choix entre [Jouer] ou [Passer].
 Une fois qu'il a fini, le Narrateur/MJ donne la main à une [Faction] adverse. Celle-ci désigne un [Protagoniste] pouvant [Agir]. Ce dernier dispose des mêmes choix : [Jouer] ou [Passer]
   
-> ---
-> **Le Combat**
->
-> <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span> <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span> <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span> <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
->
+---
+ <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span> <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span> <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span> <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
 
 [Tutoriels]: /sphérier/premiers-pas/combat
 [Guide pratique]: /sphérier/guides/combat
