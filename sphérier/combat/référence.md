@@ -1,8 +1,8 @@
 ---
-title: Combat
+title: 📖 Documentation de référence
 description: :book: Documentation de référence du combat
 published: true
-date: 2020-05-03T11:50:56.124Z
+date: 2020-05-03T11:58:19.687Z
 tags: combat, référence
 ---
 
