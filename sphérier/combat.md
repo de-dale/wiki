@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-05-03T13:05:54.760Z
+date: 2020-05-03T13:06:32.645Z
 tags: combat
 ---
 
@@ -23,12 +23,6 @@ Il est temps de se mettre sur la figure, : le combat commence.
 {.is-info}
 
 Lorsque les joueurs, ou le Narrateur/MJ, montre une velléité de porter atteinte à l'intégrité, physique ou mentale de l'autre partie, et décident qu'il est temps de réduire l'ennemi en petits bouts plus ou moins comestibles, alors, le **Combat** commence. 
-
-# Mise en place
-
-Le Narrateur/MJ pose le décor, énumère les [Acteurs] du combats, les [Factions] et les [Protagonistes]. Il détermine qui peut agir, où et comment. 
-Chacun fait le compte de ses abatis  et de Ressources de Combat : PV, Carte Action, et Autres Ressources éventuelles comme des munitions ou du mana. Tout le monde se tient prêt pour déterminer l'Initiative.
-
 
 <div class="container">
 
