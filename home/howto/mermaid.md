@@ -2,7 +2,7 @@
 title: Mermaid
 description: Bac à sable pour mermaid JS
 published: true
-date: 2020-05-03T12:32:24.119Z
+date: 2020-05-03T12:33:20.328Z
 tags: 
 ---
 
@@ -46,8 +46,6 @@ Avec des icones issues de [Font Awesome Icons](fontawesome.com/icons)
     ```
 ```
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" crossorigin="anonymous">
-
 ```mermaid
 graph LR
     A --- B
@@ -60,12 +58,6 @@ Métal ⚔️ ⚔🛡⚙️⚙
 Ténèbres 🌑
 Poison ☠️
 Pierre🔨 🛠️ ⚒⛏ :rock💎: 🪨
-
-<script>
-mermaid.flowchartConfig = {
-    width: 100%
-}
-</script>
 
 ```mermaid
 graph TD
