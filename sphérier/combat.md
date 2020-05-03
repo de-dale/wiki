@@ -2,9 +2,33 @@
 title: Combat
 description: 
 published: true
-date: 2020-05-03T13:00:58.936Z
+date: 2020-05-03T13:05:54.760Z
 tags: combat
 ---
+
+<span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span> <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span> <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span> <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
+
+[Tutoriels]: /sphérier/combat/premiers-pas
+[Guide pratique]: /sphérier/combat/guides
+[Référence]: /sphérier/combat/référence
+[Concepts]: /sphérier/combat/concepts
+---
+
+> _La violence est le dernier recours de l'incompétence._
+> <span style="text-align:right;display:block">_Salvor Hardin_</span> 
+{.is-warning}
+
+> Ça y'est!  Vous êtes entrés dans une phase de négociation musclée.
+Il est temps de se mettre sur la figure, : le combat commence.
+{.is-info}
+
+Lorsque les joueurs, ou le Narrateur/MJ, montre une velléité de porter atteinte à l'intégrité, physique ou mentale de l'autre partie, et décident qu'il est temps de réduire l'ennemi en petits bouts plus ou moins comestibles, alors, le **Combat** commence. 
+
+# Mise en place
+
+Le Narrateur/MJ pose le décor, énumère les [Acteurs] du combats, les [Factions] et les [Protagonistes]. Il détermine qui peut agir, où et comment. 
+Chacun fait le compte de ses abatis  et de Ressources de Combat : PV, Carte Action, et Autres Ressources éventuelles comme des munitions ou du mana. Tout le monde se tient prêt pour déterminer l'Initiative.
+
 
 <div class="container">
 
@@ -39,6 +63,7 @@ tags: combat
 
 </div>
 
+---
 <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span> <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span> <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span> <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
 
 [Tutoriels]: /sphérier/combat/premiers-pas
