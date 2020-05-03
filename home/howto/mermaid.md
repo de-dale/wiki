@@ -2,7 +2,7 @@
 title: Mermaid
 description: Bac à sable pour mermaid JS
 published: true
-date: 2020-05-03T12:12:03.458Z
+date: 2020-05-03T12:18:44.073Z
 tags: 
 ---
 
@@ -57,17 +57,20 @@ graph LR
 
 ```mermaid
 graph TD
-  Feu --> (Métal)
-  Métal --> (Ténèbres)
-  Ténèbres --> (Poison)
-  Poison --> (Pierre)
-  Pierre --> (Feu)
+  Feu --> Métal
+  Métal --> Ténèbres(Ténèbres)
+  Ténèbres --> Poison
+  Poison --> Pierre(Pierre)
+  Pierre --> Feu
+  
   %%Ténèbres --> Feu
   %%Feu --> Poison
   %%Poison --> Métal
   %%Métal --> Pierre
   %%Pierre --> Ténèbres
 ```
+
+  
 
 # Récupérer le diagramme sous forme d'iamage
 
