@@ -2,7 +2,7 @@
 title: Mermaid
 description: Bac à sable pour mermaid JS
 published: true
-date: 2020-05-03T12:04:40.788Z
+date: 2020-05-03T12:07:36.563Z
 tags: 
 ---
 
@@ -46,6 +46,8 @@ Avec des icones ?
       B-->D(fa:fa-spinner);
     ```
 ```
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" crossorigin="anonymous">
 
 ```mermaid
 graph LR
