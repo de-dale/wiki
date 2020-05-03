@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-05-03T13:07:13.756Z
+date: 2020-05-03T13:07:25.138Z
 tags: combat
 ---
 
@@ -28,8 +28,8 @@ Lorsque les joueurs, ou le Narrateur/MJ, montre une velléité de porter atteint
 
 <!--DEBUT DE LA "LIGNE"-->
 <div class="row">
-<div class="col-4"></div>
-<div class="col-2">
+<div class="col-3"></div>
+<div class="col-3">
 
 <span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Bien débuter un combat][Tutoriels]**</span> 
 </div>
