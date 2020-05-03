@@ -2,7 +2,7 @@
 title: Mermaid
 description: Bac à sable pour mermaid JS
 published: true
-date: 2020-05-01T13:14:09.817Z
+date: 2020-05-03T12:04:18.632Z
 tags: 
 ---
 
@@ -33,6 +33,25 @@ Exemple :
 		A --> C(Round Rect)
 		B --> D{Rhombus}
 		C --> D
+```
+
+Avec des icones ?
+
+
+```
+  ```mermaid
+	graph LR
+    A --- B
+    B-->C[fa:fa-ban forbidden]
+    B-->D(fa:fa-spinner);
+  ```
+```
+
+```mermaid
+graph LR
+    A --- B
+    B-->C[fa:fa-ban forbidden]
+    B-->D(fa:fa-spinner);
 ```
 
 ```mermaid
