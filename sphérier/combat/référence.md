@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: :book: Documentation de référence du combat
 published: true
-date: 2020-05-03T14:06:01.099Z
+date: 2020-05-03T14:08:36.932Z
 tags: combat, référence
 ---
 
@@ -96,6 +96,9 @@ Si le combat n'est pas terminé, on recommence la [Préparation de l'initiative]
 > Fin du combat
 {.is-danger}
 
+
+# :book: Autres aspects du combat
+
 ## <a id="réagir"></a> Réagir
 
 La **Réaction (à un événemnt)** est une **Action** qui s'effectue en dehors du flux normal de l'initiative.
@@ -119,8 +122,39 @@ La possibilité d'utiliser une Capacité "en réaction à un événement" est pr
 
 > modulo la surprise, qui fait partie du combat, mais pour laquelle l'initiative n'est parfois pas encore lancée
 
-<a id="effet"></a>
-## Effet
+# Détails techniques du combat
+
+## Action
+
+> **Coût:** cf. Capacité
+**Déclencheur:** décision du joueur
+**Effet:** cf. Capacité
+
+> L'**Action**, correspond à l'activation consciente d'une **Capacité**.
+
+**Action :** Le **[Personnage](https://trello.com/c/j5txrEnh)** choisit une **[Capacité Active](https://trello.com/c/seeagtHL)** et paie son **Coût**, pour en déclencher ses **Effets**.
+
+Le **[Personnage](https://trello.com/c/j5txrEnh)** peut effectuer une **Action**:
+- lors d'une **Passe d'initiative**, quand il **possède l'initiative**
+- lors d'une **Passe d'initiative**, en **Réponse** à un adversaire. 
+
+Le coût d'une **Action** s'exprime en "**Point d'Action**" (Carte Action, Initiative) : **`A°`**
+
+## Réaction
+
+> **Coût:** cf. Capacité
+> **Déclencheur:** Événement propice (cf. Capacité) et décision du joueur
+> **Effet:** cf. Capacité
+
+> Une **Réaction** est une **Action**, que l'on ne peut faire qu'en réponse à un **Événement spécifique**. 
+
+**Réaction :** Le **[Personnage](https://trello.com/c/j5txrEnh)** peut effectuer une **[Action](https://trello.com/c/MPbgE0oE)** en réponse à un **Événement spécifique**, en payant le coût de Réaction à la place du coût d'Action. 
+
+Un **[Personnage](https://trello.com/c/j5txrEnh)** ne peut effectuer de **Réaction**, que s'il possède une **[Capacité Active](https://trello.com/c/seeagtHL)**, permettant de répondre à l'**Événement spécifique**
+
+Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réaction, Initiative) : **`R°`**.
+
+## <a id="effet"></a> Effet
 [Effet]: #effet
 [Effets]: #effet
 
@@ -156,7 +190,7 @@ Quel que soit leur nombre, ils sont tous effectifs en même temps.
 Les Effets de Puissance ne se cumulent pas entre eux, seul le plus puissant est pris en compte.
 Les Effets de Puissance ne se cumulent pas avec les Effets Cumulés. En cas de conflit, l'Effet résultant du Cumul est comparé avec l'Effet de Puissance pourt déterminer quel effet est effetif.
 
-## Marque
+## <a id="marque"></a> Marque
 
 Une Marque représente un [Effet] se déclenchant automatiquement face à un Evenement Spécifique. 
 Une Marque peut permettre de représenter des Effets à différer dans la temporalité du jeu.
@@ -183,7 +217,7 @@ Exemples d'événements Spécifiques
 - Les Points de vie de la Cible descendent sous un certain seuil.
 - La Cible de la Marque est touchée par une Capacité activée par un Rôle "Epéiste"
 
-## Rôle
+## <a id="rôle"></a> Rôle
 
 Dans le Sphérier, les personnages n'ont pas de classe. En revanche, s'ils en ont la **Capacités**, ils peuvent endosser un **Rôle** répondant à leurs besoins. Certaines Capacités ne s'activent que si le personnage à endossé le Rôle adéquat, de même que certains Declencheurs dans les combos de Formation de Combat. 
 
@@ -196,7 +230,7 @@ Exemples de rôle :
 - Formation "ToG": Pêcheur, Lancier, Veilleur, Éclaireur, Contrôleur de Mana
 Elizeur
 
-## Postures
+## <a id="posture"></a> Postures
 
 Techniquement, la Posture et le Rôle fonctionnent de la même manière, et cohabitent : un personnage peut en même temps, endosser un Rôle et adopter une Posture. 
 Quelques différences:
@@ -205,10 +239,9 @@ Quelques différences:
 - prendre ou maintenir une Posture peut demander des Ressources
 
 <a id="glossaire"></a>
-## Glossaire
+# Glossaire
 [Glossaire]: #glossaire
 <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span> La liste des termes utilisés dans cette documentation.
-
 
 <a id="acteur"></a>
 ### Acteur
@@ -593,37 +626,6 @@ Alice -> Bob -- : Passe
 Bob ->o] : Passe
 rnote right of Bob: Fin de la Passe
 ```
-
-# Meta
-## Action
-
-> **Coût:** cf. Capacité
-**Déclencheur:** décision du joueur
-**Effet:** cf. Capacité
-
-> L'**Action**, correspond à l'activation consciente d'une **Capacité**.
-
-**Action :** Le **[Personnage](https://trello.com/c/j5txrEnh)** choisit une **[Capacité Active](https://trello.com/c/seeagtHL)** et paie son **Coût**, pour en déclencher ses **Effets**.
-
-Le **[Personnage](https://trello.com/c/j5txrEnh)** peut effectuer une **Action**:
-- lors d'une **Passe d'initiative**, quand il **possède l'initiative**
-- lors d'une **Passe d'initiative**, en **Réponse** à un adversaire. 
-
-Le coût d'une **Action** s'exprime en "**Point d'Action**" (Carte Action, Initiative) : **`A°`**
-
-## Réaction
-
-> **Coût:** cf. Capacité
-> **Déclencheur:** Événement propice (cf. Capacité) et décision du joueur
-> **Effet:** cf. Capacité
-
-> Une **Réaction** est une **Action**, que l'on ne peut faire qu'en réponse à un **Événement spécifique**. 
-
-**Réaction :** Le **[Personnage](https://trello.com/c/j5txrEnh)** peut effectuer une **[Action](https://trello.com/c/MPbgE0oE)** en réponse à un **Événement spécifique**, en payant le coût de Réaction à la place du coût d'Action. 
-
-Un **[Personnage](https://trello.com/c/j5txrEnh)** ne peut effectuer de **Réaction**, que s'il possède une **[Capacité Active](https://trello.com/c/seeagtHL)**, permettant de répondre à l'**Événement spécifique**
-
-Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réaction, Initiative) : **`R°`**.
 
 > ---
 > **Le Combat**
