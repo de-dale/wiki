@@ -2,7 +2,7 @@
 title: Phases de jeu
 description: 
 published: true
-date: 2020-04-16T12:44:56.529Z
+date: 2020-05-03T11:51:35.103Z
 tags: 
 ---
 
@@ -113,7 +113,7 @@ Naturellement, on va décrire un personnage sur trois axes:
 
 Ces trois axes donnent les trois Jets de sauvegarde.
 
-[Combat]: /sphérier/référence/phases-de-jeu/combat
+[Combat]: /sphérier/combat/référence
 [Combat.trello]: https://trello.com/c/uxiA3U2p
 
 [Hors-combat / Intermède]: /sphérier/référence/phases-de-jeu#intermède
