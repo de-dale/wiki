@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: :book: Documentation de référence du combat
 published: true
-date: 2020-05-03T14:08:36.932Z
+date: 2020-05-03T17:57:09.761Z
 tags: combat, référence
 ---
 
@@ -455,7 +455,7 @@ Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
 Les adversaires du **Protagoniste** venant de jouer, désignent parmi eux, un **Protagoniste**, qui peut **Agir**.
 Ce dernier peut alors **jouer** ou **passer**, comme décrit ci-dessus.
 
-> 🧪 **À TESTER** :test:
+> 🧪 **À TESTER** :test_tube:
 Option #1: Si l'[Acteur principal] passe, droit de réponse aux opposants. 
 Option #2: Si l'[Acteur principal] passe, fin de la séquence.
 {.is-success}
