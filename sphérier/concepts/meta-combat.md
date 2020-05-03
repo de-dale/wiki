@@ -2,7 +2,7 @@
 title: Méta-Combat
 description: Quelques réflexions sur la modélisation du combat
 published: true
-date: 2020-04-24T16:19:18.469Z
+date: 2020-05-03T12:53:48.690Z
 tags: combat, meta
 ---
 
