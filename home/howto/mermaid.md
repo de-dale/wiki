@@ -2,7 +2,7 @@
 title: Mermaid
 description: Bac à sable pour mermaid JS
 published: true
-date: 2020-05-03T12:33:20.328Z
+date: 2020-05-03T12:34:17.198Z
 tags: 
 ---
 
@@ -53,11 +53,13 @@ graph LR
     B-->D(fa:fa-spinner);
 ```
 
+<!--
 Feu 🔥 
 Métal ⚔️ ⚔🛡⚙️⚙
 Ténèbres 🌑
 Poison ☠️
 Pierre🔨 🛠️ ⚒⛏ :rock💎: 🪨
+-->
 
 ```mermaid
 graph TD
