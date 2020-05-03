@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-05-03T13:06:32.645Z
+date: 2020-05-03T13:07:13.756Z
 tags: combat
 ---
 
@@ -31,7 +31,7 @@ Lorsque les joueurs, ou le Narrateur/MJ, montre une velléité de porter atteint
 <div class="col-4"></div>
 <div class="col-2">
 
-<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span> 
+<span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Bien débuter un combat][Tutoriels]**</span> 
 </div>
 <div class="col-2">
 
