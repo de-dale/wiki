@@ -1,8 +1,8 @@
 ---
-title: Méta-Combat
+title: ✨ Concepts: Méta-Combat
 description: Quelques réflexions sur la modélisation du combat
 published: true
-date: 2020-05-03T13:02:22.721Z
+date: 2020-05-03T13:16:34.237Z
 tags: combat, meta
 ---
 
