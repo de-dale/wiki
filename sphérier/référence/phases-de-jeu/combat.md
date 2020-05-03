@@ -1,8 +1,8 @@
 ---
 title: Combat
-description: 
+description: :book: Documentation de référence du combat
 published: true
-date: 2020-04-26T13:49:56.454Z
+date: 2020-05-03T11:50:56.124Z
 tags: combat, référence
 ---
 
