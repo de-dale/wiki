@@ -2,7 +2,7 @@
 title: Personnages
 description: 
 published: true
-date: 2020-05-02T13:14:21.734Z
+date: 2020-05-03T11:48:39.696Z
 tags: 
 ---
 
@@ -58,12 +58,14 @@ Un personnage meurt lorsque ses points de vie atteignent le négatif équivalent
 > **Note: vies**
 > Idée de Quentin: les personnages auraient des vies comme à Mario. À zéro, ils consomment une vie mais restent hors combat. Quand Ils n'ont plus de vie, ils meurent.
 
-Etats de santés : 
+Etat de Santé / Niveaux de blessure : 
 - Indemne
 - Blessé
 - Faible
 - Très faible
 - Mourant
+
+Mot clés "Infliger une blessure : descendre d'un l'état de santé suivant"
 
 # Karma
 
