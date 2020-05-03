@@ -2,7 +2,7 @@
 title: Combat
 description: 
 published: true
-date: 2020-05-03T12:59:38.573Z
+date: 2020-05-03T13:00:14.927Z
 tags: combat
 ---
 
@@ -25,7 +25,7 @@ tags: combat
 <!--DEBUT DE LA "LIGNE"-->
 <div class="row">
 <div class="col-4"></div>
-<div class="col-23">
+<div class="col-2">
 
 <span style="font-size:1.5em;display:inline-block;margin-bottom:1em;background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
 </div>
