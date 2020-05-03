@@ -2,7 +2,7 @@
 title: 🍼 Premiers Pas
 description: Premiers pas avec le sphérier
 published: true
-date: 2020-04-26T12:58:59.672Z
+date: 2020-05-03T11:57:43.907Z
 tags: 
 ---
 
@@ -12,5 +12,7 @@ tags:
 
 # Premiers pas
 
-- [Combattre](combat)
+- [Combattre][Combat]
 {.links-list}
+
+[Combat]: /sphérier/combat/premiers-pas
