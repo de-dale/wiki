@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: :book: Documentation de référence du combat
 published: true
-date: 2020-05-03T13:05:22.981Z
+date: 2020-05-03T13:52:12.462Z
 tags: combat, référence
 ---
 
@@ -20,96 +20,82 @@ tags: combat, référence
 ### Combo
 ### Marque
 <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **Guide pratique**</span>
-# :book: Référence
+# :book: Le combat
 
-## Tour de combat :warning: A reworder
-Afin de simplifier la gestion de la temporalité, un **Combat** se découpe en tours.
-Un tour de combat se compose de 3 étapes :
+Un **Combat** suit un déroulé bien précis. Afin de simplifier la gestion de la temporalité, il se découpe en tours de jeu.
 
-1. Préparation
-2. Une ou plusieurs **Passe d'initiative**
-3. Fin du tour
+<a id="initiative-préparation"></a>
+## Préparation de l'initiative
+[Préparation de l'initiative]: #initiative-préparation
 
-<a id="préparation"></a>
-## Préparation :warning: A reworder
+L'initiative, c'est à dire l'odre dans lequel les joueurs jouent, n'edst pazs défini en avance. L'ordre est déterminié par la pioche des Cartes Actions de chaque [Acteur].
+Au début de chaque tour, tous les [Acteurs] mettent en commun leurs **Cartes d'Action** pour constituer le [Deck d'initiative].
+Le tour commence dès que ce **[Deck d'Initiative]** est constitué.
 
-Chaque **Protagoniste** dispose d'un certain nombre de **Cartes Actions**, qui lui sont propres.
-Au début du tour, ces cartes sont mises en commun, puis mélangées, pour constituer le **[Deck d'initiative]**.
+> :warning: TODO : Worder cette étape.
+{.is-warning}
 
-Le tour commence dès que le **Deck d'Initiative** est constitué.
+## Déroulement d'un tour
 
-## Passe d'initiative / :warning: A reworder
+Un tout se déroule de la manière suivante :
 
-Tant que le **Deck d'initiative** contient au moins une carte, le tour continue.
-Le **Decker** révèle les cartes les unes après les autres : les **Passes d'initative** se succèdent les unes aux autres.
+1. **Piocher**
+2. **Agir**
+3. **Répondre**
 
-
-La **Passe d'initiative** se déroule de la manière suivante :
-
-1. La **Pioche**
-2. L'**Action**
-3. La ou les **Réponse(s)**
-
-La **Passe d'initiative** est la séquence d'événements qui on lieu entre deux **Pioches**.
-Elle commence avec la première **Pioche**, et se finit avant la seconde.
+Quand le [Deck d'initiative] est vide au moment de [Piocher], c'est la fin du Tour(\*). 
+Le [Deck d'initiative] est remélangé, et c'est le début d'un nouveau tour.
 
 <a id="pioche"></a>
 ### Piocher
 [Pioche]: #piocher
 [Piocher]: #piocher
 
-> La Phase de Pioche
+La première carte du [Deck d'Initiative] est révélée par un joueur, que l'on appellera le **[Decker]**. Son possesseur est alors appelé **[Acteur principal]**. Il ajoute les [Points d'Action] correspondant à sa réserve, et applique les eventuels autres effets de la carte.
 
-La **Pioche** est la première étape d'une **Passe d'initiative**.
-Un joueur, que l'on appellera le **Decker**, révèle à l'assemblée, la première carte du **Deck d'initiative**.
-
-La carte ainsi tirée apparient à un **Protagoniste**. Il applique immédiatement les effets de sa **Carte Action**, généralement un gain en **Point d'Action**, et peut ensuite **Agir** (cf. Phase d'Action ci-dessous).
-
+Il peut ensuite **[Agir]**.
 
 <a id="agir"></a>
 ### Agir
 [Agir]: #agir
-
-> La Phase Action
-
-Lorsqu'un **Protagoniste** peut **Agir** Il a le choix entre :
-<a id="jouer"></a>
-1. **Jouer:**
-Il peut consommer tout ou partie de ses **Point d'Action**, pour activer **une unique** capacité (se déplacer, attaquer, lancer un sort, etc).
-Les phases successives de **Réponse**, lui permetteront d'activer une unique capacité, à de multiples reprises.
-<a id="passer"></a>
-2. **Passer:**
-Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
-
 [Jouer]: #jouer
 [Passer]: #passer
+
+Lorsque"un [Acteur] peut [Agir] : il a le choix entre [Jouer] ou [Passer].
+<a id="jouer"></a>
+1. **Jouer**
+Il peut consommer tout ou partie de ses **[Points d'Action]**, pour activer **une unique** capacité (se déplacer, attaquer, lancer un sort, etc).
+**Jouer** ouvre la possibilité aux adversaires de l'[Acteur principal] de [Répondre].
+<a id="passer"></a>
+2. **Passer**
+Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
+C'est alors la fin de son tour, et on enchaîne avec une nouvelle **[Pioche]**
 
 <a id="répondre"></a>
 ### Répondre
 [Répondre]: #répondre
 
-> La Phase Réponse
+Une fois que l'[Acteur Principal] a fini, le Narrateur/MJ donne la main à une [Faction] adverse. Celle-ci désigne un [Acteur], qui peut désormais [Agir]. Ce dernier dispose des mêmes choix décris ci-dessus ; **Jouer** ou **Passer**, avec les différences suivantes :
 
-Les adversaires du **Protagoniste** venant de jouer, désignent parmi eux, un **Protagoniste**, qui peut **Agir**.
-Ce dernier peut alors **jouer** ou **passer**, comme décrit ci-dessus.
+1. **Jouer**
+Il peut consommer tout ou partie de ses **[Points d'Action]**, pour activer **une unique** capacité.
+2. **Passer**
+Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
 
-> 🧪 **À TESTER** :test:
-Option #1: Si l'[Acteur principal] passe, droit de réponse aux opposants. 
-Option #2: Si l'[Acteur principal] passe, fin de la séquence.
-{.is-success}
+Une fois la réponse terminée, l'[Acteur principal] peut de nouveau [Agir]
 
-> Dans le cas où il y à plus de deux **Factions**, c'est au Narrateur/MJ de décider quelle **Faction** peut **Agir**.
+> **Remarque :**
+Dans le cas où il y à plus de deux **Factions**, c'est au Narrateur/MJ de décider quelle **Faction** peut **Agir**.
 Préférentiellement, il s'agira de la **Faction** agressée, mais ce n'est pas automatique.
-Répondre à cette réponse suivra les mêmes règles ;  le Narrateur/MJ décidera de nouveau quelle fation agira.
 
-Les phases de **Réponses** se succèdent à moins que deux **Protagonistes** passent consécutivement: La passe d'initiative prend fin.
+<a id="initiative-fin"></a>
+## L'Initiative prend fin
+[l'initiative prend fin]: #initiative-fin
 
-## Fin du Tour :warning: A reworder
+Lorsque le [Decker] n'a plus de Carte Action à révéler dans le [Deck d'Initiative], alors, **[l'initiative prend fin]**.
+À ce moment, tous les effets qui se déclenchent "_à la fin du tour_" ou "_lorsque l'initiative prend fin_", sont activés dans l'ordre dans lequel ils ont été créées.
 
-Le tour se **termine** lorsque le **Decker** n'a plus de Carte Action à révéler das le **Deck d'Initiative**.
-À ce moment, tous les effets qui se "déclenchent à la fin du tour" sont activés, dans l'ordre dans lequel ils ont été créées.
-
-Si le combat n'est pas terminé, on recommence un tour de combat, avec sa préparation.
+Si le combat n'est pas terminé, on recommence la [Préparation de l'initiative].
 
 ## Fin du combat
 
