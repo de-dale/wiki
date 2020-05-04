@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: :book: Documentation de référence du combat
 published: true
-date: 2020-05-03T17:57:09.761Z
+date: 2020-05-04T21:11:16.851Z
 tags: combat, référence
 ---
 
@@ -16,7 +16,7 @@ tags: combat, référence
 ---
 
 # :book: Le déroulement du combat
-<span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span>
+<span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span>
 
 Un **Combat** suit un déroulé bien précis. Afin de simplifier la gestion de la temporalité, il se découpe en tours de jeu.
 <a id="initiative-préparation"></a>
@@ -69,6 +69,7 @@ C'est alors la fin de son tour, et on enchaîne avec une nouvelle **[Pioche]**
 <a id="répondre"></a>
 ### Répondre
 [Répondre]: #répondre
+[Réponse]: #répondre
 
 Une fois que l'[Acteur Principal] a fini, le Narrateur/MJ donne la main à une [Faction] adverse. Celle-ci désigne un [Acteur], qui peut désormais [Agir]. Ce dernier dispose des mêmes choix décris ci-dessus ; **Jouer** ou **Passer**, avec les différences suivantes :
 
@@ -77,11 +78,34 @@ Il peut consommer tout ou partie de ses **[Points d'Action]**, pour activer **un
 2. **Passer**
 Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
 
-Une fois la réponse terminée, l'[Acteur principal] peut de nouveau [Agir]
+Une fois la réponse terminée, l'[Acteur principal] peut de nouveau [Agir].
 
 > **Remarque :**
 Dans le cas où il y à plus de deux **Factions**, c'est au Narrateur/MJ de décider quelle **Faction** peut **Agir**.
 Préférentiellement, il s'agira de la **Faction** agressée, mais ce n'est pas automatique.
+
+> :information_source: Si un [Acteur] passe, lors d'une [Réponse], il pourra toujours jouer plus tard, dans le même tour.
+{.is-info}
+
+#### Exemple par un diagramme
+
+Pour un combats en 1vs1 entre :
+- Alice, qui pioche
+- Bob
+
+```mermaid
+stateDiagram
+	state "Alice : Acteur principal" as Alice
+  state "Bob : Adversaire d'Alice" as Bob
+
+	[*] --> Alice : Alice pioche
+
+	Alice --> Bob : Alice joue
+	Bob --> Alice : Bob joue
+  Bob --> Alice : Bob passe
+  
+  Alice --> [*] : Alice passe
+```
 
 ## <a id="initiative-fin"></a> L'Initiative prend fin
 [l'initiative prend fin]: #initiative-fin
@@ -96,12 +120,11 @@ Si le combat n'est pas terminé, on recommence la [Préparation de l'initiative]
 > Fin du combat
 {.is-danger}
 
-
 # :book: Autres aspects du combat
 
 ## <a id="réagir"></a> Réagir
 
-La **Réaction (à un événemnt)** est une **Action** qui s'effectue en dehors du flux normal de l'initiative.
+La **Réaction (à un événement)** est une **Action** qui s'effectue en dehors du flux normal de l'initiative.
 Un **Protagoniste** peut **Réagir** face à un **Événement** ; il peut consommer tout ou partie de ses **Point de Réaction** pour activer **une unique** capacité pouvant se déclencher face à l'**Événement**
 
 Exemple (inspiré de D&D) :
@@ -330,13 +353,14 @@ A fusionner avec les PA
 Ça peut être des ressources nécessaires (munitions ou mana) ou des ressources pour altérer des capacités existantes (Actions héroïque)
 
 # :gear: Guide pratique
+<span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span>
+
 ### Altération
 ### Combo
 ### Marque
-<span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **Guide pratique**</span>
-
 
 # :sparkles: Concepts
+<span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
 ### Questions spécifiques
 
 > Questions (à mettre dans les Concepts):
@@ -348,292 +372,10 @@ A fusionner avec les PA
 > :warning: Si un **Protagoniste** passe, dans une **Passe d'initiative**, il pourra toujours jouer plus tard, dans la même Passe, si celle-ci se poursuit.
 {.is-info}
 
-
 > **Points d'Action vs Points de Réaction**
 TODO : lien vers les Concepts :sparkles: 
 Décision : **Points d'Action == Points de Réaction**. Pas de raison de faire deux réserves différentes.
 {.is-warning}
 
-<span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **Concepts**</span>
-
-
-=== REWORDS ===
-===============
-
-
-# Tour de combat
-Afin de simplifier la gestion de la temporalité, un **Combat** se découpe en tours.
-Un tour de combat se compose de 3 étapes :
-
-1. Préparation
-2. Une ou plusieurs **Passe d'initiative**
-3. Fin du tour
-
-<a id="préparation"></a>
-## Préparation
-
-Chaque **Protagoniste** dispose d'un certain nombre de **Cartes Actions**, qui lui sont propres.
-Au début du tour, ces cartes sont mises en commun, puis mélangées, pour constituer le **[Deck d'initiative]**.
-
-Le tour commence dès que le **Deck d'Initiative** est constitué.
-
-## Passe d'initiative
-
-<!--
-# Agir: l'Initiative
-
-## Initiative
-### Lancer de dé
-> NON
-{.is-danger}
-
-Les acteurs d'un combat lancent un jet d'initiative.
-Ils jouent ensuite leur tour de combat, dans l'ordre décroissant des initiatives.
-Au début de son tour, un acteur récupère tous ses points d'Action et de Réaction.
-
-### Deck d'actions.
-Les `Actions` des acteurs d'un combat sont représentées par des cartes nominatives. On mélange toutes les cartes et on les tire une par une. 
-
-Lorsqu'une carte est révélée, elle est rendue à son possesseur. Celui-ci acquiert "la main"/l'initiative sur le combat.
-Il peut alors dépenser sa ou ses `Actions` pour activer une `Capacité` connue. Sinon, il peut garder ses Actions pour les dépenser plus tard dans le tour.
-
-Une fois le Deck vidé, c'est la fin du tour. On récupère toutes les cartes, même celles qui n'ont pas été jouées, et on les mélange.
-
-**Actions sur plusieurs tours :** Sais pas 😑
-**Acteur ayant toutes ses cartes en main :** Sais pas 😑
-~~
--->
-
-La **Passe d'initiative** se déroule de la manière suivante :
-
-1. La **Pioche**
-2. L'**Action**
-3. La ou les **Réponse(s)**
-
-La **Passe d'initiative** est la séquence d'événements qui on lieu entre deux **Pioches**.
-Elle commence avec la première **Pioche**, et se finit avant la seconde.
-
-<a id="pioche"></a>
-### Piocher
-
-> La Phase de Pioche
-
-La **Pioche** est la première étape d'une **Passe d'initiative**.
-Un joueur, que l'on appellera le **Decker**, révèle à l'assemblée, la première carte du **Deck d'initiative**.
-
-La carte ainsi tirée apparient à un **Protagoniste**. Il applique immédiatement les effets de sa **Carte Action**, généralement un gain en **Point d'Action**, et peut ensuite **Agir** (cf. Phase d'Action ci-dessous).
-
-[Pioche]: #piocher
-[Piocher]: #piocher
-
-<a id="agir"></a>
-### Agir
-
-[Agir]: #agir
-
-> La Phase Action
-
-Lorsqu'un **Protagoniste** peut **Agir** Il a le choix entre :
-<a id="jouer"></a>
-1. **Jouer:**
-Il peut consommer tout ou partie de ses **Point d'Action**, pour activer **une unique** capacité (se déplacer, attaquer, lancer un sort, etc).
-Les phases successives de **Réponse**, lui permetteront d'activer une unique capacité, à de multiples reprises.
-<a id="passer"></a>
-2. **Passer:**
-Il ne fait rien et conserve ses **Points d'Action** pour plus tard.
-
-[Jouer]: #jouer
-[Passer]: #passer
-
-<a id="répondre"></a>
-### Répondre
-
-[Répondre]: #répondre
-
-> La Phase Réponse
-
-Les adversaires du **Protagoniste** venant de jouer, désignent parmi eux, un **Protagoniste**, qui peut **Agir**.
-Ce dernier peut alors **jouer** ou **passer**, comme décrit ci-dessus.
-
-> 🧪 **À TESTER** :test_tube:
-Option #1: Si l'[Acteur principal] passe, droit de réponse aux opposants. 
-Option #2: Si l'[Acteur principal] passe, fin de la séquence.
-{.is-success}
-
-> Dans le cas où il y à plus de deux **Factions**, c'est au Narrateur/MJ de décider quelle **Faction** peut **Agir**.
-Préférentiellement, il s'agira de la **Faction** agressée, mais ce n'est pas automatique.
-Répondre à cette réponse suivra les mêmes règles ;  le Narrateur/MJ décidera de nouveau quelle fation agira.
-
-Les phases de **Réponses** se succèdent à moins que deux **Protagonistes** passent consécutivement: La passe d'initiative prend fin.
-
-#### Exemple par un diagramme
-
-**Passes d'initiative** possible pour un combats en 1vs1.
-- Alice: Faction Rouge, pioche systématiquement
-- Bob: Faction bleue
-
-```plantuml
-actor Alice #red
-actor Bob #blue
-[-> Alice : Pioche
-
-deactivate Bob
-  
-alt Alice Passe  
-	Alice -> Bob : Passe
-else ou Alice Joue
-	activate Alice
-	rnote over Alice: Joue
-	Alice -> Bob -- : Rend la main après avoir joué
-end
-
-alt Bob Passe
-	Bob -> Alice : Passe
-else ou Bob joue
-  activate Bob
-	rnote over Bob: Joue
-	Bob -> Alice -- : Rend la main après avoir joué
-end
-
-alt si Alice est la première à passer
-	Alice -> Bob -- : Passe
-	Bob ->o] : Passe
-	rnote right of Bob: Fin de la Séquence
-else si Bob est le premier à passer
-	Bob -> Alice : Passe
-	Alice ->o] : Passe
-	rnote right of Bob: Fin de la Séquence
-end
-```
-
-#### Exemples
-
-**Passes d'initiative** possible pour un combats en 1vs1.
-- Alice: Faction Rouge, pioche systématiquement
-- Bob: Faction bleue
-
-> Les diagrammes de séquence ont été réalisés à [PlantUML](https://plantuml.com/fr/sequence-diagram) 
-
-##### Exemple : personne n'agit
-*Alice pioche, Alice passe, Bob passe, fin de la Passe.*
-
-```plantuml
-actor Alice #red
-actor Bob #blue
-[-> Alice: Pioche
-
-Alice -> Bob : Passe
-Bob ->o] : Passe
-note right of Bob : Fin de la Passe
-```
-
-#### Exemple : celui qui pioche joue, ses adversaires passent
-*Alice pioche, Alice joue, Bob passe, Alice passe, fin de la Passe*
-
-```plantuml
-actor Alice #red
-actor Bob #blue
-[-> Alice ++ : Pioche
-
-rnote left of Alice: Joue
-Alice -> Bob --
-
-Bob -> Alice : Passe
-Alice ->o] : Passe
-rnote right of Bob: Fin de la Passe
-```
-
-*Alice pioche, (Alice joue, Bob passe,)^n Alice passe, fin de la Passe.*
-
-```plantuml
-actor Alice #red
-actor Bob #blue
-[-> Alice : Pioche
-
-loop n fois
-	activate Alice
-	rnote left of Alice: Joue
-	Alice -> Bob --
-	Bob -> Alice : Passe
-end
-
-Alice ->o] : Passe
-rnote right of Bob: Fin de la Passe
-```
-
-#### Exemple : celui qui pioche passe, ses adversaires jouent
-
-*Alice pioche, (Alice passe, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
-
-```plantuml
-actor Alice #red
-actor Bob #blue
-[-> Alice: Pioche
-
-...
-Alice -> Bob ++ : Passe
-rnote right of Bob: Joue
-Bob -> Alice --
-...n fois... 
-
-Alice -> Bob : Passe
-Bob ->o] : Passe
-rnote right of Bob: Fin de la Passe
-```
-
-#### Exemple : tout le monde joue
-
-*Alice pioche, Alice joue, Bob joue, Alice passe, Bob passe, fin de la Passe.*
-
-```plantuml
-actor Alice #red
-actor Bob #blue
-[-> Alice ++ : Pioche
-
-rnote left of Alice: Joue
-Alice -> Bob --
-
-activate Bob
-rnote right of Bob: Joue
-Bob -> Alice --
-
-Alice -> Bob -- : Passe
-
-Bob ->o] : Passe
-rnote right of Bob: Fin de la Passe
-```
-
-*Alice pioche, (Alice joue, Bob joue,)^n Alice passe, Bob passe, fin de la Passe.*
-
-```plantuml
-actor Alice #red
-actor Bob #blue
-[-> Alice : Pioche
-
-== ==
-activate Alice
-rnote left of Alice: Joue
-Alice -> Bob --
-
-activate Bob
-rnote right of Bob: Joue
-Bob -> Alice --
-
-== n fois ==
-
-Alice -> Bob -- : Passe
-
-Bob ->o] : Passe
-rnote right of Bob: Fin de la Passe
-```
-
-> ---
-> **Le Combat**
->
-> <span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span> <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span> <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span> <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
->
-
-[Tutoriels]: /sphérier/premiers-pas/combat
-[Guide pratique]: /sphérier/guides/combat
-[Référence]: /sphérier/référence/phases-de-jeu/combat
-[Concepts]: /sphérier/concepts/meta-combat
+---
+<span style="background:#cceeee;padding:5px;border-radius:10px;">:baby_bottle: **[Tutoriels]**</span> <span style="background:#aaddaa;padding:5px;border-radius:10px;">:gear: **[Guide pratique]**</span> <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **[Référence]**</span> <span style="background:#eeccee;padding:5px;border-radius:10px;">:sparkles: **[Concepts]**</span>
