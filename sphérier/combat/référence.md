@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: :book: Documentation de référence du combat
 published: true
-date: 2020-05-04T21:12:04.675Z
+date: 2020-05-04T21:17:13.875Z
 tags: combat, référence
 ---
 
@@ -147,36 +147,6 @@ La possibilité d'utiliser une Capacité "en réaction à un événement" est pr
 
 # Détails techniques du combat
 
-## Action
-
-> **Coût:** cf. Capacité
-**Déclencheur:** décision du joueur
-**Effet:** cf. Capacité
-
-> L'**Action**, correspond à l'activation consciente d'une **Capacité**.
-
-**Action :** Le **[Personnage](https://trello.com/c/j5txrEnh)** choisit une **[Capacité Active](https://trello.com/c/seeagtHL)** et paie son **Coût**, pour en déclencher ses **Effets**.
-
-Le **[Personnage](https://trello.com/c/j5txrEnh)** peut effectuer une **Action**:
-- lors d'une **Passe d'initiative**, quand il **possède l'initiative**
-- lors d'une **Passe d'initiative**, en **Réponse** à un adversaire. 
-
-Le coût d'une **Action** s'exprime en "**Point d'Action**" (Carte Action, Initiative) : **`A°`**
-
-## Réaction
-
-> **Coût:** cf. Capacité
-> **Déclencheur:** Événement propice (cf. Capacité) et décision du joueur
-> **Effet:** cf. Capacité
-
-> Une **Réaction** est une **Action**, que l'on ne peut faire qu'en réponse à un **Événement spécifique**. 
-
-**Réaction :** Le **[Personnage](https://trello.com/c/j5txrEnh)** peut effectuer une **[Action](https://trello.com/c/MPbgE0oE)** en réponse à un **Événement spécifique**, en payant le coût de Réaction à la place du coût d'Action. 
-
-Un **[Personnage](https://trello.com/c/j5txrEnh)** ne peut effectuer de **Réaction**, que s'il possède une **[Capacité Active](https://trello.com/c/seeagtHL)**, permettant de répondre à l'**Événement spécifique**
-
-Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réaction, Initiative) : **`R°`**.
-
 ## <a id="effet"></a> Effet
 [Effet]: #effet
 [Effets]: #effet
@@ -208,10 +178,40 @@ Un Effet persistant applique ses modifications, et reste en jeu. Quand il dispar
 Les Effets de Cumul se cumulent entre eux : on additionne tous leurs Effets pour en déterminer un Effet résultant.
 Quel que soit leur nombre, ils sont tous effectifs en même temps.
 
-### Puissance
+#### Puissance
 
 Les Effets de Puissance ne se cumulent pas entre eux, seul le plus puissant est pris en compte.
 Les Effets de Puissance ne se cumulent pas avec les Effets Cumulés. En cas de conflit, l'Effet résultant du Cumul est comparé avec l'Effet de Puissance pourt déterminer quel effet est effetif.
+
+  ## <a id="action"></a> Action
+
+> **Coût:** cf. Capacité
+**Déclencheur:** décision du joueur
+**Effet:** cf. Capacité
+
+> L'**Action**, correspond à l'activation consciente d'une **Capacité**.
+
+**Action :** Le **[Personnage](https://trello.com/c/j5txrEnh)** choisit une **[Capacité Active](https://trello.com/c/seeagtHL)** et paie son **Coût**, pour en déclencher ses **Effets**.
+
+Le **[Personnage](https://trello.com/c/j5txrEnh)** peut effectuer une **Action**:
+- lors d'une **Passe d'initiative**, quand il **possède l'initiative**
+- lors d'une **Passe d'initiative**, en **Réponse** à un adversaire. 
+
+Le coût d'une **Action** s'exprime en "**Point d'Action**" (Carte Action, Initiative) : **`A°`**
+
+## <a id="réaction"></a> Réaction
+
+> **Coût:** cf. Capacité
+> **Déclencheur:** Événement propice (cf. Capacité) et décision du joueur
+> **Effet:** cf. Capacité
+
+> Une **Réaction** est une **Action**, que l'on ne peut faire qu'en réponse à un **Événement spécifique**. 
+
+**Réaction :** Le **[Personnage](https://trello.com/c/j5txrEnh)** peut effectuer une **[Action](https://trello.com/c/MPbgE0oE)** en réponse à un **Événement spécifique**, en payant le coût de Réaction à la place du coût d'Action. 
+
+Un **[Personnage](https://trello.com/c/j5txrEnh)** ne peut effectuer de **Réaction**, que s'il possède une **[Capacité Active](https://trello.com/c/seeagtHL)**, permettant de répondre à l'**Événement spécifique**
+
+Le coût d'une **Réaction** s'exprime en "**Point de Réaction**" (Carte Réaction, Initiative) : **`R°`**.
 
 ## <a id="marque"></a> Marque
 
@@ -261,8 +261,7 @@ Quelques différences:
 - il est plus facile de prendre ou de changer de Posture que de Rôle
 - prendre ou maintenir une Posture peut demander des Ressources
 
-<a id="glossaire"></a>
-# Glossaire
+# <a id="glossaire"></a> Glossaire
 [Glossaire]: #glossaire
 <span style="background:#ccccee;padding:5px;border-radius:10px;">:book: **Référence**</span> La liste des termes utilisés dans cette documentation.
 
