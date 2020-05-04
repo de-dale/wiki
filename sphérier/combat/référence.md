@@ -2,7 +2,7 @@
 title: 📖 Documentation de référence
 description: :book: Documentation de référence du combat
 published: true
-date: 2020-05-04T21:11:16.851Z
+date: 2020-05-04T21:12:04.675Z
 tags: combat, référence
 ---
 
@@ -190,7 +190,7 @@ Exemples d'effets :
 - Valeurs : fixe ou lancer. 
     Ex: Marqueur (Cumul, [Pistolet], Attaque)
 - Application :
-    +/-1 A° (Accélération,  Étourdissement, Paralysie) 
+    +/-1 A° (Accélération, Étourdissement, Paralysie) 
     +/-1 R°
     +/-1 Attaque (Rage, Nova, Affaiblir) 
     +/-1 Dégât
