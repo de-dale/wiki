@@ -1,0 +1,816 @@
+<!--
+title: Cartes
+description: 
+published: true
+date: 2020-05-10T14:13:15.771Z
+tags: 
+-->
+
+<style>
+  body {
+	background-color: #eeeeee;
+}
+
+.card-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.card-container>* {
+	margin: 0.08em;
+}
+
+.card-shape {
+	background-color: black;
+	border-color: black;
+	border-radius: 0.5em;
+	border-style: solid;
+	border-width: 0.08em;
+	box-sizing: border-box;
+	padding: 0.3em;
+	width: 18.4em;
+	height: 25.6em;
+	font-family: "Book Antiqua", serif;
+	font-size: large;
+}
+
+.landscape {
+	height: 18.4em;
+	width: 25.6em;
+}
+
+.card-items {
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	/*
+  background-image: url("data:image/png;base64, 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");
+  /**/
+	background-color: rgba(192, 192, 192, 1);
+	border-radius: 0.30em;
+	padding: 0.15em;
+	width: 100%;
+	height: 100%;
+}
+
+.card-items>:first-child {
+	margin-top: 0.30em;
+}
+
+.card-items>:last-child {
+	margin-bottom: 0.30em;
+}
+
+.card-item {
+	background-color: rgba(230, 230, 230, 0.9);
+	border-style: solid;
+	border-radius: 0.30em;
+	border-width: 0.15em;
+	overflow: hidden;
+	margin-top: -0.15em;
+	margin-bottom: 0;
+	margin-left: 0.30em;
+	margin-right: 0.30em;
+	padding-top: 0.15em;
+	padding-bottom: 0.15em;
+	padding-left: 0.30em;
+	padding-right: 0.30em;
+}
+
+.card-item.emphasized {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.card-item.no-padding {
+	border-style: none;
+	border-color: rgba(0, 0, 0, 0);
+	padding: 0;
+}
+
+.card-item.short {
+	min-height: 1.2em;
+	max-height: 1.2em;
+}
+
+.card-item.no-padding.short {
+	min-height: 1.8em;
+	max-height: 1.8em;
+}
+
+.card-field-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.card-field {
+	flex-grow: 1;
+	border-style: solid;
+	border-radius: 0.30em;
+	border-width: 0.15em;
+	padding-top: 0.15em;
+	padding-bottom: 0.15em;
+	padding-left: 0.30em;
+	padding-right: 0.30em;
+}
+
+.card-field+.card-field {
+	margin-left: -0.15em;
+}
+
+.card-field-header {
+    display: inline-flex;
+	font-weight: bold;
+}
+
+.card-field-value {
+    display: inline-flex;
+	font-family: "Arial", sans-serif;
+	font-variant: small-caps;
+	text-transform: lowercase;
+}
+
+.card-field-header+.card-field-value:not(.card-field-right)::before {
+	content: ": ";
+}
+
+.card-header-name {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+.card-field-right {
+	float: right;
+}
+
+.card-image {
+	/*flex-grow: 1;*/
+	background-repeat: no-repeat;
+	background-position: center;
+	min-height: 48px;
+	min-width: 48px;
+}
+
+.card-icon {
+	/*display: inline-block;
+  width: 1.25em;
+  height: 1.25em;*/
+	
+}
+
+.card-long-text {
+	flex-grow: 1;
+	text-align: justify;
+}
+</style>
+
+<style>
+  /** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+ * Colors
+ *
+ * .card.background-color = maincolor
+ * .card-item.background-color = maincolor +40% lighter, opacity 0.75
+ * .card-item.border-color = maincolor +40% lighter, opacity 1
+ */
+.white.card-shape{
+	background-color: rgba(255, 255, 255, 1);
+} 
+ .white .card-items {
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.white .card-item {
+	background-color: rgba(255, 255, 255, 0.75);
+	border-color: rgba(255, 255, 255, 1);
+}
+
+.white .card-field {
+	border-color: rgba(255, 255, 255, 1);
+}
+ 
+.green .card-items {
+	background-color: rgba(0, 128, 0, 1);
+}
+
+.green .card-item {
+	background-color: rgba(102, 230, 102, 0.75);
+	border-color: rgba(102, 230, 102, 1);
+}
+
+.green .card-field {
+	border-color: rgba(102, 230, 102, 1);
+}
+
+.green-light .card-items {
+	background-color: rgba(64, 192, 64, 1);
+	background-color: rgba(64, 128, 64, 1);
+}
+
+.green-light .card-item {
+	background-color: rgba(166, 255, 166, 0.75);
+	border-color: rgba(166, 255, 166, 1);
+}
+
+.green-light .card-field {
+	border-color: rgba(166, 255, 166, 1);
+}
+
+.green-lizard .card-items {
+	background-color: rgba(64, 128, 0, 1);
+}
+
+.green-lizard .card-item {
+	background-color: rgba(166, 230, 102, 0.75);
+	border-color: rgba(166, 230, 102, 1);
+}
+
+.green-lizard .card-field {
+	border-color: rgba(166, 230, 102, 1);
+}
+
+.blue .card-items {
+	background-color: rgba(0, 0, 128, 1);
+	/*color: rgba(230, 230, 230, 1);*/
+}
+
+.blue .card-item {
+	background-color: rgba(102, 102, 230, 0.75);
+	border-color: rgba(102, 102, 230, 1);
+}
+
+.blue .card-field {
+	border-color: rgba(102, 102, 230, 1);
+}
+
+.blue-light .card-items {
+	background-color: rgba(64, 64, 192, 1);
+}
+
+.blue-light .card-item {
+	background-color: rgba(166, 166, 255, 0.75);
+	border-color: rgba(166, 166, 255, 1);
+}
+
+.blue-light .card-field {
+	border-color: rgba(166, 166, 255, 1);
+}
+
+.red .card-items {
+	background-color: rgba(128, 0, 0, 1);
+	/*color: rgba(230, 230, 230, 1);*/
+}
+
+.red .card-item {
+	background-color: rgba(205, 102, 102, 0.75);
+	border-color: rgba(205, 102, 102, 1);
+}
+
+.red .card-field {
+	border-color: rgba(205, 102, 102, 1);
+}
+
+.red-light .card-items {
+	background-color: rgba(192, 64, 64, 1);
+}
+
+.red-light .card-item {
+	background-color: rgba(230, 192, 192, 0.75);
+	border-color: rgba(230, 192, 192, 1);
+}
+
+.red-light .card-field {
+	border-color: rgba(230, 192, 192, 1);
+}
+
+.red-gray .card-items {
+	background-color: rgba(128, 0, 0, 1);
+}
+
+.red-gray .card-item {
+	background-color: rgba(205, 166, 166, 0.75);
+	border-color: rgba(205, 166, 166, 1);
+}
+
+.red-gray .card-field {
+	border-color: rgba(205, 166, 166, 1);
+}
+
+.cyan .card-items {
+	background-color: rgba(0, 128, 128, 1);
+}
+
+.cyan .card-item {
+	background-color: rgba(166, 230, 230, 0.75);
+	border-color: rgba(166, 230, 230, 1);
+}
+
+.magenta .card-items {
+	background-color: rgba(128, 0, 128, 1);
+}
+
+.magenta .card-item {
+	background-color: rgba(205, 166, 205, 0.75);
+	border-color: rgba(205, 166, 205, 1);
+}
+
+.yellow .card-items {
+	background-color: rgba(128, 128, 0, 1);
+}
+
+.yellow .card-item {
+	background-color: rgba(230, 230, 166, 0.75);
+	border-color: rgba(230, 230, 166, 1);
+}
+
+.yellow-light .card-items {
+	/*background-color: rgba(192, 192, 0, 1);*/
+	background-color: rgba(255, 255, 77, 1);
+}
+
+.yellow-light .card-item {
+	/*background-color: rgba(255, 255, 77, 0.75);*/
+	background-color: rgba(192, 192, 0, 0.75);
+	border-color: rgba(90, 90, 0, 1);
+}
+</style>
+<div class="card-container">
+
+		<div class="card-shape">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Titre dans la couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">défaut</span>
+						</div>
+						<div class="card-field">
+							<span class="card-field-header">Gamme</span> <span
+								class="card-field-value">Gris</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur.</div>
+			</div>
+		</div>
+
+		<div class="card-shape">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Titre dans la couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">défaut</span>
+						</div>
+						<div class="card-field">
+							<span class="card-field-header">Gamme</span> <span
+								class="card-field-value">Gris</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur.</div>
+			</div>
+		</div>
+
+		<div class="card-shape">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Titre dans la couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">défaut</span>
+						</div>
+						<div class="card-field">
+							<span class="card-field-header">Gamme</span> <span
+								class="card-field-value">Gris</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur.</div>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="card-container">
+		<!--
+      - GAMME VERTS
+      -->
+
+		<div class="card-shape green">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized">
+					<span class="card-field-header">Gamme</span> <span
+						class="card-field-value">Verts</span>
+				</div>
+				<div class="card-item short no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">Vert de base</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur.</div>
+			</div>
+		</div>
+
+		<div class="card-shape green-light">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Titre dans la couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized">
+					<span class="card-field-header">Gamme</span> <span
+						class="card-field-value">Verts</span>
+				</div>
+				<div class="card-item short no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">Vert clair</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur.</div>
+			</div>
+		</div>
+
+		<div class="card-shape green-lizard">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Titre dans la couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized">
+					<span class="card-field-header">Gamme</span> <span
+						class="card-field-value">Verts</span>
+				</div>
+				<div class="card-item short no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">Vert "Lézard"</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur.</div>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="card-container">
+		<!--
+      - GAMME BlEUS
+      -->
+
+		<div class="card-shape blue">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized">
+					<span class="card-field-header">Gamme</span> <span
+						class="card-field-value">Bleus</span>
+				</div>
+				<div class="card-item short no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">Bleu de base</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur.</div>
+			</div>
+		</div>
+
+		<div class="card-shape blue-light">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Titre dans la couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized">
+					<span class="card-field-header">Gamme</span> <span
+						class="card-field-value">Bleus</span>
+				</div>
+				<div class="card-item short no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">Bleu clair</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur.</div>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="card-container">
+		<!--
+      - GAMME ROUGES
+      -->
+
+		<div class="card-shape red">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized">
+					<span class="card-field-header">Gamme</span> <span
+						class="card-field-value">Rouges</span>
+				</div>
+				<div class="card-item short no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">Rouge de base</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur.</div>
+			</div>
+		</div>
+
+		<div class="card-shape red-light">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Titre dans la couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized">
+					<span class="card-field-header">Gamme</span> <span
+						class="card-field-value">Rouges</span>
+				</div>
+				<div class="card-item short no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">Rouge clair</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur.</div>
+			</div>
+		</div>
+
+		<div class="card-shape red-gray">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Titre dans la couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized">
+					<span class="card-field-header">Gamme</span> <span
+						class="card-field-value">Rouges</span>
+				</div>
+				<div class="card-item short no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">Rouge "Gris"</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur.</div>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="card-container">
+		<!--
+      - GAMME CYANS
+      -->
+
+		<div class="card-shape cyan">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized">
+					<span class="card-field-header">Gamme</span> <span
+						class="card-field-value">Cyans</span>
+				</div>
+				<div class="card-item short no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">Cyan de base</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur.</div>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="card-container">
+		<!--
+      - GAMME MAGENTAS
+      -->
+
+		<div class="card-shape magenta">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized">
+					<span class="card-field-header">Gamme</span> <span
+						class="card-field-value">Magentas</span>
+				</div>
+				<div class="card-item short no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">Magenta de base</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur.</div>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="card-container">
+		<!--
+      - GAMME JAUNES
+      -->
+
+		<div class="card-shape yellow">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized">
+					<span class="card-field-header">Gamme</span> <span
+						class="card-field-value">Jaunes</span>
+				</div>
+				<div class="card-item short no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">Jaune de base</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur.</div>
+			</div>
+		</div>
+
+		<div class="card-shape yellow-light">
+			<div class="card">
+				<div class="card-item emphasized short">
+					<span class="card-header-name">Couleur</span>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.</div>
+				<div class="card-item emphasized">
+					<span class="card-field-header">Gamme</span> <span
+						class="card-field-value">Jaunes</span>
+				</div>
+				<div class="card-item short no-padding">
+					<div class="card-field-container">
+						<div class="card-field">
+							<span class="card-field-header">Couleur</span> <span
+								class="card-field-value">Jaune clair</span>
+						</div>
+					</div>
+				</div>
+				<div class="card-item card-long-text">Texte d'une carte de
+					test de couleur. Texte d'une carte de test de couleur. Texte d'une
+					carte de test de couleur. Texte d'une carte de test de couleur.
+					Texte d'une carte de test de couleur. Texte d'une carte de test de
+					couleur. Texte d'une carte de test de couleur. Texte d'une carte de
+					test de couleur.</div>
+			</div>
+		</div>
+
+	</div>
