@@ -2,7 +2,7 @@
 title: Phases de jeu
 description: 
 published: true
-date: 2021-04-27T19:05:36.913Z
+date: 2021-04-28T07:13:10.328Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-27T19:05:36.913Z
@@ -12,6 +12,8 @@ dateCreated: 2021-04-27T19:05:36.913Z
 
 Pour construire leur aventure, les joueurs s'immergent dans l'histoire, et prennent part à sa narration au travers d'un avatar : leur personnage.
 Celui-ci peut mener à bien toute action imaginée par les joueurs. 
+
+## Composants de l'aventure
 
 Une Aventure, pour les joueurs, est composée de trois éléments principaux :
 
@@ -25,19 +27,7 @@ Lorsque les aventuriers tentent d'accomplir quelque chose de difficile, de risqu
 Même
 C'est le texte : les différents embranchements de l'histoire sont déjà écrits par l'auteur du livre.
 
-
-Dans le jeu de rôle, les joueurs prennent entièrement part à l'histoire et à sa narration.
-Pour intervenir directement dans cet imaginaire, ils utilisent un avatar, le Personnage leur permettant de se projetter dans le jeu et d'y agir.
-Les joueurs peuvent alors décider des actions physiques ou imaginaires des personnages, des actions narratives (dialogues improvisés, descriptions, jeu) et surtout, prendre les décisions sur le développement du personnage et de son histoire
-
-Les aventuriers peuvent entreprendre toute action imaginée par les joueurs, mais il convient généralement de classer leurs activités en 3 catégories : l'exploration, les interactions sociales et le combat.
-
-
-Cet échange résume à lui seul les trois composantes du livre-jeu :
-
-
-- [Aide D&D](https://www.aidedd.org/regles/) 
-{.links-list}
+## Phases de jeu
 
 Les aventuriers peuvent entreprendre toute action imaginée par les joueurs, mais il convient généralement de classer leurs activités en 3 catégories : l'exploration, les interactions sociales et le combat.
 
