@@ -2,7 +2,7 @@
 title: Phases de jeu
 description: 
 published: true
-date: 2021-05-04T14:38:47.308Z
+date: 2021-05-04T14:40:27.122Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-27T19:05:36.913Z
@@ -63,8 +63,8 @@ Chaque phase de jeu enchainent les Scènes.
 Ou plutôt : l'aventure enchaine des Scènes qui sont rattachées à l'une ou l'autre des phases de jeu.
 
 ## Rencontre
-Il s'agit de la Scène la plus courante.
-Une Rencontre confronte les aventuriers à certains éléments de l'univers, par exemple des Personnages Non Joueurs, des pièges, des énigmes ou des obstacles à franchir.
+
+Il s'agit de la Scène la plus courante. Une Rencontre confronte les aventuriers à certains éléments de l'univers, comme par exemple des Personnages Non Joueurs, des pièges, des énigmes ou des obstacles à franchir.
 
 La Rencontre sert une finalité, et chaque camp, Aventuriers ou Narrateur, l'aborde avec un **Objectif** (voir plus loin).
 Par exemple, les personnages peuvent chercher à récupérer des renseignements d'un PNJs, ou le Narrateur cherche à donner une quête aux joueurs. 
@@ -129,5 +129,8 @@ Vaincre ne signifie pas nécessairement tuer. Il est possible de vaincre un enne
 
 > Je pense qu'une équipe qui est parée sur ces 3 axes (combat/info/déplacement), i.e. qui a plusieurs rôles/réponses possibles sur chacun d'eux ne devrait pas rencontrer de difficulté majeure au cours d'une aventure.
 
+## Objectifs pour le Narrateur
 
+Toute rencontre doit avoir un but !
+Si une rencontre ne sert pas à la narration, passez-vous en !
 
